@@ -1,8 +1,8 @@
 #%%
 import pandas as pd
-import os as os
+import os
 import re
-
+import json
 #%%
 df = pd.DataFrame()
 
@@ -74,5 +74,27 @@ for clubname in os.listdir("data"):
     mapper[clubname] = cs[a]
 
 
+
+# %%
+mapper = {'Botafogo de Futebol e Regatas': 'botafogo de futebol e regatas.svg',
+ 'Ceará Sporting Club': 'ceará sporting club.svg',
+ 'Clube Atlético Mineiro': 'Atlético-MG.svg',
+ 'Clube de Regatas Vasco da Gama': 'Vasco.svg',
+ 'CR Flamengo': 'Flamengo.svg',
+ 'Cruzeiro Esporte Clube': 'Cruzeiro.svg',
+ 'Esporte Clube Bahia': 'Bahia.svg',
+ 'Esporte Clube Juventude': 'Juventude.svg',
+ 'Esporte Clube Vitória': 'Vitória.svg',
+ 'Fluminense Football Club': 'Fluminense.svg',
+ 'Fortaleza Esporte Clube': 'Fortaleza.svg',
+ 'Grêmio Foot-Ball Porto Alegrense': 'Grêmio.svg',
+ 'Mirassol Futebol Clube (SP)': 'Mirassol.svg',
+ 'Red Bull Bragantino': 'Bragantino.svg',
+ 'Santos FC': 'Santos.svg',
+ 'Sociedade Esportiva Palmeiras': 'Palmeiras.svg',
+ 'Sport Club Corinthians Paulista': 'Corinthians.svg',
+ 'Sport Club do Recife': 'Sport.svg',
+ 'Sport Club Internacional': 'Internacional.svg',
+ 'São Paulo Futebol Clube': 'São Paulo.svg'}
 
 # %%
