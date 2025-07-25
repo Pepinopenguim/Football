@@ -1,0 +1,31 @@
+Num,Name,Pos,Birthday,value
+22,Marcos Felipe,Goalkeeper,"Apr 13, 1996 (29)",€3.50m
+96,Ronaldo,Goalkeeper,"Aug 22, 1996 (28)",€1.80m
+1,Danilo Fernandes,Goalkeeper,"Apr 3, 1988 (37)",€200k
+43,Gabriel Souza,Goalkeeper,"Aug 3, 2004 (20)",€200k
+21,Santiago Ramos Mingo,Centre-Back,"Nov 21, 2001 (23)",€6.00m
+3,Gabriel Xavier,Centre-Back,"May 6, 2001 (24)",€4.00m
+4,Kanu,Centre-Back,"Mar 7, 1997 (28)",€3.50m
+33,David Duarte,Centre-Back,"Jan 24, 1995 (30)",€1.20m
+46,Luciano Juba,Left-Back,"Aug 29, 1999 (25)",€5.00m
+25,Iago,Left-Back,"Mar 23, 1997 (28)",€3.50m
+-,Ryan,Left-Back,"May 14, 2002 (23)",€400k
+2,Gilberto,Right-Back,"Mar 7, 1993 (32)",€2.50m
+13,Santiago Arias,Right-Back,"Jan 13, 1992 (33)",€2.00m
+-,André Dhominique,Right-Back,"Oct 7, 2003 (21)",€600k
+19,Caio Alexandre,Defensive Midfield,"Feb 24, 1999 (26)",€6.50m
+14,Erick,Defensive Midfield,"Nov 14, 1997 (27)",€4.50m
+26,Nicolás Acevedo,Defensive Midfield,"Apr 14, 1999 (26)",€4.00m
+5,Rezende,Defensive Midfield,"Jan 2, 1995 (30)",€800k
+6,Jean Lucas,Central Midfield,"Jun 22, 1998 (27)",€8.00m
+11,Rodrigo Nestor,Central Midfield,"Aug 9, 2000 (24)",€8.00m
+-,Léo Cittadini,Central Midfield,"Feb 27, 1994 (31)",€900k
+8,Cauly,Attacking Midfield,"Sep 15, 1995 (29)",€5.50m
+10,Everton Ribeiro,Attacking Midfield,"Apr 10, 1989 (36)",€1.50m
+16,Erick Pulga,Left Winger,"Oct 2, 2000 (24)",€6.00m
+15,Michel Araújo,Left Winger,"Sep 28, 1996 (28)",€1.50m
+37,Kayky,Right Winger,"Jun 11, 2003 (22)",€6.00m
+7,Ademir,Right Winger,"Feb 16, 1995 (30)",€1.50m
+9,Luciano Rodríguez,Centre-Forward,"Jul 16, 2003 (22)",€8.00m
+12,Willian José,Centre-Forward,"Nov 23, 1991 (33)",€1.80m
+77,Tiago,Striker,"Apr 8, 2005 (20)",€800k

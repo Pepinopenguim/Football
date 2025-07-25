@@ -1,0 +1,37 @@
+Num,Name,Pos,Birthday,value
+1,Léo Jardim,Goalkeeper,"Mar 20, 1995 (30)",€7.00m
+13,Daniel Fuzato,Goalkeeper,"Jul 4, 1997 (28)",€900k
+37,Pablo,Goalkeeper,"Feb 11, 2003 (22)",€50k
+38,João Victor,Centre-Back,"Jul 17, 1998 (27)",€5.00m
+4,Mauricio Lemos,Centre-Back,"Dec 28, 1995 (29)",€2.50m
+29,Lucas Oliveira,Centre-Back,"Feb 2, 1996 (29)",€1.40m
+43,Lucas Freitas,Centre-Back,"Jan 20, 2001 (24)",€1.00m
+44,Luiz Gustavo,Centre-Back,"Apr 12, 2006 (19)",€300k
+6,Lucas Piton,Left-Back,"Oct 9, 2000 (24)",€8.00m
+26,Leandrinho,Left-Back,"Mar 17, 2005 (20)",€1.80m
+66,Riquelme,Left-Back,"Aug 28, 2002 (22)",€1.20m
+12,Victor Luís,Left-Back,"Jun 23, 1993 (32)",€450k
+96,Paulo Henrique,Right-Back,"Jul 25, 1996 (28)",€2.50m
+2,José Luis Rodríguez,Right-Back,"Mar 14, 1997 (28)",€1.70m
+22,Paulinho,Right-Back,"May 23, 2005 (20)",€400k
+20,Juan Sforza,Defensive Midfield,"Feb 14, 2002 (23)",€3.00m
+23,Thiago Mendes,Defensive Midfield,"Mar 15, 1992 (33)",€3.00m
+8,Jair,Defensive Midfield,"Aug 26, 1994 (30)",€2.50m
+25,Hugo Moura,Defensive Midfield,"Jan 3, 1998 (27)",€1.80m
+85,Mateus Carvalho,Defensive Midfield,"Mar 18, 2002 (23)",€1.40m
+-,Lucas Eduardo,Defensive Midfield,"Jan 13, 2004 (21)",€50k
+3,Tchê Tchê,Central Midfield,"Aug 30, 1992 (32)",€1.20m
+18,Paulinho Paula,Central Midfield,"Jan 8, 1997 (28)",€1.00m
+10,Philippe Coutinho,Attacking Midfield,"Jun 12, 1992 (33)",€4.50m
+14,Guilherme Estrella,Attacking Midfield,"Jan 6, 2005 (20)",€1.00m
+17,Nuno Moreira,Left Winger,"Jun 16, 1999 (26)",€3.00m
+21,Jean Meneses,Left Winger,"Mar 16, 1993 (32)",€2.00m
+7,David,Left Winger,"Oct 17, 1995 (29)",€1.50m
+77,Rayan,Right Winger,"Aug 3, 2006 (18)",€14.00m
+15,Benjamín Garré,Right Winger,"Jul 11, 2000 (25)",€6.00m
+28,Adson,Right Winger,"Oct 6, 2000 (24)",€3.00m
+45,Loide Augusto,Right Winger,"Feb 26, 2000 (25)",€1.20m
+90,Alex Teixeira,Second Striker,"Jan 6, 1990 (35)",€200k
+19,GB,Centre-Forward,"Jan 5, 2005 (20)",€800k
+99,Pablo Vegetti,Centre-Forward,"Oct 15, 1988 (36)",€750k
+-,Cauã Paixão,Centre-Forward,"May 27, 2004 (21)",€600k

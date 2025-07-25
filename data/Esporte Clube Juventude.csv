@@ -1,0 +1,35 @@
+Num,Name,Pos,Birthday,value
+1,Gustavo,Goalkeeper,"Mar 10, 1993 (32)",€350k
+77,Mateus Claus,Goalkeeper,"Aug 3, 1994 (30)",€350k
+12,Marcão,Goalkeeper,"Mar 6, 1992 (33)",€100k
+21,Ruan Carneiro,Goalkeeper,"Mar 28, 1990 (35)",-
+31,Zé Henrique,Goalkeeper,"Oct 23, 2004 (20)",-
+23,Abner,Centre-Back,"Apr 19, 2004 (21)",€1.00m
+36,Natã,Centre-Back,"Jun 5, 2001 (24)",€1.00m
+3,Adriano Martins,Centre-Back,"Apr 1, 1997 (28)",€500k
+34,Rodrigo Sam,Centre-Back,"Jul 24, 1995 (30)",€350k
+5,Cipriano,Centre-Back,"Nov 9, 2002 (22)",€250k
+4,Wilker Ángel,Centre-Back,"Mar 18, 1993 (32)",€200k
+22,Marcelo Hermes,Left-Back,"Feb 1, 1995 (30)",€450k
+47,Marcos Paulo,Left-Back,"Jan 18, 2003 (22)",€300k
+28,Alan Ruschel,Left-Back,"Aug 23, 1989 (35)",€150k
+2,Ewerthon,Right-Back,"Nov 10, 2000 (24)",€1.00m
+93,Reginaldo,Right-Back,"Feb 22, 1993 (32)",€200k
+95,Caíque Gonçalves,Defensive Midfield,"Oct 10, 1995 (29)",€500k
+8,Daniel Giraldo,Defensive Midfield,"Jul 1, 1992 (33)",€450k
+55,Hudson,Defensive Midfield,"Jan 14, 2001 (24)",€100k
+72,Daniel Peixoto,Defensive Midfield,"Jun 30, 1997 (28)",€100k
+44,Mandaca,Central Midfield,"Oct 2, 2001 (23)",€1.50m
+16,Jádson,Central Midfield,"Aug 30, 1993 (31)",€1.00m
+-,Lucas Fernandes,Attacking Midfield,"Sep 20, 1997 (27)",€1.50m
+-,Rafinha,Attacking Midfield,"Nov 18, 2002 (22)",€200k
+10,Nenê,Attacking Midfield,"Jul 19, 1981 (44)",€150k
+11,Giovanny,Left Winger,"Sep 19, 1997 (27)",€700k
+97,Ênio,Left Winger,"Mar 3, 2001 (24)",€500k
+7,Gabriel Veron,Right Winger,"Sep 3, 2002 (22)",€5.00m
+27,Emerson Batalla,Right Winger,"Jun 30, 2001 (24)",€2.00m
+-,Rafael Bilu,Right Winger,"Apr 21, 1999 (26)",-
+18,Emerson Galego,Right Winger,"Aug 10, 1999 (25)",-
+19,Gabriel Taliari,Centre-Forward,"Apr 13, 1997 (28)",€900k
+17,Matheus Babi,Centre-Forward,"Jul 18, 1997 (28)",€400k
+9,Gilberto,Centre-Forward,"Jun 5, 1989 (36)",€300k

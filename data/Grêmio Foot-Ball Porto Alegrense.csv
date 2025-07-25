@@ -1,0 +1,37 @@
+Num,Name,Pos,Birthday,value
+12,Gabriel Grando,Goalkeeper,"Mar 29, 2000 (25)",€1.50m
+1,Tiago Volpi,Goalkeeper,"Dec 19, 1990 (34)",€1.00m
+31,Jorge,Goalkeeper,"Apr 3, 2001 (24)",-
+3,Wagner Leonardo,Centre-Back,"Jul 23, 1999 (26)",€4.00m
+53,Gustavo Martins,Centre-Back,"Aug 11, 2002 (22)",€3.00m
+5,Rodrigo Ely,Centre-Back,"Nov 3, 1993 (31)",€2.00m
+21,Jemerson,Centre-Back,"Aug 24, 1992 (32)",€1.00m
+4,Walter Kannemann,Centre-Back,"Mar 14, 1991 (34)",€600k
+44,Viery,Centre-Back,"Jan 2, 2005 (20)",€300k
+36,Luan Cândido,Left-Back,"Feb 2, 2001 (24)",€5.00m
+23,Marlon,Left-Back,"May 20, 1997 (28)",€4.00m
+25,Lucas Esteves,Left-Back,"Jun 24, 2000 (25)",€1.80m
+18,João Pedro,Right-Back,"Nov 15, 1996 (28)",€3.00m
+2,João Lucas,Right-Back,"Mar 9, 1998 (27)",€2.00m
+34,Igor Serrote,Right-Back,"Mar 1, 2005 (20)",€1.50m
+20,Mathías Villasanti,Defensive Midfield,"Jan 24, 1997 (28)",€8.00m
+6,Gustavo Cuéllar,Defensive Midfield,"Oct 14, 1992 (32)",€2.50m
+35,Ronald,Defensive Midfield,"Feb 11, 2003 (22)",€2.50m
+15,Camilo,Defensive Midfield,"Feb 23, 1999 (26)",€1.20m
+17,Dodi,Defensive Midfield,"Apr 17, 1996 (29)",€700k
+-,Felipe Carballo,Central Midfield,"Oct 4, 1996 (28)",€4.50m
+80,Alex Santana,Central Midfield,"May 13, 1995 (30)",€1.20m
+8,Edenilson,Central Midfield,"Dec 18, 1989 (35)",€600k
+10,Franco Cristaldo,Attacking Midfield,"Aug 15, 1996 (28)",€7.00m
+11,Miguel Monsalve,Attacking Midfield,"Feb 27, 2004 (21)",€6.00m
+14,Nathan,Attacking Midfield,"Mar 13, 1996 (29)",€700k
+-,Gabriel Silva,Attacking Midfield,"Jul 3, 2002 (23)",€500k
+37,Gabriel Mec,Attacking Midfield,"Apr 11, 2008 (17)",-
+16,Alexander Aravena,Left Winger,"Sep 6, 2002 (22)",€6.00m
+9,Francis Amuzu,Left Winger,"Aug 23, 1999 (25)",€4.00m
+99,Cristian Olivera,Right Winger,"Apr 17, 2002 (23)",€6.00m
+7,Cristian Pavón,Right Winger,"Jan 21, 1996 (29)",€2.50m
+47,Alysson,Right Winger,"May 5, 2006 (19)",€1.00m
+-,Carlos Vinícius,Centre-Forward,"Mar 25, 1995 (30)",€3.50m
+22,Martin Braithwaite,Centre-Forward,"Jun 5, 1991 (34)",€2.70m
+77,André Henrique,Centre-Forward,"Dec 17, 2001 (23)",€1.00m

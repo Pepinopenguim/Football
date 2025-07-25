@@ -1,0 +1,33 @@
+Num,Name,Pos,Birthday,value
+1,Cleiton,Goalkeeper,"Aug 19, 1997 (27)",€3.00m
+40,Lucão,Goalkeeper,"Feb 26, 2001 (24)",€1.50m
+37,Fabrício,Goalkeeper,"Jun 15, 2000 (25)",€100k
+24,Fernando Costa,Goalkeeper,"Feb 1, 2004 (21)",-
+2,Guzmán Rodríguez,Centre-Back,"Feb 8, 2000 (25)",€3.50m
+14,Pedro Henrique,Centre-Back,"Oct 2, 1995 (29)",€3.50m
+16,Gustavo Marques,Centre-Back,"Oct 9, 2001 (23)",€1.40m
+3,Eduardo,Centre-Back,"Nov 28, 1997 (27)",€900k
+13,Sergio Palacios,Centre-Back,"Feb 14, 2005 (20)",€900k
+29,Juninho Capixaba,Left-Back,"Jul 6, 1997 (28)",€6.00m
+31,Guilherme Lopes,Left-Back,"Feb 14, 2002 (23)",€800k
+32,Agustín Sant'Anna,Right-Back,"Sep 27, 1997 (27)",€3.00m
+34,José Andrés Hurtado,Right-Back,"Dec 23, 2001 (23)",€3.00m
+45,Nathan Mendes,Right-Back,"Aug 19, 2002 (22)",€1.00m
+5,Fabinho,Defensive Midfield,"Apr 9, 2002 (23)",€5.00m
+35,Matheus Fernandes,Defensive Midfield,"Jun 30, 1998 (27)",€2.00m
+6,Gabriel,Defensive Midfield,"Jul 10, 1992 (33)",€1.50m
+7,Eric Ramires,Central Midfield,"Aug 10, 2000 (24)",€4.50m
+22,Gustavo Neves,Central Midfield,"Apr 23, 2004 (21)",€2.50m
+25,Praxedes,Central Midfield,"Feb 8, 2002 (23)",€2.50m
+21,João Neto,Central Midfield,"May 21, 2003 (22)",-
+10,Jhon Jhon,Attacking Midfield,"Sep 9, 2002 (22)",€7.00m
+-,Bruninho,Attacking Midfield,"Mar 14, 2003 (22)",€1.50m
+-,Vitinho,Attacking Midfield,"Mar 24, 1998 (27)",€400k
+17,Vinicinho,Left Winger,"Feb 20, 2004 (21)",€3.50m
+30,Henry Mosquera,Left Winger,"Nov 15, 2001 (23)",€2.50m
+21,Lucas Barbosa,Right Winger,"Feb 22, 2001 (24)",€4.00m
+33,Ignacio Laquintana,Right Winger,"Feb 1, 1999 (26)",€1.50m
+9,Isidro Pitta,Centre-Forward,"Aug 14, 1999 (25)",€6.00m
+18,Thiago Borbas,Centre-Forward,"Apr 7, 2002 (23)",€5.00m
+11,Fernando,Centre-Forward,"Mar 1, 1999 (26)",€2.70m
+8,Eduardo Sasha,Centre-Forward,"Feb 24, 1992 (33)",€1.50m

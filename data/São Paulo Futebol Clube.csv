@@ -1,0 +1,37 @@
+Num,Name,Pos,Birthday,value
+23,Rafael,Goalkeeper,"Jun 23, 1989 (36)",€500k
+93,Jandrei,Goalkeeper,"Mar 1, 1993 (32)",€250k
+50,Young,Goalkeeper,"Mar 7, 2002 (23)",€100k
+12,Leandro Mathias,Goalkeeper,"Nov 14, 2004 (20)",-
+28,Alan Franco,Centre-Back,"Oct 11, 1996 (28)",€4.50m
+32,Nahuel Ferraresi,Centre-Back,"Nov 19, 1998 (26)",€3.00m
+35,Sabino,Centre-Back,"Oct 25, 1996 (28)",€1.00m
+-,Matheus Belém,Centre-Back,"Mar 13, 2003 (22)",€800k
+5,Robert Arboleda,Centre-Back,"Oct 22, 1991 (33)",€800k
+34,Igão,Centre-Back,"Aug 19, 2007 (17)",-
+18,Wendell,Left-Back,"Jul 20, 1993 (32)",€3.50m
+13,Enzo Díaz,Left-Back,"Dec 7, 1995 (29)",€3.00m
+36,Patryck,Left-Back,"Jan 18, 2003 (22)",€1.50m
+6,Cédric Soares,Right-Back,"Aug 31, 1991 (33)",€1.00m
+42,Maik,Right-Back,"Jan 3, 2005 (20)",-
+29,Pablo Maia,Defensive Midfield,"Jan 10, 2002 (23)",€9.00m
+33,Luan Santos,Defensive Midfield,"May 14, 1999 (26)",€1.80m
+43,Felipe Negrucci,Defensive Midfield,"May 14, 2004 (21)",€500k
+16,Luiz Gustavo,Defensive Midfield,"Jul 23, 1987 (38)",€250k
+20,Marcos Antônio,Central Midfield,"Jun 13, 2000 (25)",€5.00m
+15,Rodriguinho,Central Midfield,"Mar 16, 2004 (21)",€3.00m
+21,Damián Bobadilla,Central Midfield,"Jul 11, 2001 (24)",€2.50m
+25,Alisson,Central Midfield,"Jun 25, 1993 (32)",€1.80m
+-,Pedro Vilhena,Central Midfield,"Feb 18, 2002 (23)",€600k
+8,Oscar,Attacking Midfield,"Sep 9, 1991 (33)",€3.50m
+11,Ferreirinha,Left Winger,"Dec 31, 1997 (27)",€8.00m
+45,Lucca,Left Winger,"Jun 14, 2007 (18)",€2.00m
+48,Lucas Ferreira,Right Winger,"Apr 28, 2006 (19)",€5.00m
+7,Lucas Moura,Right Winger,"Aug 13, 1992 (32)",€4.00m
+14,Gonzalo Tapia,Right Winger,"Feb 18, 2002 (23)",€1.70m
+37,Henrique Carmo,Right Winger,"Nov 9, 2006 (18)",€300k
+10,Luciano,Second Striker,"May 18, 1993 (32)",€2.00m
+49,Ryan Francisco,Centre-Forward,"Nov 21, 2006 (18)",€6.00m
+17,André Silva,Centre-Forward,"Jun 3, 1997 (28)",€5.00m
+9,Jonathan Calleri,Centre-Forward,"Sep 23, 1993 (31)",€2.50m
+19,Juan Dinenno,Centre-Forward,"Aug 28, 1994 (30)",€2.50m

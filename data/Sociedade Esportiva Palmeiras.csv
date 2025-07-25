@@ -1,0 +1,30 @@
+Num,Name,Pos,Birthday,value
+21,Weverton,Goalkeeper,"Dec 13, 1987 (37)",€1.50m
+14,Marcelo Lomba,Goalkeeper,"Dec 18, 1986 (38)",€150k
+-,Aranha,Goalkeeper,"Feb 7, 2005 (20)",-
+26,Murilo,Centre-Back,"Mar 27, 1997 (28)",€7.00m
+13,Micael,Centre-Back,"Aug 12, 2000 (24)",€5.00m
+15,Gustavo Gómez,Centre-Back,"May 6, 1993 (32)",€5.00m
+3,Bruno Fuchs,Centre-Back,"Apr 1, 1999 (26)",€3.00m
+43,Luis Benedetti,Centre-Back,"Jun 7, 2006 (19)",€500k
+22,Joaquín Piquerez,Left-Back,"Aug 24, 1998 (26)",€14.00m
+6,Vanderlan,Left-Back,"Sep 7, 2002 (22)",€3.50m
+4,Agustín Giay,Right-Back,"Jan 16, 2004 (21)",€8.00m
+12,Mayke,Right-Back,"Nov 10, 1992 (32)",€2.50m
+2,Marcos Rocha,Right-Back,"Dec 11, 1988 (36)",€300k
+5,Aníbal Moreno,Defensive Midfield,"May 13, 1999 (26)",€11.00m
+32,Emiliano Martínez,Defensive Midfield,"Aug 17, 1999 (25)",€7.00m
+30,Lucas Evangelista,Central Midfield,"May 6, 1995 (30)",€3.50m
+38,Figueiredo,Central Midfield,"Mar 3, 2006 (19)",-
+23,Raphael Veiga,Attacking Midfield,"Jun 19, 1995 (30)",€15.00m
+18,Mauricio,Attacking Midfield,"Jun 22, 2001 (24)",€11.00m
+10,Paulinho,Left Winger,"Jul 15, 2000 (25)",€16.00m
+17,Facundo Torres,Left Winger,"Apr 13, 2000 (25)",€14.00m
+19,Ramón Sosa,Left Winger,"Aug 31, 1999 (25)",€12.00m
+11,Bruno Rodrigues,Left Winger,"Mar 7, 1997 (28)",€1.50m
+7,Felipe Anderson,Right Winger,"Apr 15, 1993 (32)",€4.00m
+40,Allan,Right Winger,"Apr 19, 2004 (21)",€4.00m
+9,Vitor Roque,Centre-Forward,"Feb 28, 2005 (20)",€20.00m
+42,José Manuel López,Centre-Forward,"Dec 6, 2000 (24)",€10.00m
+31,Luighi,Centre-Forward,"Apr 30, 2006 (19)",€5.00m
+39,Thalys,Centre-Forward,"Feb 22, 2005 (20)",€2.00m
