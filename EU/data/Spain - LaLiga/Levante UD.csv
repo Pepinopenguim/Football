@@ -1,0 +1,23 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,Levante UD,-,Pablo Campos,Goalkeeper,"Apr 28, 2002 (23)",€1.50m,2002,1500.0,68,29,31,62
+Spain,LaLiga,Levante UD,13,Alfonso Pastor,Goalkeeper,"Oct 4, 2000 (24)",€200k,2000,200.0,58,25,27,53
+Spain,LaLiga,Levante UD,-,Alan Matturro,Centre-Back,"Oct 11, 2004 (20)",€7.00m,2004,7000.0,76,35,40,62
+Spain,LaLiga,Levante UD,-,Matías Moreno,Centre-Back,"Sep 24, 2003 (21)",€3.40m,2003,3400.0,73,34,38,60
+Spain,LaLiga,Levante UD,4,Adrián de la Fuente,Centre-Back,"Feb 26, 1999 (26)",€1.20m,1999,1200.0,68,31,35,56
+Spain,LaLiga,Levante UD,5,Unai Elgezabal,Centre-Back,"Apr 25, 1993 (32)",€700k,1993,700.0,65,30,34,53
+Spain,LaLiga,Levante UD,14,Jorge Cabello,Centre-Back,"Apr 25, 2004 (21)",€700k,2004,700.0,64,29,33,52
+Spain,LaLiga,Levante UD,-,Manu Sánchez,Left-Back,"Aug 24, 2000 (24)",€6.00m,2000,6000.0,76,37,42,58
+Spain,LaLiga,Levante UD,16,Diego Pampín,Left-Back,"Mar 15, 2000 (25)",€1.20m,2000,1200.0,67,33,37,51
+Spain,LaLiga,Levante UD,22,Jeremy Toljan,Right-Back,"Aug 8, 1994 (30)",€2.40m,1994,2400.0,72,35,40,55
+Spain,LaLiga,Levante UD,-,Víctor García,Right-Back,"Sep 16, 1997 (27)",€800k,1997,800.0,66,32,36,50
+Spain,LaLiga,Levante UD,20,Oriol Rey,Defensive Midfield,"Feb 25, 1998 (27)",€1.60m,1998,1600.0,69,36,36,44
+Spain,LaLiga,Levante UD,-,Kervin Arriaga,Defensive Midfield,"Jan 5, 1998 (27)",€1.50m,1998,1500.0,69,36,36,44
+Spain,LaLiga,Levante UD,-,Jon Ander Olasagasti,Central Midfield,"Aug 16, 2000 (24)",€4.00m,2000,4000.0,74,43,47,43
+Spain,LaLiga,Levante UD,23,Pablo Martínez,Central Midfield,"Feb 22, 1998 (27)",€2.00m,1998,2000.0,70,41,45,41
+Spain,LaLiga,Levante UD,21,Sergio Lozano,Central Midfield,"Mar 24, 1999 (26)",€1.50m,1999,1500.0,69,40,44,40
+Spain,LaLiga,Levante UD,-,Óscar Clemente,Attacking Midfield,"Mar 26, 1999 (26)",€500k,1999,500.0,63,42,38,33
+Spain,LaLiga,Levante UD,7,Roger Brugué,Left Winger,"Nov 4, 1996 (28)",€2.00m,1996,2000.0,71,54,41,33
+Spain,LaLiga,Levante UD,24,Carlos Álvarez,Right Winger,"Aug 6, 2003 (21)",€6.00m,2003,6000.0,76,58,44,35
+Spain,LaLiga,Levante UD,38,Carlos Espí,Centre-Forward,"Jul 24, 2005 (20)",€2.00m,2005,2000.0,69,57,38,30
+Spain,LaLiga,Levante UD,9,Iván Romero,Centre-Forward,"Apr 10, 2001 (24)",€1.50m,2001,1500.0,69,57,38,30
+Spain,LaLiga,Levante UD,11,José Luis Morales,Centre-Forward,"Jul 23, 1987 (38)",€500k,1987,500.0,64,52,35,28

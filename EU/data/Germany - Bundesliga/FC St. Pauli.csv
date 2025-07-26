@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Germany,Bundesliga,FC St. Pauli,22,Nikola Vasilj,Goalkeeper,"Dec 2, 1995 (29)",€3.50m,1995,3500.0,74,32,34,67
+Germany,Bundesliga,FC St. Pauli,1,Ben Voll,Goalkeeper,"Dec 9, 2000 (24)",€500k,2000,500.0,63,27,29,57
+Germany,Bundesliga,FC St. Pauli,30,Simon Spari,Goalkeeper,"Jun 16, 2002 (23)",€350k,2002,350.0,61,26,28,56
+Germany,Bundesliga,FC St. Pauli,8,Eric Smith,Centre-Back,"Jan 8, 1997 (28)",€5.00m,1997,5000.0,75,34,39,62
+Germany,Bundesliga,FC St. Pauli,4,David Nemeth,Centre-Back,"Mar 18, 2001 (24)",€4.00m,2001,4000.0,74,34,38,61
+Germany,Bundesliga,FC St. Pauli,5,Hauke Wahl,Centre-Back,"Apr 15, 1994 (31)",€1.50m,1994,1500.0,69,32,36,57
+Germany,Bundesliga,FC St. Pauli,3,Karol Mets,Centre-Back,"May 16, 1993 (32)",€1.30m,1993,1300.0,69,32,36,57
+Germany,Bundesliga,FC St. Pauli,25,Adam Dzwigala,Centre-Back,"Sep 25, 1995 (29)",€600k,1995,600.0,64,29,33,52
+Germany,Bundesliga,FC St. Pauli,34,Jannik Robatsch,Centre-Back,"Dec 28, 2004 (20)",€600k,2004,600.0,63,29,33,52
+Germany,Bundesliga,FC St. Pauli,21,Lars Ritzka,Left-Back,"May 7, 1998 (27)",€1.00m,1998,1000.0,67,33,37,51
+Germany,Bundesliga,FC St. Pauli,23,Louis Oppie,Left-Back,"May 17, 2002 (23)",€600k,2002,600.0,64,31,35,49
+Germany,Bundesliga,FC St. Pauli,2,Manolis Saliakas,Right-Back,"Sep 12, 1996 (28)",€3.00m,1996,3000.0,73,36,40,55
+Germany,Bundesliga,FC St. Pauli,11,Arkadiusz Pyrka,Right-Back,"Sep 20, 2002 (22)",€2.00m,2002,2000.0,70,34,38,53
+Germany,Bundesliga,FC St. Pauli,14,Fin Stevens,Right-Back,"Apr 10, 2003 (22)",€500k,2003,500.0,62,30,34,47
+Germany,Bundesliga,FC St. Pauli,6,James Sands,Defensive Midfield,"Jul 6, 2000 (25)",€3.00m,2000,3000.0,72,37,37,46
+Germany,Bundesliga,FC St. Pauli,42,Marwin Schmitz,Defensive Midfield,"Jan 7, 2007 (18)",€200k,2007,200.0,56,29,29,36
+Germany,Bundesliga,FC St. Pauli,16,Joel Chima Fujita,Central Midfield,"Feb 16, 2002 (23)",€3.00m,2002,3000.0,72,42,46,42
+Germany,Bundesliga,FC St. Pauli,24,Connor Metcalfe,Central Midfield,"Nov 5, 1999 (25)",€2.50m,1999,2500.0,71,41,45,41
+Germany,Bundesliga,FC St. Pauli,7,Jackson Irvine,Central Midfield,"Mar 7, 1993 (32)",€2.00m,1993,2000.0,71,41,45,41
+Germany,Bundesliga,FC St. Pauli,20,Erik Ahlstrand,Central Midfield,"Oct 14, 2001 (23)",€500k,2001,500.0,63,37,40,37
+Germany,Bundesliga,FC St. Pauli,10,Danel Sinani,Attacking Midfield,"Apr 5, 1997 (28)",€1.50m,1997,1500.0,69,46,42,36
+Germany,Bundesliga,FC St. Pauli,28,Mathias Pereira Lage,Left Winger,"Nov 30, 1996 (28)",€2.50m,1996,2500.0,72,55,42,33
+Germany,Bundesliga,FC St. Pauli,38,Romeo Aigbekaen,Left Winger,"Jun 22, 2004 (21)",€100k,2004,100.0,53,40,31,24
+Germany,Bundesliga,FC St. Pauli,17,Oladapo Afolayan,Right Winger,"Sep 11, 1997 (27)",€4.00m,1997,4000.0,74,56,43,34
+Germany,Bundesliga,FC St. Pauli,18,Scott Banks,Right Winger,"Sep 26, 2001 (23)",€500k,2001,500.0,63,48,37,29
+Germany,Bundesliga,FC St. Pauli,27,Andréas Hountondji,Centre-Forward,"Jul 11, 2002 (23)",€2.50m,2002,2500.0,71,58,39,31
+Germany,Bundesliga,FC St. Pauli,26,Ricky-Jade Jones,Centre-Forward,"Nov 8, 2002 (22)",€900k,2002,900.0,66,54,36,28
+Germany,Bundesliga,FC St. Pauli,9,Abdoulie Ceesay,Centre-Forward,"Jan 5, 2004 (21)",€500k,2004,500.0,62,51,34,27

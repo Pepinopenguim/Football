@@ -1,0 +1,23 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Greece,Super League 1,APO Levadiakos,88,Lucas Anacker,Goalkeeper,"Sep 22, 1996 (28)",€350k,1996,350.0,61,26,28,56
+Greece,Super League 1,APO Levadiakos,33,Stelios Vallindras,Goalkeeper,"May 3, 2005 (20)",-,2005,100.0,53,23,24,48
+Greece,Super League 1,APO Levadiakos,24,Panagiotis Liagas,Centre-Back,"Nov 5, 1999 (25)",€500k,1999,500.0,63,29,33,52
+Greece,Super League 1,APO Levadiakos,36,Georgios Katris,Centre-Back,"Oct 14, 2005 (19)",€400k,2005,400.0,60,28,31,49
+Greece,Super League 1,APO Levadiakos,-,Giannis Tsivelekidis,Centre-Back,"Jun 4, 1999 (26)",€300k,1999,300.0,60,28,31,49
+Greece,Super League 1,APO Levadiakos,-,Taxiarchis Filon,Centre-Back,"Mar 16, 2005 (20)",€300k,2005,300.0,59,27,31,48
+Greece,Super League 1,APO Levadiakos,4,Joel Abu Hanna,Centre-Back,"Jan 22, 1998 (27)",€250k,1998,250.0,59,27,31,48
+Greece,Super League 1,APO Levadiakos,55,Nikolaos Tsaras,Centre-Back,"Mar 13, 2006 (19)",-,2006,96.0,52,24,27,43
+Greece,Super League 1,APO Levadiakos,3,Marios Vichos,Left-Back,"Jan 14, 2000 (25)",€600k,2000,600.0,64,31,35,49
+Greece,Super League 1,APO Levadiakos,6,Triantafyllos Tsapras,Right-Back,"Oct 22, 2001 (23)",€500k,2001,500.0,63,31,35,48
+Greece,Super League 1,APO Levadiakos,-,Georgios Manthatis,Right-Back,"May 11, 1997 (28)",€350k,1997,350.0,61,30,34,46
+Greece,Super League 1,APO Levadiakos,-,Enis Cokaj,Defensive Midfield,"Feb 23, 1999 (26)",€800k,1999,800.0,65,34,34,42
+Greece,Super League 1,APO Levadiakos,8,Konstantinos Plegas,Defensive Midfield,"Apr 20, 1997 (28)",€300k,1997,300.0,60,31,31,38
+Greece,Super League 1,APO Levadiakos,18,Giannis Kosti,Central Midfield,"Mar 17, 2000 (25)",€500k,2000,500.0,63,37,40,37
+Greece,Super League 1,APO Levadiakos,-,Aaron Tshibola,Central Midfield,"Jan 2, 1995 (30)",€350k,1995,350.0,61,35,39,35
+Greece,Super League 1,APO Levadiakos,19,Lamarana Jallow,Central Midfield,"Mar 21, 2002 (23)",€300k,2002,300.0,60,35,38,35
+Greece,Super League 1,APO Levadiakos,11,Guillermo Balzi,Attacking Midfield,"Jul 23, 2001 (24)",€500k,2001,500.0,63,42,38,33
+Greece,Super League 1,APO Levadiakos,-,Konstantinos Goumas,Attacking Midfield,"Mar 12, 2005 (20)",€300k,2005,300.0,59,40,36,31
+Greece,Super League 1,APO Levadiakos,-,Hisham Layous,Left Winger,"Nov 13, 2000 (24)",€550k,2000,550.0,63,48,37,29
+Greece,Super League 1,APO Levadiakos,-,Kévin Yoke,Left Winger,"Jun 23, 1996 (29)",€175k,1996,175.0,58,44,34,27
+Greece,Super League 1,APO Levadiakos,31,Panagiotis Symelidis,Left Winger,"Nov 3, 1992 (32)",€150k,1992,150.0,57,43,33,26
+Greece,Super League 1,APO Levadiakos,21,Alen Ozbolt,Centre-Forward,"Jun 24, 1996 (29)",€400k,1996,400.0,62,51,34,27

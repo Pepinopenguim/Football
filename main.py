@@ -28,14 +28,15 @@ class Match(tk.Tk):
         self.mainframe.pack(fill="both", expand=True)
         ttk.Button(self.mainframe, text="Test").pack(fill="x", padx=5, pady=5)
 
-        self.load_image_onto_frame(self.mainframe, "images\\Bahia.svg", padx=5, pady=5)
+        self.load_image_onto_frame(self.mainframe, r"EU\images\Chelsea FC.png", padx=5, pady=5)
 
 
 
     def load_image_onto_frame(self, frame, file, **pack_kwargs):
         image = PhotoImage(file=file)
 
-        image_label = tk.Label(frame, image)
+        image_label = tk.Label(frame, image=image)
+        image_label.image = image
         image_label.pack(**pack_kwargs)
 
 

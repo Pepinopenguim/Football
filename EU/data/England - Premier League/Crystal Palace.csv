@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Crystal Palace,1,Dean Henderson,Goalkeeper,"Mar 12, 1997 (28)",€20.00m,1997,20000.0,83,36,38,76
+England,Premier League,Crystal Palace,-,Walter Benítez,Goalkeeper,"Jan 19, 1993 (32)",€7.50m,1993,7500.0,78,34,36,71
+England,Premier League,Crystal Palace,31,Remi Matthews,Goalkeeper,"Feb 10, 1994 (31)",€400k,1994,400.0,62,27,29,56
+England,Premier League,Crystal Palace,6,Marc Guéhi,Centre-Back,"Jul 13, 2000 (25)",€45.00m,2000,45000.0,87,40,45,71
+England,Premier League,Crystal Palace,5,Maxence Lacroix,Centre-Back,"Apr 6, 2000 (25)",€25.00m,2000,25000.0,84,39,44,69
+England,Premier League,Crystal Palace,34,Chadi Riad,Centre-Back,"Jun 17, 2003 (22)",€15.00m,2003,15000.0,80,37,42,66
+England,Premier League,Crystal Palace,26,Chris Richards,Centre-Back,"Mar 28, 2000 (25)",€14.00m,2000,14000.0,81,37,42,66
+England,Premier League,Crystal Palace,4,Rob Holding,Centre-Back,"Sep 20, 1995 (29)",€3.50m,1995,3500.0,74,34,38,61
+England,Premier League,Crystal Palace,3,Tyrick Mitchell,Left-Back,"Sep 1, 1999 (25)",€25.00m,1999,25000.0,84,41,46,64
+England,Premier League,Crystal Palace,-,Borna Sosa,Left-Back,"Jan 21, 1998 (27)",€4.50m,1998,4500.0,75,37,41,57
+England,Premier League,Crystal Palace,12,Daniel Muñoz,Right-Back,"May 26, 1996 (29)",€25.00m,1996,25000.0,84,41,46,64
+England,Premier League,Crystal Palace,17,Nathaniel Clyne,Right-Back,"Apr 5, 1991 (34)",€1.00m,1991,1000.0,67,33,37,51
+England,Premier League,Crystal Palace,58,Caleb Kporha,Right-Back,"Jul 15, 2006 (19)",€1.00m,2006,1000.0,65,32,36,49
+England,Premier League,Crystal Palace,20,Adam Wharton,Defensive Midfield,"Feb 6, 2004 (21)",€45.00m,2004,45000.0,86,45,45,55
+England,Premier League,Crystal Palace,28,Cheick Doucouré,Defensive Midfield,"Jan 8, 2000 (25)",€25.00m,2000,25000.0,84,44,44,54
+England,Premier League,Crystal Palace,8,Jefferson Lerma,Defensive Midfield,"Oct 25, 1994 (30)",€10.00m,1994,10000.0,79,41,41,51
+England,Premier League,Crystal Palace,-,David Ozoh,Defensive Midfield,"May 6, 2005 (20)",€700k,2005,700.0,63,33,33,40
+England,Premier League,Crystal Palace,19,Will Hughes,Central Midfield,"Apr 17, 1995 (30)",€7.00m,1995,7000.0,77,45,49,45
+England,Premier League,Crystal Palace,55,Justin Devenny,Central Midfield,"Oct 11, 2003 (21)",€6.00m,2003,6000.0,76,44,49,44
+England,Premier League,Crystal Palace,-,Naouirou Ahamada,Central Midfield,"Mar 29, 2002 (23)",€3.50m,2002,3500.0,73,42,47,42
+England,Premier League,Crystal Palace,10,Eberechi Eze,Attacking Midfield,"Jun 29, 1998 (27)",€55.00m,1998,55000.0,88,59,54,46
+England,Premier League,Crystal Palace,18,Daichi Kamada,Attacking Midfield,"Aug 5, 1996 (28)",€12.00m,1996,12000.0,80,54,49,42
+England,Premier League,Crystal Palace,11,Matheus França,Attacking Midfield,"Apr 1, 2004 (21)",€10.00m,2004,10000.0,78,52,48,41
+England,Premier League,Crystal Palace,7,Ismaïla Sarr,Right Winger,"Feb 25, 1998 (27)",€25.00m,1998,25000.0,84,64,49,39
+England,Premier League,Crystal Palace,21,Romain Esse,Right Winger,"May 13, 2005 (20)",€12.00m,2005,12000.0,79,60,46,36
+England,Premier League,Crystal Palace,49,Jesurun Rak-Sakyi,Right Winger,"Oct 5, 2002 (22)",€6.00m,2002,6000.0,76,58,44,35
+England,Premier League,Crystal Palace,23,Malcolm Ebiowei,Right Winger,"Sep 4, 2003 (21)",€1.20m,2003,1200.0,67,51,39,31
+England,Premier League,Crystal Palace,14,Jean-Philippe Mateta,Centre-Forward,"Jun 28, 1997 (28)",€30.00m,1997,30000.0,85,70,47,37
+England,Premier League,Crystal Palace,9,Eddie Nketiah,Centre-Forward,"May 30, 1999 (26)",€18.00m,1999,18000.0,82,67,45,35
+England,Premier League,Crystal Palace,22,Odsonne Edouard,Centre-Forward,"Jan 16, 1998 (27)",€8.00m,1998,8000.0,78,64,43,34

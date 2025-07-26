@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,Getafe CF,13,David Soria,Goalkeeper,"Apr 4, 1993 (32)",€3.00m,1993,3000.0,73,31,34,66
+Spain,LaLiga,Getafe CF,1,Jiri Letacek,Goalkeeper,"Jan 9, 1999 (26)",€2.00m,1999,2000.0,70,30,32,64
+Spain,LaLiga,Getafe CF,15,Omar Alderete,Centre-Back,"Dec 26, 1996 (28)",€8.00m,1996,8000.0,78,36,41,64
+Spain,LaLiga,Getafe CF,2,Djené,Centre-Back,"Dec 31, 1991 (33)",€1.80m,1991,1800.0,70,32,36,57
+Spain,LaLiga,Getafe CF,22,Domingos Duarte,Centre-Back,"Mar 10, 1995 (30)",€800k,1995,800.0,66,30,34,54
+Spain,LaLiga,Getafe CF,16,Diego Rico,Left-Back,"Feb 23, 1993 (32)",€1.20m,1993,1200.0,68,33,37,52
+Spain,LaLiga,Getafe CF,-,Davinchi,Left-Back,"Oct 16, 2007 (17)",€300k,2007,300.0,58,28,32,44
+Spain,LaLiga,Getafe CF,21,Juan Iglesias,Right-Back,"Jul 3, 1998 (27)",€3.50m,1998,3500.0,73,36,40,55
+Spain,LaLiga,Getafe CF,-,Kiko Femenía,Right-Back,"Feb 2, 1991 (34)",€900k,1991,900.0,67,33,37,51
+Spain,LaLiga,Getafe CF,28,Ismael Bekhoucha,Right-Back,"Nov 20, 2004 (20)",€300k,2004,300.0,59,29,32,45
+Spain,LaLiga,Getafe CF,-,Yvan Neyou,Defensive Midfield,"Jan 3, 1997 (28)",€3.00m,1997,3000.0,73,38,38,47
+Spain,LaLiga,Getafe CF,8,Mauro Arambarri,Central Midfield,"Sep 30, 1995 (29)",€12.00m,1995,12000.0,80,46,51,46
+Spain,LaLiga,Getafe CF,5,Luis Milla,Central Midfield,"Oct 7, 1994 (30)",€3.50m,1994,3500.0,74,43,47,43
+Spain,LaLiga,Getafe CF,-,Javi Muñoz,Central Midfield,"Feb 28, 1995 (30)",€2.00m,1995,2000.0,71,41,45,41
+Spain,LaLiga,Getafe CF,6,Christantus Uche,Attacking Midfield,"May 19, 2003 (22)",€15.00m,2003,15000.0,80,54,49,42
+Spain,LaLiga,Getafe CF,26,Alberto Risco,Attacking Midfield,"Aug 30, 2005 (19)",€200k,2005,200.0,57,38,35,30
+Spain,LaLiga,Getafe CF,29,Coba da Costa,Left Winger,"Jul 26, 2002 (23)",€3.00m,2002,3000.0,72,55,42,33
+Spain,LaLiga,Getafe CF,-,Juanmi,Left Winger,"May 20, 1993 (32)",€2.00m,1993,2000.0,71,54,41,33
+Spain,LaLiga,Getafe CF,-,Adrián Liso,Left Winger,"Apr 2, 2005 (20)",€2.00m,2005,2000.0,69,52,40,32
+Spain,LaLiga,Getafe CF,7,Álex Sola,Right Winger,"Jun 9, 1999 (26)",€2.50m,1999,2500.0,71,54,41,33
+Spain,LaLiga,Getafe CF,-,Álex Sancris,Right Winger,"Jan 18, 1997 (28)",€2.00m,1997,2000.0,70,53,41,32
+Spain,LaLiga,Getafe CF,19,Peter Federico,Right Winger,"Jul 25, 2002 (23)",€1.20m,2002,1200.0,67,51,39,31
+Spain,LaLiga,Getafe CF,9,Borja Mayoral,Centre-Forward,"Apr 5, 1997 (28)",€7.50m,1997,7500.0,78,64,43,34

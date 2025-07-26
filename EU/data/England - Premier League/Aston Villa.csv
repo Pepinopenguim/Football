@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Aston Villa,23,Emiliano Martínez,Goalkeeper,"Sep 2, 1992 (32)",€20.00m,1992,20000.0,83,36,38,76
+England,Premier League,Aston Villa,-,Marco Bizot,Goalkeeper,"Mar 10, 1991 (34)",€3.00m,1991,3000.0,73,31,34,66
+England,Premier League,Aston Villa,18,Joe Gauci,Goalkeeper,"Jul 4, 2000 (25)",€1.50m,2000,1500.0,69,30,32,63
+England,Premier League,Aston Villa,42,Filip Marschall,Goalkeeper,"Apr 24, 2003 (22)",€800k,2003,800.0,65,28,30,59
+England,Premier League,Aston Villa,4,Ezri Konsa,Centre-Back,"Oct 23, 1997 (27)",€35.00m,1997,35000.0,86,40,45,71
+England,Premier League,Aston Villa,14,Pau Torres,Centre-Back,"Jan 16, 1997 (28)",€32.00m,1997,32000.0,85,39,44,70
+England,Premier League,Aston Villa,58,Yasin Özcan,Centre-Back,"Apr 20, 2006 (19)",€7.50m,2006,7500.0,76,35,40,62
+England,Premier League,Aston Villa,5,Tyrone Mings,Centre-Back,"Mar 13, 1993 (32)",€5.00m,1993,5000.0,76,35,40,62
+England,Premier League,Aston Villa,22,Ian Maatsen,Left-Back,"Mar 10, 2002 (23)",€28.00m,2002,28000.0,84,41,46,64
+England,Premier League,Aston Villa,12,Lucas Digne,Left-Back,"Jul 20, 1993 (32)",€10.00m,1993,10000.0,79,39,43,60
+England,Premier League,Aston Villa,15,Álex Moreno,Left-Back,"Jun 8, 1993 (32)",€7.00m,1993,7000.0,77,38,42,59
+England,Premier League,Aston Villa,2,Matty Cash,Right-Back,"Aug 7, 1997 (27)",€25.00m,1997,25000.0,84,41,46,64
+England,Premier League,Aston Villa,16,Andrés García,Right-Back,"Feb 7, 2003 (22)",€7.00m,2003,7000.0,76,37,42,58
+England,Premier League,Aston Villa,24,Amadou Onana,Defensive Midfield,"Aug 16, 2001 (23)",€50.00m,2001,50000.0,87,45,45,56
+England,Premier League,Aston Villa,44,Boubacar Kamara,Defensive Midfield,"Nov 23, 1999 (25)",€40.00m,1999,40000.0,86,45,45,55
+England,Premier League,Aston Villa,26,Lamare Bogarde,Defensive Midfield,"Jan 5, 2004 (21)",€6.00m,2004,6000.0,75,39,39,48
+England,Premier League,Aston Villa,32,Leander Dendoncker,Defensive Midfield,"Apr 15, 1995 (30)",€4.50m,1995,4500.0,75,39,39,48
+England,Premier League,Aston Villa,8,Youri Tielemans,Central Midfield,"May 7, 1997 (28)",€38.00m,1997,38000.0,86,50,55,50
+England,Premier League,Aston Villa,7,John McGinn,Central Midfield,"Oct 18, 1994 (30)",€16.00m,1994,16000.0,82,48,52,48
+England,Premier League,Aston Villa,6,Ross Barkley,Central Midfield,"Dec 5, 1993 (31)",€6.00m,1993,6000.0,77,45,49,45
+England,Premier League,Aston Villa,41,Jacob Ramsey,Left Midfield,"May 28, 2001 (24)",€32.00m,2001,32000.0,85,49,54,49
+England,Premier League,Aston Villa,27,Morgan Rogers,Attacking Midfield,"Jul 26, 2002 (23)",€55.00m,2002,55000.0,88,59,54,46
+England,Premier League,Aston Villa,10,Emiliano Buendía,Attacking Midfield,"Dec 25, 1996 (28)",€15.00m,1996,15000.0,81,54,49,42
+England,Premier League,Aston Villa,-,Samuel Iling-Junior,Left Winger,"Oct 4, 2003 (21)",€10.00m,2003,10000.0,78,59,45,36
+England,Premier League,Aston Villa,-,Lewis Dobbin,Left Winger,"Jan 3, 2003 (22)",€2.50m,2003,2500.0,71,54,41,33
+England,Premier League,Aston Villa,31,Leon Bailey,Right Winger,"Aug 9, 1997 (27)",€28.00m,1997,28000.0,85,65,49,39
+England,Premier League,Aston Villa,17,Donyell Malen,Right Winger,"Jan 19, 1999 (26)",€25.00m,1999,25000.0,84,64,49,39
+England,Premier League,Aston Villa,11,Ollie Watkins,Centre-Forward,"Dec 30, 1995 (29)",€40.00m,1995,40000.0,87,71,48,37

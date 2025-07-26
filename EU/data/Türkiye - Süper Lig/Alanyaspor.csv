@@ -1,0 +1,38 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Alanyaspor,23,Mert Bayram,Goalkeeper,"Jan 2, 2005 (20)",€100k,2005,100.0,53,23,24,48
+Türkiye,Süper Lig,Alanyaspor,1,Ertuğrul Taşkıran,Goalkeeper,"Nov 5, 1989 (35)",€75k,1989,75.0,54,23,25,49
+Türkiye,Süper Lig,Alanyaspor,99,Yusuf Karagöz,Goalkeeper,"Oct 5, 1999 (25)",€50k,1999,50.0,51,22,23,46
+Türkiye,Süper Lig,Alanyaspor,20,Fatih Aksoy,Centre-Back,"Nov 6, 1997 (27)",€1.60m,1997,1600.0,69,32,36,57
+Türkiye,Süper Lig,Alanyaspor,3,Nuno Lima,Centre-Back,"Mar 16, 2001 (24)",€1.30m,2001,1300.0,68,31,35,56
+Türkiye,Süper Lig,Alanyaspor,5,Fidan Aliti,Centre-Back,"Oct 3, 1993 (31)",€900k,1993,900.0,67,31,35,55
+Türkiye,Süper Lig,Alanyaspor,50,Ümit Akdağ,Centre-Back,"Oct 6, 2003 (21)",€600k,2003,600.0,63,29,33,52
+Türkiye,Süper Lig,Alanyaspor,24,Bedirhan Özyurt,Centre-Back,"Mar 25, 2003 (22)",€200k,2003,200.0,57,26,30,47
+Türkiye,Süper Lig,Alanyaspor,33,Yunus Efe Sarıkaya,Centre-Back,"Apr 11, 2006 (19)",€100k,2006,100.0,53,24,28,43
+Türkiye,Süper Lig,Alanyaspor,4,Umut Mert Toy,Centre-Back,"May 8, 2004 (21)",€75k,2004,75.0,52,24,27,43
+Türkiye,Süper Lig,Alanyaspor,88,Yusuf Özdemir,Left-Back,"Jan 10, 2001 (24)",€2.60m,2001,2600.0,72,35,40,55
+Türkiye,Süper Lig,Alanyaspor,-,Baran Moğultay,Left-Back,"May 18, 2004 (21)",€275k,2004,275.0,59,29,32,45
+Türkiye,Süper Lig,Alanyaspor,-,Emre Bekir,Left-Back,"Aug 17, 1998 (26)",€75k,1998,75.0,53,26,29,40
+Türkiye,Süper Lig,Alanyaspor,94,Florent Hadergjonaj,Right-Back,"Jul 31, 1994 (30)",€1.50m,1994,1500.0,69,34,38,52
+Türkiye,Süper Lig,Alanyaspor,-,Çağan Erciyas,Right-Back,"Feb 4, 2003 (22)",€75k,2003,75.0,52,25,29,40
+Türkiye,Süper Lig,Alanyaspor,2,Batuhan Yavuz,Right-Back,"May 4, 2005 (20)",€75k,2005,75.0,51,25,28,39
+Türkiye,Süper Lig,Alanyaspor,58,Maestro,Defensive Midfield,"Aug 4, 2003 (21)",€2.50m,2003,2500.0,71,37,37,45
+Türkiye,Süper Lig,Alanyaspor,-,Cem Çelik,Defensive Midfield,"Mar 27, 2002 (23)",€100k,2002,100.0,54,28,28,35
+Türkiye,Süper Lig,Alanyaspor,42,Gaius Makouta,Central Midfield,"Jul 25, 1997 (28)",€2.10m,1997,2100.0,71,41,45,41
+Türkiye,Süper Lig,Alanyaspor,17,Nicolas Janvier,Central Midfield,"Aug 11, 1998 (26)",€750k,1998,750.0,65,38,42,38
+Türkiye,Süper Lig,Alanyaspor,8,Enes Keskin,Central Midfield,"Jun 4, 2001 (24)",€500k,2001,500.0,63,37,40,37
+Türkiye,Süper Lig,Alanyaspor,-,İzzet Çelik,Central Midfield,"Jun 20, 2004 (21)",€250k,2004,250.0,58,34,37,34
+Türkiye,Süper Lig,Alanyaspor,-,İsmail Zehir,Central Midfield,"Jun 29, 2003 (22)",€125k,2003,125.0,55,32,35,32
+Türkiye,Süper Lig,Alanyaspor,21,Buluthan Bulut,Central Midfield,"Jul 21, 2002 (23)",€75k,2002,75.0,53,31,34,31
+Türkiye,Süper Lig,Alanyaspor,7,Efecan Karaca,Attacking Midfield,"Nov 16, 1989 (35)",€200k,1989,200.0,59,40,36,31
+Türkiye,Süper Lig,Alanyaspor,26,Eren Altıntaş,Attacking Midfield,"Mar 30, 2004 (21)",€75k,2004,75.0,52,35,32,27
+Türkiye,Süper Lig,Alanyaspor,-,Mert Yusuf Torlak,Attacking Midfield,"Jul 18, 2002 (23)",€50k,2002,50.0,50,34,30,26
+Türkiye,Süper Lig,Alanyaspor,-,İbrahim Kaya,Left Winger,"Mar 9, 2001 (24)",€275k,2001,275.0,60,46,35,28
+Türkiye,Süper Lig,Alanyaspor,-,Rony Lopes,Right Winger,"Dec 28, 1995 (29)",€2.00m,1995,2000.0,71,54,41,33
+Türkiye,Süper Lig,Alanyaspor,-,Bera Çeken,Right Winger,"Aug 18, 2005 (19)",€50k,2005,50.0,49,37,28,23
+Türkiye,Süper Lig,Alanyaspor,-,Veysel Ünal,Right Winger,"Jul 3, 2001 (24)",-,2001,45.0,50,38,29,23
+Türkiye,Süper Lig,Alanyaspor,9,Sergio Córdova,Centre-Forward,"Aug 9, 1997 (27)",€1.70m,1997,1700.0,70,57,38,30
+Türkiye,Süper Lig,Alanyaspor,10,Andraz Sporar,Centre-Forward,"Feb 27, 1994 (31)",€1.70m,1994,1700.0,70,57,38,30
+Türkiye,Süper Lig,Alanyaspor,-,Güven Yalçın,Centre-Forward,"Jan 18, 1999 (26)",€1.20m,1999,1200.0,68,56,37,29
+Türkiye,Süper Lig,Alanyaspor,16,Ui-jo Hwang,Centre-Forward,"Aug 28, 1992 (32)",€700k,1992,700.0,65,53,36,28
+Türkiye,Süper Lig,Alanyaspor,22,Uchenna Ogundu,Centre-Forward,"May 12, 2006 (19)",€650k,2006,650.0,63,52,35,27
+Türkiye,Süper Lig,Alanyaspor,15,Arda Usluoğlu,Centre-Forward,"Oct 12, 2006 (18)",€350k,2006,350.0,59,48,32,25

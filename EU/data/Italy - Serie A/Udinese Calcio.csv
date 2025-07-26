@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,Udinese Calcio,40,Maduka Okoye,Goalkeeper,"Aug 28, 1999 (25)",€7.50m,1999,7500.0,77,33,35,70
+Italy,Serie A,Udinese Calcio,90,Răzvan Sava,Goalkeeper,"Jun 21, 2002 (23)",€2.50m,2002,2500.0,71,31,33,65
+Italy,Serie A,Udinese Calcio,93,Daniele Padelli,Goalkeeper,"Oct 25, 1985 (39)",€150k,1985,150.0,58,25,27,53
+Italy,Serie A,Udinese Calcio,28,Oumar Solet,Centre-Back,"Feb 7, 2000 (25)",€18.00m,2000,18000.0,82,38,43,67
+Italy,Serie A,Udinese Calcio,-,Nicolò Bertola,Centre-Back,"Mar 23, 2003 (22)",€6.00m,2003,6000.0,76,35,40,62
+Italy,Serie A,Udinese Calcio,31,Thomas Kristensen,Centre-Back,"Jan 17, 2002 (23)",€6.00m,2002,6000.0,76,35,40,62
+Italy,Serie A,Udinese Calcio,30,Lautaro Giannetti,Centre-Back,"Nov 13, 1993 (31)",€2.00m,1993,2000.0,71,33,37,58
+Italy,Serie A,Udinese Calcio,16,Matteo Palma,Centre-Back,"Mar 13, 2008 (17)",€1.00m,2008,1000.0,64,29,33,52
+Italy,Serie A,Udinese Calcio,-,Christian Kabasele,Centre-Back,"Feb 24, 1991 (34)",€700k,1991,700.0,65,30,34,53
+Italy,Serie A,Udinese Calcio,33,Jordan Zemura,Left-Back,"Nov 14, 1999 (25)",€4.50m,1999,4500.0,75,37,41,57
+Italy,Serie A,Udinese Calcio,11,Hassane Kamara,Left-Back,"Mar 5, 1994 (31)",€3.50m,1994,3500.0,74,36,41,56
+Italy,Serie A,Udinese Calcio,19,Kingsley Ehizibue,Right-Back,"May 25, 1995 (30)",€2.40m,1995,2400.0,72,35,40,55
+Italy,Serie A,Udinese Calcio,25,Jesper Karlström,Defensive Midfield,"Jun 21, 1995 (30)",€4.00m,1995,4000.0,74,38,38,47
+Italy,Serie A,Udinese Calcio,8,Sandi Lovrić,Central Midfield,"Mar 28, 1998 (27)",€8.50m,1998,8500.0,78,45,50,45
+Italy,Serie A,Udinese Calcio,14,Arthur Atta,Central Midfield,"Jan 14, 2003 (22)",€8.00m,2003,8000.0,77,45,49,45
+Italy,Serie A,Udinese Calcio,32,Jurgen Ekkelenkamp,Central Midfield,"Apr 5, 2000 (25)",€7.00m,2000,7000.0,77,45,49,45
+Italy,Serie A,Udinese Calcio,5,Martín Payero,Central Midfield,"Sep 11, 1998 (26)",€5.50m,1998,5500.0,76,44,49,44
+Italy,Serie A,Udinese Calcio,6,Oier Zarraga,Central Midfield,"Jan 4, 1999 (26)",€2.00m,1999,2000.0,70,41,45,41
+Italy,Serie A,Udinese Calcio,-,Marco Ballarini,Central Midfield,"Mar 28, 2001 (24)",€100k,2001,100.0,54,31,35,31
+Italy,Serie A,Udinese Calcio,77,Rui Modesto,Right Midfield,"Oct 7, 1999 (25)",€2.00m,1999,2000.0,70,41,45,41
+Italy,Serie A,Udinese Calcio,20,Simone Pafundi,Attacking Midfield,"Mar 14, 2006 (19)",€5.00m,2006,5000.0,73,49,45,38
+Italy,Serie A,Udinese Calcio,79,David Pejičić,Attacking Midfield,"Jun 14, 2007 (18)",€1.00m,2007,1000.0,64,43,39,33
+Italy,Serie A,Udinese Calcio,10,Florian Thauvin,Second Striker,"Jan 26, 1993 (32)",€5.00m,1993,5000.0,76,60,44,33
+Italy,Serie A,Udinese Calcio,-,Vakoun Bayo,Centre-Forward,"Jan 10, 1997 (28)",€4.00m,1997,4000.0,74,61,41,32
+Italy,Serie A,Udinese Calcio,22,Brenner,Centre-Forward,"Jan 16, 2000 (25)",€4.00m,2000,4000.0,74,61,41,32
+Italy,Serie A,Udinese Calcio,9,Keinan Davis,Centre-Forward,"Feb 13, 1998 (27)",€3.40m,1998,3400.0,73,60,40,31
+Italy,Serie A,Udinese Calcio,99,Damián Pizarro,Centre-Forward,"Mar 28, 2005 (20)",€3.20m,2005,3200.0,71,58,39,31
+Italy,Serie A,Udinese Calcio,21,Iker Bravo,Centre-Forward,"Jan 13, 2005 (20)",€3.00m,2005,3000.0,71,58,39,31
+Italy,Serie A,Udinese Calcio,7,Alexis Sánchez,Centre-Forward,"Dec 19, 1988 (36)",€1.50m,1988,1500.0,70,57,38,30

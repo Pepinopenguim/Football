@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,FC Arouca,58,Nico Mantl,Goalkeeper,"Feb 6, 2000 (25)",€1.50m,2000,1500.0,69,30,32,63
+Portugal,Liga Portugal,FC Arouca,1,João Valido,Goalkeeper,"Mar 3, 2000 (25)",€300k,2000,300.0,60,26,28,55
+Portugal,Liga Portugal,FC Arouca,-,Jakub Vinarcik,Goalkeeper,"Jul 11, 2005 (20)",€150k,2005,150.0,55,24,25,50
+Portugal,Liga Portugal,FC Arouca,3,José Fontán,Centre-Back,"Feb 11, 2000 (25)",€2.00m,2000,2000.0,70,32,36,57
+Portugal,Liga Portugal,FC Arouca,-,Boris Popović,Centre-Back,"Feb 26, 2000 (25)",€1.50m,2000,1500.0,69,32,36,57
+Portugal,Liga Portugal,FC Arouca,4,Matías Rocha,Centre-Back,"Feb 13, 2001 (24)",€400k,2001,400.0,62,29,32,51
+Portugal,Liga Portugal,FC Arouca,-,Amadou Dante,Left-Back,"Oct 7, 2000 (24)",€1.50m,2000,1500.0,69,34,38,52
+Portugal,Liga Portugal,FC Arouca,-,Arnau Solà,Left-Back,"Apr 4, 2003 (22)",€400k,2003,400.0,61,30,34,46
+Portugal,Liga Portugal,FC Arouca,28,Tiago Esgaio,Right-Back,"Aug 1, 1995 (29)",€900k,1995,900.0,66,32,36,50
+Portugal,Liga Portugal,FC Arouca,78,Alex Pinto,Right-Back,"Jul 8, 1998 (27)",€500k,1998,500.0,63,31,35,48
+Portugal,Liga Portugal,FC Arouca,31,Mamadou Loum,Defensive Midfield,"Dec 30, 1996 (28)",€1.20m,1996,1200.0,68,35,35,44
+Portugal,Liga Portugal,FC Arouca,21,Taichi Fukui,Central Midfield,"Jul 15, 2004 (21)",€2.00m,2004,2000.0,69,40,44,40
+Portugal,Liga Portugal,FC Arouca,89,Pedro Santos,Central Midfield,"Oct 12, 2000 (24)",€1.20m,2000,1200.0,67,39,43,39
+Portugal,Liga Portugal,FC Arouca,5,David Simão,Central Midfield,"May 15, 1990 (35)",€100k,1990,100.0,55,32,35,32
+Portugal,Liga Portugal,FC Arouca,14,Hyun-ju Lee,Attacking Midfield,"Feb 7, 2003 (22)",€1.50m,2003,1500.0,68,46,41,35
+Portugal,Liga Portugal,FC Arouca,22,Pablo Gozálbez,Attacking Midfield,"Apr 30, 2001 (24)",€500k,2001,500.0,63,42,38,33
+Portugal,Liga Portugal,FC Arouca,7,Naïs Djouahra,Left Winger,"Nov 23, 1999 (25)",€1.50m,1999,1500.0,69,52,40,32
+Portugal,Liga Portugal,FC Arouca,-,Brian Mansilla,Left Winger,"May 14, 2002 (23)",€1.00m,2002,1000.0,66,50,38,30
+Portugal,Liga Portugal,FC Arouca,11,Miguel Puche,Left Winger,"Apr 30, 2001 (24)",€400k,2001,400.0,62,47,36,29
+Portugal,Liga Portugal,FC Arouca,19,Alfonso Trezza,Right Winger,"Jun 22, 1999 (26)",€1.00m,1999,1000.0,67,51,39,31
+Portugal,Liga Portugal,FC Arouca,-,Dylan Nandín,Centre-Forward,"Feb 28, 2002 (23)",€800k,2002,800.0,65,53,36,28
+Portugal,Liga Portugal,FC Arouca,17,Iván Barbero,Centre-Forward,"Aug 17, 1998 (26)",€700k,1998,700.0,65,53,36,28
+Portugal,Liga Portugal,FC Arouca,9,Vladislav Morozov,Centre-Forward,"Oct 12, 2000 (24)",€250k,2000,250.0,59,48,32,25

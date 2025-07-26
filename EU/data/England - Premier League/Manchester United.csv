@@ -1,0 +1,33 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Manchester United,24,André Onana,Goalkeeper,"Apr 2, 1996 (29)",€25.00m,1996,25000.0,84,36,39,76
+England,Premier League,Manchester United,1,Altay Bayındır,Goalkeeper,"Apr 14, 1998 (27)",€8.00m,1998,8000.0,78,34,36,71
+England,Premier League,Manchester United,22,Tom Heaton,Goalkeeper,"Apr 15, 1986 (39)",€200k,1986,200.0,59,25,27,54
+England,Premier League,Manchester United,15,Leny Yoro,Centre-Back,"Nov 13, 2005 (19)",€55.00m,2005,55000.0,87,40,45,71
+England,Premier League,Manchester United,6,Lisandro Martínez,Centre-Back,"Jan 18, 1998 (27)",€40.00m,1998,40000.0,86,40,45,71
+England,Premier League,Manchester United,4,Matthijs de Ligt,Centre-Back,"Aug 12, 1999 (25)",€38.00m,1999,38000.0,86,40,45,71
+England,Premier League,Manchester United,5,Harry Maguire,Centre-Back,"Mar 5, 1993 (32)",€13.00m,1993,13000.0,81,37,42,66
+England,Premier League,Manchester United,26,Ayden Heaven,Centre-Back,"Sep 22, 2006 (18)",€5.00m,2006,5000.0,73,34,38,60
+England,Premier League,Manchester United,33,Tyler Fredricson,Centre-Back,"Feb 23, 2005 (20)",€3.00m,2005,3000.0,71,33,37,58
+England,Premier League,Manchester United,13,Patrick Dorgu,Left-Back,"Oct 26, 2004 (20)",€25.00m,2004,25000.0,83,41,46,63
+England,Premier League,Manchester United,23,Luke Shaw,Left-Back,"Jul 12, 1995 (30)",€12.00m,1995,12000.0,80,39,44,61
+England,Premier League,Manchester United,12,Tyrell Malacia,Left-Back,"Aug 17, 1999 (25)",€8.00m,1999,8000.0,78,38,43,59
+England,Premier League,Manchester United,41,Harry Amass,Left-Back,"Mar 16, 2007 (18)",€5.00m,2007,5000.0,73,36,40,55
+England,Premier League,Manchester United,30,Diego León,Left-Back,"Apr 3, 2007 (18)",€4.00m,2007,4000.0,72,35,40,55
+England,Premier League,Manchester United,2,Diogo Dalot,Right-Back,"Mar 18, 1999 (26)",€30.00m,1999,30000.0,85,42,47,65
+England,Premier League,Manchester United,3,Noussair Mazraoui,Right-Back,"Nov 14, 1997 (27)",€25.00m,1997,25000.0,84,41,46,64
+England,Premier League,Manchester United,25,Manuel Ugarte,Defensive Midfield,"Apr 11, 2001 (24)",€45.00m,2001,45000.0,87,45,45,56
+England,Premier League,Manchester United,18,Casemiro,Defensive Midfield,"Feb 23, 1992 (33)",€10.00m,1992,10000.0,79,41,41,51
+England,Premier League,Manchester United,43,Toby Collyer,Defensive Midfield,"Jan 3, 2004 (21)",€5.00m,2004,5000.0,74,38,38,47
+England,Premier League,Manchester United,37,Kobbie Mainoo,Central Midfield,"Apr 19, 2005 (20)",€50.00m,2005,50000.0,86,50,55,50
+England,Premier League,Manchester United,8,Bruno Fernandes,Attacking Midfield,"Sep 8, 1994 (30)",€50.00m,1994,50000.0,88,59,54,46
+England,Premier League,Manchester United,7,Mason Mount,Attacking Midfield,"Jan 10, 1999 (26)",€28.00m,1999,28000.0,84,56,51,44
+England,Premier League,Manchester United,17,Alejandro Garnacho,Left Winger,"Jul 1, 2004 (21)",€45.00m,2004,45000.0,86,65,50,40
+England,Premier League,Manchester United,-,Jadon Sancho,Left Winger,"Mar 25, 2000 (25)",€28.00m,2000,28000.0,84,64,49,39
+England,Premier League,Manchester United,19,Bryan Mbeumo,Right Winger,"Aug 7, 1999 (25)",€55.00m,1999,55000.0,88,67,51,40
+England,Premier League,Manchester United,16,Amad Diallo,Right Winger,"Jul 11, 2002 (23)",€45.00m,2002,45000.0,87,66,50,40
+England,Premier League,Manchester United,21,Antony,Right Winger,"Feb 24, 2000 (25)",€35.00m,2000,35000.0,85,65,49,39
+England,Premier League,Manchester United,10,Matheus Cunha,Second Striker,"May 27, 1999 (26)",€60.00m,1999,60000.0,88,70,51,38
+England,Premier League,Manchester United,9,Rasmus Højlund,Centre-Forward,"Feb 4, 2003 (22)",€35.00m,2003,35000.0,85,70,47,37
+England,Premier League,Manchester United,11,Joshua Zirkzee,Centre-Forward,"May 22, 2001 (24)",€30.00m,2001,30000.0,85,70,47,37
+England,Premier League,Manchester United,32,Chido Obi,Centre-Forward,"Nov 29, 2007 (17)",€5.00m,2007,5000.0,73,60,40,31
+England,Premier League,Manchester United,36,Ethan Wheatley,Centre-Forward,"Jan 20, 2006 (19)",-,2006,34.0,47,39,26,20

@@ -1,0 +1,44 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Chelsea FC,1,Robert Sánchez,Goalkeeper,"Nov 18, 1997 (27)",€20.00m,1997,20000.0,83,36,38,76
+England,Premier League,Chelsea FC,12,Filip Jørgensen,Goalkeeper,"Apr 16, 2002 (23)",€18.00m,2002,18000.0,82,35,38,75
+England,Premier League,Chelsea FC,39,Mike Penders,Goalkeeper,"Jul 31, 2005 (19)",€12.00m,2005,12000.0,79,34,36,72
+England,Premier League,Chelsea FC,44,Gabriel Slonina,Goalkeeper,"May 15, 2004 (21)",€3.50m,2004,3500.0,72,31,33,66
+England,Premier League,Chelsea FC,6,Levi Colwill,Centre-Back,"Feb 26, 2003 (22)",€55.00m,2003,55000.0,87,40,45,71
+England,Premier League,Chelsea FC,23,Trevoh Chalobah,Centre-Back,"Jul 5, 1999 (26)",€25.00m,1999,25000.0,84,39,44,69
+England,Premier League,Chelsea FC,29,Wesley Fofana,Centre-Back,"Dec 17, 2000 (24)",€25.00m,2000,25000.0,84,39,44,69
+England,Premier League,Chelsea FC,40,Renato Veiga,Centre-Back,"Jul 29, 2003 (21)",€25.00m,2003,25000.0,83,38,43,68
+England,Premier League,Chelsea FC,2,Axel Disasi,Centre-Back,"Mar 11, 1998 (27)",€22.00m,1998,22000.0,83,38,43,68
+England,Premier League,Chelsea FC,5,Benoît Badiashile,Centre-Back,"Mar 26, 2001 (24)",€22.00m,2001,22000.0,83,38,43,68
+England,Premier League,Chelsea FC,4,Tosin Adarabioyo,Centre-Back,"Sep 24, 1997 (27)",€20.00m,1997,20000.0,83,38,43,68
+England,Premier League,Chelsea FC,19,Mamadou Sarr,Centre-Back,"Aug 29, 2005 (19)",€20.00m,2005,20000.0,81,37,42,66
+England,Premier League,Chelsea FC,30,Aarón Anselmino,Centre-Back,"Apr 29, 2005 (20)",€8.00m,2005,8000.0,76,35,40,62
+England,Premier League,Chelsea FC,3,Marc Cucurella,Left-Back,"Jul 22, 1998 (27)",€35.00m,1998,35000.0,86,42,47,65
+England,Premier League,Chelsea FC,21,Ben Chilwell,Left-Back,"Dec 21, 1996 (28)",€15.00m,1996,15000.0,81,40,45,62
+England,Premier League,Chelsea FC,27,Malo Gusto,Right-Back,"May 19, 2003 (22)",€35.00m,2003,35000.0,85,42,47,65
+England,Premier League,Chelsea FC,24,Reece James,Right-Back,"Dec 8, 1999 (25)",€30.00m,1999,30000.0,85,42,47,65
+England,Premier League,Chelsea FC,-,Alfie Gilchrist,Right-Back,"Nov 28, 2003 (21)",€8.00m,2003,8000.0,77,38,42,59
+England,Premier League,Chelsea FC,34,Josh Acheampong,Right-Back,"May 5, 2006 (19)",€8.00m,2006,8000.0,76,37,42,58
+England,Premier League,Chelsea FC,25,Moisés Caicedo,Defensive Midfield,"Nov 2, 2001 (23)",€90.00m,2001,90000.0,90,47,47,58
+England,Premier League,Chelsea FC,45,Roméo Lavia,Defensive Midfield,"Jan 6, 2004 (21)",€40.00m,2004,40000.0,85,44,44,54
+England,Premier League,Chelsea FC,14,Dário Essugo,Defensive Midfield,"Mar 14, 2005 (20)",€20.00m,2005,20000.0,81,42,42,52
+England,Premier League,Chelsea FC,16,Lesley Ugochukwu,Defensive Midfield,"Mar 26, 2004 (21)",€18.00m,2004,18000.0,81,42,42,52
+England,Premier League,Chelsea FC,8,Enzo Fernández,Central Midfield,"Jan 17, 2001 (24)",€75.00m,2001,75000.0,89,52,57,52
+England,Premier League,Chelsea FC,17,Andrey Santos,Central Midfield,"May 3, 2004 (21)",€35.00m,2004,35000.0,85,49,54,49
+England,Premier League,Chelsea FC,22,Kiernan Dewsbury-Hall,Central Midfield,"Sep 6, 1998 (26)",€20.00m,1998,20000.0,83,48,53,48
+England,Premier League,Chelsea FC,-,Carney Chukwuemeka,Central Midfield,"Oct 20, 2003 (21)",€18.00m,2003,18000.0,81,47,52,47
+England,Premier League,Chelsea FC,10,Cole Palmer,Attacking Midfield,"May 6, 2002 (23)",€120.00m,2002,120000.0,92,62,56,48
+England,Premier League,Chelsea FC,-,Kendry Páez,Attacking Midfield,"May 4, 2007 (18)",€10.00m,2007,10000.0,77,52,47,40
+England,Premier League,Chelsea FC,-,Jamie Gittens,Left Winger,"Aug 8, 2004 (20)",€50.00m,2004,50000.0,86,65,50,40
+England,Premier League,Chelsea FC,32,Tyrique George,Left Winger,"Feb 4, 2006 (19)",€10.00m,2006,10000.0,77,59,45,35
+England,Premier League,Chelsea FC,-,Mykhaylo Mudryk,Left Winger,"Jan 5, 2001 (24)",-,2001,1.0,30,23,17,14
+England,Premier League,Chelsea FC,-,Estêvão,Right Winger,"Apr 24, 2007 (18)",€60.00m,2007,60000.0,86,65,50,40
+England,Premier League,Chelsea FC,7,Pedro Neto,Right Winger,"Mar 9, 2000 (25)",€50.00m,2000,50000.0,87,66,50,40
+England,Premier League,Chelsea FC,-,Raheem Sterling,Right Winger,"Dec 8, 1994 (30)",€10.00m,1994,10000.0,79,60,46,36
+England,Premier League,Chelsea FC,-,João Félix,Second Striker,"Nov 10, 1999 (25)",€20.00m,1999,20000.0,83,66,48,36
+England,Premier League,Chelsea FC,15,Nicolas Jackson,Centre-Forward,"Jun 20, 2001 (24)",€50.00m,2001,50000.0,87,71,48,37
+England,Premier League,Chelsea FC,20,João Pedro,Centre-Forward,"Sep 26, 2001 (23)",€50.00m,2001,50000.0,87,71,48,37
+England,Premier League,Chelsea FC,9,Liam Delap,Centre-Forward,"Feb 8, 2003 (22)",€40.00m,2003,40000.0,86,71,47,37
+England,Premier League,Chelsea FC,18,Christopher Nkunku,Centre-Forward,"Nov 14, 1997 (27)",€35.00m,1997,35000.0,86,71,47,37
+England,Premier League,Chelsea FC,-,Armando Broja,Centre-Forward,"Sep 10, 2001 (23)",€12.00m,2001,12000.0,80,66,44,34
+England,Premier League,Chelsea FC,38,Marc Guiu,Centre-Forward,"Jan 4, 2006 (19)",€8.00m,2006,8000.0,76,62,42,33
+England,Premier League,Chelsea FC,-,David Datro Fofana,Centre-Forward,"Dec 22, 2002 (22)",€6.00m,2002,6000.0,76,62,42,33

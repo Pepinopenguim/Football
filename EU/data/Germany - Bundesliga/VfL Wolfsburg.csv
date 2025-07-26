@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Germany,Bundesliga,VfL Wolfsburg,1,Kamil Grabara,Goalkeeper,"Jan 8, 1999 (26)",€14.00m,1999,14000.0,81,35,37,74
+Germany,Bundesliga,VfL Wolfsburg,29,Marius Müller,Goalkeeper,"Jul 12, 1993 (32)",€1.50m,1993,1500.0,69,30,32,63
+Germany,Bundesliga,VfL Wolfsburg,12,Pavao Pervan,Goalkeeper,"Nov 13, 1987 (37)",€300k,1987,300.0,61,26,28,56
+Germany,Bundesliga,VfL Wolfsburg,30,Jakub Zielinski,Goalkeeper,"Feb 21, 2008 (17)",-,2008,72.0,50,22,23,46
+Germany,Bundesliga,VfL Wolfsburg,4,Konstantinos Koulierakis,Centre-Back,"Nov 28, 2003 (21)",€25.00m,2003,25000.0,83,38,43,68
+Germany,Bundesliga,VfL Wolfsburg,3,Denis Vavro,Centre-Back,"Apr 10, 1996 (29)",€7.00m,1996,7000.0,77,35,40,63
+Germany,Bundesliga,VfL Wolfsburg,15,Moritz Jenz,Centre-Back,"Apr 30, 1999 (26)",€5.00m,1999,5000.0,75,34,39,62
+Germany,Bundesliga,VfL Wolfsburg,33,David Odogu,Centre-Back,"Jun 3, 2006 (19)",€1.50m,2006,1500.0,67,31,35,55
+Germany,Bundesliga,VfL Wolfsburg,22,Mathys Angély,Centre-Back,"Apr 21, 2007 (18)",€600k,2007,600.0,62,29,32,51
+Germany,Bundesliga,VfL Wolfsburg,21,Joakim Maehle,Left-Back,"May 20, 1997 (28)",€14.00m,1997,14000.0,81,40,45,62
+Germany,Bundesliga,VfL Wolfsburg,13,Rogério,Left-Back,"Jan 13, 1998 (27)",€2.50m,1998,2500.0,72,35,40,55
+Germany,Bundesliga,VfL Wolfsburg,2,Kilian Fischer,Right-Back,"Oct 12, 2000 (24)",€6.00m,2000,6000.0,76,37,42,58
+Germany,Bundesliga,VfL Wolfsburg,5,Vini Souza,Defensive Midfield,"Jun 17, 1999 (26)",€15.00m,1999,15000.0,81,42,42,52
+Germany,Bundesliga,VfL Wolfsburg,32,Mattias Svanberg,Central Midfield,"Jan 5, 1999 (26)",€12.00m,1999,12000.0,80,46,51,46
+Germany,Bundesliga,VfL Wolfsburg,6,Aster Vranckx,Central Midfield,"Oct 4, 2002 (22)",€7.00m,2002,7000.0,77,45,49,45
+Germany,Bundesliga,VfL Wolfsburg,27,Maximilian Arnold,Central Midfield,"May 27, 1994 (31)",€5.00m,1994,5000.0,76,44,49,44
+Germany,Bundesliga,VfL Wolfsburg,31,Yannick Gerhardt,Central Midfield,"Mar 13, 1994 (31)",€2.50m,1994,2500.0,72,42,46,42
+Germany,Bundesliga,VfL Wolfsburg,40,Kevin Paredes,Left Midfield,"May 7, 2003 (22)",€7.50m,2003,7500.0,77,45,49,45
+Germany,Bundesliga,VfL Wolfsburg,25,Aaron Zehnter,Left Midfield,"Oct 31, 2004 (20)",€6.00m,2004,6000.0,75,44,48,44
+Germany,Bundesliga,VfL Wolfsburg,10,Lovro Majer,Attacking Midfield,"Jan 17, 1998 (27)",€17.00m,1998,17000.0,82,55,50,43
+Germany,Bundesliga,VfL Wolfsburg,8,Bence Dárdai,Attacking Midfield,"Jan 24, 2006 (19)",€12.00m,2006,12000.0,78,52,48,41
+Germany,Bundesliga,VfL Wolfsburg,37,David Leal Costa,Attacking Midfield,"Jan 24, 2006 (19)",-,2006,17.0,43,29,26,22
+Germany,Bundesliga,VfL Wolfsburg,19,Jesper Lindstrøm,Right Winger,"Feb 29, 2000 (25)",€18.00m,2000,18000.0,82,62,48,38
+Germany,Bundesliga,VfL Wolfsburg,39,Patrick Wimmer,Right Winger,"May 30, 2001 (24)",€15.00m,2001,15000.0,81,62,47,37
+Germany,Bundesliga,VfL Wolfsburg,7,Andreas Skov Olsen,Right Winger,"Dec 29, 1999 (25)",€14.00m,1999,14000.0,81,62,47,37
+Germany,Bundesliga,VfL Wolfsburg,18,Vaclav Cerny,Right Winger,"Oct 17, 1997 (27)",€8.00m,1997,8000.0,78,59,45,36
+Germany,Bundesliga,VfL Wolfsburg,9,Mohamed Amoura,Centre-Forward,"May 9, 2000 (25)",€32.00m,2000,32000.0,85,70,47,37
+Germany,Bundesliga,VfL Wolfsburg,11,Tiago Tomás,Centre-Forward,"Jun 16, 2002 (23)",€12.00m,2002,12000.0,80,66,44,34
+Germany,Bundesliga,VfL Wolfsburg,23,Jonas Wind,Centre-Forward,"Feb 7, 1999 (26)",€12.00m,1999,12000.0,80,66,44,34
+Germany,Bundesliga,VfL Wolfsburg,17,Dzenan Pejcinovic,Centre-Forward,"Feb 15, 2005 (20)",€4.00m,2005,4000.0,73,60,40,31

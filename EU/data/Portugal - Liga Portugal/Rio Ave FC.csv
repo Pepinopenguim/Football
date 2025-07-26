@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,Rio Ave FC,1,Cezary Miszta,Goalkeeper,"Oct 30, 2001 (23)",€3.00m,2001,3000.0,72,31,33,66
+Portugal,Liga Portugal,Rio Ave FC,-,Kevin Chamorro,Goalkeeper,"Apr 8, 2000 (25)",€300k,2000,300.0,60,26,28,55
+Portugal,Liga Portugal,Rio Ave FC,99,Antzelo Sina,Goalkeeper,"Jan 7, 2004 (21)",€200k,2004,200.0,57,25,26,52
+Portugal,Liga Portugal,Rio Ave FC,3,Andreas Ntoi,Centre-Back,"Feb 2, 2003 (22)",€4.50m,2003,4500.0,74,34,38,61
+Portugal,Liga Portugal,Rio Ave FC,23,Francisco Petrasso,Centre-Back,"Jan 28, 2002 (23)",€1.50m,2002,1500.0,68,31,35,56
+Portugal,Liga Portugal,Rio Ave FC,2,Jonathan Panzo,Centre-Back,"Oct 25, 2000 (24)",€1.20m,2000,1200.0,67,31,35,55
+Portugal,Liga Portugal,Rio Ave FC,4,Nelson Abbey,Centre-Back,"Aug 28, 2003 (21)",€700k,2003,700.0,64,29,33,52
+Portugal,Liga Portugal,Rio Ave FC,-,Nikolaos Athanasiou,Left-Back,"Mar 16, 2001 (24)",€1.00m,2001,1000.0,66,32,36,50
+Portugal,Liga Portugal,Rio Ave FC,-,Georgios Okkas,Left-Back,"Oct 24, 2003 (21)",€150k,2003,150.0,56,27,31,43
+Portugal,Liga Portugal,Rio Ave FC,17,Marios Vrousai,Right-Back,"Jul 2, 1998 (27)",€2.00m,1998,2000.0,70,34,38,53
+Portugal,Liga Portugal,Rio Ave FC,20,João Tomé,Right-Back,"Feb 12, 2003 (22)",€600k,2003,600.0,63,31,35,48
+Portugal,Liga Portugal,Rio Ave FC,-,Theofanis Bakoulas,Defensive Midfield,"Jan 4, 2005 (20)",€1.00m,2005,1000.0,65,34,34,42
+Portugal,Liga Portugal,Rio Ave FC,6,João Novais,Central Midfield,"Jul 10, 1993 (32)",€400k,1993,400.0,62,36,40,36
+Portugal,Liga Portugal,Rio Ave FC,21,João Graça,Central Midfield,"Jun 18, 1995 (30)",€300k,1995,300.0,61,35,39,35
+Portugal,Liga Portugal,Rio Ave FC,80,Ole Pohlmann,Attacking Midfield,"Apr 5, 2001 (24)",€2.50m,2001,2500.0,71,48,43,37
+Portugal,Liga Portugal,Rio Ave FC,16,Brandon Aguilera,Attacking Midfield,"Jun 28, 2003 (22)",€1.50m,2003,1500.0,68,46,41,35
+Portugal,Liga Portugal,Rio Ave FC,-,Antonis Papakanellos,Attacking Midfield,"Aug 11, 2005 (19)",€500k,2005,500.0,62,42,38,32
+Portugal,Liga Portugal,Rio Ave FC,27,Tobías Medina,Left Winger,"Mar 3, 2004 (21)",€1.00m,2004,1000.0,66,50,38,30
+Portugal,Liga Portugal,Rio Ave FC,94,Tim,Left Winger,"Feb 14, 2005 (20)",€150k,2005,150.0,55,42,32,25
+Portugal,Liga Portugal,Rio Ave FC,7,André Luiz,Right Winger,"Feb 23, 2002 (23)",€2.50m,2002,2500.0,71,54,41,33
+Portugal,Liga Portugal,Rio Ave FC,-,Amine Rehmi,Right Winger,"Apr 1, 2002 (23)",€175k,2002,175.0,57,43,33,26
+Portugal,Liga Portugal,Rio Ave FC,-,Clayton,Centre-Forward,"Jan 11, 1999 (26)",€5.00m,1999,5000.0,75,62,41,32
+Portugal,Liga Portugal,Rio Ave FC,14,Karem Zoabi,Centre-Forward,"May 3, 2006 (19)",€900k,2006,900.0,64,52,35,28

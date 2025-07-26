@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,AFC Bournemouth,-,Djordje Petrovic,Goalkeeper,"Oct 8, 1999 (25)",€20.00m,1999,20000.0,83,36,38,76
+England,Premier League,AFC Bournemouth,1,Neto,Goalkeeper,"Jul 19, 1989 (36)",€1.50m,1989,1500.0,70,30,32,64
+England,Premier League,AFC Bournemouth,-,Alex Paulsen,Goalkeeper,"Jul 4, 2002 (23)",€750k,2002,750.0,65,28,30,59
+England,Premier League,AFC Bournemouth,40,Will Dennis,Goalkeeper,"Jul 10, 2000 (25)",€350k,2000,350.0,61,26,28,56
+England,Premier League,AFC Bournemouth,27,Ilya Zabarnyi,Centre-Back,"Sep 1, 2002 (22)",€42.00m,2002,42000.0,86,40,45,71
+England,Premier League,AFC Bournemouth,5,Marcos Senesi,Centre-Back,"May 10, 1997 (28)",€22.00m,1997,22000.0,83,38,43,68
+England,Premier League,AFC Bournemouth,6,Chris Mepham,Centre-Back,"Nov 5, 1997 (27)",€6.00m,1997,6000.0,76,35,40,62
+England,Premier League,AFC Bournemouth,23,James Hill,Centre-Back,"Jan 10, 2002 (23)",€3.00m,2002,3000.0,72,33,37,59
+England,Premier League,AFC Bournemouth,45,Matai Akinmboni,Centre-Back,"Oct 17, 2006 (18)",€1.00m,2006,1000.0,65,30,34,53
+England,Premier League,AFC Bournemouth,3,Adrien Truffert,Left-Back,"Nov 20, 2001 (23)",€15.00m,2001,15000.0,81,40,45,62
+England,Premier League,AFC Bournemouth,20,Julio Soler,Left-Back,"Feb 16, 2005 (20)",€8.00m,2005,8000.0,76,37,42,58
+England,Premier League,AFC Bournemouth,22,Julián Araujo,Right-Back,"Aug 13, 2001 (23)",€10.00m,2001,10000.0,79,39,43,60
+England,Premier League,AFC Bournemouth,15,Adam Smith,Right-Back,"Apr 29, 1991 (34)",€750k,1991,750.0,66,32,36,50
+England,Premier League,AFC Bournemouth,12,Tyler Adams,Defensive Midfield,"Feb 14, 1999 (26)",€18.00m,1999,18000.0,82,43,43,52
+England,Premier League,AFC Bournemouth,10,Ryan Christie,Defensive Midfield,"Feb 22, 1995 (30)",€10.00m,1995,10000.0,79,41,41,51
+England,Premier League,AFC Bournemouth,8,Alex Scott,Central Midfield,"Aug 21, 2003 (21)",€20.00m,2003,20000.0,82,48,52,48
+England,Premier League,AFC Bournemouth,4,Lewis Cook,Central Midfield,"Feb 3, 1997 (28)",€15.00m,1997,15000.0,81,47,52,47
+England,Premier League,AFC Bournemouth,29,Philip Billing,Central Midfield,"Jun 11, 1996 (29)",€10.00m,1996,10000.0,79,46,51,46
+England,Premier League,AFC Bournemouth,-,Romain Faivre,Right Midfield,"Jul 14, 1998 (27)",€6.00m,1998,6000.0,76,44,49,44
+England,Premier League,AFC Bournemouth,16,Marcus Tavernier,Left Midfield,"Mar 22, 1999 (26)",€18.00m,1999,18000.0,82,48,52,48
+England,Premier League,AFC Bournemouth,19,Justin Kluivert,Attacking Midfield,"May 5, 1999 (26)",€35.00m,1999,35000.0,86,58,52,45
+England,Premier League,AFC Bournemouth,-,Hamed Junior Traoré,Attacking Midfield,"Feb 16, 2000 (25)",€20.00m,2000,20000.0,82,55,50,43
+England,Premier League,AFC Bournemouth,24,Antoine Semenyo,Left Winger,"Jan 7, 2000 (25)",€40.00m,2000,40000.0,86,65,50,40
+England,Premier League,AFC Bournemouth,11,Dango Ouattara,Left Winger,"Feb 11, 2002 (23)",€28.00m,2002,28000.0,84,64,49,39
+England,Premier League,AFC Bournemouth,17,Luis Sinisterra,Left Winger,"Jun 17, 1999 (26)",€15.00m,1999,15000.0,81,62,47,37
+England,Premier League,AFC Bournemouth,7,David Brooks,Right Winger,"Jul 8, 1997 (28)",€10.00m,1997,10000.0,79,60,46,36
+England,Premier League,AFC Bournemouth,9,Evanilson,Centre-Forward,"Oct 6, 1999 (25)",€35.00m,1999,35000.0,86,71,47,37
+England,Premier League,AFC Bournemouth,-,Eli Junior Kroupi,Centre-Forward,"Jun 23, 2006 (19)",€15.00m,2006,15000.0,79,65,43,34
+England,Premier League,AFC Bournemouth,26,Enes Ünal,Centre-Forward,"May 10, 1997 (28)",€10.00m,1997,10000.0,79,65,43,34

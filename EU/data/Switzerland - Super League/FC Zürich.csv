@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Switzerland,Super League,FC Zürich,25,Yanick Brecher,Goalkeeper,"May 25, 1993 (32)",€300k,1993,300.0,61,26,28,56
+Switzerland,Super League,FC Zürich,12,Yevgen Morozov,Goalkeeper,"Feb 15, 2007 (18)",€100k,2007,100.0,52,22,24,47
+Switzerland,Super League,FC Zürich,28,Silas Huber,Goalkeeper,"Jul 10, 2005 (20)",€100k,2005,100.0,53,23,24,48
+Switzerland,Super League,FC Zürich,5,Mariano Gómez,Centre-Back,"Feb 5, 1999 (26)",€1.00m,1999,1000.0,67,31,35,55
+Switzerland,Super League,FC Zürich,2,Lindrit Kamberi,Centre-Back,"Oct 7, 1999 (25)",€600k,1999,600.0,64,29,33,52
+Switzerland,Super League,FC Zürich,27,Ilan Sauter,Centre-Back,"Feb 6, 2001 (24)",€300k,2001,300.0,60,28,31,49
+Switzerland,Super League,FC Zürich,35,David Vujevic,Centre-Back,"Oct 20, 2006 (18)",€100k,2006,100.0,53,24,28,43
+Switzerland,Super League,FC Zürich,20,Junior Ligue,Left-Back,"Mar 21, 2005 (20)",€4.00m,2005,4000.0,73,36,40,55
+Switzerland,Super League,FC Zürich,-,Nemanja Tosic,Left-Back,"Jan 23, 1997 (28)",€700k,1997,700.0,65,32,36,49
+Switzerland,Super League,FC Zürich,43,Neil Volken,Left-Back,"Apr 23, 2007 (18)",€100k,2007,100.0,52,25,29,40
+Switzerland,Super League,FC Zürich,32,Selmin Hodza,Right-Back,"May 24, 2003 (22)",€100k,2003,100.0,54,26,30,41
+Switzerland,Super League,FC Zürich,13,Mohamed Bangoura,Defensive Midfield,"Feb 18, 2006 (19)",€200k,2006,200.0,56,29,29,36
+Switzerland,Super League,FC Zürich,34,Cosimo Fiorini,Defensive Midfield,"May 27, 2006 (19)",€100k,2006,100.0,53,28,28,34
+Switzerland,Super League,FC Zürich,6,Cheveyo Tsawa,Central Midfield,"Dec 9, 2006 (18)",€4.00m,2006,4000.0,72,42,46,42
+Switzerland,Super League,FC Zürich,15,Nelson Palacio,Central Midfield,"Jun 16, 2001 (24)",€1.00m,2001,1000.0,66,38,42,38
+Switzerland,Super League,FC Zürich,38,Miguel Reichmuth,Central Midfield,"Oct 26, 2003 (21)",€100k,2003,100.0,54,31,35,31
+Switzerland,Super League,FC Zürich,7,Bledian Krasniqi,Attacking Midfield,"Jun 17, 2001 (24)",€1.70m,2001,1700.0,69,46,42,36
+Switzerland,Super League,FC Zürich,10,Steven Zuber,Attacking Midfield,"Aug 17, 1991 (33)",€1.20m,1991,1200.0,68,46,41,35
+Switzerland,Super League,FC Zürich,14,Nevio Di Giusto,Attacking Midfield,"Mar 18, 2005 (20)",€100k,2005,100.0,53,36,32,28
+Switzerland,Super League,FC Zürich,11,Umeh Emmanuel,Left Winger,"Aug 31, 2004 (20)",€1.20m,2004,1200.0,67,51,39,31
+Switzerland,Super League,FC Zürich,17,Matthias Phaëton,Left Winger,"Jan 8, 2000 (25)",€1.20m,2000,1200.0,67,51,39,31
+Switzerland,Super League,FC Zürich,22,Armstrong Oko-Flex,Left Winger,"Mar 2, 2002 (23)",€400k,2002,400.0,61,46,35,28
+Switzerland,Super League,FC Zürich,26,Jahnoah Markelo,Right Winger,"Jan 4, 2003 (22)",€2.00m,2003,2000.0,70,53,41,32
+Switzerland,Super League,FC Zürich,29,Damienus Reverson,Centre-Forward,"Oct 18, 2003 (21)",€500k,2003,500.0,62,51,34,27
+Switzerland,Super League,FC Zürich,40,Vincent Nvendo,Centre-Forward,"Jul 27, 2003 (21)",€100k,2003,100.0,54,44,30,23

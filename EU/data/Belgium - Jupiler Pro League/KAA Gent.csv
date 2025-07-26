@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Belgium,Jupiler Pro League,KAA Gent,33,Davy Roef,Goalkeeper,"Feb 6, 1994 (31)",€2.50m,1994,2500.0,72,31,33,66
+Belgium,Jupiler Pro League,KAA Gent,-,Kjell Peersman,Goalkeeper,"May 21, 2004 (21)",€500k,2004,500.0,62,27,29,56
+Belgium,Jupiler Pro League,KAA Gent,32,Tom Vandenberghe,Goalkeeper,"Aug 17, 1992 (32)",€400k,1992,400.0,62,27,29,56
+Belgium,Jupiler Pro League,KAA Gent,44,Siebe Van der Heyden,Centre-Back,"May 30, 1998 (27)",€2.50m,1998,2500.0,72,33,37,59
+Belgium,Jupiler Pro League,KAA Gent,-,Ismaël Kandouss,Centre-Back,"Nov 12, 1997 (27)",€2.00m,1997,2000.0,70,32,36,57
+Belgium,Jupiler Pro League,KAA Gent,2,Samuel Kotto,Centre-Back,"Sep 3, 2003 (21)",€1.20m,2003,1200.0,67,31,35,55
+Belgium,Jupiler Pro League,KAA Gent,12,Hugo Gambor,Centre-Back,"Dec 30, 2002 (22)",€1.00m,2002,1000.0,66,30,34,54
+Belgium,Jupiler Pro League,KAA Gent,-,Bram Lagae,Centre-Back,"Jan 14, 2004 (21)",€900k,2004,900.0,65,30,34,53
+Belgium,Jupiler Pro League,KAA Gent,-,Hatim Essaouabi,Centre-Back,"Dec 13, 2000 (24)",€850k,2000,850.0,66,30,34,54
+Belgium,Jupiler Pro League,KAA Gent,13,Stefan Mitrovic,Centre-Back,"May 22, 1990 (35)",€650k,1990,650.0,65,30,34,53
+Belgium,Jupiler Pro League,KAA Gent,20,Tiago Araújo,Left-Back,"Mar 27, 2001 (24)",€1.30m,2001,1300.0,68,33,37,52
+Belgium,Jupiler Pro League,KAA Gent,35,Gilles De Meyer,Right-Back,"Sep 17, 2006 (18)",€700k,2006,700.0,63,31,35,48
+Belgium,Jupiler Pro League,KAA Gent,-,Mohammed El Âdfaoui,Defensive Midfield,"Feb 28, 2008 (17)",-,2008,81.0,51,27,27,33
+Belgium,Jupiler Pro League,KAA Gent,16,Mathias Delorge,Central Midfield,"Jul 31, 2004 (20)",€9.00m,2004,9000.0,77,45,49,45
+Belgium,Jupiler Pro League,KAA Gent,5,Leonardo Lopes,Central Midfield,"Nov 30, 1998 (26)",€3.50m,1998,3500.0,73,42,47,42
+Belgium,Jupiler Pro League,KAA Gent,15,Atsuki Ito,Central Midfield,"Aug 11, 1998 (26)",€3.00m,1998,3000.0,73,42,47,42
+Belgium,Jupiler Pro League,KAA Gent,18,Matisse Samoise,Right Midfield,"Nov 21, 2001 (23)",€2.50m,2001,2500.0,71,41,45,41
+Belgium,Jupiler Pro League,KAA Gent,6,Omri Gandelman,Attacking Midfield,"May 16, 2000 (25)",€4.00m,2000,4000.0,74,50,45,38
+Belgium,Jupiler Pro League,KAA Gent,10,Aimé Omgba,Attacking Midfield,"Oct 22, 2002 (22)",€2.00m,2002,2000.0,70,47,43,36
+Belgium,Jupiler Pro League,KAA Gent,27,Tibe De Vlieger,Attacking Midfield,"Nov 5, 2005 (19)",€400k,2005,400.0,60,40,37,31
+Belgium,Jupiler Pro League,KAA Gent,11,Momodou Lamin Sonko,Left Winger,"Jan 31, 2005 (20)",€3.00m,2005,3000.0,71,54,41,33
+Belgium,Jupiler Pro League,KAA Gent,19,Franck Surdez,Left Winger,"May 5, 2002 (23)",€2.00m,2002,2000.0,70,53,41,32
+Belgium,Jupiler Pro League,KAA Gent,29,Hélio Varela,Left Winger,"May 3, 2002 (23)",€1.20m,2002,1200.0,67,51,39,31
+Belgium,Jupiler Pro League,KAA Gent,-,Daisuke Yokota,Right Winger,"Jun 15, 2000 (25)",€2.50m,2000,2500.0,71,54,41,33
+Belgium,Jupiler Pro League,KAA Gent,14,Dante Vanzeir,Centre-Forward,"Apr 16, 1998 (27)",€5.00m,1998,5000.0,75,62,41,32
+Belgium,Jupiler Pro League,KAA Gent,21,Max Dean,Centre-Forward,"Feb 21, 2004 (21)",€3.50m,2004,3500.0,72,59,40,31
+Belgium,Jupiler Pro League,KAA Gent,7,Wilfried Kanga,Centre-Forward,"Feb 21, 1998 (27)",€2.50m,1998,2500.0,72,59,40,31
+Belgium,Jupiler Pro League,KAA Gent,9,Andri Gudjohnsen,Centre-Forward,"Jan 29, 2002 (23)",€2.00m,2002,2000.0,70,57,38,30
+Belgium,Jupiler Pro League,KAA Gent,45,Hyllarion Goore,Centre-Forward,"Aug 24, 2005 (19)",€600k,2005,600.0,63,52,35,27

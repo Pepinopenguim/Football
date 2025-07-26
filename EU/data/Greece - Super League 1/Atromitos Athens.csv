@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Greece,Super League 1,Atromitos Athens,1,Lefteris Choutesiotis,Goalkeeper,"Jul 20, 1994 (31)",€400k,1994,400.0,62,27,29,56
+Greece,Super League 1,Atromitos Athens,55,Alexei Koselev,Goalkeeper,"Nov 19, 1993 (31)",€350k,1993,350.0,62,27,29,56
+Greece,Super League 1,Atromitos Athens,-,Stelios Sarakinlis,Goalkeeper,"Sep 19, 2004 (20)",-,2004,15.0,43,18,20,39
+Greece,Super League 1,Atromitos Athens,4,Dimitrios Stavropoulos,Centre-Back,"May 1, 1997 (28)",€350k,1997,350.0,61,28,32,50
+Greece,Super League 1,Atromitos Athens,44,Dimitrios Tsakmakis,Centre-Back,"Jul 28, 1999 (25)",€300k,1999,300.0,60,28,31,49
+Greece,Super League 1,Atromitos Athens,70,Mansur,Centre-Back,"Apr 17, 1993 (32)",€300k,1993,300.0,61,28,32,50
+Greece,Super League 1,Atromitos Athens,-,Michalis Stamatoulas,Centre-Back,"Oct 10, 2003 (21)",€125k,2003,125.0,55,25,29,45
+Greece,Super League 1,Atromitos Athens,-,Symeon Koromilas,Centre-Back,"Mar 11, 2005 (20)",-,2005,40.0,48,22,25,39
+Greece,Super League 1,Atromitos Athens,-,Georgios Papadopoulos,Left-Back,"Oct 18, 2002 (22)",€150k,2002,150.0,56,27,31,43
+Greece,Super League 1,Atromitos Athens,17,Quini,Right-Back,"Sep 24, 1989 (35)",€200k,1989,200.0,59,29,32,45
+Greece,Super League 1,Atromitos Athens,18,Ismahila Ouédraogo,Defensive Midfield,"Nov 5, 1999 (25)",€700k,1999,700.0,65,34,34,42
+Greece,Super League 1,Atromitos Athens,12,Mattheos Mountes,Defensive Midfield,"Nov 17, 2003 (21)",€300k,2003,300.0,60,31,31,38
+Greece,Super League 1,Atromitos Athens,5,Theocharis Tsingaras,Central Midfield,"Aug 20, 2000 (24)",€1.00m,2000,1000.0,67,39,43,39
+Greece,Super League 1,Atromitos Athens,8,Peter Michorl,Central Midfield,"May 9, 1995 (30)",€500k,1995,500.0,63,37,40,37
+Greece,Super League 1,Atromitos Athens,66,Athanasios Karamanis,Central Midfield,"Oct 14, 2003 (21)",€300k,2003,300.0,60,35,38,35
+Greece,Super League 1,Atromitos Athens,30,Brayan Palmezano,Attacking Midfield,"Sep 17, 2000 (24)",€900k,2000,900.0,66,44,40,34
+Greece,Super League 1,Atromitos Athens,-,Georgios Vrakas,Attacking Midfield,"Apr 28, 2001 (24)",€300k,2001,300.0,60,40,37,31
+Greece,Super League 1,Atromitos Athens,24,Spyros Ampartzidis,Attacking Midfield,"Jan 24, 2005 (20)",€50k,2005,50.0,49,33,30,25
+Greece,Super League 1,Atromitos Athens,99,Georgios Tzovaras,Left Winger,"Nov 3, 1999 (25)",€250k,1999,250.0,59,45,34,27
+Greece,Super League 1,Atromitos Athens,32,Makana Baku,Right Winger,"Apr 8, 1998 (27)",€600k,1998,600.0,64,49,37,29
+Greece,Super League 1,Atromitos Athens,-,Sotiris Tsiloulis,Right Winger,"Feb 14, 1995 (30)",€350k,1995,350.0,61,46,35,28
+Greece,Super League 1,Atromitos Athens,11,Denzel Jubitana,Second Striker,"May 6, 1999 (26)",€600k,1999,600.0,64,51,37,28
+Greece,Super League 1,Atromitos Athens,9,Tom van Weert,Centre-Forward,"Jun 7, 1990 (35)",€200k,1990,200.0,59,48,32,25
+Greece,Super League 1,Atromitos Athens,19,Panagiotis Tsantilas,Centre-Forward,"Mar 1, 2004 (21)",-,2004,40.0,48,39,26,21

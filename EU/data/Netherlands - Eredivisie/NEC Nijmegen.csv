@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,NEC Nijmegen,22,Robin Roefs,Goalkeeper,"Jan 17, 2003 (22)",€4.00m,2003,4000.0,73,31,34,66
+Netherlands,Eredivisie,NEC Nijmegen,-,Gonzalo Crettaz,Goalkeeper,"Feb 28, 2000 (25)",€800k,2000,800.0,65,28,30,59
+Netherlands,Eredivisie,NEC Nijmegen,31,Rijk Janse,Goalkeeper,"Apr 16, 2002 (23)",€25k,2002,25.0,47,20,22,43
+Netherlands,Eredivisie,NEC Nijmegen,3,Philippe Sandler,Centre-Back,"Feb 10, 1997 (28)",€2.30m,1997,2300.0,71,33,37,58
+Netherlands,Eredivisie,NEC Nijmegen,17,Bram Nuytinck,Centre-Back,"May 4, 1990 (35)",€300k,1990,300.0,61,28,32,50
+Netherlands,Eredivisie,NEC Nijmegen,24,Calvin Verdonk,Left-Back,"Apr 26, 1997 (28)",€2.50m,1997,2500.0,72,35,40,55
+Netherlands,Eredivisie,NEC Nijmegen,5,Thomas Ouwejan,Left-Back,"Sep 30, 1996 (28)",€1.20m,1996,1200.0,68,33,37,52
+Netherlands,Eredivisie,NEC Nijmegen,-,Jetro Willems,Left-Back,"Mar 30, 1994 (31)",€300k,1994,300.0,61,30,34,46
+Netherlands,Eredivisie,NEC Nijmegen,2,Brayann Pereira,Right-Back,"May 21, 2003 (22)",€1.00m,2003,1000.0,66,32,36,50
+Netherlands,Eredivisie,NEC Nijmegen,33,Yousri Sbai,Right-Back,"Aug 8, 2004 (20)",-,2004,85.0,52,25,29,40
+Netherlands,Eredivisie,NEC Nijmegen,71,Dirk Proper,Defensive Midfield,"Feb 24, 2002 (23)",€3.00m,2002,3000.0,72,37,37,46
+Netherlands,Eredivisie,NEC Nijmegen,6,Mees Hoedemakers,Defensive Midfield,"Feb 18, 1998 (27)",€1.00m,1998,1000.0,67,35,35,43
+Netherlands,Eredivisie,NEC Nijmegen,23,Kodai Sano,Central Midfield,"Sep 25, 2003 (21)",€4.00m,2003,4000.0,73,42,47,42
+Netherlands,Eredivisie,NEC Nijmegen,25,Sami Ouaissa,Attacking Midfield,"Oct 2, 2004 (20)",€1.50m,2004,1500.0,68,46,41,35
+Netherlands,Eredivisie,NEC Nijmegen,9,Tjaronn Chery,Attacking Midfield,"Jun 4, 1988 (37)",€500k,1988,500.0,64,43,39,33
+Netherlands,Eredivisie,NEC Nijmegen,8,Argyris Darelas,Attacking Midfield,"Oct 16, 2003 (21)",€250k,2003,250.0,59,40,36,31
+Netherlands,Eredivisie,NEC Nijmegen,-,Virgil Misidjan,Left Winger,"Jul 24, 1993 (32)",€700k,1993,700.0,65,49,38,30
+Netherlands,Eredivisie,NEC Nijmegen,11,Başar Önal,Left Winger,"Jul 6, 2004 (21)",€700k,2004,700.0,64,49,37,29
+Netherlands,Eredivisie,NEC Nijmegen,10,Sontje Hansen,Right Winger,"May 18, 2002 (23)",€4.00m,2002,4000.0,74,56,43,34
+Netherlands,Eredivisie,NEC Nijmegen,-,Rober González,Right Winger,"Jan 8, 2001 (24)",€1.50m,2001,1500.0,69,52,40,32
+Netherlands,Eredivisie,NEC Nijmegen,32,Vito van Crooij,Right Winger,"Jan 29, 1996 (29)",€1.50m,1996,1500.0,69,52,40,32
+Netherlands,Eredivisie,NEC Nijmegen,14,Lars Olden Larsen,Right Winger,"Sep 17, 1998 (26)",€500k,1998,500.0,63,48,37,29
+Netherlands,Eredivisie,NEC Nijmegen,18,Koki Ogawa,Centre-Forward,"Aug 8, 1997 (27)",€2.50m,1997,2500.0,72,59,40,31
+Netherlands,Eredivisie,NEC Nijmegen,9,Kento Shiogai,Centre-Forward,"Mar 26, 2005 (20)",€850k,2005,850.0,64,52,35,28
+Netherlands,Eredivisie,NEC Nijmegen,-,Youssef El Kachati,Centre-Forward,"Nov 9, 1999 (25)",€800k,1999,800.0,65,53,36,28
+Netherlands,Eredivisie,NEC Nijmegen,30,Bryan Linssen,Centre-Forward,"Oct 8, 1990 (34)",€400k,1990,400.0,62,51,34,27

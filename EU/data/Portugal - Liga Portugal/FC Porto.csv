@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,FC Porto,99,Diogo Costa,Goalkeeper,"Sep 19, 1999 (25)",€40.00m,1999,40000.0,86,37,40,78
+Portugal,Liga Portugal,FC Porto,14,Cláudio Ramos,Goalkeeper,"Nov 16, 1991 (33)",€1.20m,1991,1200.0,68,29,31,62
+Portugal,Liga Portugal,FC Porto,24,João Costa,Goalkeeper,"Feb 2, 1996 (29)",€800k,1996,800.0,66,28,30,60
+Portugal,Liga Portugal,FC Porto,18,Nehuén Pérez,Centre-Back,"Jun 24, 2000 (25)",€13.00m,2000,13000.0,80,37,42,66
+Portugal,Liga Portugal,FC Porto,97,Zé Pedro,Centre-Back,"Jun 6, 1997 (28)",€4.00m,1997,4000.0,74,34,38,61
+Portugal,Liga Portugal,FC Porto,-,Fábio Cardoso,Centre-Back,"Apr 19, 1994 (31)",€3.00m,1994,3000.0,73,34,38,60
+Portugal,Liga Portugal,FC Porto,21,Dominik Prpic,Centre-Back,"May 19, 2004 (21)",€3.00m,2004,3000.0,71,33,37,58
+Portugal,Liga Portugal,FC Porto,74,Francisco Moura,Left-Back,"Aug 16, 1999 (25)",€15.00m,1999,15000.0,81,40,45,62
+Portugal,Liga Portugal,FC Porto,12,Zaidu,Left-Back,"Jun 13, 1997 (28)",€2.00m,1997,2000.0,70,34,38,53
+Portugal,Liga Portugal,FC Porto,52,Martim Fernandes,Right-Back,"Jan 18, 2006 (19)",€12.00m,2006,12000.0,78,38,43,59
+Portugal,Liga Portugal,FC Porto,20,Alberto Costa,Right-Back,"Sep 29, 2003 (21)",€10.00m,2003,10000.0,78,38,43,59
+Portugal,Liga Portugal,FC Porto,22,Alan Varela,Defensive Midfield,"Jul 4, 2001 (24)",€32.00m,2001,32000.0,85,44,44,54
+Portugal,Liga Portugal,FC Porto,8,Marko Grujić,Defensive Midfield,"Apr 13, 1996 (29)",€4.00m,1996,4000.0,74,38,38,47
+Portugal,Liga Portugal,FC Porto,8,Victor Froholdt,Central Midfield,"Feb 25, 2006 (19)",€12.00m,2006,12000.0,78,45,50,45
+Portugal,Liga Portugal,FC Porto,6,Stephen Eustaquio,Central Midfield,"Dec 21, 1996 (28)",€10.00m,1996,10000.0,79,46,51,46
+Portugal,Liga Portugal,FC Porto,15,Vasco Sousa,Central Midfield,"Apr 3, 2003 (22)",€4.00m,2003,4000.0,73,42,47,42
+Portugal,Liga Portugal,FC Porto,25,Tomás Pérez,Central Midfield,"Aug 26, 2005 (19)",€3.00m,2005,3000.0,71,41,45,41
+Portugal,Liga Portugal,FC Porto,-,Romário Baró,Central Midfield,"Jan 25, 2000 (25)",€1.20m,2000,1200.0,67,39,43,39
+Portugal,Liga Portugal,FC Porto,86,Rodrigo Mora,Attacking Midfield,"May 5, 2007 (18)",€40.00m,2007,40000.0,84,56,51,44
+Portugal,Liga Portugal,FC Porto,10,Gabri Veiga,Attacking Midfield,"May 27, 2002 (23)",€18.00m,2002,18000.0,82,55,50,43
+Portugal,Liga Portugal,FC Porto,-,Iván Jaime,Attacking Midfield,"Sep 26, 2000 (24)",€5.00m,2000,5000.0,75,50,46,39
+Portugal,Liga Portugal,FC Porto,20,André Franco,Attacking Midfield,"Apr 12, 1998 (27)",€2.50m,1998,2500.0,72,48,44,37
+Portugal,Liga Portugal,FC Porto,17,Borja Sainz,Left Winger,"Feb 21, 2001 (24)",€14.00m,2001,14000.0,80,61,46,37
+Portugal,Liga Portugal,FC Porto,7,William Gomes,Left Winger,"Mar 15, 2006 (19)",€9.00m,2006,9000.0,77,59,45,35
+Portugal,Liga Portugal,FC Porto,11,Pepê,Right Winger,"Feb 24, 1997 (28)",€22.00m,1997,22000.0,83,63,48,38
+Portugal,Liga Portugal,FC Porto,9,Samu Aghehowa,Centre-Forward,"May 5, 2004 (21)",€50.00m,2004,50000.0,86,71,47,37
+Portugal,Liga Portugal,FC Porto,19,Danny Namaso,Centre-Forward,"Aug 28, 2000 (24)",€4.00m,2000,4000.0,74,61,41,32
+Portugal,Liga Portugal,FC Porto,27,Deniz Gül,Centre-Forward,"Jul 2, 2004 (21)",€4.00m,2004,4000.0,73,60,40,31

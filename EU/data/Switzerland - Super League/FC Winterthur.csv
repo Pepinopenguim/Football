@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Switzerland,Super League,FC Winterthur,1,Stefanos Kapino,Goalkeeper,"Mar 18, 1994 (31)",€400k,1994,400.0,62,27,29,56
+Switzerland,Super League,FC Winterthur,75,Antonio Spagnoli,Goalkeeper,"May 31, 2005 (20)",€100k,2005,100.0,53,23,24,48
+Switzerland,Super League,FC Winterthur,30,Noah Brogli,Goalkeeper,"May 28, 2008 (17)",-,2008,84.0,51,22,23,46
+Switzerland,Super League,FC Winterthur,21,Loïc Lüthi,Centre-Back,"Sep 30, 2003 (21)",€1.00m,2003,1000.0,66,30,34,54
+Switzerland,Super League,FC Winterthur,16,Remo Arnold,Centre-Back,"Jan 17, 1997 (28)",€500k,1997,500.0,63,29,33,52
+Switzerland,Super League,FC Winterthur,5,Lukas Mühl,Centre-Back,"Jan 27, 1997 (28)",€300k,1997,300.0,60,28,31,49
+Switzerland,Super League,FC Winterthur,4,Basil Stillhart,Centre-Back,"Mar 24, 1994 (31)",€100k,1994,100.0,55,25,29,45
+Switzerland,Super League,FC Winterthur,18,Souleymane Diaby,Left-Back,"Oct 8, 1999 (25)",€400k,1999,400.0,62,30,34,47
+Switzerland,Super League,FC Winterthur,24,Silvan Sidler,Right-Back,"Jul 7, 1998 (27)",€300k,1998,300.0,60,29,33,46
+Switzerland,Super League,FC Winterthur,26,Ledjan Sahitaj,Right-Back,"Jan 12, 2004 (21)",€100k,2004,100.0,53,26,29,40
+Switzerland,Super League,FC Winterthur,22,Adrian Durrer,Defensive Midfield,"Jul 13, 2001 (24)",€200k,2001,200.0,58,30,30,37
+Switzerland,Super League,FC Winterthur,45,Alexandre Jankewitz,Central Midfield,"Dec 25, 2001 (23)",€600k,2001,600.0,64,37,41,37
+Switzerland,Super League,FC Winterthur,44,Stéphane Cueni,Central Midfield,"Mar 14, 2001 (24)",€200k,2001,200.0,58,34,37,34
+Switzerland,Super League,FC Winterthur,7,Luca Zuffi,Central Midfield,"Mar 27, 1990 (35)",€100k,1990,100.0,55,32,35,32
+Switzerland,Super League,FC Winterthur,19,Dario Ulrich,Right Midfield,"Mar 12, 1998 (27)",€200k,1998,200.0,58,34,37,34
+Switzerland,Super League,FC Winterthur,27,Fabian Rohner,Right Midfield,"Aug 17, 1998 (26)",€200k,1998,200.0,58,34,37,34
+Switzerland,Super League,FC Winterthur,90,Elias Maluvunu,Right Midfield,"Aug 3, 2004 (20)",€200k,2004,200.0,57,33,36,33
+Switzerland,Super League,FC Winterthur,20,Carmine Chiappetta,Left Midfield,"Mar 9, 2003 (22)",€300k,2003,300.0,60,35,38,35
+Switzerland,Super League,FC Winterthur,6,Randy Schneider,Attacking Midfield,"Aug 27, 2001 (23)",€500k,2001,500.0,63,42,38,33
+Switzerland,Super League,FC Winterthur,8,Théo Golliard,Attacking Midfield,"Sep 27, 2002 (22)",€500k,2002,500.0,63,42,38,33
+Switzerland,Super League,FC Winterthur,99,Nishan Burkart,Left Winger,"Jan 31, 2000 (25)",€1.00m,2000,1000.0,67,51,39,31
+Switzerland,Super League,FC Winterthur,15,Christian Gomis,Centre-Forward,"Aug 9, 2000 (24)",€700k,2000,700.0,65,53,36,28
+Switzerland,Super League,FC Winterthur,68,Brian Beyer,Centre-Forward,"Oct 15, 1996 (28)",€200k,1996,200.0,58,48,32,25
+Switzerland,Super League,FC Winterthur,9,Roman Buess,Centre-Forward,"Sep 21, 1992 (32)",€100k,1992,100.0,55,45,30,24

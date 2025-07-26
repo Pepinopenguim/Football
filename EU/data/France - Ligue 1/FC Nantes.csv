@@ -1,0 +1,23 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+France,Ligue 1,FC Nantes,16,Anthony Lopes,Goalkeeper,"Oct 1, 1990 (34)",€1.20m,1990,1200.0,68,29,31,62
+France,Ligue 1,FC Nantes,30,Patrik Carlgren,Goalkeeper,"Jan 8, 1992 (33)",€600k,1992,600.0,64,28,29,58
+France,Ligue 1,FC Nantes,50,Alexis Mirbach,Goalkeeper,"Mar 4, 2005 (20)",€100k,2005,100.0,53,23,24,48
+France,Ligue 1,FC Nantes,44,Nathan Zézé,Centre-Back,"Jun 18, 2005 (20)",€15.00m,2005,15000.0,80,37,42,66
+France,Ligue 1,FC Nantes,2,Jean-Kévin Duverne,Centre-Back,"Jul 12, 1997 (28)",€2.50m,1997,2500.0,72,33,37,59
+France,Ligue 1,FC Nantes,6,Chidozie Awaziem,Centre-Back,"Jan 1, 1997 (28)",€2.00m,1997,2000.0,70,32,36,57
+France,Ligue 1,FC Nantes,26,Uros Radakovic,Centre-Back,"Mar 31, 1994 (31)",€650k,1994,650.0,65,30,34,53
+France,Ligue 1,FC Nantes,3,Nicolas Cozza,Left-Back,"Jan 8, 1999 (26)",€3.50m,1999,3500.0,73,36,40,55
+France,Ligue 1,FC Nantes,98,Kelvin Amian,Right-Back,"Feb 8, 1998 (27)",€2.50m,1998,2500.0,72,35,40,55
+France,Ligue 1,FC Nantes,18,Fabien Centonze,Right-Back,"Jan 16, 1996 (29)",€1.80m,1996,1800.0,70,34,38,53
+France,Ligue 1,FC Nantes,8,Johann Lepenant,Defensive Midfield,"Oct 22, 2002 (22)",€6.00m,2002,6000.0,76,40,40,49
+France,Ligue 1,FC Nantes,13,Francis Coquelin,Defensive Midfield,"May 13, 1991 (34)",€900k,1991,900.0,67,35,35,43
+France,Ligue 1,FC Nantes,-,Hyeok-kyu Kwon,Defensive Midfield,"Mar 13, 2001 (24)",€700k,2001,700.0,65,34,34,42
+France,Ligue 1,FC Nantes,52,Bahmed Deuff,Defensive Midfield,"Mar 10, 2006 (19)",-,2006,29.0,46,24,24,29
+France,Ligue 1,FC Nantes,17,Dehmaine Tabibou,Central Midfield,"Apr 17, 2005 (20)",€200k,2005,200.0,57,33,36,33
+France,Ligue 1,FC Nantes,66,Louis Leroux,Attacking Midfield,"Jan 23, 2006 (19)",€4.00m,2006,4000.0,72,48,44,37
+France,Ligue 1,FC Nantes,11,Herba Guirassy,Left Winger,"Aug 29, 2006 (18)",€1.00m,2006,1000.0,65,49,38,30
+France,Ligue 1,FC Nantes,23,Adel Mahamoud,Left Winger,"Feb 4, 2003 (22)",€50k,2003,50.0,50,38,29,23
+France,Ligue 1,FC Nantes,-,Yassine Benhattab,Right Winger,"Nov 18, 2002 (22)",€900k,2002,900.0,66,50,38,30
+France,Ligue 1,FC Nantes,7,Matthis Abline,Centre-Forward,"Mar 28, 2003 (22)",€18.00m,2003,18000.0,81,66,45,35
+France,Ligue 1,FC Nantes,31,Mostafa Mohamed,Centre-Forward,"Nov 28, 1997 (27)",€5.00m,1997,5000.0,75,62,41,32
+France,Ligue 1,FC Nantes,19,Youssef El Arabi,Centre-Forward,"Feb 3, 1987 (38)",€150k,1987,150.0,57,47,31,25

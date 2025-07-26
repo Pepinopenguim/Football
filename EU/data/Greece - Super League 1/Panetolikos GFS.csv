@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Greece,Super League 1,Panetolikos GFS,13,Lucas Chaves,Goalkeeper,"Aug 9, 1995 (29)",€1.20m,1995,1200.0,68,29,31,62
+Greece,Super League 1,Panetolikos GFS,-,Zivko Zivkovic,Goalkeeper,"Apr 14, 1989 (36)",€125k,1989,125.0,56,24,26,51
+Greece,Super League 1,Panetolikos GFS,21,Efthymios Papazois,Goalkeeper,"Sep 6, 2007 (17)",-,2007,91.0,52,22,24,47
+Greece,Super League 1,Panetolikos GFS,-,Unai García,Centre-Back,"Feb 3, 1992 (33)",€800k,1992,800.0,66,30,34,54
+Greece,Super League 1,Panetolikos GFS,16,Christos Sielis,Centre-Back,"Feb 2, 2000 (25)",€700k,2000,700.0,65,30,34,53
+Greece,Super League 1,Panetolikos GFS,49,Nikola Stajic,Centre-Back,"Sep 8, 2001 (23)",€450k,2001,450.0,62,29,32,51
+Greece,Super League 1,Panetolikos GFS,3,Chrysovalantis Manos,Centre-Back,"Jun 1, 2005 (20)",-,2005,33.0,47,22,24,39
+Greece,Super League 1,Panetolikos GFS,45,David Galiatsos,Centre-Back,"Feb 1, 2006 (19)",-,2006,84.0,52,24,27,43
+Greece,Super League 1,Panetolikos GFS,65,Apostolos Apostolopoulos,Left-Back,"Dec 11, 2002 (22)",€500k,2002,500.0,63,31,35,48
+Greece,Super League 1,Panetolikos GFS,-,Christian Manrique,Left-Back,"Oct 2, 1998 (26)",€200k,1998,200.0,58,28,32,44
+Greece,Super League 1,Panetolikos GFS,35,Charalampos Mavrias,Right-Back,"Feb 21, 1994 (31)",€300k,1994,300.0,61,30,34,46
+Greece,Super League 1,Panetolikos GFS,23,Georgios Agapakis,Right-Back,"Nov 12, 2001 (23)",€50k,2001,50.0,50,24,28,38
+Greece,Super League 1,Panetolikos GFS,54,Georgios Liavas,Defensive Midfield,"Feb 12, 2001 (24)",€900k,2001,900.0,66,34,34,42
+Greece,Super League 1,Panetolikos GFS,90,Miguel Luís,Central Midfield,"Feb 27, 1999 (26)",€450k,1999,450.0,62,36,40,36
+Greece,Super League 1,Panetolikos GFS,6,Sotiris Kontouris,Central Midfield,"Feb 24, 2005 (20)",€200k,2005,200.0,57,33,36,33
+Greece,Super League 1,Panetolikos GFS,-,Vasilios Rados,Central Midfield,"May 26, 2005 (20)",-,2005,57.0,50,29,32,29
+Greece,Super League 1,Panetolikos GFS,8,Christos Belevonis,Attacking Midfield,"Jul 29, 2002 (22)",€350k,2002,350.0,61,41,37,32
+Greece,Super League 1,Panetolikos GFS,77,Vangelis Nikolaou,Attacking Midfield,"Jun 3, 2004 (21)",€250k,2004,250.0,58,39,35,30
+Greece,Super League 1,Panetolikos GFS,-,Diego Esteban,Left Winger,"Apr 7, 2000 (25)",€250k,2000,250.0,59,45,34,27
+Greece,Super League 1,Panetolikos GFS,-,Lampros Smyrlis,Left Winger,"Jul 12, 2004 (21)",€200k,2004,200.0,57,43,33,26
+Greece,Super League 1,Panetolikos GFS,17,Vasilios Kakionis,Left Winger,"Nov 12, 2006 (18)",-,2006,37.0,47,36,27,22
+Greece,Super League 1,Panetolikos GFS,27,Christos Esketzis,Left Winger,"Aug 18, 2006 (18)",-,2006,45.0,48,36,28,22
+Greece,Super League 1,Panetolikos GFS,11,Daniel Lajud,Second Striker,"Jan 22, 1999 (26)",€700k,1999,700.0,65,51,38,28
+Greece,Super League 1,Panetolikos GFS,-,Jorge Aguirre,Centre-Forward,"Jan 5, 2000 (25)",€600k,2000,600.0,64,52,35,28
+Greece,Super League 1,Panetolikos GFS,-,Kosta Aleksic,Centre-Forward,"Mar 9, 1998 (27)",€450k,1998,450.0,62,51,34,27
+Greece,Super League 1,Panetolikos GFS,33,Deivid Hoxha,Centre-Forward,"Jul 20, 2007 (18)",-,2007,12.0,41,34,23,18

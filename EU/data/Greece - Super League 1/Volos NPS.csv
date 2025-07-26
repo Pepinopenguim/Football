@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Greece,Super League 1,Volos NPS,-,Adebayo Adeleye,Goalkeeper,"May 17, 2000 (25)",€450k,2000,450.0,62,27,29,56
+Greece,Super League 1,Volos NPS,1,Marios Siampanis,Goalkeeper,"Sep 28, 1999 (25)",€300k,1999,300.0,60,26,28,55
+Greece,Super League 1,Volos NPS,-,Nikolaos Grammatikakis,Goalkeeper,"May 26, 2003 (22)",€250k,2003,250.0,59,25,27,54
+Greece,Super League 1,Volos NPS,30,Hjörtur Hermannsson,Centre-Back,"Feb 8, 1995 (30)",€350k,1995,350.0,61,28,32,50
+Greece,Super League 1,Volos NPS,-,Giannis Kargas,Centre-Back,"Dec 9, 1994 (30)",€200k,1994,200.0,58,27,30,48
+Greece,Super League 1,Volos NPS,-,Georgios Lagonidis,Centre-Back,"Jul 11, 2002 (23)",€200k,2002,200.0,58,27,30,48
+Greece,Super League 1,Volos NPS,89,Athanasios Triantafyllou,Centre-Back,"Jul 22, 2003 (22)",€125k,2003,125.0,55,25,29,45
+Greece,Super League 1,Volos NPS,-,Núrio Fortuna,Left-Back,"Mar 24, 1995 (30)",€600k,1995,600.0,64,31,35,49
+Greece,Super League 1,Volos NPS,-,Marios Sinanaj,Left-Back,"Jan 16, 2004 (21)",€200k,2004,200.0,57,28,31,43
+Greece,Super League 1,Volos NPS,24,Konstantinos Lykourinos,Left-Back,"Jul 24, 2006 (19)",€50k,2006,50.0,49,24,27,37
+Greece,Super League 1,Volos NPS,-,Carles Soria,Right-Back,"Oct 8, 1996 (28)",€450k,1996,450.0,63,31,35,48
+Greece,Super League 1,Volos NPS,22,Georgios Mygas,Right-Back,"Apr 7, 1994 (31)",€250k,1994,250.0,60,29,33,46
+Greece,Super League 1,Volos NPS,72,Lefteris Tasiouras,Right-Back,"Mar 1, 2004 (21)",€200k,2004,200.0,57,28,31,43
+Greece,Super League 1,Volos NPS,-,David Martínez,Defensive Midfield,"Jun 14, 2004 (21)",€1.00m,2004,1000.0,66,34,34,42
+Greece,Super League 1,Volos NPS,6,Anastasios Tsokanis,Defensive Midfield,"May 2, 1991 (34)",€250k,1991,250.0,60,31,31,38
+Greece,Super League 1,Volos NPS,27,Georgios Prountzos,Defensive Midfield,"Aug 18, 2003 (21)",€200k,2003,200.0,57,30,30,36
+Greece,Super League 1,Volos NPS,-,Vasilios Grosdis,Central Midfield,"Jan 17, 2002 (23)",€250k,2002,250.0,59,34,38,34
+Greece,Super League 1,Volos NPS,-,Joca,Attacking Midfield,"Jan 30, 1996 (29)",€550k,1996,550.0,64,43,39,33
+Greece,Super League 1,Volos NPS,10,Juanpi,Attacking Midfield,"Jan 24, 1994 (31)",€400k,1994,400.0,62,42,38,32
+Greece,Super League 1,Volos NPS,-,Iason Kyrkos,Attacking Midfield,"Mar 21, 2003 (22)",€125k,2003,125.0,55,37,34,29
+Greece,Super League 1,Volos NPS,-,Lazaros Lamprou,Left Winger,"Dec 19, 1997 (27)",€450k,1997,450.0,63,48,37,29
+Greece,Super League 1,Volos NPS,-,Jasin Assehnoun,Left Winger,"Dec 26, 1998 (26)",€350k,1998,350.0,61,46,35,28
+Greece,Super League 1,Volos NPS,14,Simon Skrabb,Right Winger,"Jan 19, 1995 (30)",€700k,1995,700.0,65,49,38,30
+Greece,Super League 1,Volos NPS,20,Maximiliano Comba,Right Winger,"Jan 16, 1994 (31)",€300k,1994,300.0,61,46,35,28
+Greece,Super League 1,Volos NPS,-,Antonio Zarzana,Right Winger,"Mar 21, 2002 (23)",€200k,2002,200.0,58,44,34,27
+Greece,Super League 1,Volos NPS,19,Nabil Makni,Centre-Forward,"Sep 29, 2001 (23)",€200k,2001,200.0,58,48,32,25

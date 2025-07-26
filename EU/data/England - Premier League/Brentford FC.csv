@@ -1,0 +1,34 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Brentford FC,1,Caoimhín Kelleher,Goalkeeper,"Nov 23, 1998 (26)",€20.00m,1998,20000.0,83,36,38,76
+England,Premier League,Brentford FC,12,Hákon Rafn Valdimarsson,Goalkeeper,"Oct 13, 2001 (23)",€2.50m,2001,2500.0,71,31,33,65
+England,Premier League,Brentford FC,13,Matthew Cox,Goalkeeper,"May 2, 2003 (22)",€800k,2003,800.0,65,28,30,59
+England,Premier League,Brentford FC,-,Ellery Balcombe,Goalkeeper,"Oct 15, 1999 (25)",€400k,1999,400.0,62,27,29,56
+England,Premier League,Brentford FC,-,Julian Eyestone,Goalkeeper,"Apr 21, 2006 (19)",-,2006,18.0,43,18,20,39
+England,Premier League,Brentford FC,22,Nathan Collins,Centre-Back,"Apr 30, 2001 (24)",€28.00m,2001,28000.0,84,39,44,69
+England,Premier League,Brentford FC,4,Sepp van den Berg,Centre-Back,"Dec 20, 2001 (23)",€22.00m,2001,22000.0,83,38,43,68
+England,Premier League,Brentford FC,20,Kristoffer Ajer,Centre-Back,"Apr 17, 1998 (27)",€18.00m,1998,18000.0,82,38,43,67
+England,Premier League,Brentford FC,5,Ethan Pinnock,Centre-Back,"May 29, 1993 (32)",€7.00m,1993,7000.0,77,35,40,63
+England,Premier League,Brentford FC,43,Benjamin Arthur,Centre-Back,"Oct 9, 2005 (19)",-,2005,26.0,46,21,24,38
+England,Premier League,Brentford FC,23,Keane Lewis-Potter,Left-Back,"Feb 22, 2001 (24)",€23.00m,2001,23000.0,83,41,46,63
+England,Premier League,Brentford FC,3,Rico Henry,Left-Back,"Jul 8, 1997 (28)",€15.00m,1997,15000.0,81,40,45,62
+England,Premier League,Brentford FC,21,Jayden Meghoma,Left-Back,"Jun 28, 2006 (19)",€500k,2006,500.0,61,30,34,46
+England,Premier League,Brentford FC,33,Michael Kayode,Right-Back,"Jul 10, 2004 (21)",€18.00m,2004,18000.0,81,40,45,62
+England,Premier League,Brentford FC,2,Aaron Hickey,Right-Back,"Jun 10, 2002 (23)",€10.00m,2002,10000.0,79,39,43,60
+England,Premier League,Brentford FC,30,Mads Roerslev,Right-Back,"Jun 24, 1999 (26)",€6.00m,1999,6000.0,76,37,42,58
+England,Premier League,Brentford FC,27,Vitaly Janelt,Defensive Midfield,"May 10, 1998 (27)",€20.00m,1998,20000.0,83,43,43,53
+England,Premier League,Brentford FC,26,Yunus Emre Konak,Defensive Midfield,"Jan 10, 2006 (19)",€4.50m,2006,4500.0,73,38,38,47
+England,Premier League,Brentford FC,6,Jordan Henderson,Defensive Midfield,"Jun 17, 1990 (35)",€2.50m,1990,2500.0,72,37,37,46
+England,Premier League,Brentford FC,18,Yegor Yarmolyuk,Central Midfield,"Mar 1, 2004 (21)",€15.00m,2004,15000.0,80,46,51,46
+England,Premier League,Brentford FC,8,Mathias Jensen,Central Midfield,"Jan 1, 1996 (29)",€14.00m,1996,14000.0,81,47,52,47
+England,Premier League,Brentford FC,15,Frank Onyeka,Central Midfield,"Jan 1, 1998 (27)",€7.00m,1998,7000.0,77,45,49,45
+England,Premier League,Brentford FC,32,Paris Maghoma,Central Midfield,"May 8, 2001 (24)",€800k,2001,800.0,65,38,42,38
+England,Premier League,Brentford FC,28,Ryan Trevitt,Central Midfield,"Mar 12, 2003 (22)",€275k,2003,275.0,59,34,38,34
+England,Premier League,Brentford FC,24,Mikkel Damsgaard,Attacking Midfield,"Jul 3, 2000 (25)",€28.00m,2000,28000.0,84,56,51,44
+England,Premier League,Brentford FC,17,Antoni Milambo,Attacking Midfield,"Apr 3, 2005 (20)",€18.00m,2005,18000.0,81,54,49,42
+England,Premier League,Brentford FC,14,Fábio Carvalho,Attacking Midfield,"Aug 30, 2002 (22)",€14.00m,2002,14000.0,80,54,49,42
+England,Premier League,Brentford FC,7,Kevin Schade,Left Winger,"Nov 27, 2001 (23)",€30.00m,2001,30000.0,85,65,49,39
+England,Premier League,Brentford FC,39,Gustavo Nunes,Left Winger,"Nov 20, 2005 (19)",€10.00m,2005,10000.0,78,59,45,36
+England,Premier League,Brentford FC,25,Myles Peart-Harris,Left Winger,"Sep 18, 2002 (22)",€900k,2002,900.0,66,50,38,30
+England,Premier League,Brentford FC,-,Romelle Donovan,Right Winger,"Nov 30, 2006 (18)",€800k,2006,800.0,64,49,37,29
+England,Premier League,Brentford FC,11,Yoane Wissa,Centre-Forward,"Sep 3, 1996 (28)",€32.00m,1996,32000.0,85,70,47,37
+England,Premier League,Brentford FC,9,Igor Thiago,Centre-Forward,"Jun 26, 2001 (24)",€18.00m,2001,18000.0,82,67,45,35

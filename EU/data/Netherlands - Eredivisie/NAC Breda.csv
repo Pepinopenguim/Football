@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,NAC Breda,99,Daniel Bielica,Goalkeeper,"Apr 30, 1999 (26)",€1.00m,1999,1000.0,67,29,31,61
+Netherlands,Eredivisie,NAC Breda,1,Roy Kortsmit,Goalkeeper,"Aug 26, 1992 (32)",€200k,1992,200.0,59,25,27,54
+Netherlands,Eredivisie,NAC Breda,31,Kostas Lamprou,Goalkeeper,"Sep 18, 1991 (33)",€200k,1991,200.0,59,25,27,54
+Netherlands,Eredivisie,NAC Breda,12,Leo Greiml,Centre-Back,"Jul 3, 2001 (24)",€2.00m,2001,2000.0,70,32,36,57
+Netherlands,Eredivisie,NAC Breda,25,Cherrion Valerius,Centre-Back,"Sep 22, 2005 (19)",€1.00m,2005,1000.0,65,30,34,53
+Netherlands,Eredivisie,NAC Breda,22,Rio Hillen,Centre-Back,"Mar 5, 2003 (22)",€600k,2003,600.0,63,29,33,52
+Netherlands,Eredivisie,NAC Breda,5,Terence Kongolo,Centre-Back,"Feb 14, 1994 (31)",€500k,1994,500.0,63,29,33,52
+Netherlands,Eredivisie,NAC Breda,15,Enes Mahmutovic,Centre-Back,"May 22, 1997 (28)",€400k,1997,400.0,62,29,32,51
+Netherlands,Eredivisie,NAC Breda,18,Daan van Reeuwijk,Centre-Back,"May 9, 2007 (18)",€25k,2007,25.0,45,21,23,37
+Netherlands,Eredivisie,NAC Breda,4,Boy Kemper,Left-Back,"Jun 21, 1999 (26)",€850k,1999,850.0,66,32,36,50
+Netherlands,Eredivisie,NAC Breda,2,Boyd Lucassen,Right-Back,"Jul 1, 1998 (27)",€500k,1998,500.0,63,31,35,48
+Netherlands,Eredivisie,NAC Breda,16,Max Balard,Defensive Midfield,"Nov 20, 2000 (24)",€1.50m,2000,1500.0,69,36,36,44
+Netherlands,Eredivisie,NAC Breda,6,Casper Staring,Defensive Midfield,"Feb 1, 2001 (24)",€350k,2001,350.0,61,32,32,39
+Netherlands,Eredivisie,NAC Breda,20,Fredrik Oldrup Jensen,Defensive Midfield,"May 18, 1993 (32)",€300k,1993,300.0,61,32,32,39
+Netherlands,Eredivisie,NAC Breda,28,Lars Mol,Defensive Midfield,"Sep 15, 2004 (20)",€200k,2004,200.0,57,30,30,36
+Netherlands,Eredivisie,NAC Breda,8,Clint Leemans,Central Midfield,"Sep 15, 1995 (29)",€750k,1995,750.0,65,38,42,38
+Netherlands,Eredivisie,NAC Breda,11,Raul Paula,Attacking Midfield,"Jan 25, 2004 (21)",€600k,2004,600.0,63,42,38,33
+Netherlands,Eredivisie,NAC Breda,55,Brahim Ghalidi,Left Winger,"Jan 31, 2005 (20)",€250k,2005,250.0,58,44,34,27
+Netherlands,Eredivisie,NAC Breda,32,Juho Talvitie,Right Winger,"Mar 25, 2005 (20)",€900k,2005,900.0,65,49,38,30
+Netherlands,Eredivisie,NAC Breda,14,Kamal Sowah,Right Winger,"Jan 9, 2000 (25)",€800k,2000,800.0,65,49,38,30
+Netherlands,Eredivisie,NAC Breda,9,Moussa Soumano,Centre-Forward,"Jul 9, 2005 (20)",€1.00m,2005,1000.0,65,53,36,28
+Netherlands,Eredivisie,NAC Breda,17,Sydney van Hooijdonk,Centre-Forward,"Feb 6, 2000 (25)",€1.00m,2000,1000.0,67,55,37,29
+Netherlands,Eredivisie,NAC Breda,7,Charles-Andreas Brym,Centre-Forward,"Aug 8, 1998 (26)",€450k,1998,450.0,62,51,34,27

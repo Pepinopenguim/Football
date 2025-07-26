@@ -1,0 +1,39 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Burnley FC,1,James Trafford,Goalkeeper,"Oct 10, 2002 (22)",€22.00m,2002,22000.0,83,36,38,76
+England,Premier League,Burnley FC,-,Max Weiß,Goalkeeper,"Jun 15, 2004 (21)",€4.00m,2004,4000.0,73,31,34,66
+England,Premier League,Burnley FC,20,Etienne Green,Goalkeeper,"Jul 19, 2000 (25)",€700k,2000,700.0,65,28,30,59
+England,Premier League,Burnley FC,32,Vaclav Hladky,Goalkeeper,"Nov 14, 1990 (34)",€300k,1990,300.0,61,26,28,56
+England,Premier League,Burnley FC,5,Maxime Estève,Centre-Back,"May 26, 2002 (23)",€20.00m,2002,20000.0,82,38,43,67
+England,Premier League,Burnley FC,36,Jordan Beyer,Centre-Back,"May 19, 2000 (25)",€6.00m,2000,6000.0,76,35,40,62
+England,Premier League,Burnley FC,4,Joe Worrall,Centre-Back,"Jan 10, 1997 (28)",€5.00m,1997,5000.0,75,34,39,62
+England,Premier League,Burnley FC,18,Hjalmar Ekdal,Centre-Back,"Oct 21, 1998 (26)",€4.50m,1998,4500.0,75,34,39,62
+England,Premier League,Burnley FC,44,Hannes Delcroix,Centre-Back,"Feb 28, 1999 (26)",€3.50m,1999,3500.0,73,34,38,60
+England,Premier League,Burnley FC,-,Quilindschy Hartman,Left-Back,"Nov 14, 2001 (23)",€14.00m,2001,14000.0,80,39,44,61
+England,Premier League,Burnley FC,12,Bashir Humphreys,Left-Back,"Mar 15, 2003 (22)",€7.00m,2003,7000.0,76,37,42,58
+England,Premier League,Burnley FC,23,Lucas Pires,Left-Back,"Mar 24, 2001 (24)",€5.00m,2001,5000.0,75,37,41,57
+England,Premier League,Burnley FC,39,Owen Dodgson,Left-Back,"Mar 19, 2003 (22)",€300k,2003,300.0,60,29,33,46
+England,Premier League,Burnley FC,-,Axel Tuanzebe,Right-Back,"Nov 14, 1997 (27)",€5.00m,1997,5000.0,75,37,41,57
+England,Premier League,Burnley FC,14,Connor Roberts,Right-Back,"Sep 23, 1995 (29)",€4.50m,1995,4500.0,75,37,41,57
+England,Premier League,Burnley FC,-,Kyle Walker,Right-Back,"May 28, 1990 (35)",€4.00m,1990,4000.0,75,37,41,57
+England,Premier League,Burnley FC,2,Oliver Sonne,Right-Back,"Nov 10, 2000 (24)",€2.70m,2000,2700.0,72,35,40,55
+England,Premier League,Burnley FC,3,Shurandy Sambo,Right-Back,"Aug 19, 2001 (23)",€2.00m,2001,2000.0,70,34,38,53
+England,Premier League,Burnley FC,24,Josh Cullen,Central Midfield,"Apr 7, 1996 (29)",€6.50m,1996,6500.0,77,45,49,45
+England,Premier League,Burnley FC,29,Josh Laurent,Central Midfield,"May 6, 1995 (30)",€1.80m,1995,1800.0,70,41,45,41
+England,Premier League,Burnley FC,28,Hannibal,Attacking Midfield,"Jan 21, 2003 (22)",€12.00m,2003,12000.0,79,53,48,41
+England,Premier League,Burnley FC,21,Aaron Ramsey,Attacking Midfield,"Jan 21, 2003 (22)",€10.00m,2003,10000.0,78,52,48,41
+England,Premier League,Burnley FC,-,Oluwaseun Adewumi,Attacking Midfield,"Feb 23, 2005 (20)",€350k,2005,350.0,60,40,37,31
+England,Premier League,Burnley FC,11,Jaidon Anthony,Left Winger,"Dec 1, 1999 (25)",€9.00m,1999,9000.0,78,59,45,36
+England,Premier League,Burnley FC,-,Jacob Bruun Larsen,Left Winger,"Sep 19, 1998 (26)",€5.00m,1998,5000.0,75,57,44,34
+England,Premier League,Burnley FC,31,Mike Trésor,Left Winger,"May 28, 1999 (26)",€5.00m,1999,5000.0,75,57,44,34
+England,Premier League,Burnley FC,27,Darko Churlinov,Left Winger,"Jul 11, 2000 (25)",€1.50m,2000,1500.0,69,52,40,32
+England,Premier League,Burnley FC,34,Jaydon Banel,Left Winger,"Oct 19, 2004 (20)",€1.00m,2004,1000.0,66,50,38,30
+England,Premier League,Burnley FC,22,Marcus Edwards,Right Winger,"Dec 3, 1998 (26)",€12.00m,1998,12000.0,80,61,46,37
+England,Premier League,Burnley FC,30,Luca Koleosho,Right Winger,"Sep 15, 2004 (20)",€12.00m,2004,12000.0,79,60,46,36
+England,Premier League,Burnley FC,-,Loum Tchaouna,Right Winger,"Sep 8, 2003 (21)",€10.00m,2003,10000.0,78,59,45,36
+England,Premier League,Burnley FC,10,Benson Manuel,Right Winger,"Mar 28, 1997 (28)",€3.50m,1997,3500.0,73,55,42,34
+England,Premier League,Burnley FC,48,Enock Agyei,Right Winger,"Jan 13, 2005 (20)",€600k,2005,600.0,63,48,37,29
+England,Premier League,Burnley FC,25,Zeki Amdouni,Centre-Forward,"Dec 4, 2000 (24)",€12.00m,2000,12000.0,80,66,44,34
+England,Premier League,Burnley FC,19,Zian Flemming,Centre-Forward,"Aug 1, 1998 (26)",€6.50m,1998,6500.0,77,63,42,33
+England,Premier League,Burnley FC,17,Lyle Foster,Centre-Forward,"Sep 3, 2000 (24)",€6.00m,2000,6000.0,76,62,42,33
+England,Premier League,Burnley FC,-,Michael Obafemi,Centre-Forward,"Jul 6, 2000 (25)",€1.70m,2000,1700.0,69,57,38,30
+England,Premier League,Burnley FC,35,Ashley Barnes,Centre-Forward,"Oct 30, 1989 (35)",€250k,1989,250.0,60,49,33,26

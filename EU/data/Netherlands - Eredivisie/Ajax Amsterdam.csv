@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,Ajax Amsterdam,1,Vitezslav Jaros,Goalkeeper,"Jul 23, 2001 (24)",€4.00m,2001,4000.0,74,32,34,67
+Netherlands,Eredivisie,Ajax Amsterdam,51,Charlie Setford,Goalkeeper,"May 11, 2004 (21)",€400k,2004,400.0,61,26,28,56
+Netherlands,Eredivisie,Ajax Amsterdam,22,Remko Pasveer,Goalkeeper,"Nov 8, 1983 (41)",€150k,1983,150.0,58,25,27,53
+Netherlands,Eredivisie,Ajax Amsterdam,37,Josip Sutalo,Centre-Back,"Feb 28, 2000 (25)",€24.00m,2000,24000.0,83,38,43,68
+Netherlands,Eredivisie,Ajax Amsterdam,15,Youri Baas,Centre-Back,"Mar 17, 2003 (22)",€12.00m,2003,12000.0,79,36,41,65
+Netherlands,Eredivisie,Ajax Amsterdam,13,Ahmetcan Kaplan,Centre-Back,"Jan 16, 2003 (22)",€5.00m,2003,5000.0,75,34,39,62
+Netherlands,Eredivisie,Ajax Amsterdam,36,Dies Janse,Centre-Back,"Jan 17, 2006 (19)",€900k,2006,900.0,64,29,33,52
+Netherlands,Eredivisie,Ajax Amsterdam,4,Jorrel Hato,Left-Back,"Mar 7, 2006 (19)",€35.00m,2006,35000.0,84,41,46,64
+Netherlands,Eredivisie,Ajax Amsterdam,5,Owen Wijndal,Left-Back,"Nov 28, 1999 (25)",€3.50m,1999,3500.0,73,36,40,55
+Netherlands,Eredivisie,Ajax Amsterdam,3,Anton Gaaei,Right-Back,"Nov 19, 2002 (22)",€7.00m,2002,7000.0,77,38,42,59
+Netherlands,Eredivisie,Ajax Amsterdam,2,Lucas Rosa,Right-Back,"Apr 3, 2000 (25)",€3.00m,2000,3000.0,72,35,40,55
+Netherlands,Eredivisie,Ajax Amsterdam,31,Jorthy Mokio,Defensive Midfield,"Feb 29, 2008 (17)",€8.00m,2008,8000.0,76,40,40,49
+Netherlands,Eredivisie,Ajax Amsterdam,-,Sivert Mannsverk,Defensive Midfield,"May 8, 2002 (23)",€4.00m,2002,4000.0,74,38,38,47
+Netherlands,Eredivisie,Ajax Amsterdam,8,Kenneth Taylor,Central Midfield,"May 16, 2002 (23)",€28.00m,2002,28000.0,84,49,54,49
+Netherlands,Eredivisie,Ajax Amsterdam,44,Youri Regeer,Central Midfield,"Aug 18, 2003 (21)",€6.00m,2003,6000.0,76,44,49,44
+Netherlands,Eredivisie,Ajax Amsterdam,28,Kian Fitz-Jim,Central Midfield,"Jul 5, 2003 (22)",€5.00m,2003,5000.0,75,44,48,44
+Netherlands,Eredivisie,Ajax Amsterdam,18,Davy Klaassen,Central Midfield,"Feb 21, 1993 (32)",€3.50m,1993,3500.0,74,43,47,43
+Netherlands,Eredivisie,Ajax Amsterdam,21,Branco van den Boomen,Central Midfield,"Jul 21, 1995 (30)",€3.50m,1995,3500.0,74,43,47,43
+Netherlands,Eredivisie,Ajax Amsterdam,11,Mika Godts,Left Winger,"Jun 7, 2005 (20)",€10.00m,2005,10000.0,78,59,45,36
+Netherlands,Eredivisie,Ajax Amsterdam,7,Raúl Moro,Left Winger,"Dec 5, 2002 (22)",€7.50m,2002,7500.0,77,59,45,35
+Netherlands,Eredivisie,Ajax Amsterdam,17,Oliver Edvardsen,Left Winger,"Mar 19, 1999 (26)",€5.00m,1999,5000.0,75,57,44,34
+Netherlands,Eredivisie,Ajax Amsterdam,20,Bertrand Traoré,Right Winger,"Sep 6, 1995 (29)",€8.00m,1995,8000.0,78,59,45,36
+Netherlands,Eredivisie,Ajax Amsterdam,23,Steven Berghuis,Right Winger,"Dec 19, 1991 (33)",€3.50m,1991,3500.0,74,56,43,34
+Netherlands,Eredivisie,Ajax Amsterdam,9,Brian Brobbey,Centre-Forward,"Feb 1, 2002 (23)",€22.00m,2002,22000.0,83,68,46,36
+Netherlands,Eredivisie,Ajax Amsterdam,-,Chuba Akpom,Centre-Forward,"Oct 9, 1995 (29)",€7.00m,1995,7000.0,77,63,42,33
+Netherlands,Eredivisie,Ajax Amsterdam,25,Wout Weghorst,Centre-Forward,"Aug 7, 1992 (32)",€4.00m,1992,4000.0,75,62,41,32

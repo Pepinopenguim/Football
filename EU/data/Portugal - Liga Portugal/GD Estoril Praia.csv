@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,GD Estoril Praia,27,Joel Robles,Goalkeeper,"Jun 17, 1990 (35)",€500k,1990,500.0,64,28,29,58
+Portugal,Liga Portugal,GD Estoril Praia,-,Martin Turk,Goalkeeper,"Aug 21, 2003 (21)",€400k,2003,400.0,61,26,28,56
+Portugal,Liga Portugal,GD Estoril Praia,44,Kévin Boma,Centre-Back,"Nov 20, 2002 (22)",€4.00m,2002,4000.0,74,34,38,61
+Portugal,Liga Portugal,GD Estoril Praia,25,Felix Bacher,Centre-Back,"Oct 25, 2000 (24)",€2.00m,2000,2000.0,70,32,36,57
+Portugal,Liga Portugal,GD Estoril Praia,-,Ismael Sierra,Centre-Back,"Mar 17, 2003 (22)",€200k,2003,200.0,57,26,30,47
+Portugal,Liga Portugal,GD Estoril Praia,24,Pedro Amaral,Left-Back,"Aug 25, 1997 (27)",€1.00m,1997,1000.0,67,33,37,51
+Portugal,Liga Portugal,GD Estoril Praia,18,Gonçalo Costa,Left-Back,"Feb 18, 2000 (25)",€500k,2000,500.0,63,31,35,48
+Portugal,Liga Portugal,GD Estoril Praia,22,Pedro Carvalho,Right-Back,"Feb 14, 2003 (22)",€400k,2003,400.0,61,30,34,46
+Portugal,Liga Portugal,GD Estoril Praia,-,Raúl Parra,Right-Back,"Nov 26, 1999 (25)",€200k,1999,200.0,58,28,32,44
+Portugal,Liga Portugal,GD Estoril Praia,5,Diogo Brasido,Right-Back,"May 24, 2003 (22)",-,2003,23.0,46,23,25,35
+Portugal,Liga Portugal,GD Estoril Praia,10,Jordan Holsgrove,Defensive Midfield,"Sep 10, 1999 (25)",€3.50m,1999,3500.0,73,38,38,47
+Portugal,Liga Portugal,GD Estoril Praia,-,Finn Dicke,Defensive Midfield,"Sep 14, 2004 (20)",€250k,2004,250.0,58,30,30,37
+Portugal,Liga Portugal,GD Estoril Praia,88,Xeka,Central Midfield,"Nov 10, 1994 (30)",€2.00m,1994,2000.0,71,41,45,41
+Portugal,Liga Portugal,GD Estoril Praia,6,Jandro Orellana,Central Midfield,"Aug 7, 2000 (24)",€1.00m,2000,1000.0,67,39,43,39
+Portugal,Liga Portugal,GD Estoril Praia,-,Michel Costa,Central Midfield,"Dec 20, 2001 (23)",€550k,2001,550.0,63,37,40,37
+Portugal,Liga Portugal,GD Estoril Praia,6,Nodar Lominadze,Central Midfield,"Apr 4, 2002 (23)",€500k,2002,500.0,63,37,40,37
+Portugal,Liga Portugal,GD Estoril Praia,-,Fran Pereira,Central Midfield,"Feb 6, 2002 (23)",-,2002,93.0,54,31,35,31
+Portugal,Liga Portugal,GD Estoril Praia,12,João Carvalho,Attacking Midfield,"Mar 9, 1997 (28)",€3.00m,1997,3000.0,73,49,45,38
+Portugal,Liga Portugal,GD Estoril Praia,-,Pizzi,Attacking Midfield,"Oct 6, 1989 (35)",€400k,1989,400.0,63,42,38,33
+Portugal,Liga Portugal,GD Estoril Praia,26,Foe Ondoa,Attacking Midfield,"Dec 12, 2005 (19)",€400k,2005,400.0,60,40,37,31
+Portugal,Liga Portugal,GD Estoril Praia,-,Bernardo Lourenço,Attacking Midfield,"Aug 21, 2002 (22)",-,2002,52.0,51,34,31,27
+Portugal,Liga Portugal,GD Estoril Praia,19,André Lacximicant,Left Winger,"May 19, 2001 (24)",€1.00m,2001,1000.0,66,50,38,30
+Portugal,Liga Portugal,GD Estoril Praia,27,Rafik Guitane,Right Winger,"May 26, 1999 (26)",€4.00m,1999,4000.0,74,56,43,34
+Portugal,Liga Portugal,GD Estoril Praia,17,Fabrício Garcia,Right Winger,"May 4, 2001 (24)",€800k,2001,800.0,65,49,38,30
+Portugal,Liga Portugal,GD Estoril Praia,-,Peixinho,Right Winger,"May 23, 2004 (21)",-,2004,57.0,50,38,29,23
+Portugal,Liga Portugal,GD Estoril Praia,14,Yanis Begraoui,Centre-Forward,"Jul 4, 2001 (24)",€3.50m,2001,3500.0,73,60,40,31
+Portugal,Liga Portugal,GD Estoril Praia,9,Alejandro Marqués,Centre-Forward,"Aug 4, 2000 (24)",€2.50m,2000,2500.0,71,58,39,31
+Portugal,Liga Portugal,GD Estoril Praia,11,Khayon Edwards,Centre-Forward,"Sep 12, 2003 (21)",€350k,2003,350.0,60,49,33,26
+Portugal,Liga Portugal,GD Estoril Praia,92,Israel Salazar,Centre-Forward,"May 10, 2003 (22)",€200k,2003,200.0,57,47,31,25

@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,Inter Milan,13,Josep Martínez,Goalkeeper,"May 27, 1998 (27)",€12.00m,1998,12000.0,80,34,37,73
+Italy,Serie A,Inter Milan,1,Yann Sommer,Goalkeeper,"Dec 17, 1988 (36)",€4.00m,1988,4000.0,75,32,34,68
+Italy,Serie A,Inter Milan,12,Raffaele Di Gennaro,Goalkeeper,"Oct 3, 1993 (31)",€300k,1993,300.0,61,26,28,56
+Italy,Serie A,Inter Milan,95,Alessandro Bastoni,Centre-Back,"Apr 13, 1999 (26)",€80.00m,1999,80000.0,90,41,47,74
+Italy,Serie A,Inter Milan,31,Yann Bisseck,Centre-Back,"Nov 29, 2000 (24)",€35.00m,2000,35000.0,85,39,44,70
+Italy,Serie A,Inter Milan,28,Benjamin Pavard,Centre-Back,"Mar 28, 1996 (29)",€25.00m,1996,25000.0,84,39,44,69
+Italy,Serie A,Inter Milan,6,Stefan de Vrij,Centre-Back,"Feb 5, 1992 (33)",€5.00m,1992,5000.0,76,35,40,62
+Italy,Serie A,Inter Milan,42,Tomás Palacios,Centre-Back,"Apr 28, 2003 (22)",€4.00m,2003,4000.0,73,34,38,60
+Italy,Serie A,Inter Milan,15,Francesco Acerbi,Centre-Back,"Feb 10, 1988 (37)",€3.00m,1988,3000.0,73,34,38,60
+Italy,Serie A,Inter Milan,-,Zinho Vanheusden,Centre-Back,"Jul 29, 1999 (25)",€1.00m,1999,1000.0,67,31,35,55
+Italy,Serie A,Inter Milan,32,Federico Dimarco,Left-Back,"Nov 10, 1997 (27)",€50.00m,1997,50000.0,88,43,48,67
+Italy,Serie A,Inter Milan,30,Carlos Augusto,Left-Back,"Jan 7, 1999 (26)",€26.00m,1999,26000.0,84,41,46,64
+Italy,Serie A,Inter Milan,2,Denzel Dumfries,Right-Back,"Apr 18, 1996 (29)",€35.00m,1996,35000.0,86,42,47,65
+Italy,Serie A,Inter Milan,36,Matteo Darmian,Right-Back,"Dec 2, 1989 (35)",€2.50m,1989,2500.0,72,35,40,55
+Italy,Serie A,Inter Milan,20,Hakan Çalhanoğlu,Defensive Midfield,"Feb 8, 1994 (31)",€30.00m,1994,30000.0,85,44,44,54
+Italy,Serie A,Inter Milan,8,Petar Sučić,Defensive Midfield,"Oct 25, 2003 (21)",€14.00m,2003,14000.0,80,42,42,51
+Italy,Serie A,Inter Milan,21,Kristjan Asllani,Defensive Midfield,"Mar 9, 2002 (23)",€13.00m,2002,13000.0,80,42,42,51
+Italy,Serie A,Inter Milan,23,Nicolò Barella,Central Midfield,"Feb 7, 1997 (28)",€75.00m,1997,75000.0,90,52,58,52
+Italy,Serie A,Inter Milan,16,Davide Frattesi,Central Midfield,"Sep 22, 1999 (25)",€35.00m,1999,35000.0,86,50,55,50
+Italy,Serie A,Inter Milan,7,Piotr Zieliński,Central Midfield,"May 20, 1994 (31)",€10.00m,1994,10000.0,79,46,51,46
+Italy,Serie A,Inter Milan,22,Henrikh Mkhitaryan,Central Midfield,"Jan 21, 1989 (36)",€4.00m,1989,4000.0,75,44,48,44
+Italy,Serie A,Inter Milan,11,Luis Henrique,Right Midfield,"Dec 14, 2001 (23)",€25.00m,2001,25000.0,84,49,54,49
+Italy,Serie A,Inter Milan,-,Tajon Buchanan,Right Midfield,"Feb 8, 1999 (26)",€6.00m,1999,6000.0,76,44,49,44
+Italy,Serie A,Inter Milan,59,Nicola Zalewski,Left Midfield,"Jan 23, 2002 (23)",€12.00m,2002,12000.0,80,46,51,46
+Italy,Serie A,Inter Milan,70,Sebastiano Esposito,Second Striker,"Jul 2, 2002 (23)",€8.50m,2002,8500.0,78,62,45,34
+Italy,Serie A,Inter Milan,10,Lautaro Martínez,Centre-Forward,"Aug 22, 1997 (27)",€95.00m,1997,95000.0,91,75,50,39
+Italy,Serie A,Inter Milan,9,Marcus Thuram,Centre-Forward,"Aug 6, 1997 (27)",€75.00m,1997,75000.0,90,74,50,39
+Italy,Serie A,Inter Milan,94,Pio Esposito,Centre-Forward,"Jun 28, 2005 (20)",€25.00m,2005,25000.0,82,67,45,35
+Italy,Serie A,Inter Milan,-,Ange-Yoan Bonny,Centre-Forward,"Oct 25, 2003 (21)",€20.00m,2003,20000.0,82,67,45,35
+Italy,Serie A,Inter Milan,99,Mehdi Taremi,Centre-Forward,"Jul 18, 1992 (33)",€3.50m,1992,3500.0,74,61,41,32

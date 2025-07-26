@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,Vitória Guimarães SC,14,Bruno Varela,Goalkeeper,"Nov 4, 1994 (30)",€2.50m,1994,2500.0,72,31,33,66
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Juan Castillo,Goalkeeper,"Jan 13, 2003 (22)",€600k,2003,600.0,63,27,29,57
+Portugal,Liga Portugal,Vitória Guimarães SC,27,Charles,Goalkeeper,"Feb 4, 1994 (31)",€300k,1994,300.0,61,26,28,56
+Portugal,Liga Portugal,Vitória Guimarães SC,47,João Oliveira,Goalkeeper,"Sep 18, 2002 (22)",€100k,2002,100.0,54,23,25,49
+Portugal,Liga Portugal,Vitória Guimarães SC,91,Gui,Goalkeeper,"May 13, 2006 (19)",-,2006,97.0,52,22,24,47
+Portugal,Liga Portugal,Vitória Guimarães SC,24,Toni Borevković,Centre-Back,"Jun 18, 1997 (28)",€5.00m,1997,5000.0,75,34,39,62
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Paulo Vitor,Centre-Back,"Jul 19, 2001 (24)",€800k,2001,800.0,65,30,34,53
+Portugal,Liga Portugal,Vitória Guimarães SC,26,Rodrigo Abascal,Centre-Back,"Jan 14, 1994 (31)",€700k,1994,700.0,65,30,34,53
+Portugal,Liga Portugal,Vitória Guimarães SC,15,Óscar Rivas,Centre-Back,"Mar 27, 2000 (25)",€500k,2000,500.0,63,29,33,52
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Miguel Nóbrega,Centre-Back,"Apr 17, 2000 (25)",€400k,2000,400.0,62,29,32,51
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Thiago Balieiro,Centre-Back,"Feb 23, 2003 (22)",-,2003,69.0,52,24,27,43
+Portugal,Liga Portugal,Vitória Guimarães SC,13,João Mendes,Left-Back,"Apr 13, 2000 (25)",€3.00m,2000,3000.0,72,35,40,55
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Orest Lebedenko,Left-Back,"Sep 23, 1998 (26)",€600k,1998,600.0,64,31,35,49
+Portugal,Liga Portugal,Vitória Guimarães SC,2,Maga,Right-Back,"Nov 16, 2002 (22)",€2.00m,2002,2000.0,70,34,38,53
+Portugal,Liga Portugal,Vitória Guimarães SC,8,Tomás Händel,Defensive Midfield,"Nov 27, 2000 (24)",€13.00m,2000,13000.0,80,42,42,51
+Portugal,Liga Portugal,Vitória Guimarães SC,10,Tiago Silva,Central Midfield,"Jun 2, 1993 (32)",€3.00m,1993,3000.0,73,42,47,42
+Portugal,Liga Portugal,Vitória Guimarães SC,16,Beni,Central Midfield,"May 21, 2002 (23)",€2.00m,2002,2000.0,70,41,45,41
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Matija Mitrovic,Central Midfield,"Dec 12, 2004 (20)",€1.00m,2004,1000.0,66,38,42,38
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Gonçalo Nogueira,Central Midfield,"Dec 28, 2003 (21)",€600k,2003,600.0,63,37,40,37
+Portugal,Liga Portugal,Vitória Guimarães SC,77,Nuno Santos,Attacking Midfield,"Mar 2, 1999 (26)",€2.50m,1999,2500.0,71,48,43,37
+Portugal,Liga Portugal,Vitória Guimarães SC,20,Samu,Attacking Midfield,"Apr 21, 1996 (29)",€1.80m,1996,1800.0,70,47,43,36
+Portugal,Liga Portugal,Vitória Guimarães SC,21,Vando Félix,Left Winger,"Sep 3, 2002 (22)",€1.00m,2002,1000.0,66,50,38,30
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Fabio Blanco,Left Winger,"Feb 18, 2004 (21)",€900k,2004,900.0,65,49,38,30
+Portugal,Liga Portugal,Vitória Guimarães SC,18,Telmo Arcanjo,Right Winger,"Jun 21, 2001 (24)",€3.00m,2001,3000.0,72,55,42,33
+Portugal,Liga Portugal,Vitória Guimarães SC,71,Gustavo Silva,Right Winger,"Jun 1, 1999 (26)",€3.00m,1999,3000.0,72,55,42,33
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Oumar Camara,Right Winger,"May 11, 2007 (18)",-,2007,1.0,28,21,16,13
+Portugal,Liga Portugal,Vitória Guimarães SC,7,Nélson Oliveira,Centre-Forward,"Aug 8, 1991 (33)",€350k,1991,350.0,62,51,34,27
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Adrián Butzke,Centre-Forward,"Mar 30, 1999 (26)",€300k,1999,300.0,60,49,33,26
+Portugal,Liga Portugal,Vitória Guimarães SC,-,Bica,Centre-Forward,"Jun 16, 2003 (22)",€300k,2003,300.0,60,49,33,26
+Portugal,Liga Portugal,Vitória Guimarães SC,86,Dieu-Merci Michel,Centre-Forward,"Feb 9, 2004 (21)",€300k,2004,300.0,59,48,32,25

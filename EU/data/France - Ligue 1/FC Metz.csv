@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+France,Ligue 1,FC Metz,61,Pape Sy,Goalkeeper,"May 2, 1997 (28)",€300k,1997,300.0,60,26,28,55
+France,Ligue 1,FC Metz,38,Sadibou Sané,Centre-Back,"Jun 10, 2004 (21)",€5.00m,2004,5000.0,74,34,38,61
+France,Ligue 1,FC Metz,4,Michel Mboula,Centre-Back,"Apr 30, 2003 (22)",€1.20m,2003,1200.0,67,31,35,55
+France,Ligue 1,FC Metz,-,Yannis Lawson,Left-Back,"Nov 22, 2004 (20)",€300k,2004,300.0,59,29,32,45
+France,Ligue 1,FC Metz,39,Koffi Kouao,Right-Back,"May 20, 1998 (27)",€2.00m,1998,2000.0,70,34,38,53
+France,Ligue 1,FC Metz,22,Kevin Van Den Kerkhof,Right-Back,"Mar 14, 1996 (29)",€1.20m,1996,1200.0,68,33,37,52
+France,Ligue 1,FC Metz,2,Maxime Colin,Right-Back,"Nov 15, 1991 (33)",€300k,1991,300.0,61,30,34,46
+France,Ligue 1,FC Metz,-,Boubacar Traoré,Defensive Midfield,"Aug 20, 2001 (23)",€5.00m,2001,5000.0,75,39,39,48
+France,Ligue 1,FC Metz,5,Jean-Philippe Gbamin,Defensive Midfield,"Sep 25, 1995 (29)",€2.00m,1995,2000.0,71,37,37,45
+France,Ligue 1,FC Metz,12,Alpha Touré,Defensive Midfield,"Jan 25, 2006 (19)",€400k,2006,400.0,60,31,31,38
+France,Ligue 1,FC Metz,21,Benjamin Stambouli,Defensive Midfield,"Aug 13, 1990 (34)",€400k,1990,400.0,62,32,32,40
+France,Ligue 1,FC Metz,20,Jessy Deminguet,Central Midfield,"Jan 7, 1998 (27)",€2.50m,1998,2500.0,72,42,46,42
+France,Ligue 1,FC Metz,6,Joseph Nduquidi,Central Midfield,"Oct 31, 2004 (20)",€400k,2004,400.0,61,35,39,35
+France,Ligue 1,FC Metz,-,Ismaël Guerti,Attacking Midfield,"Jul 30, 2004 (20)",-,2004,35.0,48,32,29,25
+France,Ligue 1,FC Metz,14,Cheikh Sabaly,Left Winger,"Mar 4, 1999 (26)",€4.00m,1999,4000.0,74,56,43,34
+France,Ligue 1,FC Metz,19,Morgan Bokele,Left Winger,"Mar 13, 2004 (21)",€600k,2004,600.0,63,48,37,29
+France,Ligue 1,FC Metz,-,Giorgi Abuashvili,Left Winger,"Feb 8, 2003 (22)",€450k,2003,450.0,62,47,36,29
+France,Ligue 1,FC Metz,7,Gauthier Hein,Right Winger,"Aug 7, 1996 (28)",€4.00m,1996,4000.0,74,56,43,34
+France,Ligue 1,FC Metz,8,Giorgi Tsitaishvili,Right Winger,"Nov 18, 2000 (24)",€2.00m,2000,2000.0,70,53,41,32
+France,Ligue 1,FC Metz,99,Joel Asoro,Right Winger,"Apr 27, 1999 (26)",€1.00m,1999,1000.0,67,51,39,31
+France,Ligue 1,FC Metz,-,Malick Mbaye,Right Winger,"Apr 6, 2004 (21)",€500k,2004,500.0,62,47,36,29
+France,Ligue 1,FC Metz,18,Idrissa Gueye,Centre-Forward,"Sep 16, 2006 (18)",€4.00m,2006,4000.0,72,59,40,31
+France,Ligue 1,FC Metz,9,Ibou Sané,Centre-Forward,"Mar 28, 2005 (20)",€600k,2005,600.0,63,52,35,27
+France,Ligue 1,FC Metz,-,Joseph Mangondo,Centre-Forward,"Aug 6, 2005 (19)",€50k,2005,50.0,49,40,27,21
+France,Ligue 1,FC Metz,-,Brian Madjo,Centre-Forward,"Jan 12, 2009 (16)",-,2009,49.0,48,39,26,21

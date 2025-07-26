@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Arsenal FC,1,David Raya,Goalkeeper,"Sep 15, 1995 (29)",€40.00m,1995,40000.0,87,37,40,79
+England,Premier League,Arsenal FC,13,Kepa Arrizabalaga,Goalkeeper,"Oct 3, 1994 (30)",€10.00m,1994,10000.0,79,34,36,72
+England,Premier League,Arsenal FC,31,Karl Hein,Goalkeeper,"Apr 13, 2002 (23)",€3.00m,2002,3000.0,72,31,33,66
+England,Premier League,Arsenal FC,2,William Saliba,Centre-Back,"Mar 24, 2001 (24)",€80.00m,2001,80000.0,90,41,47,74
+England,Premier League,Arsenal FC,6,Gabriel Magalhães,Centre-Back,"Dec 19, 1997 (27)",€75.00m,1997,75000.0,90,41,47,74
+England,Premier League,Arsenal FC,3,Cristhian Mosquera,Centre-Back,"Jun 27, 2004 (21)",€30.00m,2004,30000.0,84,39,44,69
+England,Premier League,Arsenal FC,15,Jakub Kiwior,Centre-Back,"Feb 15, 2000 (25)",€28.00m,2000,28000.0,84,39,44,69
+England,Premier League,Arsenal FC,49,Myles Lewis-Skelly,Left-Back,"Sep 26, 2006 (18)",€45.00m,2006,45000.0,85,42,47,65
+England,Premier League,Arsenal FC,33,Riccardo Calafiori,Left-Back,"May 19, 2002 (23)",€35.00m,2002,35000.0,85,42,47,65
+England,Premier League,Arsenal FC,17,Oleksandr Zinchenko,Left-Back,"Dec 15, 1996 (28)",€20.00m,1996,20000.0,83,41,46,63
+England,Premier League,Arsenal FC,12,Jurrien Timber,Right-Back,"Jun 17, 2001 (24)",€55.00m,2001,55000.0,88,43,48,67
+England,Premier League,Arsenal FC,4,Ben White,Right-Back,"Oct 8, 1997 (27)",€45.00m,1997,45000.0,87,43,48,66
+England,Premier League,Arsenal FC,36,Martín Zubimendi,Defensive Midfield,"Feb 2, 1999 (26)",€60.00m,1999,60000.0,88,46,46,56
+England,Premier League,Arsenal FC,16,Christian Nørgaard,Defensive Midfield,"Mar 10, 1994 (31)",€11.00m,1994,11000.0,80,42,42,51
+England,Premier League,Arsenal FC,41,Declan Rice,Central Midfield,"Jan 14, 1999 (26)",€120.00m,1999,120000.0,92,53,59,53
+England,Premier League,Arsenal FC,23,Mikel Merino,Central Midfield,"Jun 22, 1996 (29)",€35.00m,1996,35000.0,86,50,55,50
+England,Premier League,Arsenal FC,28,Albert Sambi Lokonga,Central Midfield,"Oct 22, 1999 (25)",€8.00m,1999,8000.0,78,45,50,45
+England,Premier League,Arsenal FC,8,Martin Ødegaard,Attacking Midfield,"Dec 17, 1998 (26)",€85.00m,1998,85000.0,90,60,55,47
+England,Premier League,Arsenal FC,21,Fábio Vieira,Attacking Midfield,"May 30, 2000 (25)",€22.00m,2000,22000.0,83,56,51,43
+England,Premier League,Arsenal FC,11,Gabriel Martinelli,Left Winger,"Jun 18, 2001 (24)",€55.00m,2001,55000.0,88,67,51,40
+England,Premier League,Arsenal FC,19,Leandro Trossard,Left Winger,"Dec 4, 1994 (30)",€22.00m,1994,22000.0,83,63,48,38
+England,Premier League,Arsenal FC,7,Bukayo Saka,Right Winger,"Sep 5, 2001 (23)",€150.00m,2001,150000.0,93,71,54,43
+England,Premier League,Arsenal FC,22,Ethan Nwaneri,Right Winger,"Mar 21, 2007 (18)",€55.00m,2007,55000.0,86,65,50,40
+England,Premier League,Arsenal FC,20,Noni Madueke,Right Winger,"Mar 10, 2002 (23)",€40.00m,2002,40000.0,86,65,50,40
+England,Premier League,Arsenal FC,24,Reiss Nelson,Right Winger,"Dec 10, 1999 (25)",€16.00m,1999,16000.0,81,62,47,37
+England,Premier League,Arsenal FC,29,Kai Havertz,Centre-Forward,"Jun 11, 1999 (26)",€65.00m,1999,65000.0,89,73,49,38
+England,Premier League,Arsenal FC,9,Gabriel Jesus,Centre-Forward,"Apr 3, 1997 (28)",€32.00m,1997,32000.0,85,70,47,37

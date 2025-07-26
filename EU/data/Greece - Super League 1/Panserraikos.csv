@@ -1,0 +1,34 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Greece,Super League 1,Panserraikos,-,Francisco Tinaglini,Goalkeeper,"Nov 9, 1998 (26)",€400k,1998,400.0,62,27,29,56
+Greece,Super League 1,Panserraikos,20,Alexandros Tsompanidis,Goalkeeper,"Aug 5, 2004 (20)",€50k,2004,50.0,50,22,23,46
+Greece,Super League 1,Panserraikos,-,Michalis Pourliotopoulos,Goalkeeper,"Feb 25, 2007 (18)",-,2007,1.0,28,12,13,25
+Greece,Super League 1,Panserraikos,99,Viktoras Sakalidis,Goalkeeper,"Apr 9, 2003 (22)",-,2003,52.0,50,22,23,46
+Greece,Super League 1,Panserraikos,5,Iva Gelashvili,Centre-Back,"Apr 8, 2001 (24)",€550k,2001,550.0,63,29,33,52
+Greece,Super League 1,Panserraikos,30,Volnei,Centre-Back,"Apr 15, 2000 (25)",€500k,2000,500.0,63,29,33,52
+Greece,Super League 1,Panserraikos,-,Vernon de Marco,Centre-Back,"Nov 18, 1992 (32)",€300k,1992,300.0,61,28,32,50
+Greece,Super League 1,Panserraikos,47,Andreas Karamanolis,Centre-Back,"Sep 2, 2001 (23)",€250k,2001,250.0,59,27,31,48
+Greece,Super League 1,Panserraikos,-,Fotis Chavos,Centre-Back,"Jan 18, 2006 (19)",-,2006,51.0,49,23,25,40
+Greece,Super League 1,Panserraikos,-,Marios Tsaousis,Left-Back,"May 11, 2000 (25)",€450k,2000,450.0,62,30,34,47
+Greece,Super League 1,Panserraikos,31,Yoël Armougom,Left-Back,"Jun 5, 1998 (27)",€250k,1998,250.0,59,29,32,45
+Greece,Super League 1,Panserraikos,35,Stavros Vasilakos,Left-Back,"Sep 19, 2008 (16)",-,2008,22.0,44,22,24,33
+Greece,Super League 1,Panserraikos,-,Lefteris Lyratzis,Right-Back,"Feb 22, 2000 (25)",€850k,2000,850.0,66,32,36,50
+Greece,Super League 1,Panserraikos,22,Moussa Wagué,Right-Back,"Oct 4, 1998 (26)",€500k,1998,500.0,63,31,35,48
+Greece,Super League 1,Panserraikos,-,Charalampos Georgiadis,Right-Back,"Mar 26, 2005 (20)",€75k,2005,75.0,51,25,28,39
+Greece,Super League 1,Panserraikos,25,Jérémy Gélin,Defensive Midfield,"Apr 24, 1997 (28)",€900k,1997,900.0,66,34,34,42
+Greece,Super League 1,Panserraikos,6,Matthew Guillaumier,Defensive Midfield,"Apr 9, 1998 (27)",€500k,1998,500.0,63,33,33,40
+Greece,Super League 1,Panserraikos,8,Angelos Liasos,Defensive Midfield,"May 26, 2000 (25)",€300k,2000,300.0,60,31,31,38
+Greece,Super League 1,Panserraikos,-,Stephane Omeonga,Central Midfield,"Mar 27, 1996 (29)",€450k,1996,450.0,63,37,40,37
+Greece,Super League 1,Panserraikos,-,Giannis Doiranlis,Central Midfield,"Sep 29, 2002 (22)",€350k,2002,350.0,61,35,39,35
+Greece,Super League 1,Panserraikos,-,Viktor Rumyantsev,Central Midfield,"Jul 10, 2004 (21)",€200k,2004,200.0,57,33,36,33
+Greece,Super League 1,Panserraikos,39,Mohammed Al-Rashidi,Central Midfield,"May 6, 2002 (23)",€50k,2002,50.0,50,29,32,29
+Greece,Super League 1,Panserraikos,-,Zidane Banjaqui,Attacking Midfield,"Dec 15, 1998 (26)",€650k,1998,650.0,64,43,39,33
+Greece,Super League 1,Panserraikos,-,Andrei Ivan,Left Winger,"Jan 4, 1997 (28)",€1.00m,1997,1000.0,67,51,39,31
+Greece,Super League 1,Panserraikos,-,Andre Green,Left Winger,"Jul 26, 1998 (27)",€400k,1998,400.0,62,47,36,29
+Greece,Super League 1,Panserraikos,17,Alexandros Maskanakis,Left Winger,"Aug 8, 2004 (20)",€200k,2004,200.0,57,43,33,26
+Greece,Super League 1,Panserraikos,7,Milos Deletic,Right Winger,"Oct 14, 1993 (31)",€500k,1993,500.0,63,48,37,29
+Greece,Super League 1,Panserraikos,18,Miguel Falé,Right Winger,"Jan 28, 2004 (21)",€400k,2004,400.0,61,46,35,28
+Greece,Super League 1,Panserraikos,19,Georgios Marinos,Right Winger,"May 8, 2000 (25)",€200k,2000,200.0,58,44,34,27
+Greece,Super League 1,Panserraikos,21,Marios Sofianos,Right Winger,"Nov 24, 2003 (21)",€200k,2003,200.0,57,43,33,26
+Greece,Super League 1,Panserraikos,36,Alexandros Salvanos,Right Winger,"Jun 3, 2006 (19)",-,2006,17.0,43,33,25,20
+Greece,Super League 1,Panserraikos,-,Jean-Baptiste Léo,Centre-Forward,"May 3, 1996 (29)",€175k,1996,175.0,58,48,32,25
+Greece,Super League 1,Panserraikos,34,Youshaa Knaj,Centre-Forward,"Nov 25, 2005 (19)",-,2005,19.0,44,36,24,19

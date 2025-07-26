@@ -1,0 +1,23 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,Valencia CF,1,Julen Agirrezabala,Goalkeeper,"Dec 26, 2000 (24)",€15.00m,2000,15000.0,81,35,37,74
+Spain,LaLiga,Valencia CF,13,Stole Dimitrievski,Goalkeeper,"Dec 25, 1993 (31)",€2.50m,1993,2500.0,72,31,33,66
+Spain,LaLiga,Valencia CF,-,Cristian Rivero,Goalkeeper,"Mar 21, 1998 (27)",€100k,1998,100.0,54,23,25,49
+Spain,LaLiga,Valencia CF,15,César Tárrega,Centre-Back,"Feb 26, 2002 (23)",€10.00m,2002,10000.0,79,36,41,65
+Spain,LaLiga,Valencia CF,-,Eray Cömert,Centre-Back,"Feb 4, 1998 (27)",€2.00m,1998,2000.0,70,32,36,57
+Spain,LaLiga,Valencia CF,4,Mouctar Diakhaby,Centre-Back,"Dec 19, 1996 (28)",€2.00m,1996,2000.0,71,33,37,58
+Spain,LaLiga,Valencia CF,-,Cenk Özkacar,Centre-Back,"Oct 6, 2000 (24)",€1.20m,2000,1200.0,67,31,35,55
+Spain,LaLiga,Valencia CF,14,José Gayà,Left-Back,"May 25, 1995 (30)",€9.00m,1995,9000.0,79,39,43,60
+Spain,LaLiga,Valencia CF,21,Jesús Vázquez,Left-Back,"Jan 2, 2003 (22)",€3.00m,2003,3000.0,72,35,40,55
+Spain,LaLiga,Valencia CF,-,Thierry Correia,Right-Back,"Mar 9, 1999 (26)",€3.00m,1999,3000.0,72,35,40,55
+Spain,LaLiga,Valencia CF,20,Dimitri Foulquier,Right-Back,"Mar 23, 1993 (32)",€1.50m,1993,1500.0,69,34,38,52
+Spain,LaLiga,Valencia CF,18,Pepelu,Defensive Midfield,"Aug 11, 1998 (26)",€9.00m,1998,9000.0,78,41,41,50
+Spain,LaLiga,Valencia CF,6,Hugo Guillamón,Defensive Midfield,"Jan 31, 2000 (25)",€2.50m,2000,2500.0,71,37,37,45
+Spain,LaLiga,Valencia CF,8,Javi Guerra,Central Midfield,"May 13, 2003 (22)",€25.00m,2003,25000.0,83,48,53,48
+Spain,LaLiga,Valencia CF,10,André Almeida,Attacking Midfield,"May 30, 2000 (25)",€10.00m,2000,10000.0,79,53,48,41
+Spain,LaLiga,Valencia CF,22,Luis Rioja,Left Winger,"Oct 16, 1993 (31)",€2.00m,1993,2000.0,71,54,41,33
+Spain,LaLiga,Valencia CF,7,Sergi Canós,Left Winger,"Feb 2, 1997 (28)",€1.00m,1997,1000.0,67,51,39,31
+Spain,LaLiga,Valencia CF,16,Diego López,Right Winger,"May 13, 2002 (23)",€15.00m,2002,15000.0,81,62,47,37
+Spain,LaLiga,Valencia CF,23,Fran Pérez,Right Winger,"Sep 9, 2002 (22)",€3.00m,2002,3000.0,72,55,42,33
+Spain,LaLiga,Valencia CF,-,Dani Raba,Right Winger,"Oct 29, 1995 (29)",€2.50m,1995,2500.0,72,55,42,33
+Spain,LaLiga,Valencia CF,9,Hugo Duro,Centre-Forward,"Nov 10, 1999 (25)",€14.00m,1999,14000.0,81,66,45,35
+Spain,LaLiga,Valencia CF,-,Alberto Marí,Centre-Forward,"Jul 11, 2001 (24)",€1.00m,2001,1000.0,66,54,36,28

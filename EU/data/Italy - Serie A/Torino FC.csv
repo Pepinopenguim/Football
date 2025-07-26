@@ -1,0 +1,34 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,Torino FC,32,Vanja Milinković-Savić,Goalkeeper,"Feb 20, 1997 (28)",€16.00m,1997,16000.0,82,35,38,75
+Italy,Serie A,Torino FC,71,Mihai Popa,Goalkeeper,"Oct 12, 2000 (24)",€650k,2000,650.0,64,28,29,58
+Italy,Serie A,Torino FC,1,Alberto Paleari,Goalkeeper,"Aug 29, 1992 (32)",€500k,1992,500.0,63,27,29,57
+Italy,Serie A,Torino FC,17,Antonio Donnarumma,Goalkeeper,"Jul 7, 1990 (35)",€200k,1990,200.0,59,25,27,54
+Italy,Serie A,Torino FC,23,Saúl Coco,Centre-Back,"Feb 9, 1999 (26)",€10.00m,1999,10000.0,79,36,41,65
+Italy,Serie A,Torino FC,44,Ardian Ismajli,Centre-Back,"Sep 30, 1996 (28)",€6.00m,1996,6000.0,76,35,40,62
+Italy,Serie A,Torino FC,3,Perr Schuurs,Centre-Back,"Nov 26, 1999 (25)",€5.00m,1999,5000.0,75,34,39,62
+Italy,Serie A,Torino FC,13,Guillermo Maripán,Centre-Back,"May 6, 1994 (31)",€4.00m,1994,4000.0,74,34,38,61
+Italy,Serie A,Torino FC,15,Saba Sazonov,Centre-Back,"Feb 1, 2002 (23)",€2.00m,2002,2000.0,70,32,36,57
+Italy,Serie A,Torino FC,5,Adam Masina,Centre-Back,"Jan 2, 1994 (31)",€1.50m,1994,1500.0,69,32,36,57
+Italy,Serie A,Torino FC,99,Senan Mullen,Centre-Back,"Feb 28, 2005 (20)",€175k,2005,175.0,56,26,29,46
+Italy,Serie A,Torino FC,34,Cristiano Biraghi,Left-Back,"Sep 1, 1992 (32)",€1.80m,1992,1800.0,70,34,38,53
+Italy,Serie A,Torino FC,80,Côme Bianay Balcot,Right-Back,"May 13, 2005 (20)",€175k,2005,175.0,56,27,31,43
+Italy,Serie A,Torino FC,61,Adrien Tamèze,Defensive Midfield,"Feb 4, 1994 (31)",€2.00m,1994,2000.0,71,37,37,45
+Italy,Serie A,Torino FC,8,Ivan Ilić,Central Midfield,"Mar 17, 2001 (24)",€16.00m,2001,16000.0,81,47,52,47
+Italy,Serie A,Torino FC,22,Cesare Casadei,Central Midfield,"Jan 10, 2003 (22)",€15.00m,2003,15000.0,80,46,51,46
+Italy,Serie A,Torino FC,66,Gvidas Gineitis,Central Midfield,"Apr 15, 2004 (21)",€6.00m,2004,6000.0,75,44,48,44
+Italy,Serie A,Torino FC,26,Emirhan İlkhan,Central Midfield,"Jun 1, 2004 (21)",€1.70m,2004,1700.0,68,39,44,39
+Italy,Serie A,Torino FC,72,Aaron Ciammaglichella,Central Midfield,"Jan 26, 2005 (20)",€700k,2005,700.0,63,37,40,37
+Italy,Serie A,Torino FC,16,Marcus Pedersen,Right Midfield,"Jul 16, 2000 (25)",€3.00m,2000,3000.0,72,42,46,42
+Italy,Serie A,Torino FC,21,Ali Dembélé,Right Midfield,"Jan 5, 2004 (21)",€900k,2004,900.0,65,38,42,38
+Italy,Serie A,Torino FC,-,Brian Bayeye,Right Midfield,"Jun 30, 2000 (25)",€300k,2000,300.0,60,35,38,35
+Italy,Serie A,Torino FC,20,Valentino Lazaro,Left Midfield,"Mar 24, 1996 (29)",€4.50m,1996,4500.0,75,44,48,44
+Italy,Serie A,Torino FC,10,Nikola Vlašić,Attacking Midfield,"Oct 4, 1997 (27)",€8.00m,1997,8000.0,78,52,48,41
+Italy,Serie A,Torino FC,14,Tino Anjorin,Attacking Midfield,"Nov 23, 2001 (23)",€6.00m,2001,6000.0,76,51,46,40
+Italy,Serie A,Torino FC,83,Sergiu Perciun,Attacking Midfield,"Apr 23, 2006 (19)",€1.50m,2006,1500.0,67,45,41,35
+Italy,Serie A,Torino FC,92,Alieu Njie,Left Winger,"May 14, 2005 (20)",€2.50m,2005,2500.0,70,53,41,32
+Italy,Serie A,Torino FC,-,Cyril Ngonge,Right Winger,"May 26, 2000 (25)",€8.00m,2000,8000.0,78,59,45,36
+Italy,Serie A,Torino FC,79,Zanos Savva,Right Winger,"Nov 26, 2005 (19)",€900k,2005,900.0,65,49,38,30
+Italy,Serie A,Torino FC,18,Ché Adams,Centre-Forward,"Jul 13, 1996 (29)",€15.00m,1996,15000.0,81,66,45,35
+Italy,Serie A,Torino FC,91,Duván Zapata,Centre-Forward,"Apr 1, 1991 (34)",€3.50m,1991,3500.0,74,61,41,32
+Italy,Serie A,Torino FC,9,Antonio Sanabria,Centre-Forward,"Mar 4, 1996 (29)",€2.80m,1996,2800.0,72,59,40,31
+Italy,Serie A,Torino FC,-,Nicola Rauti,Centre-Forward,"Apr 17, 2000 (25)",€400k,2000,400.0,62,51,34,27

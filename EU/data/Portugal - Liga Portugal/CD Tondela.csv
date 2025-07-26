@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,CD Tondela,31,Bernardo,Goalkeeper,"Jul 23, 2002 (23)",€1.50m,2002,1500.0,68,29,31,62
+Portugal,Liga Portugal,CD Tondela,1,Gabriel Souza,Goalkeeper,"Jan 1, 1997 (28)",€150k,1997,150.0,57,25,26,52
+Portugal,Liga Portugal,CD Tondela,-,Christian Marques,Centre-Back,"Jan 15, 2003 (22)",€2.00m,2003,2000.0,70,32,36,57
+Portugal,Liga Portugal,CD Tondela,-,Brayan Medina,Centre-Back,"Mar 4, 2002 (23)",€900k,2002,900.0,66,30,34,54
+Portugal,Liga Portugal,CD Tondela,3,Diego Tavares,Centre-Back,"Mar 12, 2005 (20)",€175k,2005,175.0,56,26,29,46
+Portugal,Liga Portugal,CD Tondela,43,João Cesco,Centre-Back,"Jan 24, 2001 (24)",€125k,2001,125.0,55,25,29,45
+Portugal,Liga Portugal,CD Tondela,5,João Afonso,Centre-Back,"May 28, 1990 (35)",€75k,1990,75.0,54,25,28,44
+Portugal,Liga Portugal,CD Tondela,60,Nor Maviram,Left-Back,"Apr 4, 2001 (24)",€375k,2001,375.0,61,30,34,46
+Portugal,Liga Portugal,CD Tondela,18,Talocha,Left-Back,"Aug 30, 1989 (35)",€75k,1989,75.0,54,26,30,41
+Portugal,Liga Portugal,CD Tondela,48,Tiago Manso,Right-Back,"Dec 13, 1999 (25)",€800k,1999,800.0,65,32,36,49
+Portugal,Liga Portugal,CD Tondela,2,Bebeto,Right-Back,"Jan 1, 1990 (35)",€75k,1990,75.0,54,26,30,41
+Portugal,Liga Portugal,CD Tondela,-,Joe Hodge,Defensive Midfield,"Sep 14, 2002 (22)",€1.00m,2002,1000.0,66,34,34,42
+Portugal,Liga Portugal,CD Tondela,97,Cícero,Defensive Midfield,"May 10, 1997 (28)",€600k,1997,600.0,64,33,33,41
+Portugal,Liga Portugal,CD Tondela,6,André Ceitil,Defensive Midfield,"Mar 11, 1995 (30)",€300k,1995,300.0,61,32,32,39
+Portugal,Liga Portugal,CD Tondela,-,Juan Rodríguez,Defensive Midfield,"Mar 27, 2006 (19)",€150k,2006,150.0,55,29,29,35
+Portugal,Liga Portugal,CD Tondela,26,Nuno Cunha,Central Midfield,"Jan 11, 2001 (24)",€250k,2001,250.0,59,34,38,34
+Portugal,Liga Portugal,CD Tondela,-,Yaya Sithole,Central Midfield,"Mar 3, 1999 (26)",€200k,1999,200.0,58,34,37,34
+Portugal,Liga Portugal,CD Tondela,23,Cascavel,Central Midfield,"Jan 23, 2005 (20)",€150k,2005,150.0,55,32,35,32
+Portugal,Liga Portugal,CD Tondela,8,Hélder Tavares,Central Midfield,"Dec 26, 1989 (35)",€75k,1989,75.0,54,31,35,31
+Portugal,Liga Portugal,CD Tondela,-,Xabi Huarte,Attacking Midfield,"Feb 25, 2001 (24)",€250k,2001,250.0,59,40,36,31
+Portugal,Liga Portugal,CD Tondela,-,Afonso Rodrigues,Left Winger,"Aug 19, 2002 (22)",€350k,2002,350.0,61,46,35,28
+Portugal,Liga Portugal,CD Tondela,70,Moudjatovic,Left Winger,"May 20, 2002 (23)",€200k,2002,200.0,58,44,34,27
+Portugal,Liga Portugal,CD Tondela,-,Tray Fuller,Left Winger,"Jun 25, 2002 (23)",€125k,2002,125.0,55,42,32,25
+Portugal,Liga Portugal,CD Tondela,21,Maranhão,Right Winger,"Mar 2, 1999 (26)",€1.20m,1999,1200.0,68,52,39,31
+Portugal,Liga Portugal,CD Tondela,9,Miro,Centre-Forward,"Apr 22, 2003 (22)",€650k,2003,650.0,64,52,35,28
+Portugal,Liga Portugal,CD Tondela,-,Yefrei Rodríguez,Centre-Forward,"May 11, 2005 (20)",€150k,2005,150.0,55,45,30,24

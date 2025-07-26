@@ -1,0 +1,23 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Kayserispor,25,Bilal Bayazıt,Goalkeeper,"Apr 8, 1999 (26)",€2.00m,1999,2000.0,70,30,32,64
+Türkiye,Süper Lig,Kayserispor,1,Onurcan Piri,Goalkeeper,"Sep 28, 1994 (30)",€200k,1994,200.0,58,25,27,53
+Türkiye,Süper Lig,Kayserispor,39,Şamil Öztürk,Goalkeeper,"May 9, 2005 (20)",€100k,2005,100.0,53,23,24,48
+Türkiye,Süper Lig,Kayserispor,5,Majid Hosseini,Centre-Back,"Jun 20, 1996 (29)",€1.30m,1996,1300.0,68,31,35,56
+Türkiye,Süper Lig,Kayserispor,54,Arif Kocaman,Centre-Back,"Sep 14, 2003 (21)",€1.20m,2003,1200.0,67,31,35,55
+Türkiye,Süper Lig,Kayserispor,29,Kayra Cihan,Centre-Back,"Sep 30, 2007 (17)",€50k,2007,50.0,48,22,25,39
+Türkiye,Süper Lig,Kayserispor,35,Batuhan Özgan,Centre-Back,"Jan 5, 2007 (18)",€50k,2007,50.0,48,22,25,39
+Türkiye,Süper Lig,Kayserispor,23,Lionel Carole,Left-Back,"Apr 12, 1991 (34)",€325k,1991,325.0,61,30,34,46
+Türkiye,Süper Lig,Kayserispor,11,Gökhan Sazdağı,Right-Back,"Sep 20, 1994 (30)",€1.20m,1994,1200.0,68,33,37,52
+Türkiye,Süper Lig,Kayserispor,26,Baran Gezek,Defensive Midfield,"Aug 26, 2005 (19)",€1.30m,2005,1300.0,67,35,35,43
+Türkiye,Süper Lig,Kayserispor,79,Yaw Ackah,Defensive Midfield,"Jun 1, 1999 (26)",€325k,1999,325.0,61,32,32,39
+Türkiye,Süper Lig,Kayserispor,-,Berat Eskin,Defensive Midfield,"Oct 13, 2004 (20)",€50k,2004,50.0,50,26,26,32
+Türkiye,Süper Lig,Kayserispor,6,Ali Karimi,Central Midfield,"Feb 11, 1994 (31)",€500k,1994,500.0,63,37,40,37
+Türkiye,Süper Lig,Kayserispor,-,Yiğit Emre Çeltik,Central Midfield,"Apr 7, 2003 (22)",€50k,2003,50.0,50,29,32,29
+Türkiye,Süper Lig,Kayserispor,16,Eray Özbek,Attacking Midfield,"Jan 9, 2003 (22)",€325k,2003,325.0,60,40,37,31
+Türkiye,Süper Lig,Kayserispor,7,Miguel Cardoso,Left Winger,"Jun 19, 1994 (31)",€2.00m,1994,2000.0,71,54,41,33
+Türkiye,Süper Lig,Kayserispor,20,Carlos Mané,Left Winger,"Mar 11, 1994 (31)",€900k,1994,900.0,66,50,38,30
+Türkiye,Süper Lig,Kayserispor,77,Nurettin Korkmaz,Left Winger,"Jun 27, 2002 (23)",€100k,2002,100.0,54,41,31,25
+Türkiye,Süper Lig,Kayserispor,28,Ramazan Civelek,Right Winger,"Jan 22, 1996 (29)",€850k,1996,850.0,66,50,38,30
+Türkiye,Süper Lig,Kayserispor,-,Berkan Aslan,Right Winger,"Mar 10, 2004 (21)",-,2004,83.0,52,40,30,24
+Türkiye,Süper Lig,Kayserispor,9,Duckens Nazon,Centre-Forward,"Apr 7, 1994 (31)",€1.20m,1994,1200.0,68,56,37,29
+Türkiye,Süper Lig,Kayserispor,99,Talha Sarıarslan,Centre-Forward,"Jan 18, 2004 (21)",€300k,2004,300.0,59,48,32,25

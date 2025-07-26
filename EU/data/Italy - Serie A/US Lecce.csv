@@ -1,0 +1,37 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,US Lecce,30,Wladimiro Falcone,Goalkeeper,"Apr 12, 1995 (30)",€3.50m,1995,3500.0,74,32,34,67
+Italy,Serie A,US Lecce,1,Christian Früchtl,Goalkeeper,"Jan 28, 2000 (25)",€1.30m,2000,1300.0,68,29,31,62
+Italy,Serie A,US Lecce,-,Alexandru Borbei,Goalkeeper,"Jun 27, 2003 (22)",€100k,2003,100.0,54,23,25,49
+Italy,Serie A,US Lecce,32,Jasper Samooja,Goalkeeper,"Jul 21, 2003 (22)",€75k,2003,75.0,52,22,24,47
+Italy,Serie A,US Lecce,6,Federico Baschirotto,Centre-Back,"Sep 20, 1996 (28)",€3.60m,1996,3600.0,74,34,38,61
+Italy,Serie A,US Lecce,4,Kialonda Gaspar,Centre-Back,"Sep 27, 1997 (27)",€3.50m,1997,3500.0,73,34,38,60
+Italy,Serie A,US Lecce,19,Gaby Jean,Centre-Back,"Feb 19, 2000 (25)",€2.00m,2000,2000.0,70,32,36,57
+Italy,Serie A,US Lecce,44,Tiago Gabriel,Centre-Back,"Dec 26, 2004 (20)",€1.00m,2004,1000.0,66,30,34,54
+Italy,Serie A,US Lecce,-,Matías Pérez,Centre-Back,"Apr 13, 2005 (20)",€300k,2005,300.0,59,27,31,48
+Italy,Serie A,US Lecce,-,Sebastian Esposito,Centre-Back,"Apr 21, 2005 (20)",€200k,2005,200.0,57,26,30,47
+Italy,Serie A,US Lecce,25,Antonino Gallo,Left-Back,"Jan 5, 2000 (25)",€4.30m,2000,4300.0,74,36,41,56
+Italy,Serie A,US Lecce,42,Vernon Addo,Left-Back,"May 24, 2005 (20)",€200k,2005,200.0,57,28,31,43
+Italy,Serie A,US Lecce,-,Frédéric Guilbert,Right-Back,"Dec 24, 1994 (30)",€2.50m,1994,2500.0,72,35,40,55
+Italy,Serie A,US Lecce,-,Christ-Owen Kouassi,Right-Back,"Apr 15, 2003 (22)",€2.00m,2003,2000.0,70,34,38,53
+Italy,Serie A,US Lecce,17,Danilo Veiga,Right-Back,"Sep 25, 2002 (22)",€1.00m,2002,1000.0,66,32,36,50
+Italy,Serie A,US Lecce,-,Marlon Ubani,Right-Back,"Mar 26, 2005 (20)",€125k,2005,125.0,54,26,30,41
+Italy,Serie A,US Lecce,20,Ylber Ramadani,Defensive Midfield,"Apr 12, 1996 (29)",€1.80m,1996,1800.0,70,36,36,45
+Italy,Serie A,US Lecce,75,Balthazar Pierret,Defensive Midfield,"May 15, 2000 (25)",€1.70m,2000,1700.0,69,36,36,44
+Italy,Serie A,US Lecce,-,Giacomo Faticanti,Defensive Midfield,"Jul 31, 2004 (20)",€1.00m,2004,1000.0,66,34,34,42
+Italy,Serie A,US Lecce,-,Olaf Gorter,Defensive Midfield,"Jan 31, 2005 (20)",€200k,2005,200.0,57,30,30,36
+Italy,Serie A,US Lecce,-,Youssef Maleh,Central Midfield,"Aug 22, 1998 (26)",€3.20m,1998,3200.0,73,42,47,42
+Italy,Serie A,US Lecce,14,Thórir Jóhann Helgason,Central Midfield,"Sep 28, 2000 (24)",€3.00m,2000,3000.0,72,42,46,42
+Italy,Serie A,US Lecce,29,Lassana Coulibaly,Central Midfield,"Apr 10, 1996 (29)",€2.50m,1996,2500.0,72,42,46,42
+Italy,Serie A,US Lecce,77,Mohamed Kaba,Central Midfield,"Oct 27, 2001 (23)",€2.00m,2001,2000.0,70,41,45,41
+Italy,Serie A,US Lecce,5,Medon Berisha,Central Midfield,"Oct 21, 2003 (21)",€1.50m,2003,1500.0,68,39,44,39
+Italy,Serie A,US Lecce,8,Hamza Rafia,Central Midfield,"Apr 2, 1999 (26)",€1.40m,1999,1400.0,68,39,44,39
+Italy,Serie A,US Lecce,-,Niko Kovač,Central Midfield,"Apr 8, 2005 (20)",€300k,2005,300.0,59,34,38,34
+Italy,Serie A,US Lecce,36,Filip Marchwinski,Attacking Midfield,"Jan 10, 2002 (23)",€3.00m,2002,3000.0,72,48,44,37
+Italy,Serie A,US Lecce,-,Rémi Oudin,Attacking Midfield,"Nov 18, 1996 (28)",€1.50m,1996,1500.0,69,46,42,36
+Italy,Serie A,US Lecce,22,Lameck Banda,Left Winger,"Jan 29, 2001 (24)",€4.50m,2001,4500.0,74,56,43,34
+Italy,Serie A,US Lecce,7,Tete Morente,Left Winger,"Dec 4, 1996 (28)",€2.00m,1996,2000.0,71,54,41,33
+Italy,Serie A,US Lecce,50,Santiago Pierotti,Right Winger,"Apr 3, 2001 (24)",€4.00m,2001,4000.0,74,56,43,34
+Italy,Serie A,US Lecce,10,Konan N’Dri,Right Winger,"Oct 27, 2000 (24)",€1.40m,2000,1400.0,68,52,39,31
+Italy,Serie A,US Lecce,9,Nikola Krstović,Centre-Forward,"Apr 5, 2000 (25)",€15.00m,2000,15000.0,81,66,45,35
+Italy,Serie A,US Lecce,-,Francesco Camarda,Centre-Forward,"Mar 10, 2008 (17)",€10.00m,2008,10000.0,77,63,42,33
+Italy,Serie A,US Lecce,23,Rareș Burnete,Centre-Forward,"Jan 31, 2004 (21)",€700k,2004,700.0,64,52,35,28

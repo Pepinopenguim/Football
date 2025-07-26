@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Leeds United,1,Illan Meslier,Goalkeeper,"Mar 2, 2000 (25)",€16.00m,2000,16000.0,81,35,37,74
+England,Premier League,Leeds United,26,Karl Darlow,Goalkeeper,"Oct 8, 1990 (34)",€200k,1990,200.0,59,25,27,54
+England,Premier League,Leeds United,21,Alex Cairns,Goalkeeper,"Jan 4, 1993 (32)",€100k,1993,100.0,55,24,25,50
+England,Premier League,Leeds United,4,Ethan Ampadu,Centre-Back,"Sep 14, 2000 (24)",€20.00m,2000,20000.0,82,38,43,67
+England,Premier League,Leeds United,5,Pascal Struijk,Centre-Back,"Aug 11, 1999 (25)",€18.00m,1999,18000.0,82,38,43,67
+England,Premier League,Leeds United,15,Jaka Bijol,Centre-Back,"Feb 5, 1999 (26)",€18.00m,1999,18000.0,82,38,43,67
+England,Premier League,Leeds United,6,Joe Rodon,Centre-Back,"Oct 22, 1997 (27)",€10.00m,1997,10000.0,79,36,41,65
+England,Premier League,Leeds United,-,Sebastiaan Bornauw,Centre-Back,"Mar 22, 1999 (26)",€6.00m,1999,6000.0,76,35,40,62
+England,Premier League,Leeds United,-,Gabriel Gudmundsson,Left-Back,"Apr 29, 1999 (26)",€7.00m,1999,7000.0,77,38,42,59
+England,Premier League,Leeds United,25,Sam Byram,Left-Back,"Sep 16, 1993 (31)",€800k,1993,800.0,66,32,36,50
+England,Premier League,Leeds United,2,Jayden Bogle,Right-Back,"Jul 27, 2000 (24)",€9.00m,2000,9000.0,78,38,43,59
+England,Premier League,Leeds United,33,Isaac Schmidt,Right-Back,"Dec 7, 1999 (25)",€2.20m,1999,2200.0,71,35,39,54
+England,Premier League,Leeds United,-,Anton Stach,Defensive Midfield,"Nov 15, 1998 (26)",€14.00m,1998,14000.0,81,42,42,52
+England,Premier League,Leeds United,22,Ao Tanaka,Defensive Midfield,"Sep 10, 1998 (26)",€10.00m,1998,10000.0,79,41,41,51
+England,Premier League,Leeds United,44,Ilia Gruev,Defensive Midfield,"May 6, 2000 (25)",€5.00m,2000,5000.0,75,39,39,48
+England,Premier League,Leeds United,50,Charlie Crew,Defensive Midfield,"Jun 15, 2006 (19)",€150k,2006,150.0,55,29,29,35
+England,Premier League,Leeds United,-,Sean Longstaff,Central Midfield,"Oct 30, 1997 (27)",€20.00m,1997,20000.0,83,48,53,48
+England,Premier League,Leeds United,18,Darko Gyabi,Central Midfield,"Feb 18, 2004 (21)",€1.80m,2004,1800.0,69,40,44,40
+England,Premier League,Leeds United,11,Brenden Aaronson,Attacking Midfield,"Oct 22, 2000 (24)",€15.00m,2000,15000.0,81,54,49,42
+England,Premier League,Leeds United,17,Largie Ramazani,Left Winger,"Feb 27, 2001 (24)",€7.50m,2001,7500.0,77,59,45,35
+England,Premier League,Leeds United,29,Wilfried Gnonto,Right Winger,"Nov 5, 2003 (21)",€22.00m,2003,22000.0,82,62,48,38
+England,Premier League,Leeds United,7,Daniel James,Right Winger,"Nov 10, 1997 (27)",€18.00m,1997,18000.0,82,62,48,38
+England,Premier League,Leeds United,-,Jack Harrison,Right Winger,"Nov 20, 1996 (28)",€14.00m,1996,14000.0,81,62,47,37
+England,Premier League,Leeds United,10,Joël Piroe,Centre-Forward,"Aug 2, 1999 (25)",€18.00m,1999,18000.0,82,67,45,35
+England,Premier League,Leeds United,-,Sam Greenwood,Centre-Forward,"Jan 26, 2002 (23)",€4.50m,2002,4500.0,74,61,41,32
+England,Premier League,Leeds United,19,Mateo Joseph,Centre-Forward,"Oct 19, 2003 (21)",€3.50m,2003,3500.0,73,60,40,31
+England,Premier League,Leeds United,-,Lukas Nmecha,Centre-Forward,"Dec 14, 1998 (26)",€3.00m,1998,3000.0,73,60,40,31
+England,Premier League,Leeds United,30,Joe Gelhardt,Centre-Forward,"May 4, 2002 (23)",€3.00m,2002,3000.0,72,59,40,31
+England,Premier League,Leeds United,9,Patrick Bamford,Centre-Forward,"Sep 5, 1993 (31)",€2.00m,1993,2000.0,71,58,39,31

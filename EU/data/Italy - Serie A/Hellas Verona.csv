@@ -1,0 +1,35 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,Hellas Verona,1,Lorenzo Montipò,Goalkeeper,"Feb 20, 1996 (29)",€2.00m,1996,2000.0,71,31,33,65
+Italy,Serie A,Hellas Verona,34,Simone Perilli,Goalkeeper,"Jan 7, 1995 (30)",€400k,1995,400.0,62,27,29,56
+Italy,Serie A,Hellas Verona,98,Federico Magro,Goalkeeper,"Jan 10, 2005 (20)",€300k,2005,300.0,59,25,27,54
+Italy,Serie A,Hellas Verona,-,Giacomo Toniolo,Goalkeeper,"Apr 1, 2004 (21)",€75k,2004,75.0,52,22,24,47
+Italy,Serie A,Hellas Verona,-,Nicolás Valentini,Centre-Back,"Apr 6, 2001 (24)",€6.00m,2001,6000.0,76,35,40,62
+Italy,Serie A,Hellas Verona,87,Daniele Ghilardi,Centre-Back,"Jan 6, 2003 (22)",€5.00m,2003,5000.0,75,34,39,62
+Italy,Serie A,Hellas Verona,-,Unai Núñez,Centre-Back,"Jan 30, 1997 (28)",€3.00m,1997,3000.0,73,34,38,60
+Italy,Serie A,Hellas Verona,-,Enzo Ebosse,Centre-Back,"Mar 11, 1999 (26)",€2.00m,1999,2000.0,70,32,36,57
+Italy,Serie A,Hellas Verona,19,Tobias Slotsager,Centre-Back,"Jan 1, 2006 (19)",€2.00m,2006,2000.0,69,32,36,57
+Italy,Serie A,Hellas Verona,-,Nicolò Calabrese,Centre-Back,"Nov 16, 2004 (20)",€300k,2004,300.0,59,27,31,48
+Italy,Serie A,Hellas Verona,3,Martin Frese,Left-Back,"Jan 4, 1998 (27)",€2.00m,1998,2000.0,70,34,38,53
+Italy,Serie A,Hellas Verona,38,Jackson Tchatchoua,Right-Back,"Sep 14, 2001 (23)",€8.00m,2001,8000.0,77,38,42,59
+Italy,Serie A,Hellas Verona,2,Daniel Oyegoke,Right-Back,"Jan 3, 2003 (22)",€500k,2003,500.0,62,30,34,47
+Italy,Serie A,Hellas Verona,-,Fallou Cham,Right-Back,"Jan 1, 2006 (19)",€150k,2006,150.0,55,27,30,42
+Italy,Serie A,Hellas Verona,10,Cheikh Niasse,Defensive Midfield,"Jan 19, 2000 (25)",€2.50m,2000,2500.0,71,37,37,45
+Italy,Serie A,Hellas Verona,-,Charlys,Defensive Midfield,"Feb 19, 2004 (21)",€450k,2004,450.0,61,32,32,39
+Italy,Serie A,Hellas Verona,25,Suat Serdar,Central Midfield,"Apr 11, 1997 (28)",€4.50m,1997,4500.0,75,44,48,44
+Italy,Serie A,Hellas Verona,24,Antoine Bernede,Central Midfield,"May 26, 1999 (26)",€2.50m,1999,2500.0,71,41,45,41
+Italy,Serie A,Hellas Verona,18,Abdou Harroui,Central Midfield,"Jan 13, 1998 (27)",€1.80m,1998,1800.0,70,41,45,41
+Italy,Serie A,Hellas Verona,-,Yellu Santiago,Central Midfield,"May 25, 2004 (21)",€900k,2004,900.0,65,38,42,38
+Italy,Serie A,Hellas Verona,31,Tomas Suslov,Attacking Midfield,"Jun 7, 2002 (23)",€6.00m,2002,6000.0,76,51,46,40
+Italy,Serie A,Hellas Verona,20,Grigoris Kastanos,Attacking Midfield,"Jan 30, 1998 (27)",€1.50m,1998,1500.0,69,46,42,36
+Italy,Serie A,Hellas Verona,80,Alphadjo Cissè,Attacking Midfield,"Oct 22, 2006 (18)",€1.00m,2006,1000.0,65,44,40,34
+Italy,Serie A,Hellas Verona,-,Stefan Mitrović,Left Winger,"Aug 15, 2002 (22)",€1.50m,2002,1500.0,68,52,39,31
+Italy,Serie A,Hellas Verona,-,Jayden Braaf,Left Winger,"Aug 31, 2002 (22)",€650k,2002,650.0,64,49,37,29
+Italy,Serie A,Hellas Verona,-,Yayah Kallon,Right Winger,"Jun 30, 2001 (24)",€400k,2001,400.0,62,47,36,29
+Italy,Serie A,Hellas Verona,9,Amin Sarr,Centre-Forward,"Mar 11, 2001 (24)",€5.00m,2001,5000.0,75,62,41,32
+Italy,Serie A,Hellas Verona,-,Giovane,Centre-Forward,"Nov 24, 2003 (21)",€3.00m,2003,3000.0,72,59,40,31
+Italy,Serie A,Hellas Verona,35,Daniel Mosquera,Centre-Forward,"Oct 20, 1999 (25)",€1.50m,1999,1500.0,69,57,38,30
+Italy,Serie A,Hellas Verona,7,Mathis Lambourde,Centre-Forward,"Jan 9, 2006 (19)",€800k,2006,800.0,64,52,35,28
+Italy,Serie A,Hellas Verona,14,Dailon Rocha Livramento,Centre-Forward,"May 4, 2001 (24)",€800k,2001,800.0,65,53,36,28
+Italy,Serie A,Hellas Verona,-,Kevin Lasagna,Centre-Forward,"Aug 10, 1992 (32)",€750k,1992,750.0,66,54,36,28
+Italy,Serie A,Hellas Verona,72,Junior Ajayi,Centre-Forward,"Oct 11, 2004 (20)",€300k,2004,300.0,59,48,32,25
+Italy,Serie A,Hellas Verona,-,Juan Manuel Cruz,Centre-Forward,"Jul 19, 1999 (26)",€250k,1999,250.0,59,48,32,25

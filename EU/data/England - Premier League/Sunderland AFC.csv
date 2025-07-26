@@ -1,0 +1,36 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Sunderland AFC,1,Anthony Patterson,Goalkeeper,"May 10, 2000 (25)",€14.00m,2000,14000.0,81,35,37,74
+England,Premier League,Sunderland AFC,16,Blondy Nna Noukeu,Goalkeeper,"Sep 17, 2001 (23)",€150k,2001,150.0,56,24,26,51
+England,Premier League,Sunderland AFC,21,Simon Moore,Goalkeeper,"May 19, 1990 (35)",€150k,1990,150.0,57,25,26,52
+England,Premier League,Sunderland AFC,5,Daniel Ballard,Centre-Back,"Sep 22, 1999 (25)",€8.00m,1999,8000.0,78,36,41,64
+England,Premier League,Sunderland AFC,23,Jenson Seelt,Centre-Back,"May 23, 2003 (22)",€2.00m,2003,2000.0,70,32,36,57
+England,Premier League,Sunderland AFC,13,Luke O'Nien,Centre-Back,"Nov 21, 1994 (30)",€1.50m,1994,1500.0,69,32,36,57
+England,Premier League,Sunderland AFC,42,Aji Alese,Centre-Back,"Jan 17, 2001 (24)",€1.00m,2001,1000.0,66,30,34,54
+England,Premier League,Sunderland AFC,45,Joe Anderson,Centre-Back,"Feb 6, 2001 (24)",€175k,2001,175.0,57,26,30,47
+England,Premier League,Sunderland AFC,3,Dennis Cirkin,Left-Back,"Apr 6, 2002 (23)",€8.00m,2002,8000.0,77,38,42,59
+England,Premier League,Sunderland AFC,-,Reinildo Mandava,Left-Back,"Jan 21, 1994 (31)",€5.00m,1994,5000.0,76,37,42,58
+England,Premier League,Sunderland AFC,33,Leo Fuhr Hjelde,Left-Back,"Aug 26, 2003 (21)",€2.00m,2003,2000.0,70,34,38,53
+England,Premier League,Sunderland AFC,32,Trai Hume,Right-Back,"Mar 18, 2002 (23)",€12.00m,2002,12000.0,80,39,44,61
+England,Premier League,Sunderland AFC,6,Timothée Pembélé,Right-Back,"Sep 9, 2002 (22)",€2.50m,2002,2500.0,71,35,39,54
+England,Premier League,Sunderland AFC,2,Niall Huggins,Right-Back,"Dec 18, 2000 (24)",€800k,2000,800.0,65,32,36,49
+England,Premier League,Sunderland AFC,39,Pierre Ekwah,Defensive Midfield,"Jan 15, 2002 (23)",€7.00m,2002,7000.0,77,40,40,49
+England,Premier League,Sunderland AFC,25,Nectarios Triantis,Defensive Midfield,"May 11, 2003 (22)",€1.00m,2003,1000.0,66,34,34,42
+England,Premier League,Sunderland AFC,-,Habib Diarra,Central Midfield,"Jan 3, 2004 (21)",€20.00m,2004,20000.0,82,48,52,48
+England,Premier League,Sunderland AFC,28,Enzo Le Fée,Central Midfield,"Feb 3, 2000 (25)",€18.00m,2000,18000.0,82,48,52,48
+England,Premier League,Sunderland AFC,-,Noah Sadiki,Central Midfield,"Dec 17, 2004 (20)",€12.00m,2004,12000.0,79,46,51,46
+England,Premier League,Sunderland AFC,4,Dan Neil,Central Midfield,"Dec 13, 2001 (23)",€7.50m,2001,7500.0,77,45,49,45
+England,Premier League,Sunderland AFC,8,Alan Browne,Central Midfield,"Apr 15, 1995 (30)",€2.20m,1995,2200.0,71,41,45,41
+England,Premier League,Sunderland AFC,30,Milan Aleksic,Central Midfield,"Aug 30, 2005 (19)",€700k,2005,700.0,63,37,40,37
+England,Premier League,Sunderland AFC,27,Jay Matete,Central Midfield,"Feb 11, 2001 (24)",€400k,2001,400.0,62,36,40,36
+England,Premier League,Sunderland AFC,17,Abdoullah Ba,Right Midfield,"Jul 31, 2003 (21)",€2.50m,2003,2500.0,71,41,45,41
+England,Premier League,Sunderland AFC,11,Chris Rigg,Attacking Midfield,"Jun 18, 2007 (18)",€20.00m,2007,20000.0,80,54,49,42
+England,Premier League,Sunderland AFC,-,Simon Adingra,Left Winger,"Jan 1, 2002 (23)",€28.00m,2002,28000.0,84,64,49,39
+England,Premier League,Sunderland AFC,14,Romaine Mundle,Left Winger,"Apr 24, 2003 (22)",€6.00m,2003,6000.0,76,58,44,35
+England,Premier League,Sunderland AFC,-,Chemsdine Talbi,Right Winger,"May 9, 2005 (20)",€8.00m,2005,8000.0,76,58,44,35
+England,Premier League,Sunderland AFC,10,Patrick Roberts,Right Winger,"Feb 5, 1997 (28)",€5.00m,1997,5000.0,75,57,44,34
+England,Premier League,Sunderland AFC,36,Ian Poveda,Right Winger,"Feb 9, 2000 (25)",€900k,2000,900.0,66,50,38,30
+England,Premier League,Sunderland AFC,12,Eliezer Mayenda,Centre-Forward,"May 8, 2005 (20)",€12.00m,2005,12000.0,79,65,43,34
+England,Premier League,Sunderland AFC,18,Wilson Isidor,Centre-Forward,"Aug 27, 2000 (24)",€12.00m,2000,12000.0,80,66,44,34
+England,Premier League,Sunderland AFC,15,Nazariy Rusyn,Centre-Forward,"Oct 25, 1998 (26)",€1.00m,1998,1000.0,67,55,37,29
+England,Premier League,Sunderland AFC,29,Ahmed Abdullahi,Centre-Forward,"Jun 19, 2004 (21)",€1.00m,2004,1000.0,66,54,36,28
+England,Premier League,Sunderland AFC,9,Luís Semedo,Centre-Forward,"Aug 11, 2003 (21)",€500k,2003,500.0,62,51,34,27

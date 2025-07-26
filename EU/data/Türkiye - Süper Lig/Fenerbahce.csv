@@ -1,0 +1,34 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Fenerbahce,40,Dominik Livakovic,Goalkeeper,"Jan 9, 1995 (30)",€9.00m,1995,9000.0,79,34,36,72
+Türkiye,Süper Lig,Fenerbahce,1,İrfan Can Eğribayat,Goalkeeper,"Jun 30, 1998 (27)",€2.80m,1998,2800.0,72,31,33,66
+Türkiye,Süper Lig,Fenerbahce,25,Tarık Çetin,Goalkeeper,"Jan 8, 1997 (28)",€325k,1997,325.0,61,26,28,56
+Türkiye,Süper Lig,Fenerbahce,95,Yusuf Akçiçek,Centre-Back,"Jan 25, 2006 (19)",€12.00m,2006,12000.0,78,36,41,64
+Türkiye,Süper Lig,Fenerbahce,3,Diego Carlos,Centre-Back,"Mar 15, 1993 (32)",€9.50m,1993,9500.0,79,36,41,65
+Türkiye,Süper Lig,Fenerbahce,4,Çağlar Söyüncü,Centre-Back,"May 23, 1996 (29)",€7.00m,1996,7000.0,77,35,40,63
+Türkiye,Süper Lig,Fenerbahce,6,Alexander Djiku,Centre-Back,"Aug 9, 1994 (30)",€6.50m,1994,6500.0,77,35,40,63
+Türkiye,Süper Lig,Fenerbahce,50,Rodrigo Becão,Centre-Back,"Jan 19, 1996 (29)",€5.50m,1996,5500.0,76,35,40,62
+Türkiye,Süper Lig,Fenerbahce,35,Yiğit Efe Demir,Centre-Back,"Aug 2, 2004 (20)",€1.30m,2004,1300.0,67,31,35,55
+Türkiye,Süper Lig,Fenerbahce,-,Omar Fayed,Centre-Back,"Jul 4, 2003 (22)",€1.00m,2003,1000.0,66,30,34,54
+Türkiye,Süper Lig,Fenerbahce,24,Jayden Oosterwolde,Left-Back,"Apr 26, 2001 (24)",€13.00m,2001,13000.0,80,39,44,61
+Türkiye,Süper Lig,Fenerbahce,33,Archie Brown,Left-Back,"May 28, 2002 (23)",€7.00m,2002,7000.0,77,38,42,59
+Türkiye,Süper Lig,Fenerbahce,22,Levent Mercan,Left-Back,"Dec 10, 2000 (24)",€2.50m,2000,2500.0,71,35,39,54
+Türkiye,Süper Lig,Fenerbahce,16,Mert Müldür,Right-Back,"Apr 3, 1999 (26)",€6.00m,1999,6000.0,76,37,42,58
+Türkiye,Süper Lig,Fenerbahce,77,Ognjen Mimovic,Right-Back,"Aug 17, 2004 (20)",€3.50m,2004,3500.0,72,35,40,55
+Türkiye,Süper Lig,Fenerbahce,34,Sofyan Amrabat,Defensive Midfield,"Aug 21, 1996 (28)",€17.00m,1996,17000.0,82,43,43,52
+Türkiye,Süper Lig,Fenerbahce,5,İsmail Yüksek,Defensive Midfield,"Jan 26, 1999 (26)",€11.00m,1999,11000.0,79,41,41,51
+Türkiye,Süper Lig,Fenerbahce,28,Bartuğ Elmaz,Defensive Midfield,"Feb 19, 2003 (22)",€1.50m,2003,1500.0,68,35,35,44
+Türkiye,Süper Lig,Fenerbahce,13,Fred,Central Midfield,"Mar 5, 1993 (32)",€10.00m,1993,10000.0,79,46,51,46
+Türkiye,Süper Lig,Fenerbahce,-,Miha Zajc,Central Midfield,"Jul 1, 1994 (31)",€1.50m,1994,1500.0,69,40,44,40
+Türkiye,Süper Lig,Fenerbahce,53,Sebastian Szymański,Attacking Midfield,"May 10, 1999 (26)",€15.00m,1999,15000.0,81,54,49,42
+Türkiye,Süper Lig,Fenerbahce,94,Talisca,Attacking Midfield,"Feb 1, 1994 (31)",€10.00m,1994,10000.0,79,53,48,41
+Türkiye,Süper Lig,Fenerbahce,-,Lincoln,Attacking Midfield,"Nov 7, 1998 (26)",€3.50m,1998,3500.0,73,49,45,38
+Türkiye,Süper Lig,Fenerbahce,8,Mert Hakan Yandaş,Attacking Midfield,"Aug 19, 1994 (30)",€800k,1994,800.0,66,44,40,34
+Türkiye,Süper Lig,Fenerbahce,70,Oğuz Aydın,Left Winger,"Oct 27, 2000 (24)",€11.00m,2000,11000.0,79,60,46,36
+Türkiye,Süper Lig,Fenerbahce,-,Arda Akgün,Left Winger,"Jan 11, 2007 (18)",€100k,2007,100.0,52,40,30,24
+Türkiye,Süper Lig,Fenerbahce,20,Cengiz Ünder,Right Winger,"Jul 14, 1997 (28)",€7.50m,1997,7500.0,78,59,45,36
+Türkiye,Süper Lig,Fenerbahce,17,İrfan Can Kahveci,Right Winger,"Jul 15, 1995 (30)",€7.00m,1995,7000.0,77,59,45,35
+Türkiye,Süper Lig,Fenerbahce,-,Emre Mor,Right Winger,"Jul 24, 1997 (28)",€1.40m,1997,1400.0,69,52,40,32
+Türkiye,Süper Lig,Fenerbahce,-,Burak Kapacak,Right Winger,"Dec 8, 1999 (25)",€125k,1999,125.0,56,43,32,26
+Türkiye,Süper Lig,Fenerbahce,10,Jhon Durán,Centre-Forward,"Dec 13, 2003 (21)",€35.00m,2003,35000.0,85,70,47,37
+Türkiye,Süper Lig,Fenerbahce,19,Youssef En-Nesyri,Centre-Forward,"Jun 1, 1997 (28)",€24.00m,1997,24000.0,84,69,46,36
+Türkiye,Süper Lig,Fenerbahce,23,Cenk Tosun,Centre-Forward,"Jun 7, 1991 (34)",€1.00m,1991,1000.0,67,55,37,29

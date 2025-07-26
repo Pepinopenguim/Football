@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,Villarreal CF,1,Luiz Júnior,Goalkeeper,"Jan 14, 2001 (24)",€10.00m,2001,10000.0,79,34,36,72
+Spain,LaLiga,Villarreal CF,13,Diego Conde,Goalkeeper,"Oct 28, 1998 (26)",€7.50m,1998,7500.0,77,33,35,70
+Spain,LaLiga,Villarreal CF,2,Logan Costa,Centre-Back,"Apr 1, 2001 (24)",€18.00m,2001,18000.0,82,38,43,67
+Spain,LaLiga,Villarreal CF,-,Rafa Marín,Centre-Back,"May 19, 2002 (23)",€7.00m,2002,7000.0,77,35,40,63
+Spain,LaLiga,Villarreal CF,5,Willy Kambwala,Centre-Back,"Aug 25, 2004 (20)",€4.00m,2004,4000.0,73,34,38,60
+Spain,LaLiga,Villarreal CF,26,Pau Navarro,Centre-Back,"Apr 25, 2005 (20)",€3.00m,2005,3000.0,71,33,37,58
+Spain,LaLiga,Villarreal CF,23,Sergi Cardona,Left-Back,"Jul 8, 1999 (26)",€10.00m,1999,10000.0,79,39,43,60
+Spain,LaLiga,Villarreal CF,24,Alfonso Pedraza,Left-Back,"Apr 9, 1996 (29)",€2.50m,1996,2500.0,72,35,40,55
+Spain,LaLiga,Villarreal CF,8,Juan Foyth,Right-Back,"Jan 12, 1998 (27)",€15.00m,1998,15000.0,81,40,45,62
+Spain,LaLiga,Villarreal CF,-,Adrià Altimira,Right-Back,"Mar 28, 2001 (24)",€1.50m,2001,1500.0,69,34,38,52
+Spain,LaLiga,Villarreal CF,18,Pape Gueye,Defensive Midfield,"Jan 24, 1999 (26)",€15.00m,1999,15000.0,81,42,42,52
+Spain,LaLiga,Villarreal CF,14,Santi Comesaña,Central Midfield,"Oct 5, 1996 (28)",€8.00m,1996,8000.0,78,45,50,45
+Spain,LaLiga,Villarreal CF,10,Dani Parejo,Central Midfield,"Apr 16, 1989 (36)",€1.50m,1989,1500.0,70,41,45,41
+Spain,LaLiga,Villarreal CF,6,Denis Suárez,Attacking Midfield,"Jan 6, 1994 (31)",€1.20m,1994,1200.0,68,46,41,35
+Spain,LaLiga,Villarreal CF,-,Alberto Moleiro,Left Winger,"Sep 30, 2003 (21)",€25.00m,2003,25000.0,83,63,48,38
+Spain,LaLiga,Villarreal CF,-,Arnaut Danjuma,Left Winger,"Jan 31, 1997 (28)",€4.00m,1997,4000.0,74,56,43,34
+Spain,LaLiga,Villarreal CF,21,Yéremy Pino,Right Winger,"Oct 20, 2002 (22)",€30.00m,2002,30000.0,84,64,49,39
+Spain,LaLiga,Villarreal CF,11,Ilias Akhomach,Right Winger,"Apr 16, 2004 (21)",€15.00m,2004,15000.0,80,61,46,37
+Spain,LaLiga,Villarreal CF,19,Nicolas Pépé,Right Winger,"May 29, 1995 (30)",€6.00m,1995,6000.0,76,58,44,35
+Spain,LaLiga,Villarreal CF,22,Ayoze Pérez,Centre-Forward,"Jul 29, 1993 (31)",€10.00m,1993,10000.0,79,65,43,34
+Spain,LaLiga,Villarreal CF,-,Etta Eyong,Centre-Forward,"Oct 14, 2003 (21)",€5.00m,2003,5000.0,75,62,41,32
+Spain,LaLiga,Villarreal CF,7,Gerard Moreno,Centre-Forward,"Apr 7, 1992 (33)",€4.00m,1992,4000.0,75,62,41,32
+Spain,LaLiga,Villarreal CF,-,Jorge Pascual,Centre-Forward,"Apr 9, 2003 (22)",€1.20m,2003,1200.0,67,55,37,29
+Spain,LaLiga,Villarreal CF,-,Pau Cabanes,Centre-Forward,"Feb 17, 2005 (20)",€800k,2005,800.0,64,52,35,28

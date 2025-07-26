@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,CD Santa Clara,1,Gabriel Batista,Goalkeeper,"Jun 3, 1998 (27)",€4.00m,1998,4000.0,74,32,34,67
+Portugal,Liga Portugal,CD Santa Clara,-,Neneca,Goalkeeper,"Aug 27, 2003 (21)",€400k,2003,400.0,61,26,28,56
+Portugal,Liga Portugal,CD Santa Clara,31,Denivys,Goalkeeper,"May 1, 2001 (24)",€100k,2001,100.0,54,23,25,49
+Portugal,Liga Portugal,CD Santa Clara,4,Pedro Pacheco,Centre-Back,"Jan 27, 1997 (28)",€700k,1997,700.0,65,30,34,53
+Portugal,Liga Portugal,CD Santa Clara,21,Frederico Venâncio,Centre-Back,"Feb 4, 1993 (32)",€600k,1993,600.0,64,29,33,52
+Portugal,Liga Portugal,CD Santa Clara,13,Luís Rocha,Centre-Back,"Aug 13, 1986 (38)",€100k,1986,100.0,55,25,29,45
+Portugal,Liga Portugal,CD Santa Clara,32,MT,Left-Back,"Mar 1, 2001 (24)",€5.00m,2001,5000.0,75,37,41,57
+Portugal,Liga Portugal,CD Santa Clara,3,Matheus Pereira,Left-Back,"Dec 21, 2000 (24)",€2.50m,2000,2500.0,71,35,39,54
+Portugal,Liga Portugal,CD Santa Clara,-,Paulo Victor,Left-Back,"Apr 13, 2001 (24)",€800k,2001,800.0,65,32,36,49
+Portugal,Liga Portugal,CD Santa Clara,-,Thauan Lara,Left-Back,"Jan 22, 2004 (21)",€600k,2004,600.0,63,31,35,48
+Portugal,Liga Portugal,CD Santa Clara,42,Lucas Soares,Right-Back,"May 4, 1998 (27)",€1.50m,1998,1500.0,69,34,38,52
+Portugal,Liga Portugal,CD Santa Clara,2,Calila,Right-Back,"Oct 10, 1998 (26)",€1.00m,1998,1000.0,67,33,37,51
+Portugal,Liga Portugal,CD Santa Clara,22,Edney,Right-Back,"Jul 26, 2004 (21)",€300k,2004,300.0,59,29,32,45
+Portugal,Liga Portugal,CD Santa Clara,6,Adriano Firmino,Defensive Midfield,"Nov 4, 1999 (25)",€2.50m,1999,2500.0,71,37,37,45
+Portugal,Liga Portugal,CD Santa Clara,8,Pedro Ferreira,Defensive Midfield,"Jan 5, 1998 (27)",€2.00m,1998,2000.0,70,36,36,45
+Portugal,Liga Portugal,CD Santa Clara,35,Serginho,Central Midfield,"Dec 1, 1999 (25)",€1.00m,1999,1000.0,67,39,43,39
+Portugal,Liga Portugal,CD Santa Clara,40,Ageu,Central Midfield,"Feb 20, 2002 (23)",€800k,2002,800.0,65,38,42,38
+Portugal,Liga Portugal,CD Santa Clara,-,Henrique Pereira,Left Winger,"Feb 15, 2002 (23)",€800k,2002,800.0,65,49,38,30
+Portugal,Liga Portugal,CD Santa Clara,11,Gabriel Silva,Right Winger,"Mar 22, 2002 (23)",€5.00m,2002,5000.0,75,57,44,34
+Portugal,Liga Portugal,CD Santa Clara,-,Brenner,Right Winger,"Jan 2, 2002 (23)",€1.30m,2002,1300.0,68,52,39,31
+Portugal,Liga Portugal,CD Santa Clara,20,Adriel Moraes,Right Winger,"Dec 6, 2005 (19)",-,2005,90.0,52,40,30,24
+Portugal,Liga Portugal,CD Santa Clara,70,Vinícius Lopes,Centre-Forward,"May 7, 1999 (26)",€2.50m,1999,2500.0,71,58,39,31
+Portugal,Liga Portugal,CD Santa Clara,-,Wendel,Centre-Forward,"Aug 2, 2000 (24)",€1.20m,2000,1200.0,67,55,37,29
+Portugal,Liga Portugal,CD Santa Clara,-,Anthony Carter,Centre-Forward,"Aug 31, 1994 (30)",€500k,1994,500.0,63,52,35,27
+Portugal,Liga Portugal,CD Santa Clara,17,João Costa,Centre-Forward,"Mar 7, 2000 (25)",€500k,2000,500.0,63,52,35,27

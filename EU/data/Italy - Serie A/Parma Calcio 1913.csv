@@ -1,0 +1,33 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,Parma Calcio 1913,31,Zion Suzuki,Goalkeeper,"Aug 21, 2002 (22)",€20.00m,2002,20000.0,82,35,38,75
+Italy,Serie A,Parma Calcio 1913,40,Edoardo Corvi,Goalkeeper,"Mar 23, 2001 (24)",€350k,2001,350.0,61,26,28,56
+Italy,Serie A,Parma Calcio 1913,-,Filippo Rinaldi,Goalkeeper,"Dec 4, 2002 (22)",€325k,2002,325.0,60,26,28,55
+Italy,Serie A,Parma Calcio 1913,46,Giovanni Leoni,Centre-Back,"Dec 21, 2006 (18)",€18.00m,2006,18000.0,80,37,42,66
+Italy,Serie A,Parma Calcio 1913,39,Alessandro Circati,Centre-Back,"Oct 10, 2003 (21)",€8.00m,2003,8000.0,77,35,40,63
+Italy,Serie A,Parma Calcio 1913,4,Botond Balogh,Centre-Back,"Jun 6, 2002 (23)",€2.40m,2002,2400.0,71,33,37,58
+Italy,Serie A,Parma Calcio 1913,5,Lautaro Valenti,Centre-Back,"Jan 14, 1999 (26)",€1.50m,1999,1500.0,69,32,36,57
+Italy,Serie A,Parma Calcio 1913,-,Peter Amoran,Centre-Back,"May 22, 2004 (21)",€150k,2004,150.0,56,26,29,46
+Italy,Serie A,Parma Calcio 1913,18,Mathias Løvik,Left-Back,"Dec 6, 2003 (21)",€5.00m,2003,5000.0,75,37,41,57
+Italy,Serie A,Parma Calcio 1913,14,Emanuele Valeri,Left-Back,"Dec 7, 1998 (26)",€3.00m,1998,3000.0,73,36,40,55
+Italy,Serie A,Parma Calcio 1913,15,Enrico Delprato,Right-Back,"Nov 10, 1999 (25)",€6.50m,1999,6500.0,77,38,42,59
+Italy,Serie A,Parma Calcio 1913,20,Antoine Hainaut,Right-Back,"Feb 18, 2002 (23)",€1.00m,2002,1000.0,66,32,36,50
+Italy,Serie A,Parma Calcio 1913,16,Mandela Keita,Defensive Midfield,"May 10, 2002 (23)",€12.00m,2002,12000.0,80,42,42,51
+Italy,Serie A,Parma Calcio 1913,8,Nahuel Estévez,Defensive Midfield,"Nov 14, 1995 (29)",€2.00m,1995,2000.0,71,37,37,45
+Italy,Serie A,Parma Calcio 1913,10,Adrián Bernabé,Central Midfield,"May 26, 2001 (24)",€15.00m,2001,15000.0,81,47,52,47
+Italy,Serie A,Parma Calcio 1913,-,Christian Ordóñez,Central Midfield,"Jul 24, 2004 (21)",€7.00m,2004,7000.0,76,44,49,44
+Italy,Serie A,Parma Calcio 1913,19,Simon Sohm,Central Midfield,"Apr 11, 2001 (24)",€5.00m,2001,5000.0,75,44,48,44
+Italy,Serie A,Parma Calcio 1913,-,Rachid Kouda,Central Midfield,"Jul 25, 2002 (23)",€3.30m,2002,3300.0,73,42,47,42
+Italy,Serie A,Parma Calcio 1913,27,Hernani,Central Midfield,"Mar 27, 1994 (31)",€1.60m,1994,1600.0,70,41,45,41
+Italy,Serie A,Parma Calcio 1913,17,Jacob Ondrejka,Left Winger,"Sep 2, 2002 (22)",€8.00m,2002,8000.0,77,59,45,35
+Italy,Serie A,Parma Calcio 1913,7,Adrian Benedyczak,Left Winger,"Nov 24, 2000 (24)",€4.50m,2000,4500.0,75,57,44,34
+Italy,Serie A,Parma Calcio 1913,-,Antoine Joujou,Left Winger,"Mar 12, 2003 (22)",€2.00m,2003,2000.0,70,53,41,32
+Italy,Serie A,Parma Calcio 1913,-,Tjas Begic,Left Winger,"Jun 30, 2003 (22)",€700k,2003,700.0,64,49,37,29
+Italy,Serie A,Parma Calcio 1913,98,Dennis Man,Right Winger,"Aug 26, 1998 (26)",€10.00m,1998,10000.0,79,60,46,36
+Italy,Serie A,Parma Calcio 1913,11,Pontus Almqvist,Right Winger,"Jul 10, 1999 (26)",€2.50m,1999,2500.0,71,54,41,33
+Italy,Serie A,Parma Calcio 1913,61,Anas Haj Mohamed,Right Winger,"Mar 26, 2005 (20)",€1.80m,2005,1800.0,68,52,39,31
+Italy,Serie A,Parma Calcio 1913,-,Anthony Partipilo,Right Winger,"Oct 27, 1994 (30)",€500k,1994,500.0,63,48,37,29
+Italy,Serie A,Parma Calcio 1913,62,Mateusz Kowalski,Second Striker,"Jul 21, 2005 (20)",€300k,2005,300.0,59,47,34,25
+Italy,Serie A,Parma Calcio 1913,32,Mateo Pellegrino,Centre-Forward,"Oct 22, 2001 (23)",€6.00m,2001,6000.0,76,62,42,33
+Italy,Serie A,Parma Calcio 1913,30,Milan Djuric,Centre-Forward,"May 22, 1990 (35)",€1.50m,1990,1500.0,70,57,38,30
+Italy,Serie A,Parma Calcio 1913,9,Gabriel Charpentier,Centre-Forward,"May 17, 1999 (26)",€1.30m,1999,1300.0,68,56,37,29
+Italy,Serie A,Parma Calcio 1913,-,Dario Sits,Centre-Forward,"Feb 4, 2004 (21)",€400k,2004,400.0,61,50,34,26

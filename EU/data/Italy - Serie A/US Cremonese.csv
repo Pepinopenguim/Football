@@ -1,0 +1,36 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,US Cremonese,1,Andrea Fulignati,Goalkeeper,"Oct 31, 1994 (30)",€1.20m,1994,1200.0,68,29,31,62
+Italy,Serie A,US Cremonese,21,Gianluca Saro,Goalkeeper,"Jun 25, 2000 (25)",€300k,2000,300.0,60,26,28,55
+Italy,Serie A,US Cremonese,-,Lapo Nava,Goalkeeper,"Jan 22, 2004 (21)",€100k,2004,100.0,53,23,24,48
+Italy,Serie A,US Cremonese,5,Luca Ravanelli,Centre-Back,"Jan 6, 1997 (28)",€1.60m,1997,1600.0,69,32,36,57
+Italy,Serie A,US Cremonese,55,Francesco Folino,Centre-Back,"Jan 23, 2002 (23)",€700k,2002,700.0,64,29,33,52
+Italy,Serie A,US Cremonese,15,Matteo Bianchetti,Centre-Back,"Mar 17, 1993 (32)",€400k,1993,400.0,62,29,32,51
+Italy,Serie A,US Cremonese,23,Federico Ceccherini,Centre-Back,"May 11, 1992 (33)",€400k,1992,400.0,62,29,32,51
+Italy,Serie A,US Cremonese,42,Lorenzo Moretti,Centre-Back,"Feb 26, 2002 (23)",€250k,2002,250.0,59,27,31,48
+Italy,Serie A,US Cremonese,-,Maissa Ndiaye,Centre-Back,"Jan 28, 2002 (23)",€100k,2002,100.0,54,25,28,44
+Italy,Serie A,US Cremonese,-,Giuseppe Pezzella,Left-Back,"Nov 29, 1997 (27)",€2.50m,1997,2500.0,72,35,40,55
+Italy,Serie A,US Cremonese,-,Giacomo Quagliata,Left-Back,"Feb 19, 2000 (25)",€1.20m,2000,1200.0,67,33,37,51
+Italy,Serie A,US Cremonese,-,Yuri Rocchetti,Left-Back,"Jun 15, 2003 (22)",€900k,2003,900.0,65,32,36,49
+Italy,Serie A,US Cremonese,7,Paulo Azzi,Left-Back,"Jul 15, 1994 (31)",€800k,1994,800.0,66,32,36,50
+Italy,Serie A,US Cremonese,4,Tommaso Barbieri,Right-Back,"Aug 26, 2002 (22)",€2.50m,2002,2500.0,71,35,39,54
+Italy,Serie A,US Cremonese,-,Romano Floriani Mussolini,Right-Back,"Jan 27, 2003 (22)",€1.50m,2003,1500.0,68,33,37,52
+Italy,Serie A,US Cremonese,6,Charles Pickel,Defensive Midfield,"May 15, 1997 (28)",€2.40m,1997,2400.0,71,37,37,45
+Italy,Serie A,US Cremonese,-,Alberto Grassi,Defensive Midfield,"Mar 7, 1995 (30)",€1.80m,1995,1800.0,70,36,36,45
+Italy,Serie A,US Cremonese,19,Michele Castagnetti,Defensive Midfield,"Dec 27, 1989 (35)",€350k,1989,350.0,62,32,32,40
+Italy,Serie A,US Cremonese,-,Alessio Brambilla,Defensive Midfield,"Jun 16, 2001 (24)",€125k,2001,125.0,55,29,29,35
+Italy,Serie A,US Cremonese,18,Michele Collocolo,Central Midfield,"Nov 8, 1999 (25)",€3.00m,1999,3000.0,72,42,46,42
+Italy,Serie A,US Cremonese,8,Mattia Valoti,Central Midfield,"Sep 6, 1993 (31)",€900k,1993,900.0,67,39,43,39
+Italy,Serie A,US Cremonese,-,Tommaso Milanese,Central Midfield,"Jul 31, 2002 (22)",€600k,2002,600.0,64,37,41,37
+Italy,Serie A,US Cremonese,57,Dachi Lordkipanidze,Central Midfield,"Mar 8, 2005 (20)",€100k,2005,100.0,53,31,34,31
+Italy,Serie A,US Cremonese,-,Leonardo Sernicola,Left Midfield,"Jul 30, 1997 (27)",€1.80m,1997,1800.0,70,41,45,41
+Italy,Serie A,US Cremonese,20,Franco Vázquez,Attacking Midfield,"Feb 22, 1989 (36)",€750k,1989,750.0,66,44,40,34
+Italy,Serie A,US Cremonese,11,Dennis Johnsen,Left Winger,"Feb 17, 1998 (27)",€3.50m,1998,3500.0,73,55,42,34
+Italy,Serie A,US Cremonese,27,Jari Vandeputte,Left Winger,"Feb 14, 1996 (29)",€3.20m,1996,3200.0,73,55,42,34
+Italy,Serie A,US Cremonese,98,Luca Zanimacchia,Right Winger,"Jul 19, 1998 (27)",€1.20m,1998,1200.0,68,52,39,31
+Italy,Serie A,US Cremonese,-,David Okereke,Centre-Forward,"Aug 29, 1997 (27)",€2.20m,1997,2200.0,71,58,39,31
+Italy,Serie A,US Cremonese,-,Felix Afena-Gyan,Centre-Forward,"Jan 19, 2003 (22)",€2.00m,2003,2000.0,70,57,38,30
+Italy,Serie A,US Cremonese,9,Manuel De Luca,Centre-Forward,"Jul 17, 1998 (27)",€2.00m,1998,2000.0,70,57,38,30
+Italy,Serie A,US Cremonese,99,Marco Nasti,Centre-Forward,"Sep 17, 2003 (21)",€2.00m,2003,2000.0,70,57,38,30
+Italy,Serie A,US Cremonese,90,Federico Bonazzoli,Centre-Forward,"May 21, 1997 (28)",€1.00m,1997,1000.0,67,55,37,29
+Italy,Serie A,US Cremonese,-,Frank Tsadjout,Centre-Forward,"Jul 28, 1999 (25)",€500k,1999,500.0,63,52,35,27
+Italy,Serie A,US Cremonese,-,David Stückler,Centre-Forward,"Oct 7, 2004 (20)",€500k,2004,500.0,62,51,34,27

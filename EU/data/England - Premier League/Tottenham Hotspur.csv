@@ -1,0 +1,34 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Tottenham Hotspur,1,Guglielmo Vicario,Goalkeeper,"Oct 7, 1996 (28)",€32.00m,1996,32000.0,85,37,39,77
+England,Premier League,Tottenham Hotspur,31,Antonín Kinský,Goalkeeper,"Mar 13, 2003 (22)",€15.00m,2003,15000.0,80,34,37,73
+England,Premier League,Tottenham Hotspur,40,Brandon Austin,Goalkeeper,"Jan 8, 1999 (26)",€600k,1999,600.0,64,28,29,58
+England,Premier League,Tottenham Hotspur,17,Cristian Romero,Centre-Back,"Apr 27, 1998 (27)",€50.00m,1998,50000.0,88,40,46,72
+England,Premier League,Tottenham Hotspur,37,Micky van de Ven,Centre-Back,"Apr 19, 2001 (24)",€50.00m,2001,50000.0,87,40,45,71
+England,Premier League,Tottenham Hotspur,4,Kevin Danso,Centre-Back,"Sep 19, 1998 (26)",€25.00m,1998,25000.0,84,39,44,69
+England,Premier League,Tottenham Hotspur,6,Radu Drăgușin,Centre-Back,"Feb 3, 2002 (23)",€25.00m,2002,25000.0,83,38,43,68
+England,Premier League,Tottenham Hotspur,80,Luka Vuskovic,Centre-Back,"Feb 24, 2007 (18)",€12.00m,2007,12000.0,78,36,41,64
+England,Premier League,Tottenham Hotspur,33,Ben Davies,Centre-Back,"Apr 24, 1993 (32)",€6.00m,1993,6000.0,77,35,40,63
+England,Premier League,Tottenham Hotspur,81,Kota Takai,Centre-Back,"Sep 4, 2004 (20)",€2.50m,2004,2500.0,71,33,37,58
+England,Premier League,Tottenham Hotspur,13,Destiny Udogie,Left-Back,"Nov 28, 2002 (22)",€40.00m,2002,40000.0,86,42,47,65
+England,Premier League,Tottenham Hotspur,24,Djed Spence,Left-Back,"Aug 9, 2000 (24)",€20.00m,2000,20000.0,82,40,45,62
+England,Premier League,Tottenham Hotspur,23,Pedro Porro,Right-Back,"Sep 13, 1999 (25)",€38.00m,1999,38000.0,86,42,47,65
+England,Premier League,Tottenham Hotspur,14,Archie Gray,Defensive Midfield,"Mar 12, 2006 (19)",€38.00m,2006,38000.0,84,44,44,54
+England,Premier League,Tottenham Hotspur,30,Rodrigo Bentancur,Defensive Midfield,"Jun 25, 1997 (28)",€30.00m,1997,30000.0,85,44,44,54
+England,Premier League,Tottenham Hotspur,8,Yves Bissouma,Defensive Midfield,"Aug 30, 1996 (28)",€25.00m,1996,25000.0,84,44,44,54
+England,Premier League,Tottenham Hotspur,15,Lucas Bergvall,Central Midfield,"Feb 2, 2006 (19)",€38.00m,2006,38000.0,84,49,54,49
+England,Premier League,Tottenham Hotspur,29,Pape Matar Sarr,Central Midfield,"Sep 14, 2002 (22)",€32.00m,2002,32000.0,85,49,54,49
+England,Premier League,Tottenham Hotspur,21,Dejan Kulusevski,Attacking Midfield,"Apr 25, 2000 (25)",€50.00m,2000,50000.0,87,58,53,45
+England,Premier League,Tottenham Hotspur,10,James Maddison,Attacking Midfield,"Nov 23, 1996 (28)",€42.00m,1996,42000.0,87,58,53,45
+England,Premier League,Tottenham Hotspur,45,Alfie Devine,Attacking Midfield,"Aug 1, 2004 (20)",€3.50m,2004,3500.0,72,48,44,37
+England,Premier League,Tottenham Hotspur,7,Heung-min Son,Left Winger,"Jul 8, 1992 (33)",€20.00m,1992,20000.0,83,63,48,38
+England,Premier League,Tottenham Hotspur,47,Mikey Moore,Left Winger,"Aug 11, 2007 (17)",€18.00m,2007,18000.0,80,61,46,37
+England,Premier League,Tottenham Hotspur,-,Bryan Gil,Left Winger,"Feb 11, 2001 (24)",€15.00m,2001,15000.0,81,62,47,37
+England,Premier League,Tottenham Hotspur,27,Manor Solomon,Left Winger,"Jul 24, 1999 (26)",€14.00m,1999,14000.0,81,62,47,37
+England,Premier League,Tottenham Hotspur,20,Mohammed Kudus,Right Winger,"Aug 2, 2000 (24)",€45.00m,2000,45000.0,87,66,50,40
+England,Premier League,Tottenham Hotspur,22,Brennan Johnson,Right Winger,"May 23, 2001 (24)",€40.00m,2001,40000.0,86,65,50,40
+England,Premier League,Tottenham Hotspur,28,Wilson Odobert,Right Winger,"Nov 28, 2004 (20)",€20.00m,2004,20000.0,82,62,48,38
+England,Premier League,Tottenham Hotspur,18,Min-hyeok Yang,Right Winger,"Apr 16, 2006 (19)",€3.50m,2006,3500.0,72,55,42,33
+England,Premier League,Tottenham Hotspur,19,Dominic Solanke,Centre-Forward,"Sep 14, 1997 (27)",€40.00m,1997,40000.0,86,71,47,37
+England,Premier League,Tottenham Hotspur,11,Mathys Tel,Centre-Forward,"Apr 27, 2005 (20)",€35.00m,2005,35000.0,84,69,46,36
+England,Premier League,Tottenham Hotspur,9,Richarlison,Centre-Forward,"May 10, 1997 (28)",€20.00m,1997,20000.0,83,68,46,36
+England,Premier League,Tottenham Hotspur,44,Dane Scarlett,Centre-Forward,"Mar 24, 2004 (21)",€2.00m,2004,2000.0,69,57,38,30

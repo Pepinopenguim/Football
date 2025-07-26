@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Germany,Bundesliga,Bayer 04 Leverkusen,26,Mark Flekken,Goalkeeper,"Jun 13, 1993 (32)",€10.00m,1993,10000.0,79,34,36,72
+Germany,Bundesliga,Bayer 04 Leverkusen,1,Lukas Hradecky,Goalkeeper,"Nov 24, 1989 (35)",€2.00m,1989,2000.0,71,31,33,65
+Germany,Bundesliga,Bayer 04 Leverkusen,36,Niklas Lomb,Goalkeeper,"Jul 28, 1993 (31)",€250k,1993,250.0,60,26,28,55
+Germany,Bundesliga,Bayer 04 Leverkusen,3,Piero Hincapié,Centre-Back,"Jan 9, 2002 (23)",€50.00m,2002,50000.0,87,40,45,71
+Germany,Bundesliga,Bayer 04 Leverkusen,12,Edmond Tapsoba,Centre-Back,"Feb 2, 1999 (26)",€35.00m,1999,35000.0,86,40,45,71
+Germany,Bundesliga,Bayer 04 Leverkusen,4,Jarell Quansah,Centre-Back,"Jan 29, 2003 (22)",€20.00m,2003,20000.0,82,38,43,67
+Germany,Bundesliga,Bayer 04 Leverkusen,44,Jeanuël Belocian,Centre-Back,"Feb 17, 2005 (20)",€15.00m,2005,15000.0,80,37,42,66
+Germany,Bundesliga,Bayer 04 Leverkusen,-,Abdoulaye Faye,Centre-Back,"Sep 22, 2004 (20)",€2.00m,2004,2000.0,69,32,36,57
+Germany,Bundesliga,Bayer 04 Leverkusen,16,Axel Tape,Centre-Back,"Aug 10, 2007 (17)",€2.00m,2007,2000.0,68,31,35,56
+Germany,Bundesliga,Bayer 04 Leverkusen,20,Alejandro Grimaldo,Left-Back,"Sep 20, 1995 (29)",€30.00m,1995,30000.0,85,42,47,65
+Germany,Bundesliga,Bayer 04 Leverkusen,13,Arthur,Right-Back,"Mar 17, 2003 (22)",€7.00m,2003,7000.0,76,37,42,58
+Germany,Bundesliga,Bayer 04 Leverkusen,34,Granit Xhaka,Defensive Midfield,"Sep 27, 1992 (32)",€12.00m,1992,12000.0,80,42,42,51
+Germany,Bundesliga,Bayer 04 Leverkusen,8,Robert Andrich,Defensive Midfield,"Sep 22, 1994 (30)",€9.00m,1994,9000.0,79,41,41,51
+Germany,Bundesliga,Bayer 04 Leverkusen,25,Exequiel Palacios,Central Midfield,"Oct 5, 1998 (26)",€40.00m,1998,40000.0,86,50,55,50
+Germany,Bundesliga,Bayer 04 Leverkusen,24,Aleix García,Central Midfield,"Jun 28, 1997 (28)",€20.00m,1997,20000.0,83,48,53,48
+Germany,Bundesliga,Bayer 04 Leverkusen,-,Malik Tillman,Attacking Midfield,"May 28, 2002 (23)",€32.00m,2002,32000.0,85,57,52,44
+Germany,Bundesliga,Bayer 04 Leverkusen,30,Ibrahim Maza,Attacking Midfield,"Nov 24, 2005 (19)",€12.00m,2005,12000.0,79,53,48,41
+Germany,Bundesliga,Bayer 04 Leverkusen,7,Jonas Hofmann,Attacking Midfield,"Jul 14, 1992 (33)",€2.00m,1992,2000.0,71,48,43,37
+Germany,Bundesliga,Bayer 04 Leverkusen,21,Amine Adli,Left Winger,"May 10, 2000 (25)",€18.00m,2000,18000.0,82,62,48,38
+Germany,Bundesliga,Bayer 04 Leverkusen,11,Martin Terrier,Left Winger,"Mar 4, 1997 (28)",€17.00m,1997,17000.0,82,62,48,38
+Germany,Bundesliga,Bayer 04 Leverkusen,23,Nathan Tella,Right Winger,"Jul 5, 1999 (26)",€15.00m,1999,15000.0,81,62,47,37
+Germany,Bundesliga,Bayer 04 Leverkusen,22,Victor Boniface,Centre-Forward,"Dec 23, 2000 (24)",€40.00m,2000,40000.0,86,71,47,37
+Germany,Bundesliga,Bayer 04 Leverkusen,14,Patrik Schick,Centre-Forward,"Jan 24, 1996 (29)",€27.00m,1996,27000.0,84,69,46,36
+Germany,Bundesliga,Bayer 04 Leverkusen,35,Christian Kofane,Centre-Forward,"Jul 26, 2006 (19)",€5.00m,2006,5000.0,73,60,40,31
+Germany,Bundesliga,Bayer 04 Leverkusen,18,Alejo Sarco,Centre-Forward,"Jan 6, 2006 (19)",€800k,2006,800.0,64,52,35,28

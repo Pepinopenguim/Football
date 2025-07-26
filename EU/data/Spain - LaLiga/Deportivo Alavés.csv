@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,Deportivo Alavés,1,Antonio Sivera,Goalkeeper,"Aug 11, 1996 (28)",€6.00m,1996,6000.0,76,33,35,69
+Spain,LaLiga,Deportivo Alavés,-,Raúl Fernández,Goalkeeper,"Mar 13, 1988 (37)",€200k,1988,200.0,59,25,27,54
+Spain,LaLiga,Deportivo Alavés,31,Adrián Rodríguez,Goalkeeper,"Dec 12, 2000 (24)",€200k,2000,200.0,58,25,27,53
+Spain,LaLiga,Deportivo Alavés,12,Santiago Mouriño,Centre-Back,"Feb 13, 2002 (23)",€3.00m,2002,3000.0,72,33,37,59
+Spain,LaLiga,Deportivo Alavés,2,Facundo Garcés,Centre-Back,"Sep 5, 1999 (25)",€2.00m,1999,2000.0,70,32,36,57
+Spain,LaLiga,Deportivo Alavés,22,Moussa Diarra,Centre-Back,"Nov 10, 2000 (24)",€1.80m,2000,1800.0,70,32,36,57
+Spain,LaLiga,Deportivo Alavés,-,Nikola Maras,Centre-Back,"Dec 19, 1995 (29)",€1.00m,1995,1000.0,67,31,35,55
+Spain,LaLiga,Deportivo Alavés,-,Victor Parada,Left-Back,"Apr 4, 2002 (23)",€500k,2002,500.0,63,31,35,48
+Spain,LaLiga,Deportivo Alavés,3,Youssef Enríquez,Left-Back,"Oct 7, 2005 (19)",€500k,2005,500.0,62,30,34,47
+Spain,LaLiga,Deportivo Alavés,-,Jonny Otto,Right-Back,"Mar 3, 1994 (31)",€3.00m,1994,3000.0,73,36,40,55
+Spain,LaLiga,Deportivo Alavés,14,Nahuel Tenaglia,Right-Back,"Feb 21, 1996 (29)",€3.00m,1996,3000.0,73,36,40,55
+Spain,LaLiga,Deportivo Alavés,16,Hugo Novoa,Right-Back,"Jan 24, 2003 (22)",€1.50m,2003,1500.0,68,33,37,52
+Spain,LaLiga,Deportivo Alavés,8,Antonio Blanco,Defensive Midfield,"Jul 23, 2000 (25)",€10.00m,2000,10000.0,79,41,41,51
+Spain,LaLiga,Deportivo Alavés,23,Carlos Protesoni,Defensive Midfield,"Mar 30, 1998 (27)",€1.20m,1998,1200.0,68,35,35,44
+Spain,LaLiga,Deportivo Alavés,6,Ander Guevara,Central Midfield,"Jul 7, 1997 (28)",€3.50m,1997,3500.0,73,42,47,42
+Spain,LaLiga,Deportivo Alavés,18,Jon Guridi,Central Midfield,"Feb 28, 1995 (30)",€3.00m,1995,3000.0,73,42,47,42
+Spain,LaLiga,Deportivo Alavés,-,Carles Aleñá,Central Midfield,"Jan 5, 1998 (27)",€2.50m,1998,2500.0,72,42,46,42
+Spain,LaLiga,Deportivo Alavés,-,Pablo Ibáñez,Central Midfield,"Sep 20, 1998 (26)",€2.00m,1998,2000.0,70,41,45,41
+Spain,LaLiga,Deportivo Alavés,-,Calebe,Attacking Midfield,"Apr 30, 2000 (25)",€2.00m,2000,2000.0,70,47,43,36
+Spain,LaLiga,Deportivo Alavés,-,Abde Rebbach,Left Winger,"Aug 11, 1998 (26)",€700k,1998,700.0,65,49,38,30
+Spain,LaLiga,Deportivo Alavés,7,Carlos Vicente,Right Winger,"Apr 23, 1999 (26)",€10.00m,1999,10000.0,79,60,46,36
+Spain,LaLiga,Deportivo Alavés,-,Joaquín Panichelli,Centre-Forward,"Oct 7, 2002 (22)",€7.00m,2002,7000.0,77,63,42,33
+Spain,LaLiga,Deportivo Alavés,11,Toni Martínez,Centre-Forward,"Jun 30, 1997 (28)",€2.50m,1997,2500.0,72,59,40,31
+Spain,LaLiga,Deportivo Alavés,9,Asier Villalibre,Centre-Forward,"Sep 30, 1997 (27)",€1.20m,1997,1200.0,68,56,37,29

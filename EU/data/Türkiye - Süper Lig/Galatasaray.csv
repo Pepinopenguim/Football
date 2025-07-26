@@ -1,0 +1,37 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Galatasaray,19,Günay Güvenç,Goalkeeper,"Jun 25, 1991 (34)",€500k,1991,500.0,64,28,29,58
+Türkiye,Süper Lig,Galatasaray,12,Batuhan Şen,Goalkeeper,"Feb 3, 1999 (26)",€275k,1999,275.0,60,26,28,55
+Türkiye,Süper Lig,Galatasaray,50,Jankat Yılmaz,Goalkeeper,"Aug 16, 2004 (20)",€250k,2004,250.0,58,25,27,53
+Türkiye,Süper Lig,Galatasaray,6,Davinson Sánchez,Centre-Back,"Jun 12, 1996 (29)",€20.00m,1996,20000.0,83,38,43,68
+Türkiye,Süper Lig,Galatasaray,25,Victor Nelsson,Centre-Back,"Oct 14, 1998 (26)",€10.00m,1998,10000.0,79,36,41,65
+Türkiye,Süper Lig,Galatasaray,26,Carlos Cuesta,Centre-Back,"Mar 9, 1999 (26)",€7.00m,1999,7000.0,77,35,40,63
+Türkiye,Süper Lig,Galatasaray,42,Abdülkerim Bardakcı,Centre-Back,"Sep 7, 1994 (30)",€7.00m,1994,7000.0,77,35,40,63
+Türkiye,Süper Lig,Galatasaray,23,Kaan Ayhan,Centre-Back,"Nov 10, 1994 (30)",€4.00m,1994,4000.0,74,34,38,61
+Türkiye,Süper Lig,Galatasaray,90,Metehan Baltacı,Centre-Back,"Nov 3, 2002 (22)",€2.50m,2002,2500.0,71,33,37,58
+Türkiye,Süper Lig,Galatasaray,4,Ismail Jakobs,Left-Back,"Aug 17, 1999 (25)",€7.00m,1999,7000.0,77,38,42,59
+Türkiye,Süper Lig,Galatasaray,17,Eren Elmalı,Left-Back,"Jul 7, 2000 (25)",€5.00m,2000,5000.0,75,37,41,57
+Türkiye,Süper Lig,Galatasaray,27,Derrick Köhn,Left-Back,"Feb 4, 1999 (26)",€5.00m,1999,5000.0,75,37,41,57
+Türkiye,Süper Lig,Galatasaray,88,Kazımcan Karataş,Left-Back,"Jan 16, 2003 (22)",€1.20m,2003,1200.0,67,33,37,51
+Türkiye,Süper Lig,Galatasaray,24,Elias Jelert,Right-Back,"Jun 12, 2003 (22)",€7.00m,2003,7000.0,76,37,42,58
+Türkiye,Süper Lig,Galatasaray,29,Przemyslaw Frankowski,Right-Back,"Apr 12, 1995 (30)",€7.00m,1995,7000.0,77,38,42,59
+Türkiye,Süper Lig,Galatasaray,81,Ali Turap Bülbül,Right-Back,"Jan 25, 2005 (20)",€450k,2005,450.0,61,30,34,46
+Türkiye,Süper Lig,Galatasaray,34,Lucas Torreira,Defensive Midfield,"Feb 11, 1996 (29)",€13.00m,1996,13000.0,81,42,42,52
+Türkiye,Süper Lig,Galatasaray,99,Mario Lemina,Defensive Midfield,"Sep 1, 1993 (31)",€7.50m,1993,7500.0,78,41,41,50
+Türkiye,Süper Lig,Galatasaray,83,Efe Akman,Defensive Midfield,"Mar 20, 2006 (19)",€450k,2006,450.0,61,32,32,39
+Türkiye,Süper Lig,Galatasaray,-,Baran Aksaka,Defensive Midfield,"Jan 29, 2003 (22)",€50k,2003,50.0,50,26,26,32
+Türkiye,Süper Lig,Galatasaray,20,Gabriel Sara,Central Midfield,"Jun 26, 1999 (26)",€22.00m,1999,22000.0,83,48,53,48
+Türkiye,Süper Lig,Galatasaray,18,Berkan Kutlu,Central Midfield,"Jan 25, 1998 (27)",€3.20m,1998,3200.0,73,42,47,42
+Türkiye,Süper Lig,Galatasaray,5,Eyüp Aydın,Central Midfield,"Aug 2, 2004 (20)",€1.00m,2004,1000.0,66,38,42,38
+Türkiye,Süper Lig,Galatasaray,33,Gökdeniz Gürpüz,Central Midfield,"Feb 25, 2006 (19)",€350k,2006,350.0,59,34,38,34
+Türkiye,Süper Lig,Galatasaray,22,Nicolò Zaniolo,Attacking Midfield,"Jul 2, 1999 (26)",€12.00m,1999,12000.0,80,54,49,42
+Türkiye,Süper Lig,Galatasaray,-,Siraçhan Nas,Attacking Midfield,"Jun 20, 2002 (23)",€350k,2002,350.0,61,41,37,32
+Türkiye,Süper Lig,Galatasaray,53,Barış Alper Yılmaz,Left Winger,"May 23, 2000 (25)",€21.00m,2000,21000.0,83,63,48,38
+Türkiye,Süper Lig,Galatasaray,21,Ahmed Kutucu,Left Winger,"Mar 1, 2000 (25)",€5.00m,2000,5000.0,75,57,44,34
+Türkiye,Süper Lig,Galatasaray,-,Eren Aydın,Left Winger,"Feb 12, 2003 (22)",€300k,2003,300.0,60,46,35,28
+Türkiye,Süper Lig,Galatasaray,10,Leroy Sané,Right Winger,"Jan 11, 1996 (29)",€32.00m,1996,32000.0,85,65,49,39
+Türkiye,Süper Lig,Galatasaray,11,Yunus Akgün,Right Winger,"Jul 7, 2000 (25)",€14.00m,2000,14000.0,81,62,47,37
+Türkiye,Süper Lig,Galatasaray,7,Roland Sallai,Right Winger,"May 22, 1997 (28)",€10.00m,1997,10000.0,79,60,46,36
+Türkiye,Süper Lig,Galatasaray,30,Yusuf Demir,Right Winger,"Jun 2, 2003 (22)",€2.20m,2003,2200.0,70,53,41,32
+Türkiye,Süper Lig,Galatasaray,-,Ali Efe Çördek,Right Winger,"May 6, 2005 (20)",€150k,2005,150.0,55,42,32,25
+Türkiye,Süper Lig,Galatasaray,77,Álvaro Morata,Centre-Forward,"Oct 23, 1992 (32)",€11.00m,1992,11000.0,80,66,44,34
+Türkiye,Süper Lig,Galatasaray,9,Mauro Icardi,Centre-Forward,"Feb 19, 1993 (32)",€9.00m,1993,9000.0,79,65,43,34

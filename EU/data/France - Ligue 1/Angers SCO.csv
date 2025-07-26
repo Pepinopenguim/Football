@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+France,Ligue 1,Angers SCO,30,Yahia Fofana,Goalkeeper,"Aug 21, 2000 (24)",€7.00m,2000,7000.0,77,33,35,70
+France,Ligue 1,Angers SCO,12,Hervé Koffi,Goalkeeper,"Oct 16, 1996 (28)",€1.20m,1996,1200.0,68,29,31,62
+France,Ligue 1,Angers SCO,16,Melvin Zinga,Goalkeeper,"Mar 16, 2002 (23)",€300k,2002,300.0,60,26,28,55
+France,Ligue 1,Angers SCO,40,Oumar Pona,Goalkeeper,"Jun 21, 2006 (19)",-,2006,42.0,48,21,22,44
+France,Ligue 1,Angers SCO,24,Emmanuel Biumla,Centre-Back,"May 8, 2005 (20)",€4.00m,2005,4000.0,73,34,38,60
+France,Ligue 1,Angers SCO,21,Jordan Lefort,Centre-Back,"Aug 9, 1993 (31)",€1.50m,1993,1500.0,69,32,36,57
+France,Ligue 1,Angers SCO,4,Ousmane Camara,Centre-Back,"Mar 6, 2003 (22)",€400k,2003,400.0,61,28,32,50
+France,Ligue 1,Angers SCO,25,Abdoulaye Bamba,Centre-Back,"Apr 25, 1990 (35)",€300k,1990,300.0,61,28,32,50
+France,Ligue 1,Angers SCO,3,Jacques Ekomié,Left-Back,"Aug 19, 2003 (21)",€800k,2003,800.0,65,32,36,49
+France,Ligue 1,Angers SCO,26,Florent Hanin,Left-Back,"Feb 4, 1990 (35)",€300k,1990,300.0,61,30,34,46
+France,Ligue 1,Angers SCO,23,Dan Sinaté,Left-Back,"Jun 9, 2006 (19)",-,2006,40.0,48,24,26,36
+France,Ligue 1,Angers SCO,2,Carlens Arcus,Right-Back,"Jun 28, 1996 (29)",€1.80m,1996,1800.0,70,34,38,53
+France,Ligue 1,Angers SCO,27,Lilian Raolisoa,Right-Back,"Jun 16, 2000 (25)",€800k,2000,800.0,65,32,36,49
+France,Ligue 1,Angers SCO,-,Marius Louër,Right-Back,"Mar 11, 2007 (18)",-,2007,1.0,28,14,15,21
+France,Ligue 1,Angers SCO,5,Marius Courcoul,Defensive Midfield,"Jan 1, 2007 (18)",€300k,2007,300.0,58,30,30,37
+France,Ligue 1,Angers SCO,93,Haris Belkebla,Central Midfield,"Jan 28, 1994 (31)",€2.00m,1994,2000.0,71,41,45,41
+France,Ligue 1,Angers SCO,14,Yassin Belkhdim,Central Midfield,"Feb 14, 2002 (23)",€1.00m,2002,1000.0,66,38,42,38
+France,Ligue 1,Angers SCO,-,Louis Mouton,Central Midfield,"Jun 3, 2002 (23)",€700k,2002,700.0,64,37,41,37
+France,Ligue 1,Angers SCO,15,Pierrick Capelle,Central Midfield,"Apr 15, 1987 (38)",€200k,1987,200.0,59,34,38,34
+France,Ligue 1,Angers SCO,10,Himad Abdelli,Attacking Midfield,"Nov 17, 1999 (25)",€7.00m,1999,7000.0,77,52,47,40
+France,Ligue 1,Angers SCO,18,Jim Allevinah,Right Winger,"Feb 27, 1995 (30)",€1.50m,1995,1500.0,69,52,40,32
+France,Ligue 1,Angers SCO,17,Justin Kalumba,Right Winger,"Dec 25, 2004 (20)",€400k,2004,400.0,61,46,35,28
+France,Ligue 1,Angers SCO,19,Estéban Lepaul,Centre-Forward,"Apr 18, 2000 (25)",€7.00m,2000,7000.0,77,63,42,33
+France,Ligue 1,Angers SCO,11,Sidiki Chérif,Centre-Forward,"Dec 15, 2006 (18)",€800k,2006,800.0,64,52,35,28
+France,Ligue 1,Angers SCO,-,Guédé Nadje,Centre-Forward,"Nov 12, 2003 (21)",€50k,2003,50.0,50,41,28,22

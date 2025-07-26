@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,FC Groningen,1,Etienne Vaessen,Goalkeeper,"Jul 26, 1995 (30)",€2.00m,1995,2000.0,71,31,33,65
+Netherlands,Eredivisie,FC Groningen,21,Hidde Jurjus,Goalkeeper,"Feb 9, 1994 (31)",€300k,1994,300.0,61,26,28,56
+Netherlands,Eredivisie,FC Groningen,24,Dirk Baron,Goalkeeper,"Aug 16, 2002 (22)",€25k,2002,25.0,47,20,22,43
+Netherlands,Eredivisie,FC Groningen,3,Thijmen Blokzijl,Centre-Back,"Feb 25, 2005 (20)",€2.00m,2005,2000.0,69,32,36,57
+Netherlands,Eredivisie,FC Groningen,5,Marco Rente,Centre-Back,"Feb 25, 1997 (28)",€800k,1997,800.0,66,30,34,54
+Netherlands,Eredivisie,FC Groningen,43,Marvin Peersman,Centre-Back,"Feb 10, 1991 (34)",€300k,1991,300.0,61,28,32,50
+Netherlands,Eredivisie,FC Groningen,22,Sven Bouland,Centre-Back,"Feb 22, 2006 (19)",€150k,2006,150.0,55,25,29,45
+Netherlands,Eredivisie,FC Groningen,15,Elvis van der Laan,Centre-Back,"Feb 29, 2008 (17)",€100k,2008,100.0,52,24,27,43
+Netherlands,Eredivisie,FC Groningen,2,Wouter Prins,Left-Back,"Feb 6, 2004 (21)",€800k,2004,800.0,64,31,35,49
+Netherlands,Eredivisie,FC Groningen,16,Tyrique Mercera,Right-Back,"Dec 19, 2003 (21)",€450k,2003,450.0,62,30,34,47
+Netherlands,Eredivisie,FC Groningen,6,Stije Resink,Defensive Midfield,"May 28, 2003 (22)",€4.00m,2003,4000.0,73,38,38,47
+Netherlands,Eredivisie,FC Groningen,8,Tika de Jonge,Central Midfield,"Mar 11, 2003 (22)",€900k,2003,900.0,65,38,42,38
+Netherlands,Eredivisie,FC Groningen,10,Younes Taha,Attacking Midfield,"Nov 27, 2002 (22)",€1.00m,2002,1000.0,66,44,40,34
+Netherlands,Eredivisie,FC Groningen,17,David van der Werff,Attacking Midfield,"Aug 31, 2004 (20)",-,2004,48.0,49,33,30,25
+Netherlands,Eredivisie,FC Groningen,20,Mats Seuntjens,Left Winger,"Apr 17, 1992 (33)",€550k,1992,550.0,64,49,37,29
+Netherlands,Eredivisie,FC Groningen,11,Noam Emeran,Left Winger,"Sep 24, 2002 (22)",€200k,2002,200.0,58,44,34,27
+Netherlands,Eredivisie,FC Groningen,23,Fofin Turay,Left Winger,"Jun 7, 2004 (21)",€100k,2004,100.0,53,40,31,24
+Netherlands,Eredivisie,FC Groningen,14,Jorg Schreuders,Right Winger,"Sep 9, 2004 (20)",€1.20m,2004,1200.0,67,51,39,31
+Netherlands,Eredivisie,FC Groningen,27,Rui Mendes,Right Winger,"Nov 10, 1999 (25)",€350k,1999,350.0,61,46,35,28
+Netherlands,Eredivisie,FC Groningen,26,Thom van Bergen,Centre-Forward,"Jan 6, 2004 (21)",€1.30m,2004,1300.0,67,55,37,29
+Netherlands,Eredivisie,FC Groningen,9,Brynjólfur Andersen Willumsson,Centre-Forward,"Aug 12, 2000 (24)",€700k,2000,700.0,65,53,36,28
+Netherlands,Eredivisie,FC Groningen,19,Oskar Zawada,Centre-Forward,"Feb 1, 1996 (29)",€700k,1996,700.0,65,53,36,28
+Netherlands,Eredivisie,FC Groningen,-,Kevin van Veen,Centre-Forward,"Jun 1, 1991 (34)",€200k,1991,200.0,59,48,32,25

@@ -1,0 +1,35 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Germany,Bundesliga,TSG 1899 Hoffenheim,1,Oliver Baumann,Goalkeeper,"Jun 2, 1990 (35)",€3.00m,1990,3000.0,73,31,34,66
+Germany,Bundesliga,TSG 1899 Hoffenheim,37,Luca Philipp,Goalkeeper,"Nov 28, 2000 (24)",€750k,2000,750.0,65,28,30,59
+Germany,Bundesliga,TSG 1899 Hoffenheim,36,Lúkas Petersson,Goalkeeper,"Feb 9, 2004 (21)",€250k,2004,250.0,58,25,27,53
+Germany,Bundesliga,TSG 1899 Hoffenheim,28,Koki Machida,Centre-Back,"Aug 25, 1997 (27)",€11.00m,1997,11000.0,80,37,42,66
+Germany,Bundesliga,TSG 1899 Hoffenheim,13,Bernardo,Centre-Back,"May 14, 1995 (30)",€5.50m,1995,5500.0,76,35,40,62
+Germany,Bundesliga,TSG 1899 Hoffenheim,5,Ozan Kabak,Centre-Back,"Mar 25, 2000 (25)",€5.00m,2000,5000.0,75,34,39,62
+Germany,Bundesliga,TSG 1899 Hoffenheim,35,Arthur Chaves,Centre-Back,"Jan 29, 2001 (24)",€5.00m,2001,5000.0,75,34,39,62
+Germany,Bundesliga,TSG 1899 Hoffenheim,2,Robin Hranac,Centre-Back,"Jan 29, 2000 (25)",€3.50m,2000,3500.0,73,34,38,60
+Germany,Bundesliga,TSG 1899 Hoffenheim,4,Tim Drexler,Centre-Back,"Mar 6, 2005 (20)",€3.00m,2005,3000.0,71,33,37,58
+Germany,Bundesliga,TSG 1899 Hoffenheim,25,Kevin Akpoguma,Centre-Back,"Apr 19, 1995 (30)",€2.50m,1995,2500.0,72,33,37,59
+Germany,Bundesliga,TSG 1899 Hoffenheim,22,Alexander Prass,Left-Back,"May 26, 2001 (24)",€5.00m,2001,5000.0,75,37,41,57
+Germany,Bundesliga,TSG 1899 Hoffenheim,40,Hennes Behrens,Left-Back,"Jan 19, 2005 (20)",€350k,2005,350.0,60,29,33,46
+Germany,Bundesliga,TSG 1899 Hoffenheim,15,Valentin Gendrey,Right-Back,"Jun 21, 2000 (25)",€7.00m,2000,7000.0,77,38,42,59
+Germany,Bundesliga,TSG 1899 Hoffenheim,7,Leon Avdullahu,Defensive Midfield,"Feb 23, 2004 (21)",€10.00m,2004,10000.0,78,41,41,50
+Germany,Bundesliga,TSG 1899 Hoffenheim,18,Wouter Burger,Defensive Midfield,"Feb 16, 2001 (24)",€4.50m,2001,4500.0,74,38,38,47
+Germany,Bundesliga,TSG 1899 Hoffenheim,31,Florian Grillitsch,Defensive Midfield,"Aug 7, 1995 (29)",€2.00m,1995,2000.0,71,37,37,45
+Germany,Bundesliga,TSG 1899 Hoffenheim,49,Luka Hyryläinen,Defensive Midfield,"Aug 25, 2004 (20)",€2.00m,2004,2000.0,69,36,36,44
+Germany,Bundesliga,TSG 1899 Hoffenheim,17,Umut Tohumcu,Central Midfield,"Aug 11, 2004 (20)",€6.00m,2004,6000.0,75,44,48,44
+Germany,Bundesliga,TSG 1899 Hoffenheim,6,Grischa Prömel,Central Midfield,"Jan 9, 1995 (30)",€3.00m,1995,3000.0,73,42,47,42
+Germany,Bundesliga,TSG 1899 Hoffenheim,8,Dennis Geiger,Central Midfield,"Jun 10, 1998 (27)",€2.00m,1998,2000.0,70,41,45,41
+Germany,Bundesliga,TSG 1899 Hoffenheim,20,Finn Becker,Central Midfield,"Jun 8, 2000 (25)",€2.00m,2000,2000.0,70,41,45,41
+Germany,Bundesliga,TSG 1899 Hoffenheim,10,Muhammed Damar,Attacking Midfield,"Apr 9, 2004 (21)",€7.00m,2004,7000.0,76,51,46,40
+Germany,Bundesliga,TSG 1899 Hoffenheim,27,Andrej Kramaric,Attacking Midfield,"Jun 19, 1991 (34)",€4.00m,1991,4000.0,75,50,46,39
+Germany,Bundesliga,TSG 1899 Hoffenheim,29,Bazoumana Touré,Left Winger,"Mar 2, 2006 (19)",€9.00m,2006,9000.0,77,59,45,35
+Germany,Bundesliga,TSG 1899 Hoffenheim,21,Marius Bülter,Left Winger,"Mar 29, 1993 (32)",€2.50m,1993,2500.0,72,55,42,33
+Germany,Bundesliga,TSG 1899 Hoffenheim,23,Adam Hlozek,Second Striker,"Jul 25, 2002 (23)",€18.00m,2002,18000.0,82,65,48,35
+Germany,Bundesliga,TSG 1899 Hoffenheim,14,Gift Orban,Centre-Forward,"Jul 17, 2002 (23)",€10.00m,2002,10000.0,79,65,43,34
+Germany,Bundesliga,TSG 1899 Hoffenheim,11,Fisnik Asllani,Centre-Forward,"Aug 8, 2002 (22)",€8.00m,2002,8000.0,77,63,42,33
+Germany,Bundesliga,TSG 1899 Hoffenheim,33,Max Moerstedt,Centre-Forward,"Jan 15, 2006 (19)",€7.00m,2006,7000.0,75,62,41,32
+Germany,Bundesliga,TSG 1899 Hoffenheim,19,Tim Lemperle,Centre-Forward,"Feb 5, 2002 (23)",€5.00m,2002,5000.0,75,62,41,32
+Germany,Bundesliga,TSG 1899 Hoffenheim,32,Mergim Berisha,Centre-Forward,"May 11, 1998 (27)",€3.50m,1998,3500.0,73,60,40,31
+Germany,Bundesliga,TSG 1899 Hoffenheim,38,Deniz Zeitler,Centre-Forward,"Dec 13, 2006 (18)",€1.50m,2006,1500.0,67,55,37,29
+Germany,Bundesliga,TSG 1899 Hoffenheim,9,Ihlas Bebou,Centre-Forward,"Apr 23, 1994 (31)",€1.00m,1994,1000.0,67,55,37,29
+Germany,Bundesliga,TSG 1899 Hoffenheim,52,David Mokwa,Centre-Forward,"May 3, 2004 (21)",€1.00m,2004,1000.0,66,54,36,28

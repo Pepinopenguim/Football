@@ -1,0 +1,23 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,Girona FC,13,Paulo Gazzaniga,Goalkeeper,"Jan 2, 1992 (33)",€2.50m,1992,2500.0,72,31,33,66
+Spain,LaLiga,Girona FC,25,Vladyslav Krapyvtsov,Goalkeeper,"Jun 25, 2005 (20)",€200k,2005,200.0,57,25,26,52
+Spain,LaLiga,Girona FC,1,Juan Carlos,Goalkeeper,"Jan 20, 1988 (37)",€100k,1988,100.0,55,24,25,50
+Spain,LaLiga,Girona FC,18,Ladislav Krejci,Centre-Back,"Apr 20, 1999 (26)",€12.00m,1999,12000.0,80,37,42,66
+Spain,LaLiga,Girona FC,17,Daley Blind,Centre-Back,"Mar 9, 1990 (35)",€1.50m,1990,1500.0,70,32,36,57
+Spain,LaLiga,Girona FC,5,David López,Centre-Back,"Oct 9, 1989 (35)",€1.00m,1989,1000.0,67,31,35,55
+Spain,LaLiga,Girona FC,3,Miguel Gutiérrez,Left-Back,"Jul 27, 2001 (23)",€20.00m,2001,20000.0,82,40,45,62
+Spain,LaLiga,Girona FC,4,Arnau Martínez,Right-Back,"Apr 25, 2003 (22)",€10.00m,2003,10000.0,78,38,43,59
+Spain,LaLiga,Girona FC,16,Alejandro Francés,Right-Back,"Aug 1, 2002 (22)",€2.00m,2002,2000.0,70,34,38,53
+Spain,LaLiga,Girona FC,21,Yangel Herrera,Central Midfield,"Jan 7, 1998 (27)",€15.00m,1998,15000.0,81,47,52,47
+Spain,LaLiga,Girona FC,6,Donny van de Beek,Central Midfield,"Apr 18, 1997 (28)",€5.00m,1997,5000.0,75,44,48,44
+Spain,LaLiga,Girona FC,22,Jhon Solís,Central Midfield,"Oct 3, 2004 (20)",€2.50m,2004,2500.0,71,41,45,41
+Spain,LaLiga,Girona FC,23,Iván Martín,Attacking Midfield,"Feb 14, 1999 (26)",€6.00m,1999,6000.0,76,51,46,40
+Spain,LaLiga,Girona FC,-,Joel Roca,Left Winger,"Jun 7, 2005 (20)",€1.00m,2005,1000.0,65,49,38,30
+Spain,LaLiga,Girona FC,-,Jastin Garcia,Left Winger,"Jan 15, 2004 (21)",-,2004,100.0,53,40,31,24
+Spain,LaLiga,Girona FC,8,Viktor Tsygankov,Right Winger,"Nov 15, 1997 (27)",€18.00m,1997,18000.0,82,62,48,38
+Spain,LaLiga,Girona FC,10,Yáser Asprilla,Right Winger,"Nov 19, 2003 (21)",€15.00m,2003,15000.0,80,61,46,37
+Spain,LaLiga,Girona FC,-,Valery Fernández,Right Winger,"Nov 23, 1999 (25)",€2.00m,1999,2000.0,70,53,41,32
+Spain,LaLiga,Girona FC,24,Portu,Right Winger,"May 21, 1992 (33)",€1.80m,1992,1800.0,70,53,41,32
+Spain,LaLiga,Girona FC,9,Abel Ruiz,Centre-Forward,"Jan 28, 2000 (25)",€4.00m,2000,4000.0,74,61,41,32
+Spain,LaLiga,Girona FC,19,Bojan Miovski,Centre-Forward,"Jun 24, 1999 (26)",€2.50m,1999,2500.0,71,58,39,31
+Spain,LaLiga,Girona FC,7,Cristhian Stuani,Centre-Forward,"Oct 12, 1986 (38)",€1.00m,1986,1000.0,68,56,37,29

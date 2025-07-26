@@ -1,0 +1,36 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Brighton & Hove Albion,1,Bart Verbruggen,Goalkeeper,"Aug 18, 2002 (22)",€30.00m,2002,30000.0,84,36,39,76
+England,Premier League,Brighton & Hove Albion,23,Jason Steele,Goalkeeper,"Aug 18, 1990 (34)",€1.50m,1990,1500.0,70,30,32,64
+England,Premier League,Brighton & Hove Albion,37,Tom McGill,Goalkeeper,"Mar 25, 2000 (25)",€600k,2000,600.0,64,28,29,58
+England,Premier League,Brighton & Hove Albion,29,Jan Paul van Hecke,Centre-Back,"Jun 8, 2000 (25)",€32.00m,2000,32000.0,85,39,44,70
+England,Premier League,Brighton & Hove Albion,-,Olivier Boscagli,Centre-Back,"Nov 18, 1997 (27)",€20.00m,1997,20000.0,83,38,43,68
+England,Premier League,Brighton & Hove Albion,3,Igor,Centre-Back,"Feb 7, 1998 (27)",€20.00m,1998,20000.0,83,38,43,68
+England,Premier League,Brighton & Hove Albion,4,Adam Webster,Centre-Back,"Jan 4, 1995 (30)",€11.00m,1995,11000.0,80,37,42,66
+England,Premier League,Brighton & Hove Albion,-,Diego Coppola,Centre-Back,"Dec 28, 2003 (21)",€10.00m,2003,10000.0,78,36,41,64
+England,Premier League,Brighton & Hove Albion,5,Lewis Dunk,Centre-Back,"Nov 21, 1991 (33)",€6.00m,1991,6000.0,77,35,40,63
+England,Premier League,Brighton & Hove Albion,24,Ferdi Kadıoğlu,Left-Back,"Oct 7, 1999 (25)",€25.00m,1999,25000.0,84,41,46,64
+England,Premier League,Brighton & Hove Albion,-,Maxim De Cuyper,Left-Back,"Dec 22, 2000 (24)",€16.00m,2000,16000.0,81,40,45,62
+England,Premier League,Brighton & Hove Albion,2,Tariq Lamptey,Right-Back,"Sep 30, 2000 (24)",€11.00m,2000,11000.0,79,39,43,60
+England,Premier League,Brighton & Hove Albion,34,Joël Veltman,Right-Back,"Jan 15, 1992 (33)",€4.00m,1992,4000.0,75,37,41,57
+England,Premier League,Brighton & Hove Albion,20,Carlos Baleba,Defensive Midfield,"Jan 3, 2004 (21)",€40.00m,2004,40000.0,85,44,44,54
+England,Premier League,Brighton & Hove Albion,27,Mats Wieffer,Defensive Midfield,"Nov 16, 1999 (25)",€25.00m,1999,25000.0,84,44,44,54
+England,Premier League,Brighton & Hove Albion,41,Jack Hinshelwood,Central Midfield,"Apr 11, 2005 (20)",€24.00m,2005,24000.0,82,48,52,48
+England,Premier League,Brighton & Hove Albion,26,Yasin Ayari,Central Midfield,"Oct 6, 2003 (21)",€22.00m,2003,22000.0,82,48,52,48
+England,Premier League,Brighton & Hove Albion,33,Matt O'Riley,Central Midfield,"Nov 21, 2000 (24)",€22.00m,2000,22000.0,83,48,53,48
+England,Premier League,Brighton & Hove Albion,40,Malick Yalcouyé,Central Midfield,"Nov 18, 2005 (19)",€17.00m,2005,17000.0,80,46,51,46
+England,Premier League,Brighton & Hove Albion,25,Diego Gómez,Central Midfield,"Mar 27, 2003 (22)",€14.00m,2003,14000.0,80,46,51,46
+England,Premier League,Brighton & Hove Albion,6,James Milner,Central Midfield,"Jan 4, 1986 (39)",€1.00m,1986,1000.0,68,39,44,39
+England,Premier League,Brighton & Hove Albion,10,Julio Enciso,Attacking Midfield,"Jan 23, 2004 (21)",€22.00m,2004,22000.0,82,55,50,43
+England,Premier League,Brighton & Hove Albion,40,Facundo Buonanotte,Attacking Midfield,"Dec 23, 2004 (20)",€20.00m,2004,20000.0,82,55,50,43
+England,Premier League,Brighton & Hove Albion,36,Andrew Moran,Attacking Midfield,"Oct 15, 2003 (21)",€3.50m,2003,3500.0,73,49,45,38
+England,Premier League,Brighton & Hove Albion,22,Kaoru Mitoma,Left Winger,"May 20, 1997 (28)",€40.00m,1997,40000.0,86,65,50,40
+England,Premier League,Brighton & Hove Albion,31,Abdallah Sima,Left Winger,"Jun 17, 2001 (24)",€9.00m,2001,9000.0,78,59,45,36
+England,Premier League,Brighton & Hove Albion,-,Tom Watson,Left Winger,"Apr 8, 2006 (19)",€8.00m,2006,8000.0,76,58,44,35
+England,Premier League,Brighton & Hove Albion,16,Jeremy Sarmiento,Left Winger,"Jun 16, 2002 (23)",€7.00m,2002,7000.0,77,59,45,35
+England,Premier League,Brighton & Hove Albion,17,Yankuba Minteh,Right Winger,"Jul 22, 2004 (21)",€30.00m,2004,30000.0,84,64,49,39
+England,Premier League,Brighton & Hove Albion,8,Brajan Gruda,Right Winger,"May 31, 2004 (21)",€25.00m,2004,25000.0,83,63,48,38
+England,Premier League,Brighton & Hove Albion,7,Solly March,Right Winger,"Jul 20, 1994 (31)",€6.00m,1994,6000.0,77,59,45,35
+England,Premier League,Brighton & Hove Albion,14,Georginio Rutter,Centre-Forward,"Apr 20, 2002 (23)",€32.00m,2002,32000.0,85,70,47,37
+England,Premier League,Brighton & Hove Albion,-,Stefanos Tzimas,Centre-Forward,"Jan 6, 2006 (19)",€22.00m,2006,22000.0,81,66,45,35
+England,Premier League,Brighton & Hove Albion,-,Charalampos Kostoulas,Centre-Forward,"May 30, 2007 (18)",€12.00m,2007,12000.0,78,64,43,34
+England,Premier League,Brighton & Hove Albion,18,Danny Welbeck,Centre-Forward,"Nov 26, 1990 (34)",€5.00m,1990,5000.0,76,62,42,33

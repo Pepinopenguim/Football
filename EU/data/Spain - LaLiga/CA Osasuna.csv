@@ -1,0 +1,21 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,CA Osasuna,1,Sergio Herrera,Goalkeeper,"Jun 5, 1993 (32)",€3.00m,1993,3000.0,73,31,34,66
+Spain,LaLiga,CA Osasuna,13,Aitor Fernández,Goalkeeper,"May 3, 1991 (34)",€700k,1991,700.0,65,28,30,59
+Spain,LaLiga,CA Osasuna,22,Enzo Boyomo,Centre-Back,"Oct 7, 2001 (23)",€20.00m,2001,20000.0,82,38,43,67
+Spain,LaLiga,CA Osasuna,5,Jorge Herrando,Centre-Back,"Feb 28, 2001 (24)",€4.00m,2001,4000.0,74,34,38,61
+Spain,LaLiga,CA Osasuna,24,Alejandro Catena,Centre-Back,"Oct 28, 1994 (30)",€3.00m,1994,3000.0,73,34,38,60
+Spain,LaLiga,CA Osasuna,23,Abel Bretones,Left-Back,"Aug 21, 2000 (24)",€4.00m,2000,4000.0,74,36,41,56
+Spain,LaLiga,CA Osasuna,3,Juan Cruz,Left-Back,"Jul 28, 1992 (32)",€1.50m,1992,1500.0,69,34,38,52
+Spain,LaLiga,CA Osasuna,-,Valentin Rosier,Right-Back,"Aug 19, 1996 (28)",€3.00m,1996,3000.0,73,36,40,55
+Spain,LaLiga,CA Osasuna,6,Lucas Torró,Defensive Midfield,"Jul 19, 1994 (31)",€3.00m,1994,3000.0,73,38,38,47
+Spain,LaLiga,CA Osasuna,18,Iker Muñoz,Defensive Midfield,"Sep 5, 2002 (22)",€3.00m,2002,3000.0,72,37,37,46
+Spain,LaLiga,CA Osasuna,7,Jon Moncayola,Central Midfield,"May 13, 1998 (27)",€7.00m,1998,7000.0,77,45,49,45
+Spain,LaLiga,CA Osasuna,10,Aimar Oroz,Attacking Midfield,"Nov 27, 2001 (23)",€15.00m,2001,15000.0,81,54,49,42
+Spain,LaLiga,CA Osasuna,16,Moi Gómez,Left Winger,"Jun 23, 1994 (31)",€2.00m,1994,2000.0,71,54,41,33
+Spain,LaLiga,CA Osasuna,-,Víctor Muñoz,Left Winger,"Jul 13, 2003 (22)",€1.00m,2003,1000.0,66,50,38,30
+Spain,LaLiga,CA Osasuna,-,Ander Yoldi,Left Winger,"Sep 9, 2000 (24)",€400k,2000,400.0,62,47,36,29
+Spain,LaLiga,CA Osasuna,14,Rubén García,Right Winger,"Jul 14, 1993 (32)",€2.00m,1993,2000.0,71,54,41,33
+Spain,LaLiga,CA Osasuna,-,Iker Benito,Right Winger,"Aug 10, 2002 (22)",€1.50m,2002,1500.0,68,52,39,31
+Spain,LaLiga,CA Osasuna,11,Kike Barja,Right Winger,"Apr 1, 1997 (28)",€1.50m,1997,1500.0,69,52,40,32
+Spain,LaLiga,CA Osasuna,17,Ante Budimir,Centre-Forward,"Jul 22, 1991 (34)",€5.00m,1991,5000.0,76,62,42,33
+Spain,LaLiga,CA Osasuna,9,Raúl García,Centre-Forward,"Nov 3, 2000 (24)",€3.00m,2000,3000.0,72,59,40,31

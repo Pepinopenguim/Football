@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,West Ham United,23,Alphonse Areola,Goalkeeper,"Feb 27, 1993 (32)",€9.00m,1993,9000.0,79,34,36,72
+England,Premier League,West Ham United,21,Wes Foderingham,Goalkeeper,"Jan 14, 1991 (34)",€600k,1991,600.0,65,28,30,59
+England,Premier League,West Ham United,47,Krisztián Hegyi,Goalkeeper,"Sep 24, 2002 (22)",€450k,2002,450.0,62,27,29,56
+England,Premier League,West Ham United,3,Maximilian Kilman,Centre-Back,"May 23, 1997 (28)",€25.00m,1997,25000.0,84,39,44,69
+England,Premier League,West Ham United,25,Jean-Clair Todibo,Centre-Back,"Dec 30, 1999 (25)",€25.00m,1999,25000.0,84,39,44,69
+England,Premier League,West Ham United,27,Nayef Aguerd,Centre-Back,"Mar 30, 1996 (29)",€18.00m,1996,18000.0,82,38,43,67
+England,Premier League,West Ham United,15,Konstantinos Mavropanos,Centre-Back,"Dec 11, 1997 (27)",€17.00m,1997,17000.0,82,38,43,67
+England,Premier League,West Ham United,42,Kaelan Casey,Centre-Back,"Oct 28, 2004 (20)",€1.00m,2004,1000.0,66,30,34,54
+England,Premier League,West Ham United,33,Emerson,Left-Back,"Aug 3, 1994 (30)",€10.00m,1994,10000.0,79,39,43,60
+England,Premier League,West Ham United,30,Oliver Scarles,Left-Back,"Dec 12, 2005 (19)",€8.00m,2005,8000.0,76,37,42,58
+England,Premier League,West Ham United,29,Aaron Wan-Bissaka,Right-Back,"Nov 26, 1997 (27)",€24.00m,1997,24000.0,84,41,46,64
+England,Premier League,West Ham United,2,Kyle Walker-Peters,Right-Back,"Apr 13, 1997 (28)",€15.00m,1997,15000.0,81,40,45,62
+England,Premier League,West Ham United,19,Edson Álvarez,Defensive Midfield,"Oct 24, 1997 (27)",€25.00m,1997,25000.0,84,44,44,54
+England,Premier League,West Ham United,28,Tomas Soucek,Defensive Midfield,"Feb 27, 1995 (30)",€18.00m,1995,18000.0,82,43,43,52
+England,Premier League,West Ham United,24,Guido Rodríguez,Defensive Midfield,"Apr 12, 1994 (31)",€10.00m,1994,10000.0,79,41,41,51
+England,Premier League,West Ham United,32,Freddie Potts,Defensive Midfield,"Sep 12, 2003 (21)",€1.40m,2003,1400.0,68,35,35,44
+England,Premier League,West Ham United,8,James Ward-Prowse,Central Midfield,"Nov 1, 1994 (30)",€8.00m,1994,8000.0,78,45,50,45
+England,Premier League,West Ham United,39,Andrew Irving,Central Midfield,"May 13, 2000 (25)",€4.00m,2000,4000.0,74,43,47,43
+England,Premier League,West Ham United,61,Lewis Orford,Central Midfield,"Feb 18, 2006 (19)",€400k,2006,400.0,60,35,38,35
+England,Premier League,West Ham United,12,El Hadji Malick Diouf,Left Midfield,"Dec 28, 2004 (20)",€18.00m,2004,18000.0,81,47,52,47
+England,Premier League,West Ham United,10,Lucas Paquetá,Attacking Midfield,"Aug 27, 1997 (27)",€28.00m,1997,28000.0,85,57,52,44
+England,Premier League,West Ham United,40,George Earthy,Attacking Midfield,"Sep 5, 2004 (20)",€2.00m,2004,2000.0,69,46,42,36
+England,Premier League,West Ham United,7,Crysencio Summerville,Left Winger,"Oct 30, 2001 (23)",€22.00m,2001,22000.0,83,63,48,38
+England,Premier League,West Ham United,22,Maxwel Cornet,Left Winger,"Sep 27, 1996 (28)",€8.00m,1996,8000.0,78,59,45,36
+England,Premier League,West Ham United,20,Jarrod Bowen,Right Winger,"Dec 20, 1996 (28)",€40.00m,1996,40000.0,87,66,50,40
+England,Premier League,West Ham United,17,Luis Guilherme,Right Winger,"Feb 9, 2006 (19)",€15.00m,2006,15000.0,79,60,46,36
+England,Premier League,West Ham United,11,Niclas Füllkrug,Centre-Forward,"Feb 9, 1993 (32)",€10.00m,1993,10000.0,79,65,43,34
+England,Premier League,West Ham United,50,Callum Marshall,Centre-Forward,"Nov 28, 2004 (20)",€1.80m,2004,1800.0,69,57,38,30

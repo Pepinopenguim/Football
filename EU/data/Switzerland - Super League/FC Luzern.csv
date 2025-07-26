@@ -1,0 +1,32 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Switzerland,Super League,FC Luzern,1,Pascal Loretz,Goalkeeper,"Jun 1, 2003 (22)",€3.50m,2003,3500.0,73,31,34,66
+Switzerland,Super League,FC Luzern,41,Julian Bock,Goalkeeper,"May 29, 2004 (21)",€200k,2004,200.0,57,25,26,52
+Switzerland,Super League,FC Luzern,-,Diego Heller,Goalkeeper,"Nov 20, 2004 (20)",€100k,2004,100.0,53,23,24,48
+Switzerland,Super League,FC Luzern,90,Vaso Vasic,Goalkeeper,"Apr 26, 1990 (35)",€100k,1990,100.0,55,24,25,50
+Switzerland,Super League,FC Luzern,23,Lionel Huwiler,Goalkeeper,"Feb 17, 2007 (18)",-,2007,64.0,50,22,23,46
+Switzerland,Super League,FC Luzern,46,Bung Meng Freimann,Centre-Back,"Dec 9, 2005 (19)",€2.50m,2005,2500.0,70,32,36,57
+Switzerland,Super League,FC Luzern,4,Adrian Bajrami,Centre-Back,"Apr 5, 2002 (23)",€1.50m,2002,1500.0,68,31,35,56
+Switzerland,Super League,FC Luzern,5,Stefan Knezevic,Centre-Back,"Oct 30, 1996 (28)",€600k,1996,600.0,64,29,33,52
+Switzerland,Super League,FC Luzern,-,Mauricio Willimann,Centre-Back,"Jan 16, 2003 (22)",€500k,2003,500.0,62,29,32,51
+Switzerland,Super League,FC Luzern,3,Jesper Löfgren,Centre-Back,"May 3, 1997 (28)",€300k,1997,300.0,60,28,31,49
+Switzerland,Super League,FC Luzern,30,Ismajl Beka,Centre-Back,"Oct 31, 1999 (25)",€300k,1999,300.0,60,28,31,49
+Switzerland,Super League,FC Luzern,22,Rúben Dantas Fernandes,Left-Back,"May 19, 2003 (22)",€1.00m,2003,1000.0,66,32,36,50
+Switzerland,Super League,FC Luzern,14,Andrejs Ciganiks,Left-Back,"Apr 12, 1997 (28)",€500k,1997,500.0,63,31,35,48
+Switzerland,Super League,FC Luzern,2,Severin Ottiger,Right-Back,"Apr 20, 2003 (22)",€800k,2003,800.0,65,32,36,49
+Switzerland,Super League,FC Luzern,21,Sascha Britschgi,Right-Back,"Aug 27, 2006 (18)",€100k,2006,100.0,53,26,29,40
+Switzerland,Super League,FC Luzern,6,Taisei Abe,Defensive Midfield,"Jun 7, 2004 (21)",€400k,2004,400.0,61,32,32,39
+Switzerland,Super League,FC Luzern,34,Demir Xhemalija,Defensive Midfield,"Jun 7, 2006 (19)",€200k,2006,200.0,56,29,29,36
+Switzerland,Super League,FC Luzern,29,Levin Winkler,Central Midfield,"Aug 13, 2003 (21)",€1.80m,2003,1800.0,69,40,44,40
+Switzerland,Super League,FC Luzern,24,Tyron Owusu,Central Midfield,"Jun 8, 2003 (22)",€1.20m,2003,1200.0,67,39,43,39
+Switzerland,Super League,FC Luzern,-,Iwan Hegglin,Central Midfield,"Jun 26, 2002 (23)",€200k,2002,200.0,58,34,37,34
+Switzerland,Super League,FC Luzern,80,Mio Zimmermann,Central Midfield,"Aug 8, 2007 (17)",€25k,2007,25.0,45,26,29,26
+Switzerland,Super League,FC Luzern,20,Pius Dorn,Right Midfield,"Sep 24, 1996 (28)",€900k,1996,900.0,66,38,42,38
+Switzerland,Super League,FC Luzern,11,Matteo Di Giusto,Attacking Midfield,"Aug 18, 2000 (24)",€1.20m,2000,1200.0,67,45,41,35
+Switzerland,Super League,FC Luzern,16,Jakub Kadák,Attacking Midfield,"Dec 14, 2000 (24)",€400k,2000,400.0,62,42,38,32
+Switzerland,Super League,FC Luzern,7,Kevin Spadanuda,Left Winger,"Jan 16, 1997 (28)",€800k,1997,800.0,66,50,38,30
+Switzerland,Super League,FC Luzern,92,Teddy Okou,Right Winger,"May 15, 1998 (27)",€1.20m,1998,1200.0,68,52,39,31
+Switzerland,Super League,FC Luzern,81,Julian Von Moos,Right Winger,"Apr 1, 2001 (24)",€500k,2001,500.0,63,48,37,29
+Switzerland,Super League,FC Luzern,27,Lars Villiger,Centre-Forward,"Apr 29, 2003 (22)",€3.50m,2003,3500.0,73,60,40,31
+Switzerland,Super League,FC Luzern,9,Adrian Grbic,Centre-Forward,"Aug 4, 1996 (28)",€900k,1996,900.0,66,54,36,28
+Switzerland,Super League,FC Luzern,10,Sinan Karweina,Centre-Forward,"Mar 29, 1999 (26)",€800k,1999,800.0,65,53,36,28
+Switzerland,Super League,FC Luzern,19,Andrej Vasovic,Centre-Forward,"Oct 14, 2007 (17)",€100k,2007,100.0,52,43,29,22

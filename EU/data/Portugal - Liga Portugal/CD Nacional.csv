@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,CD Nacional,37,Lucas França,Goalkeeper,"Jan 19, 1996 (29)",€1.00m,1996,1000.0,67,29,31,61
+Portugal,Liga Portugal,CD Nacional,-,Kaique Pereira,Goalkeeper,"Apr 16, 2003 (22)",€600k,2003,600.0,63,27,29,57
+Portugal,Liga Portugal,CD Nacional,12,César Augusto,Goalkeeper,"Aug 23, 2003 (21)",€100k,2003,100.0,54,23,25,49
+Portugal,Liga Portugal,CD Nacional,50,Kevyn,Goalkeeper,"Jul 1, 2005 (20)",-,2005,60.0,50,22,23,46
+Portugal,Liga Portugal,CD Nacional,38,Zé Vítor,Centre-Back,"Feb 9, 2001 (24)",€2.00m,2001,2000.0,70,32,36,57
+Portugal,Liga Portugal,CD Nacional,4,Ulisses,Centre-Back,"Sep 28, 1999 (25)",€1.50m,1999,1500.0,69,32,36,57
+Portugal,Liga Portugal,CD Nacional,34,Léo Santos,Centre-Back,"Dec 9, 1998 (26)",€600k,1998,600.0,64,29,33,52
+Portugal,Liga Portugal,CD Nacional,14,Ivanildo Fernandes,Centre-Back,"Mar 26, 1996 (29)",€200k,1996,200.0,58,27,30,48
+Portugal,Liga Portugal,CD Nacional,33,Chico Gonçalves,Centre-Back,"Mar 5, 2004 (21)",€200k,2004,200.0,57,26,30,47
+Portugal,Liga Portugal,CD Nacional,5,José Gomes,Left-Back,"Jul 20, 1996 (29)",€1.00m,1996,1000.0,67,33,37,51
+Portugal,Liga Portugal,CD Nacional,-,Lenny Vallier,Left-Back,"Apr 24, 1999 (26)",€600k,1999,600.0,64,31,35,49
+Portugal,Liga Portugal,CD Nacional,-,Alan Núñez,Right-Back,"Oct 1, 2004 (20)",€800k,2004,800.0,64,31,35,49
+Portugal,Liga Portugal,CD Nacional,2,João Aurélio,Right-Back,"Aug 17, 1988 (36)",€50k,1988,50.0,52,25,29,40
+Portugal,Liga Portugal,CD Nacional,-,Matheus Dias,Defensive Midfield,"May 9, 2002 (23)",€1.50m,2002,1500.0,68,35,35,44
+Portugal,Liga Portugal,CD Nacional,6,Festim Shatri,Defensive Midfield,"Nov 28, 2003 (21)",€200k,2003,200.0,57,30,30,36
+Portugal,Liga Portugal,CD Nacional,-,Josué Souza,Defensive Midfield,"Apr 25, 2005 (20)",-,2005,32.0,47,24,24,30
+Portugal,Liga Portugal,CD Nacional,-,Douglas Nathan,Midfielder,"Aug 4, 2002 (22)",-,2002,94.0,54,31,35,31
+Portugal,Liga Portugal,CD Nacional,-,Deivison,Midfielder,"May 4, 2006 (19)",-,2006,57.0,50,29,32,29
+Portugal,Liga Portugal,CD Nacional,18,André Sousa,Central Midfield,"Jul 9, 1990 (35)",€50k,1990,50.0,51,30,33,30
+Portugal,Liga Portugal,CD Nacional,-,Filipe Soares,Attacking Midfield,"May 20, 1999 (26)",€1.00m,1999,1000.0,67,45,41,35
+Portugal,Liga Portugal,CD Nacional,15,Chiheb Labidi,Attacking Midfield,"Jun 1, 2001 (24)",€500k,2001,500.0,63,42,38,33
+Portugal,Liga Portugal,CD Nacional,19,Miguel Baeza,Attacking Midfield,"Mar 27, 2000 (25)",€400k,2000,400.0,62,42,38,32
+Portugal,Liga Portugal,CD Nacional,20,Jota,Attacking Midfield,"Mar 7, 1993 (32)",€75k,1993,75.0,53,36,32,28
+Portugal,Liga Portugal,CD Nacional,-,Watts,Attacking Midfield,"Jul 14, 2005 (20)",-,2005,82.0,52,35,32,27
+Portugal,Liga Portugal,CD Nacional,98,Paulinho,Left Winger,"Jun 26, 1998 (27)",€700k,1998,700.0,65,49,38,30
+Portugal,Liga Portugal,CD Nacional,-,Witi,Left Winger,"Aug 26, 1996 (28)",€500k,1996,500.0,63,48,37,29
+Portugal,Liga Portugal,CD Nacional,17,Motez Nourani,Left Winger,"Jan 11, 2002 (23)",€100k,2002,100.0,54,41,31,25
+Portugal,Liga Portugal,CD Nacional,-,Pablo Ruan,Right Winger,"Feb 1, 2003 (22)",-,2003,67.0,52,40,30,24
+Portugal,Liga Portugal,CD Nacional,-,Jesús Ramírez,Centre-Forward,"May 4, 1998 (27)",€1.00m,1998,1000.0,67,55,37,29
+Portugal,Liga Portugal,CD Nacional,-,Lucas João,Centre-Forward,"Sep 4, 1993 (31)",€300k,1993,300.0,61,50,34,26

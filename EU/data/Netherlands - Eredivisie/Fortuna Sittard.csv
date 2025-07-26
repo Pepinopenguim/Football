@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,Fortuna Sittard,31,Mattijs Branderhorst,Goalkeeper,"Dec 31, 1993 (31)",€800k,1993,800.0,66,28,30,60
+Netherlands,Eredivisie,Fortuna Sittard,1,Luuk Koopmans,Goalkeeper,"Nov 18, 1993 (31)",€200k,1993,200.0,59,25,27,54
+Netherlands,Eredivisie,Fortuna Sittard,25,Niels Martens,Goalkeeper,"May 7, 2004 (21)",€25k,2004,25.0,46,20,21,42
+Netherlands,Eredivisie,Fortuna Sittard,71,Ramazan Bayram,Goalkeeper,"Oct 12, 2004 (20)",€25k,2004,25.0,46,20,21,42
+Netherlands,Eredivisie,Fortuna Sittard,4,Shawn Adewoye,Centre-Back,"Jun 29, 2000 (25)",€1.30m,2000,1300.0,68,31,35,56
+Netherlands,Eredivisie,Fortuna Sittard,6,Syb van Ottele,Centre-Back,"Feb 2, 2002 (23)",€1.00m,2002,1000.0,66,30,34,54
+Netherlands,Eredivisie,Fortuna Sittard,8,Jasper Dahlhaus,Left-Back,"Nov 27, 2001 (23)",€1.00m,2001,1000.0,66,32,36,50
+Netherlands,Eredivisie,Fortuna Sittard,-,Rémy Vita,Left-Back,"Apr 1, 2001 (24)",€800k,2001,800.0,65,32,36,49
+Netherlands,Eredivisie,Fortuna Sittard,24,Daley Sinkgraven,Left-Back,"Jul 4, 1995 (30)",€600k,1995,600.0,64,31,35,49
+Netherlands,Eredivisie,Fortuna Sittard,35,Mitchell Dijks,Left-Back,"Feb 9, 1993 (32)",€600k,1993,600.0,64,31,35,49
+Netherlands,Eredivisie,Fortuna Sittard,12,Ivo Pinto,Right-Back,"Jan 7, 1990 (35)",€300k,1990,300.0,61,30,34,46
+Netherlands,Eredivisie,Fortuna Sittard,38,Tristan Schenkhuizen,Defensive Midfield,"Jul 12, 2004 (21)",€25k,2004,25.0,46,24,24,29
+Netherlands,Eredivisie,Fortuna Sittard,20,Edouard Michut,Central Midfield,"Mar 4, 2003 (22)",€1.80m,2003,1800.0,69,40,44,40
+Netherlands,Eredivisie,Fortuna Sittard,80,Ryan Fosso,Central Midfield,"Jun 17, 2002 (23)",€1.50m,2002,1500.0,68,39,44,39
+Netherlands,Eredivisie,Fortuna Sittard,22,Samuel Bastien,Central Midfield,"Sep 26, 1996 (28)",€650k,1996,650.0,65,38,42,38
+Netherlands,Eredivisie,Fortuna Sittard,23,Philip Brittijn,Central Midfield,"Apr 9, 2004 (21)",€500k,2004,500.0,62,36,40,36
+Netherlands,Eredivisie,Fortuna Sittard,10,Alen Halilovic,Attacking Midfield,"Jun 18, 1996 (29)",€1.00m,1996,1000.0,67,45,41,35
+Netherlands,Eredivisie,Fortuna Sittard,77,Luka Tunjic,Attacking Midfield,"Nov 19, 2005 (19)",€450k,2005,450.0,61,41,37,32
+Netherlands,Eredivisie,Fortuna Sittard,7,Kristoffer Peterson,Left Winger,"Nov 28, 1994 (30)",€800k,1994,800.0,66,50,38,30
+Netherlands,Eredivisie,Fortuna Sittard,11,Makan Aïko,Left Winger,"Jan 7, 2001 (24)",€600k,2001,600.0,64,49,37,29
+Netherlands,Eredivisie,Fortuna Sittard,-,Dimitrios Limnios,Right Winger,"May 27, 1998 (27)",€700k,1998,700.0,65,49,38,30
+Netherlands,Eredivisie,Fortuna Sittard,-,Úmaro Embaló,Right Winger,"May 6, 2001 (24)",€700k,2001,700.0,65,49,38,30
+Netherlands,Eredivisie,Fortuna Sittard,9,Kaj Sierhuis,Centre-Forward,"Apr 27, 1998 (27)",€1.30m,1998,1300.0,68,56,37,29
+Netherlands,Eredivisie,Fortuna Sittard,19,Paul Gladon,Centre-Forward,"Mar 18, 1992 (33)",€200k,1992,200.0,59,48,32,25

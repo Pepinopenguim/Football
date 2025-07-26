@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Belgium,Jupiler Pro League,KRC Genk,26,Tobias Lawal,Goalkeeper,"Jun 7, 2000 (25)",€2.50m,2000,2500.0,71,31,33,65
+Belgium,Jupiler Pro League,KRC Genk,1,Hendrik Van Crombrugge,Goalkeeper,"Apr 30, 1993 (32)",€1.70m,1993,1700.0,70,30,32,64
+Belgium,Jupiler Pro League,KRC Genk,51,Lucca Brughmans,Goalkeeper,"Jun 27, 2008 (17)",€500k,2008,500.0,61,26,28,56
+Belgium,Jupiler Pro League,KRC Genk,6,Matte Smets,Centre-Back,"Jan 4, 2004 (21)",€13.00m,2004,13000.0,79,36,41,65
+Belgium,Jupiler Pro League,KRC Genk,3,Mujaid Sadick,Centre-Back,"Mar 14, 2000 (25)",€8.00m,2000,8000.0,78,36,41,64
+Belgium,Jupiler Pro League,KRC Genk,44,Josué Kongolo,Centre-Back,"Apr 13, 2006 (19)",€1.50m,2006,1500.0,67,31,35,55
+Belgium,Jupiler Pro League,KRC Genk,22,Brad Manguelle,Centre-Back,"Nov 27, 2007 (17)",€800k,2007,800.0,63,29,33,52
+Belgium,Jupiler Pro League,KRC Genk,34,Adrián Palacios,Centre-Back,"Jun 7, 2004 (21)",€750k,2004,750.0,64,29,33,52
+Belgium,Jupiler Pro League,KRC Genk,19,Yaimar Medina,Left-Back,"Nov 5, 2004 (20)",€3.50m,2004,3500.0,72,35,40,55
+Belgium,Jupiler Pro League,KRC Genk,18,Joris Kayembe,Left-Back,"Aug 8, 1994 (30)",€3.00m,1994,3000.0,73,36,40,55
+Belgium,Jupiler Pro League,KRC Genk,77,Zakaria El Ouahdi,Right-Back,"Dec 31, 2001 (23)",€12.00m,2001,12000.0,80,39,44,61
+Belgium,Jupiler Pro League,KRC Genk,27,Ken Nkuba,Right-Back,"Jan 21, 2002 (23)",€2.70m,2002,2700.0,72,35,40,55
+Belgium,Jupiler Pro League,KRC Genk,2,Kayden Pierre,Right-Back,"Feb 16, 2003 (22)",€600k,2003,600.0,63,31,35,48
+Belgium,Jupiler Pro League,KRC Genk,21,Ibrahima Sory Bangoura,Defensive Midfield,"Jan 5, 2004 (21)",€8.00m,2004,8000.0,77,40,40,49
+Belgium,Jupiler Pro League,KRC Genk,24,Nikolas Sattlberger,Defensive Midfield,"Jan 18, 2004 (21)",€3.50m,2004,3500.0,72,37,37,46
+Belgium,Jupiler Pro League,KRC Genk,-,Aziz Ouattara,Defensive Midfield,"Jan 4, 2001 (24)",€1.00m,2001,1000.0,66,34,34,42
+Belgium,Jupiler Pro League,KRC Genk,8,Bryan Heynen,Central Midfield,"Feb 6, 1997 (28)",€11.00m,1997,11000.0,80,46,51,46
+Belgium,Jupiler Pro League,KRC Genk,17,Patrik Hrosovsky,Central Midfield,"Apr 22, 1992 (33)",€2.70m,1992,2700.0,72,42,46,42
+Belgium,Jupiler Pro League,KRC Genk,20,Konstantinos Karetsas,Attacking Midfield,"Nov 19, 2007 (17)",€20.00m,2007,20000.0,80,54,49,42
+Belgium,Jupiler Pro League,KRC Genk,38,Daan Heymans,Attacking Midfield,"Jun 15, 1999 (26)",€3.00m,1999,3000.0,72,48,44,37
+Belgium,Jupiler Pro League,KRC Genk,14,Yira Sor,Left Winger,"Jul 24, 2000 (25)",€5.00m,2000,5000.0,75,57,44,34
+Belgium,Jupiler Pro League,KRC Genk,32,Noah Adedeji-Sternberg,Left Winger,"Jun 19, 2005 (20)",€4.50m,2005,4500.0,73,55,42,34
+Belgium,Jupiler Pro League,KRC Genk,11,Luca Oyen,Left Winger,"Mar 14, 2003 (22)",€1.50m,2003,1500.0,68,52,39,31
+Belgium,Jupiler Pro League,KRC Genk,30,Ayumu Yokoyama,Left Winger,"Mar 4, 2003 (22)",€700k,2003,700.0,64,49,37,29
+Belgium,Jupiler Pro League,KRC Genk,23,Jarne Steuckers,Right Winger,"Feb 4, 2002 (23)",€11.00m,2002,11000.0,79,60,46,36
+Belgium,Jupiler Pro League,KRC Genk,99,Tolu Arokodare,Centre-Forward,"Nov 23, 2000 (24)",€18.00m,2000,18000.0,82,67,45,35
+Belgium,Jupiler Pro League,KRC Genk,-,Andi Zeqiri,Centre-Forward,"Jun 22, 1999 (26)",€4.00m,1999,4000.0,74,61,41,32
+Belgium,Jupiler Pro League,KRC Genk,9,Hyeon-gyu Oh,Centre-Forward,"Apr 12, 2001 (24)",€3.50m,2001,3500.0,73,60,40,31
+Belgium,Jupiler Pro League,KRC Genk,-,Aaron Bibout,Centre-Forward,"Sep 9, 2004 (20)",€500k,2004,500.0,62,51,34,27

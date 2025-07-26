@@ -1,0 +1,32 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Antalyaspor,1,Ataberk Dadakdeniz,Goalkeeper,"Aug 5, 1999 (25)",€650k,1999,650.0,64,28,29,58
+Türkiye,Süper Lig,Antalyaspor,21,Abdullah Yiğiter,Goalkeeper,"Feb 20, 2000 (25)",€175k,2000,175.0,57,25,26,52
+Türkiye,Süper Lig,Antalyaspor,-,Kağan Arıcan,Goalkeeper,"Mar 10, 2006 (19)",€150k,2006,150.0,55,24,25,50
+Türkiye,Süper Lig,Antalyaspor,34,Doğukan Özkan,Goalkeeper,"Feb 4, 2000 (25)",€50k,2000,50.0,51,22,23,46
+Türkiye,Süper Lig,Antalyaspor,14,Georgiy Dzhikiya,Centre-Back,"Nov 21, 1993 (31)",€2.00m,1993,2000.0,71,33,37,58
+Türkiye,Süper Lig,Antalyaspor,3,Bahadır Öztürk,Centre-Back,"Oct 1, 1995 (29)",€300k,1995,300.0,61,28,32,50
+Türkiye,Süper Lig,Antalyaspor,89,Veysel Sarı,Centre-Back,"Jul 25, 1988 (37)",€125k,1988,125.0,56,26,29,46
+Türkiye,Süper Lig,Antalyaspor,-,Harun Toprak,Centre-Back,"Apr 29, 2005 (20)",€75k,2005,75.0,51,23,27,42
+Türkiye,Süper Lig,Antalyaspor,5,Kenneth Paal,Left-Back,"Jun 24, 1997 (28)",€2.80m,1997,2800.0,72,35,40,55
+Türkiye,Süper Lig,Antalyaspor,77,Abdurrahim Dursun,Left-Back,"Dec 1, 1998 (26)",€250k,1998,250.0,59,29,32,45
+Türkiye,Süper Lig,Antalyaspor,11,Güray Vural,Left-Back,"Jun 11, 1988 (37)",€100k,1988,100.0,55,27,30,42
+Türkiye,Süper Lig,Antalyaspor,-,Efecan Gülerce,Left-Back,"Mar 7, 2002 (23)",€50k,2002,50.0,50,24,28,38
+Türkiye,Süper Lig,Antalyaspor,7,Bünyamin Balcı,Right-Back,"May 31, 2000 (25)",€2.20m,2000,2200.0,71,35,39,54
+Türkiye,Süper Lig,Antalyaspor,17,Erdoğan Yeşilyurt,Right-Back,"Nov 6, 1993 (31)",€800k,1993,800.0,66,32,36,50
+Türkiye,Süper Lig,Antalyaspor,27,Mert Yılmaz,Right-Back,"Mar 8, 1999 (26)",€225k,1999,225.0,59,29,32,45
+Türkiye,Süper Lig,Antalyaspor,18,Jakub Kaluzinski,Defensive Midfield,"Oct 31, 2002 (22)",€3.50m,2002,3500.0,73,38,38,47
+Türkiye,Süper Lig,Antalyaspor,-,Yannick Nkurunziza,Defensive Midfield,"Jun 20, 2002 (23)",-,2002,50.0,50,26,26,32
+Türkiye,Süper Lig,Antalyaspor,-,Soner Dikmen,Central Midfield,"Sep 1, 1993 (31)",€1.00m,1993,1000.0,67,39,43,39
+Türkiye,Süper Lig,Antalyaspor,91,Burak İngenç,Central Midfield,"Apr 14, 2006 (19)",€175k,2006,175.0,56,32,36,32
+Türkiye,Süper Lig,Antalyaspor,-,Mevlüt Han Ekelik,Central Midfield,"Dec 16, 2004 (20)",€75k,2004,75.0,52,30,33,30
+Türkiye,Süper Lig,Antalyaspor,10,Abdülkadir Ömür,Attacking Midfield,"Jun 25, 1999 (26)",€3.60m,1999,3600.0,73,49,45,38
+Türkiye,Süper Lig,Antalyaspor,8,Ramzi Safuri,Attacking Midfield,"Oct 21, 1995 (29)",€1.10m,1995,1100.0,67,45,41,35
+Türkiye,Süper Lig,Antalyaspor,22,Sander van de Streek,Attacking Midfield,"Mar 24, 1993 (32)",€800k,1993,800.0,66,44,40,34
+Türkiye,Süper Lig,Antalyaspor,58,Deni Milosevic,Attacking Midfield,"Mar 9, 1995 (30)",€150k,1995,150.0,57,38,35,30
+Türkiye,Süper Lig,Antalyaspor,-,Doğukan Sinik,Left Winger,"Jan 21, 1999 (26)",€1.60m,1999,1600.0,69,52,40,32
+Türkiye,Süper Lig,Antalyaspor,88,Taha Osman Özmert,Left Winger,"May 9, 2006 (19)",€50k,2006,50.0,49,37,28,23
+Türkiye,Süper Lig,Antalyaspor,25,Andros Townsend,Right Winger,"Jul 16, 1991 (34)",€550k,1991,550.0,64,49,37,29
+Türkiye,Süper Lig,Antalyaspor,-,Mehmet İlhan,Right Winger,"Jul 20, 2004 (21)",-,2004,63.0,51,39,30,23
+Türkiye,Süper Lig,Antalyaspor,9,Poyraz Yıldırım,Centre-Forward,"Jan 15, 2005 (20)",€1.30m,2005,1300.0,67,55,37,29
+Türkiye,Süper Lig,Antalyaspor,81,Braian Samudio,Centre-Forward,"Dec 23, 1995 (29)",€1.20m,1995,1200.0,68,56,37,29
+Türkiye,Süper Lig,Antalyaspor,-,Kerem Kayaarası,Centre-Forward,"Mar 18, 2006 (19)",-,2006,23.0,45,37,25,19

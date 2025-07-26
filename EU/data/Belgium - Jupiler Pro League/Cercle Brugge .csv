@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Belgium,Jupiler Pro League,Cercle Brugge ,1,Warleson,Goalkeeper,"Aug 31, 1996 (28)",€2.50m,1996,2500.0,72,31,33,66
+Belgium,Jupiler Pro League,Cercle Brugge ,21,Maxime Delanghe,Goalkeeper,"May 23, 2001 (24)",€1.20m,2001,1200.0,67,29,31,61
+Belgium,Jupiler Pro League,Cercle Brugge ,84,Bas Langenbick,Goalkeeper,"Jun 16, 2003 (22)",€50k,2003,50.0,50,22,23,46
+Belgium,Jupiler Pro League,Cercle Brugge ,66,Christiaan Ravych,Centre-Back,"Jul 30, 2002 (22)",€4.50m,2002,4500.0,74,34,38,61
+Belgium,Jupiler Pro League,Cercle Brugge ,3,Edgaras Utkus,Centre-Back,"Jun 22, 2000 (25)",€1.80m,2000,1800.0,70,32,36,57
+Belgium,Jupiler Pro League,Cercle Brugge ,5,Emmanuel Kakou,Centre-Back,"Jun 30, 2005 (20)",€1.00m,2005,1000.0,65,30,34,53
+Belgium,Jupiler Pro League,Cercle Brugge ,76,Jonas Lietaert,Centre-Back,"Jul 16, 2004 (21)",€250k,2004,250.0,58,27,30,48
+Belgium,Jupiler Pro League,Cercle Brugge ,4,Dalangunypole Gomis,Centre-Back,"Jun 28, 2004 (21)",€200k,2004,200.0,57,26,30,47
+Belgium,Jupiler Pro League,Cercle Brugge ,20,Nazinho,Left-Back,"Jul 20, 2003 (22)",€3.00m,2003,3000.0,72,35,40,55
+Belgium,Jupiler Pro League,Cercle Brugge ,14,Beni Mpanzu,Left-Back,"May 15, 2004 (21)",€200k,2004,200.0,57,28,31,43
+Belgium,Jupiler Pro League,Cercle Brugge ,-,Valy Konaté,Left-Back,"Nov 14, 2006 (18)",-,2006,71.0,51,25,28,39
+Belgium,Jupiler Pro League,Cercle Brugge ,15,Gary Magnée,Right-Back,"Oct 12, 1999 (25)",€1.50m,1999,1500.0,69,34,38,52
+Belgium,Jupiler Pro League,Cercle Brugge ,2,Ibrahim Diakité,Right-Back,"Oct 31, 2003 (21)",€1.20m,2003,1200.0,67,33,37,51
+Belgium,Jupiler Pro League,Cercle Brugge ,28,Hannes Van Der Bruggen,Defensive Midfield,"Apr 1, 1993 (32)",€600k,1993,600.0,64,33,33,41
+Belgium,Jupiler Pro League,Cercle Brugge ,-,Ibrahima Diaby,Defensive Midfield,"Mar 17, 2007 (18)",-,2007,70.0,50,26,26,32
+Belgium,Jupiler Pro League,Cercle Brugge ,-,Ono Vanackere,Defensive Midfield,"Mar 10, 2003 (22)",-,2003,10.0,41,21,21,26
+Belgium,Jupiler Pro League,Cercle Brugge ,-,Lawrence Agyekum,Central Midfield,"Nov 23, 2003 (21)",€2.50m,2003,2500.0,71,41,45,41
+Belgium,Jupiler Pro League,Cercle Brugge ,17,Abu Francis,Central Midfield,"Apr 27, 2001 (24)",€1.80m,2001,1800.0,70,41,45,41
+Belgium,Jupiler Pro League,Cercle Brugge ,-,Edan Diop,Central Midfield,"Aug 28, 2004 (20)",€600k,2004,600.0,63,37,40,37
+Belgium,Jupiler Pro League,Cercle Brugge ,27,Nils De Wilde,Central Midfield,"Jan 27, 2003 (22)",€400k,2003,400.0,61,35,39,35
+Belgium,Jupiler Pro League,Cercle Brugge ,-,Erick Nunes,Right Midfield,"Feb 29, 2004 (21)",€1.20m,2004,1200.0,67,39,43,39
+Belgium,Jupiler Pro League,Cercle Brugge ,18,Pieter Gerkens,Attacking Midfield,"Feb 17, 1995 (30)",€700k,1995,700.0,65,44,40,34
+Belgium,Jupiler Pro League,Cercle Brugge ,23,Heriberto Jurado,Left Winger,"Jan 3, 2005 (20)",€1.50m,2005,1500.0,67,51,39,31
+Belgium,Jupiler Pro League,Cercle Brugge ,11,Alan Minda,Right Winger,"May 14, 2003 (22)",€3.00m,2003,3000.0,72,55,42,33
+Belgium,Jupiler Pro League,Cercle Brugge ,22,Alama Bayo,Right Winger,"Feb 2, 2006 (19)",€200k,2006,200.0,56,43,32,26
+Belgium,Jupiler Pro League,Cercle Brugge ,41,Krys Kouassi,Right Winger,"Mar 8, 2007 (18)",€100k,2007,100.0,52,40,30,24
+Belgium,Jupiler Pro League,Cercle Brugge ,77,Steve Ngoura,Centre-Forward,"Feb 22, 2005 (20)",€800k,2005,800.0,64,52,35,28
+Belgium,Jupiler Pro League,Cercle Brugge ,99,Abdoul Kader Ouattara,Centre-Forward,"May 26, 2005 (20)",€800k,2005,800.0,64,52,35,28

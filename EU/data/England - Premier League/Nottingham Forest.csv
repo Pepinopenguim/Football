@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Nottingham Forest,26,Matz Sels,Goalkeeper,"Feb 26, 1992 (33)",€7.00m,1992,7000.0,78,34,36,71
+England,Premier League,Nottingham Forest,33,Carlos Miguel,Goalkeeper,"Oct 9, 1998 (26)",€4.00m,1998,4000.0,74,32,34,67
+England,Premier League,Nottingham Forest,1,Matt Turner,Goalkeeper,"Jun 24, 1994 (31)",€2.50m,1994,2500.0,72,31,33,66
+England,Premier League,Nottingham Forest,5,Murillo,Centre-Back,"Jul 4, 2002 (23)",€55.00m,2002,55000.0,88,40,46,72
+England,Premier League,Nottingham Forest,31,Nikola Milenković,Centre-Back,"Oct 12, 1997 (27)",€35.00m,1997,35000.0,86,40,45,71
+England,Premier League,Nottingham Forest,4,Morato,Centre-Back,"Jun 30, 2001 (24)",€14.00m,2001,14000.0,80,37,42,66
+England,Premier League,Nottingham Forest,23,Jair Cunha,Centre-Back,"Mar 7, 2005 (20)",€13.00m,2005,13000.0,79,36,41,65
+England,Premier League,Nottingham Forest,36,David Carmo,Centre-Back,"Jul 19, 1999 (26)",€10.00m,1999,10000.0,79,36,41,65
+England,Premier League,Nottingham Forest,30,Willy Boly,Centre-Back,"Feb 3, 1991 (34)",€1.50m,1991,1500.0,69,32,36,57
+England,Premier League,Nottingham Forest,27,Omar Richards,Left-Back,"Feb 15, 1998 (27)",€2.50m,1998,2500.0,72,35,40,55
+England,Premier League,Nottingham Forest,34,Ola Aina,Right-Back,"Oct 8, 1996 (28)",€22.00m,1996,22000.0,83,41,46,63
+England,Premier League,Nottingham Forest,3,Neco Williams,Right-Back,"Apr 13, 2001 (24)",€20.00m,2001,20000.0,82,40,45,62
+England,Premier League,Nottingham Forest,6,Ibrahim Sangaré,Defensive Midfield,"Dec 2, 1997 (27)",€24.00m,1997,24000.0,84,44,44,54
+England,Premier League,Nottingham Forest,32,Marko Stamenic,Defensive Midfield,"Feb 19, 2002 (23)",€3.00m,2002,3000.0,72,37,37,46
+England,Premier League,Nottingham Forest,8,Elliot Anderson,Central Midfield,"Nov 6, 2002 (22)",€32.00m,2002,32000.0,85,49,54,49
+England,Premier League,Nottingham Forest,16,Nicolás Domínguez,Central Midfield,"Jun 28, 1998 (27)",€18.00m,1998,18000.0,82,48,52,48
+England,Premier League,Nottingham Forest,22,Ryan Yates,Central Midfield,"Nov 21, 1997 (27)",€12.00m,1997,12000.0,80,46,51,46
+England,Premier League,Nottingham Forest,17,Eric da Silva Moreira,Right Midfield,"May 3, 2006 (19)",€1.00m,2006,1000.0,65,38,42,38
+England,Premier League,Nottingham Forest,10,Morgan Gibbs-White,Attacking Midfield,"Jan 27, 2000 (25)",€50.00m,2000,50000.0,87,58,53,45
+England,Premier League,Nottingham Forest,7,Callum Hudson-Odoi,Left Winger,"Nov 7, 2000 (24)",€25.00m,2000,25000.0,84,64,49,39
+England,Premier League,Nottingham Forest,20,Jota Silva,Right Winger,"Aug 1, 1999 (25)",€15.00m,1999,15000.0,81,62,47,37
+England,Premier League,Nottingham Forest,-,Josh Bowler,Right Winger,"Mar 5, 1999 (26)",€1.00m,1999,1000.0,67,51,39,31
+England,Premier League,Nottingham Forest,9,Taiwo Awoniyi,Centre-Forward,"Aug 12, 1997 (27)",€16.00m,1997,16000.0,82,67,45,35
+England,Premier League,Nottingham Forest,19,Igor Jesus,Centre-Forward,"Feb 25, 2001 (24)",€15.00m,2001,15000.0,81,66,45,35
+England,Premier League,Nottingham Forest,11,Chris Wood,Centre-Forward,"Dec 7, 1991 (33)",€10.00m,1991,10000.0,80,66,44,34
+England,Premier League,Nottingham Forest,25,Emmanuel Dennis,Centre-Forward,"Nov 15, 1997 (27)",€2.50m,1997,2500.0,72,59,40,31

@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+France,Ligue 1,Paris Saint-Germain,1,Gianluigi Donnarumma,Goalkeeper,"Feb 25, 1999 (26)",€40.00m,1999,40000.0,86,37,40,78
+France,Ligue 1,Paris Saint-Germain,39,Matvey Safonov,Goalkeeper,"Feb 25, 1999 (26)",€20.00m,1999,20000.0,83,36,38,76
+France,Ligue 1,Paris Saint-Germain,80,Arnau Tenas,Goalkeeper,"May 30, 2001 (24)",€3.00m,2001,3000.0,72,31,33,66
+France,Ligue 1,Paris Saint-Germain,-,Renato Marin,Goalkeeper,"Jul 10, 2006 (19)",€500k,2006,500.0,61,26,28,56
+France,Ligue 1,Paris Saint-Germain,51,Willian Pacho,Centre-Back,"Oct 16, 2001 (23)",€65.00m,2001,65000.0,89,41,46,73
+France,Ligue 1,Paris Saint-Germain,5,Marquinhos,Centre-Back,"May 14, 1994 (31)",€35.00m,1994,35000.0,86,40,45,71
+France,Ligue 1,Paris Saint-Germain,4,Lucas Beraldo,Centre-Back,"Nov 24, 2003 (21)",€25.00m,2003,25000.0,83,38,43,68
+France,Ligue 1,Paris Saint-Germain,37,Milan Škriniar,Centre-Back,"Feb 11, 1995 (30)",€15.00m,1995,15000.0,81,37,42,66
+France,Ligue 1,Paris Saint-Germain,3,Presnel Kimpembe,Centre-Back,"Aug 13, 1995 (29)",€5.00m,1995,5000.0,76,35,40,62
+France,Ligue 1,Paris Saint-Germain,25,Nuno Mendes,Left-Back,"Jun 19, 2002 (23)",€70.00m,2002,70000.0,89,44,49,68
+France,Ligue 1,Paris Saint-Germain,21,Lucas Hernández,Left-Back,"Feb 14, 1996 (29)",€25.00m,1996,25000.0,84,41,46,64
+France,Ligue 1,Paris Saint-Germain,2,Achraf Hakimi,Right-Back,"Nov 4, 1998 (26)",€80.00m,1998,80000.0,90,44,50,68
+France,Ligue 1,Paris Saint-Germain,26,Nordi Mukiele,Right-Back,"Nov 1, 1997 (27)",€10.00m,1997,10000.0,79,39,43,60
+France,Ligue 1,Paris Saint-Germain,87,João Neves,Defensive Midfield,"Sep 27, 2004 (20)",€80.00m,2004,80000.0,89,46,46,57
+France,Ligue 1,Paris Saint-Germain,17,Vitinha,Central Midfield,"Feb 13, 2000 (25)",€80.00m,2000,80000.0,90,52,58,52
+France,Ligue 1,Paris Saint-Germain,33,Warren Zaïre-Emery,Central Midfield,"Mar 8, 2006 (19)",€55.00m,2006,55000.0,86,50,55,50
+France,Ligue 1,Paris Saint-Germain,8,Fabián Ruiz,Central Midfield,"Apr 3, 1996 (29)",€40.00m,1996,40000.0,87,50,56,50
+France,Ligue 1,Paris Saint-Germain,28,Carlos Soler,Central Midfield,"Jan 2, 1997 (28)",€18.00m,1997,18000.0,82,48,52,48
+France,Ligue 1,Paris Saint-Germain,24,Senny Mayulu,Central Midfield,"May 17, 2006 (19)",€15.00m,2006,15000.0,79,46,51,46
+France,Ligue 1,Paris Saint-Germain,18,Renato Sanches,Central Midfield,"Aug 18, 1997 (27)",€3.00m,1997,3000.0,73,42,47,42
+France,Ligue 1,Paris Saint-Germain,11,Marco Asensio,Attacking Midfield,"Jan 21, 1996 (29)",€20.00m,1996,20000.0,83,56,51,43
+France,Ligue 1,Paris Saint-Germain,7,Khvicha Kvaratskhelia,Left Winger,"Feb 12, 2001 (24)",€90.00m,2001,90000.0,90,68,52,41
+France,Ligue 1,Paris Saint-Germain,29,Bradley Barcola,Left Winger,"Sep 2, 2002 (22)",€70.00m,2002,70000.0,89,68,52,41
+France,Ligue 1,Paris Saint-Germain,10,Ousmane Dembélé,Right Winger,"May 15, 1997 (28)",€90.00m,1997,90000.0,91,69,53,42
+France,Ligue 1,Paris Saint-Germain,14,Désiré Doué,Right Winger,"Jun 3, 2005 (20)",€90.00m,2005,90000.0,89,68,52,41
+France,Ligue 1,Paris Saint-Germain,19,Kang-in Lee,Right Winger,"Feb 19, 2001 (24)",€25.00m,2001,25000.0,84,64,49,39
+France,Ligue 1,Paris Saint-Germain,49,Ibrahim Mbaye,Right Winger,"Jan 24, 2008 (17)",€3.00m,2008,3000.0,70,53,41,32
+France,Ligue 1,Paris Saint-Germain,9,Gonçalo Ramos,Centre-Forward,"Jun 20, 2001 (24)",€40.00m,2001,40000.0,86,71,47,37
+France,Ligue 1,Paris Saint-Germain,23,Randal Kolo Muani,Centre-Forward,"Dec 5, 1998 (26)",€30.00m,1998,30000.0,85,70,47,37

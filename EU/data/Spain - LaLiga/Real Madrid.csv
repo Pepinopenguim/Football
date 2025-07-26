@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Spain,LaLiga,Real Madrid,1,Thibaut Courtois,Goalkeeper,"May 11, 1992 (33)",€20.00m,1992,20000.0,83,36,38,76
+Spain,LaLiga,Real Madrid,13,Andriy Lunin,Goalkeeper,"Feb 11, 1999 (26)",€18.00m,1999,18000.0,82,35,38,75
+Spain,LaLiga,Real Madrid,26,Fran González,Goalkeeper,"Jun 24, 2005 (20)",€400k,2005,400.0,60,26,28,55
+Spain,LaLiga,Real Madrid,24,Dean Huijsen,Centre-Back,"Apr 14, 2005 (20)",€60.00m,2005,60000.0,87,40,45,71
+Spain,LaLiga,Real Madrid,35,Raúl Asencio,Centre-Back,"Feb 13, 2003 (22)",€40.00m,2003,40000.0,86,40,45,71
+Spain,LaLiga,Real Madrid,3,Éder Militão,Centre-Back,"Jan 18, 1998 (27)",€30.00m,1998,30000.0,85,39,44,70
+Spain,LaLiga,Real Madrid,22,Antonio Rüdiger,Centre-Back,"Mar 3, 1993 (32)",€20.00m,1993,20000.0,83,38,43,68
+Spain,LaLiga,Real Madrid,4,David Alaba,Centre-Back,"Jun 24, 1992 (33)",€6.00m,1992,6000.0,77,35,40,63
+Spain,LaLiga,Real Madrid,18,Álvaro Carreras,Left-Back,"Mar 23, 2003 (22)",€35.00m,2003,35000.0,85,42,47,65
+Spain,LaLiga,Real Madrid,20,Fran García,Left-Back,"Aug 14, 1999 (25)",€18.00m,1999,18000.0,82,40,45,62
+Spain,LaLiga,Real Madrid,23,Ferland Mendy,Left-Back,"Jun 8, 1995 (30)",€14.00m,1995,14000.0,81,40,45,62
+Spain,LaLiga,Real Madrid,12,Trent Alexander-Arnold,Right-Back,"Oct 7, 1998 (26)",€75.00m,1998,75000.0,90,44,50,68
+Spain,LaLiga,Real Madrid,2,Daniel Carvajal,Right-Back,"Jan 11, 1992 (33)",€8.00m,1992,8000.0,78,38,43,59
+Spain,LaLiga,Real Madrid,14,Aurélien Tchouaméni,Defensive Midfield,"Jan 27, 2000 (25)",€75.00m,2000,75000.0,90,47,47,58
+Spain,LaLiga,Real Madrid,50,Mario Martín,Defensive Midfield,"Mar 5, 2004 (21)",€1.50m,2004,1500.0,68,35,35,44
+Spain,LaLiga,Real Madrid,8,Federico Valverde,Central Midfield,"Jul 22, 1998 (27)",€130.00m,1998,130000.0,93,54,60,54
+Spain,LaLiga,Real Madrid,6,Eduardo Camavinga,Central Midfield,"Nov 10, 2002 (22)",€60.00m,2002,60000.0,88,51,56,51
+Spain,LaLiga,Real Madrid,19,Dani Ceballos,Central Midfield,"Aug 7, 1996 (28)",€10.00m,1996,10000.0,79,46,51,46
+Spain,LaLiga,Real Madrid,5,Jude Bellingham,Attacking Midfield,"Jun 29, 2003 (22)",€180.00m,2003,180000.0,94,63,57,49
+Spain,LaLiga,Real Madrid,-,Reinier,Attacking Midfield,"Jan 19, 2002 (23)",€1.50m,2002,1500.0,68,46,41,35
+Spain,LaLiga,Real Madrid,7,Vinicius Junior,Left Winger,"Jul 12, 2000 (25)",€170.00m,2000,170000.0,94,71,55,43
+Spain,LaLiga,Real Madrid,11,Rodrygo,Right Winger,"Jan 9, 2001 (24)",€90.00m,2001,90000.0,90,68,52,41
+Spain,LaLiga,Real Madrid,15,Arda Güler,Right Winger,"Feb 25, 2005 (20)",€45.00m,2005,45000.0,86,65,50,40
+Spain,LaLiga,Real Madrid,21,Brahim Díaz,Right Winger,"Aug 3, 1999 (25)",€40.00m,1999,40000.0,86,65,50,40
+Spain,LaLiga,Real Madrid,10,Kylian Mbappé,Centre-Forward,"Dec 20, 1998 (26)",€180.00m,1998,180000.0,94,77,52,40
+Spain,LaLiga,Real Madrid,16,Endrick,Centre-Forward,"Jul 21, 2006 (19)",€35.00m,2006,35000.0,84,69,46,36
+Spain,LaLiga,Real Madrid,30,Gonzalo García,Centre-Forward,"Mar 24, 2004 (21)",€8.00m,2004,8000.0,77,63,42,33
