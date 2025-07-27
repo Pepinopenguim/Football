@@ -1,0 +1,22 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Akron Togliatti,1,Sergey Volkov,Goalkeeper,"May 10, 1995 (30)",€1.00m,1995,1000.0,67,29,31,61
+Russia,Premier Liga,Akron Togliatti,78,Aleksandr Vasyutin,Goalkeeper,"Mar 4, 1995 (30)",€900k,1995,900.0,66,28,30,60
+Russia,Premier Liga,Akron Togliatti,88,Vitaliy Gudiev,Goalkeeper,"Apr 22, 1995 (30)",€400k,1995,400.0,62,27,29,56
+Russia,Premier Liga,Akron Togliatti,22,Ionuț Nedelcearu,Centre-Back,"Apr 25, 1996 (29)",€900k,1996,900.0,66,30,34,54
+Russia,Premier Liga,Akron Togliatti,26,Rodrigo Escoval,Centre-Back,"May 8, 1997 (28)",€900k,1997,900.0,66,30,34,54
+Russia,Premier Liga,Akron Togliatti,19,Marat Bokoev,Centre-Back,"Jul 17, 2001 (24)",€600k,2001,600.0,64,29,33,52
+Russia,Premier Liga,Akron Togliatti,21,Roberto Fernández,Left-Back,"Jul 12, 1999 (26)",€1.20m,1999,1200.0,68,33,37,52
+Russia,Premier Liga,Akron Togliatti,23,Bojan Dimoski,Left-Back,"Nov 23, 2001 (23)",€500k,2001,500.0,63,31,35,48
+Russia,Premier Liga,Akron Togliatti,77,Konstantin Savichev,Right-Back,"Mar 6, 1994 (31)",€900k,1994,900.0,66,32,36,50
+Russia,Premier Liga,Akron Togliatti,5,Aleksa Djurasovic,Defensive Midfield,"Dec 23, 2002 (22)",€2.00m,2002,2000.0,70,36,36,45
+Russia,Premier Liga,Akron Togliatti,15,Stefan Loncar,Defensive Midfield,"Feb 19, 1996 (29)",€1.50m,1996,1500.0,69,36,36,44
+Russia,Premier Liga,Akron Togliatti,80,Khetag Khosonov,Defensive Midfield,"Jun 18, 1998 (27)",€1.00m,1998,1000.0,67,35,35,43
+Russia,Premier Liga,Akron Togliatti,35,Ifet Djakovac,Central Midfield,"Dec 5, 1997 (27)",€2.50m,1997,2500.0,72,42,46,42
+Russia,Premier Liga,Akron Togliatti,6,Maksim Kuzmin,Attacking Midfield,"Jun 1, 1996 (29)",€900k,1996,900.0,66,44,40,34
+Russia,Premier Liga,Akron Togliatti,71,Dmitriy Pestryakov,Attacking Midfield,"Dec 8, 2006 (18)",€900k,2006,900.0,64,43,39,33
+Russia,Premier Liga,Akron Togliatti,91,Maksim Boldyrev,Attacking Midfield,"Mar 31, 2004 (21)",€150k,2004,150.0,56,38,34,29
+Russia,Premier Liga,Akron Togliatti,7,Kirill Danilin,Right Winger,"Nov 13, 2002 (22)",€700k,2002,700.0,64,49,37,29
+Russia,Premier Liga,Akron Togliatti,17,Soltmurad Bakaev,Right Winger,"Aug 5, 1999 (25)",€700k,1999,700.0,65,49,38,30
+Russia,Premier Liga,Akron Togliatti,69,Arseniy Dmitriev,Right Winger,"Jul 18, 2007 (18)",€200k,2007,200.0,56,43,32,26
+Russia,Premier Liga,Akron Togliatti,24,Artem Dzyuba,Centre-Forward,"Aug 22, 1988 (36)",€1.50m,1988,1500.0,70,57,38,30
+Russia,Premier Liga,Akron Togliatti,11,Benchimol,Centre-Forward,"Dec 29, 2001 (23)",€700k,2001,700.0,65,53,36,28

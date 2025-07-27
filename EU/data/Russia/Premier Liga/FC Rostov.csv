@@ -1,0 +1,33 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,FC Rostov,1,Rustam Yatimov,Goalkeeper,"Jul 13, 1998 (27)",€1.50m,1998,1500.0,69,30,32,63
+Russia,Premier Liga,FC Rostov,71,Daniil Odoevskiy,Goalkeeper,"Jan 22, 2003 (22)",€800k,2003,800.0,65,28,30,59
+Russia,Premier Liga,FC Rostov,13,Hidajet Hankic,Goalkeeper,"Jun 29, 1994 (31)",€400k,1994,400.0,62,27,29,56
+Russia,Premier Liga,FC Rostov,3,Oumar Sako,Centre-Back,"May 4, 1996 (29)",€3.00m,1996,3000.0,73,34,38,60
+Russia,Premier Liga,FC Rostov,4,Viktor Melekhin,Centre-Back,"Dec 16, 2003 (21)",€3.00m,2003,3000.0,72,33,37,59
+Russia,Premier Liga,FC Rostov,-,Dennis Hadzikadunic,Centre-Back,"Jul 9, 1998 (27)",€2.00m,1998,2000.0,70,32,36,57
+Russia,Premier Liga,FC Rostov,5,Danila Prokhin,Centre-Back,"May 24, 2001 (24)",€1.50m,2001,1500.0,69,32,36,57
+Russia,Premier Liga,FC Rostov,78,Dmitriy Chistyakov,Centre-Back,"Jan 13, 1994 (31)",€900k,1994,900.0,66,30,34,54
+Russia,Premier Liga,FC Rostov,67,German Ignatov,Centre-Back,"Aug 11, 2005 (19)",€500k,2005,500.0,62,29,32,51
+Russia,Premier Liga,FC Rostov,22,David Semenchuk,Centre-Back,"Oct 22, 2004 (20)",€300k,2004,300.0,59,27,31,48
+Russia,Premier Liga,FC Rostov,64,Aleksandr Mukhin,Centre-Back,"Apr 29, 2002 (23)",€75k,2002,75.0,53,24,28,43
+Russia,Premier Liga,FC Rostov,-,Igor Kalinin,Left-Back,"Nov 11, 1995 (29)",€700k,1995,700.0,65,32,36,49
+Russia,Premier Liga,FC Rostov,34,Eyad El Askalany,Left-Back,"Dec 24, 2004 (20)",€500k,2004,500.0,62,30,34,47
+Russia,Premier Liga,FC Rostov,28,Evgeniy Chernov,Left-Back,"Oct 23, 1992 (32)",€400k,1992,400.0,62,30,34,47
+Russia,Premier Liga,FC Rostov,6,Aleksandr Tarasov,Left-Back,"Jan 10, 2006 (19)",-,2006,57.0,50,24,28,38
+Russia,Premier Liga,FC Rostov,40,Ilya Vakhania,Right-Back,"Jan 14, 2001 (24)",€3.00m,2001,3000.0,72,35,40,55
+Russia,Premier Liga,FC Rostov,87,Andrey Langovich,Right-Back,"May 28, 2003 (22)",€3.00m,2003,3000.0,72,35,40,55
+Russia,Premier Liga,FC Rostov,51,Aleksey Koltakov,Defensive Midfield,"Nov 14, 2005 (19)",€200k,2005,200.0,57,30,30,36
+Russia,Premier Liga,FC Rostov,58,Daniil Shantaliy,Central Midfield,"May 25, 2004 (21)",€800k,2004,800.0,64,37,41,37
+Russia,Premier Liga,FC Rostov,8,Aleksey Mironov,Central Midfield,"Jan 1, 2000 (25)",€600k,2000,600.0,64,37,41,37
+Russia,Premier Liga,FC Rostov,10,Kirill Shchetinin,Attacking Midfield,"Jan 17, 2002 (23)",€2.80m,2002,2800.0,72,48,44,37
+Russia,Premier Liga,FC Rostov,18,Konstantin Kuchaev,Attacking Midfield,"Mar 18, 1998 (27)",€1.50m,1998,1500.0,69,46,42,36
+Russia,Premier Liga,FC Rostov,19,Khoren Bayramyan,Attacking Midfield,"Jan 7, 1992 (33)",€600k,1992,600.0,64,43,39,33
+Russia,Premier Liga,FC Rostov,9,Mohammad Mohebi,Left Winger,"Dec 20, 1998 (26)",€3.00m,1998,3000.0,73,55,42,34
+Russia,Premier Liga,FC Rostov,73,Imran Aznaurov,Left Winger,"Aug 23, 2004 (20)",€250k,2004,250.0,58,44,34,27
+Russia,Premier Liga,FC Rostov,17,Ibraheem Mahfus Ajasa,Left Winger,"Nov 26, 2005 (19)",€50k,2005,50.0,49,37,28,23
+Russia,Premier Liga,FC Rostov,7,Ronaldo,Right Winger,"Dec 7, 2000 (24)",€4.00m,2000,4000.0,74,56,43,34
+Russia,Premier Liga,FC Rostov,62,Ivan Komarov,Right Winger,"Apr 15, 2003 (22)",€2.00m,2003,2000.0,70,53,41,32
+Russia,Premier Liga,FC Rostov,77,Stepan Melnikov,Right Winger,"Apr 25, 2002 (23)",€75k,2002,75.0,53,40,31,24
+Russia,Premier Liga,FC Rostov,69,Egor Golenkov,Centre-Forward,"Jul 7, 1999 (26)",€2.50m,1999,2500.0,71,58,39,31
+Russia,Premier Liga,FC Rostov,99,Timur Suleymanov,Centre-Forward,"Mar 17, 2000 (25)",€1.20m,2000,1200.0,67,55,37,29
+Russia,Premier Liga,FC Rostov,91,Anton Shamonin,Centre-Forward,"Mar 28, 2005 (20)",€250k,2005,250.0,58,48,32,25

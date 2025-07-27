@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,Moreirense FC,-,André Ferreira,Goalkeeper,"May 29, 1996 (29)",€700k,1996,700.0,65,28,30,59
+Portugal,Liga Portugal,Moreirense FC,22,Caio Secco,Goalkeeper,"Dec 22, 1990 (34)",€200k,1990,200.0,59,25,27,54
+Portugal,Liga Portugal,Moreirense FC,16,Mika,Goalkeeper,"Mar 8, 1991 (34)",€100k,1991,100.0,55,24,25,50
+Portugal,Liga Portugal,Moreirense FC,3,Michel,Centre-Back,"May 20, 2003 (22)",€1.00m,2003,1000.0,66,30,34,54
+Portugal,Liga Portugal,Moreirense FC,26,Maracás,Centre-Back,"Apr 27, 1994 (31)",€1.00m,1994,1000.0,67,31,35,55
+Portugal,Liga Portugal,Moreirense FC,66,Gilberto Batista,Centre-Back,"Dec 29, 2003 (21)",€200k,2003,200.0,57,26,30,47
+Portugal,Liga Portugal,Moreirense FC,44,Marcelo,Centre-Back,"Jul 27, 1989 (36)",€100k,1989,100.0,55,25,29,45
+Portugal,Liga Portugal,Moreirense FC,-,Kiko,Left-Back,"Apr 16, 2002 (23)",€1.00m,2002,1000.0,66,32,36,50
+Portugal,Liga Portugal,Moreirense FC,-,Álvaro Martínez,Left-Back,"May 4, 2002 (23)",€400k,2002,400.0,61,30,34,46
+Portugal,Liga Portugal,Moreirense FC,76,Dinis Pinto,Right-Back,"Aug 24, 2000 (24)",€1.50m,2000,1500.0,69,34,38,52
+Portugal,Liga Portugal,Moreirense FC,45,Mateja Stjepanovic,Defensive Midfield,"Feb 20, 2004 (21)",€750k,2004,750.0,64,33,33,41
+Portugal,Liga Portugal,Moreirense FC,28,Guilherme Liberato,Defensive Midfield,"Jun 16, 2001 (24)",€300k,2001,300.0,60,31,31,38
+Portugal,Liga Portugal,Moreirense FC,25,Afonso Assis,Defensive Midfield,"Jul 15, 2006 (19)",€100k,2006,100.0,53,28,28,34
+Portugal,Liga Portugal,Moreirense FC,80,Lawrence Ofori,Central Midfield,"Jun 28, 1998 (27)",€2.00m,1998,2000.0,70,41,45,41
+Portugal,Liga Portugal,Moreirense FC,-,Rodri Alonso,Central Midfield,"Jan 4, 2003 (22)",€300k,2003,300.0,60,35,38,35
+Portugal,Liga Portugal,Moreirense FC,-,Miguel Rebelo,Central Midfield,"Sep 13, 2003 (21)",€200k,2003,200.0,57,33,36,33
+Portugal,Liga Portugal,Moreirense FC,11,Alan,Attacking Midfield,"Mar 8, 2000 (25)",€4.00m,2000,4000.0,74,50,45,38
+Portugal,Liga Portugal,Moreirense FC,20,Benny,Left Winger,"Dec 4, 1997 (27)",€1.00m,1997,1000.0,67,51,39,31
+Portugal,Liga Portugal,Moreirense FC,-,Kiko Bondoso,Left Winger,"Nov 17, 1995 (29)",€800k,1995,800.0,66,50,38,30
+Portugal,Liga Portugal,Moreirense FC,17,Cedric Teguia,Left Winger,"Oct 1, 2001 (23)",€800k,2001,800.0,65,49,38,30
+Portugal,Liga Portugal,Moreirense FC,10,Jeremy Antonisse,Left Winger,"Mar 29, 2002 (23)",€700k,2002,700.0,64,49,37,29
+Portugal,Liga Portugal,Moreirense FC,19,Joel Jorquera,Left Winger,"Aug 19, 2000 (24)",€300k,2000,300.0,60,46,35,28
+Portugal,Liga Portugal,Moreirense FC,95,Guilherme Schettine,Centre-Forward,"Oct 10, 1995 (29)",€900k,1995,900.0,66,54,36,28
+Portugal,Liga Portugal,Moreirense FC,99,Yan Maranhão,Centre-Forward,"Sep 13, 2002 (22)",€600k,2002,600.0,64,52,35,28

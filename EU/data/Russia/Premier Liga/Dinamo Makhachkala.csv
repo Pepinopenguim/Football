@@ -1,0 +1,22 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Dinamo Makhachkala,27,David Volk,Goalkeeper,"Apr 11, 2001 (24)",€1.20m,2001,1200.0,67,29,31,61
+Russia,Premier Liga,Dinamo Makhachkala,39,Timur Magomedov,Goalkeeper,"Dec 20, 2001 (23)",€700k,2001,700.0,65,28,30,59
+Russia,Premier Liga,Dinamo Makhachkala,70,Valentin Paltsev,Centre-Back,"Jul 12, 2001 (24)",€2.50m,2001,2500.0,71,33,37,58
+Russia,Premier Liga,Dinamo Makhachkala,4,Idar Shumakhov,Centre-Back,"Jun 5, 1999 (26)",€1.00m,1999,1000.0,67,31,35,55
+Russia,Premier Liga,Dinamo Makhachkala,5,Jemal Tabidze,Centre-Back,"Mar 18, 1996 (29)",€800k,1996,800.0,66,30,34,54
+Russia,Premier Liga,Dinamo Makhachkala,99,Mutalip Alibekov,Centre-Back,"Jun 18, 1997 (28)",€700k,1997,700.0,65,30,34,53
+Russia,Premier Liga,Dinamo Makhachkala,71,Jan Dapo,Left-Back,"Sep 17, 2002 (22)",€500k,2002,500.0,63,31,35,48
+Russia,Premier Liga,Dinamo Makhachkala,22,Mohamed Azzi,Right-Back,"May 11, 2002 (23)",€800k,2002,800.0,65,32,36,49
+Russia,Premier Liga,Dinamo Makhachkala,77,Temirkan Sundukov,Right-Back,"Sep 17, 2001 (23)",€800k,2001,800.0,65,32,36,49
+Russia,Premier Liga,Dinamo Makhachkala,13,Soslan Kagermazov,Right-Back,"Aug 20, 1996 (28)",€700k,1996,700.0,65,32,36,49
+Russia,Premier Liga,Dinamo Makhachkala,72,Aleksandr Sandrachuk,Right-Back,"Jan 2, 2002 (23)",€500k,2002,500.0,63,31,35,48
+Russia,Premier Liga,Dinamo Makhachkala,16,Houssem Mrezigue,Defensive Midfield,"Mar 23, 2000 (25)",€900k,2000,900.0,66,34,34,42
+Russia,Premier Liga,Dinamo Makhachkala,21,Abdulpasha Dzhabrailov,Defensive Midfield,"Nov 24, 2004 (20)",€300k,2004,300.0,59,31,31,38
+Russia,Premier Liga,Dinamo Makhachkala,47,Nikita Glushkov,Central Midfield,"Mar 19, 1999 (26)",€900k,1999,900.0,66,38,42,38
+Russia,Premier Liga,Dinamo Makhachkala,96,Kirill Pomeshkin,Central Midfield,"Mar 21, 2004 (21)",€100k,2004,100.0,53,31,34,31
+Russia,Premier Liga,Dinamo Makhachkala,10,Mohammadjavad Hosseinnejad,Attacking Midfield,"Jun 26, 2003 (22)",€900k,2003,900.0,65,44,40,34
+Russia,Premier Liga,Dinamo Makhachkala,9,Razhab Magomedov,Attacking Midfield,"Oct 3, 2000 (24)",€600k,2000,600.0,64,43,39,33
+Russia,Premier Liga,Dinamo Makhachkala,19,Kirill Zinovich,Attacking Midfield,"Mar 5, 2003 (22)",€400k,2003,400.0,61,41,37,32
+Russia,Premier Liga,Dinamo Makhachkala,53,Shamil Gadzhiev,Attacking Midfield,"Jul 26, 2005 (20)",€75k,2005,75.0,51,34,31,27
+Russia,Premier Liga,Dinamo Makhachkala,25,Gamid Agalarov,Centre-Forward,"Jul 16, 2000 (25)",€1.20m,2000,1200.0,67,55,37,29
+Russia,Premier Liga,Dinamo Makhachkala,28,Serder Serderov,Centre-Forward,"Mar 10, 1994 (31)",€350k,1994,350.0,61,50,34,26

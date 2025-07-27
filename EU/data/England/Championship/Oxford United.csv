@@ -1,0 +1,33 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Oxford United,1,Jamie Cumming,Goalkeeper,"Sep 4, 1999 (25)",€1.20m,1999,1200.0,68,29,31,62
+England,Championship,Oxford United,21,Matt Ingram,Goalkeeper,"Dec 18, 1993 (31)",€500k,1993,500.0,63,27,29,57
+England,Championship,Oxford United,13,Simon Eastwood,Goalkeeper,"Jun 26, 1989 (36)",€50k,1989,50.0,51,22,23,46
+England,Championship,Oxford United,33,Jacob Knightbridge,Goalkeeper,"Jan 25, 2004 (21)",-,2004,63.0,51,22,23,46
+England,Championship,Oxford United,47,Michal Helik,Centre-Back,"Sep 9, 1995 (29)",€1.50m,1995,1500.0,69,32,36,57
+England,Championship,Oxford United,3,Ciaron Brown,Centre-Back,"Jan 14, 1998 (27)",€1.00m,1998,1000.0,67,31,35,55
+England,Championship,Oxford United,5,Elliott Moore,Centre-Back,"Mar 16, 1997 (28)",€500k,1997,500.0,63,29,33,52
+England,Championship,Oxford United,-,Stephan Negru,Centre-Back,"Jul 24, 2002 (23)",€125k,2002,125.0,55,25,29,45
+England,Championship,Oxford United,-,James Golding,Centre-Back,"Aug 10, 2004 (20)",€50k,2004,50.0,50,23,26,41
+England,Championship,Oxford United,-,Jack Currie,Left-Back,"Dec 16, 2001 (23)",€550k,2001,550.0,63,31,35,48
+England,Championship,Oxford United,22,Greg Leigh,Left-Back,"Sep 30, 1994 (30)",€250k,1994,250.0,60,29,33,46
+England,Championship,Oxford United,24,Hidde ter Avest,Right-Back,"May 20, 1997 (28)",€1.50m,1997,1500.0,69,34,38,52
+England,Championship,Oxford United,-,Brodie Spencer,Right-Back,"May 6, 2004 (21)",€1.00m,2004,1000.0,66,32,36,50
+England,Championship,Oxford United,30,Peter Kioso,Right-Back,"Aug 15, 1999 (25)",€800k,1999,800.0,65,32,36,49
+England,Championship,Oxford United,2,Sam Long,Right-Back,"Jan 16, 1995 (30)",€200k,1995,200.0,58,28,32,44
+England,Championship,Oxford United,14,Brian De Keersmaecker,Defensive Midfield,"May 6, 2000 (25)",€3.00m,2000,3000.0,72,37,37,46
+England,Championship,Oxford United,4,Will Vaulks,Defensive Midfield,"Sep 13, 1993 (31)",€600k,1993,600.0,64,33,33,41
+England,Championship,Oxford United,-,Louie Sibley,Central Midfield,"Sep 13, 2001 (23)",€1.50m,2001,1500.0,69,40,44,40
+England,Championship,Oxford United,8,Cameron Brannagan,Central Midfield,"May 9, 1996 (29)",€500k,1996,500.0,63,37,40,37
+England,Championship,Oxford United,-,Joshua Johnson,Central Midfield,"Sep 26, 2004 (20)",-,2004,99.0,53,31,34,31
+England,Championship,Oxford United,-,Luke Harris,Attacking Midfield,"Mar 4, 2005 (20)",€1.00m,2005,1000.0,65,44,40,34
+England,Championship,Oxford United,28,Marselino Ferdinan,Attacking Midfield,"Sep 9, 2004 (20)",€300k,2004,300.0,59,40,36,31
+England,Championship,Oxford United,23,Siriki Dembélé,Left Winger,"Sep 7, 1996 (28)",€2.00m,1996,2000.0,71,54,41,33
+England,Championship,Oxford United,7,Przemyslaw Placheta,Left Winger,"Mar 23, 1998 (27)",€1.30m,1998,1300.0,68,52,39,31
+England,Championship,Oxford United,19,Tyler Goodrham,Right Winger,"Aug 7, 2003 (21)",€3.00m,2003,3000.0,72,55,42,33
+England,Championship,Oxford United,-,Owen Dale,Right Winger,"Nov 1, 1998 (26)",€500k,1998,500.0,63,48,37,29
+England,Championship,Oxford United,44,Stanley Mills,Right Winger,"Oct 25, 2003 (21)",€300k,2003,300.0,60,46,35,28
+England,Championship,Oxford United,10,Matt Phillips,Right Winger,"Mar 13, 1991 (34)",€200k,1991,200.0,59,45,34,27
+England,Championship,Oxford United,11,Ole Romeny,Centre-Forward,"Jun 20, 2000 (25)",€1.20m,2000,1200.0,67,55,37,29
+England,Championship,Oxford United,9,Mark Harris,Centre-Forward,"Dec 29, 1998 (26)",€800k,1998,800.0,65,53,36,28
+England,Championship,Oxford United,50,Tom Bradshaw,Centre-Forward,"Jul 27, 1992 (33)",€350k,1992,350.0,62,51,34,27
+England,Championship,Oxford United,-,Gatlin O'Donkor,Centre-Forward,"Oct 14, 2004 (20)",€250k,2004,250.0,58,48,32,25

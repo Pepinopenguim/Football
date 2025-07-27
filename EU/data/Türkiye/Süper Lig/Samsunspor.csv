@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Samsunspor,1,Okan Kocuk,Goalkeeper,"Jul 27, 1995 (30)",€2.20m,1995,2200.0,71,31,33,65
+Türkiye,Süper Lig,Samsunspor,25,Efe Berat Törüz,Goalkeeper,"Sep 8, 2006 (18)",-,2006,49.0,49,21,23,45
+Türkiye,Süper Lig,Samsunspor,4,Rick van Drongelen,Centre-Back,"Dec 20, 1998 (26)",€2.70m,1998,2700.0,72,33,37,59
+Türkiye,Süper Lig,Samsunspor,37,Lubomir Satka,Centre-Back,"Dec 2, 1995 (29)",€1.70m,1995,1700.0,70,32,36,57
+Türkiye,Süper Lig,Samsunspor,55,Yunus Emre Çift,Centre-Back,"Sep 1, 2003 (21)",€450k,2003,450.0,62,29,32,51
+Türkiye,Süper Lig,Samsunspor,13,Bedirhan Çetin,Centre-Back,"Jun 29, 2006 (19)",€175k,2006,175.0,56,26,29,46
+Türkiye,Süper Lig,Samsunspor,66,Elano Yegen,Centre-Back,"Oct 8, 2002 (22)",€50k,2002,50.0,50,23,26,41
+Türkiye,Süper Lig,Samsunspor,17,Logi Tómasson,Left-Back,"Sep 13, 2000 (24)",€1.20m,2000,1200.0,67,33,37,51
+Türkiye,Süper Lig,Samsunspor,28,Soner Gönül,Left-Back,"Jun 11, 1997 (28)",€750k,1997,750.0,65,32,36,49
+Türkiye,Süper Lig,Samsunspor,22,Enes Albak,Left-Back,"May 16, 2005 (20)",€150k,2005,150.0,55,27,30,42
+Türkiye,Süper Lig,Samsunspor,29,Joe Mendes,Right-Back,"Dec 31, 2002 (22)",€3.00m,2002,3000.0,72,35,40,55
+Türkiye,Süper Lig,Samsunspor,18,Zeki Yavru,Right-Back,"Sep 5, 1991 (33)",€300k,1991,300.0,61,30,34,46
+Türkiye,Süper Lig,Samsunspor,72,Mustafa Tan,Right-Back,"Apr 27, 2005 (20)",€200k,2005,200.0,57,28,31,43
+Türkiye,Süper Lig,Samsunspor,6,Antoine Makoumbou,Defensive Midfield,"Jul 18, 1998 (27)",€3.50m,1998,3500.0,73,38,38,47
+Türkiye,Süper Lig,Samsunspor,5,Celil Yüksel,Central Midfield,"Jan 1, 1998 (27)",€900k,1998,900.0,66,38,42,38
+Türkiye,Süper Lig,Samsunspor,20,Muhammet Özbaskıcı,Central Midfield,"Sep 27, 2005 (19)",€250k,2005,250.0,58,34,37,34
+Türkiye,Süper Lig,Samsunspor,8,Soner Aydoğdu,Central Midfield,"Jan 5, 1991 (34)",€125k,1991,125.0,56,32,36,32
+Türkiye,Süper Lig,Samsunspor,12,Alper Efe Pazar,Central Midfield,"Feb 8, 2005 (20)",-,2005,84.0,52,30,33,30
+Türkiye,Süper Lig,Samsunspor,21,Carlo Holse,Attacking Midfield,"Jun 2, 1999 (26)",€3.80m,1999,3800.0,74,50,45,38
+Türkiye,Süper Lig,Samsunspor,10,Olivier Ntcham,Attacking Midfield,"Feb 9, 1996 (29)",€2.80m,1996,2800.0,72,48,44,37
+Türkiye,Süper Lig,Samsunspor,11,Emre Kılınç,Left Winger,"Aug 23, 1994 (30)",€1.80m,1994,1800.0,70,53,41,32
+Türkiye,Süper Lig,Samsunspor,7,Arbnor Muja,Right Winger,"Nov 29, 1998 (26)",€3.40m,1998,3400.0,73,55,42,34
+Türkiye,Süper Lig,Samsunspor,23,Anthony Musaba,Right Winger,"Dec 6, 2000 (24)",€1.50m,2000,1500.0,69,52,40,32
+Türkiye,Süper Lig,Samsunspor,16,Polat Yaldır,Right Winger,"May 17, 2003 (22)",€175k,2003,175.0,57,43,33,26
+Türkiye,Süper Lig,Samsunspor,9,Marius Mouandilmadji,Centre-Forward,"Jan 22, 1998 (27)",€3.50m,1998,3500.0,73,60,40,31
+Türkiye,Süper Lig,Samsunspor,14,Landry Dimata,Centre-Forward,"Sep 1, 1997 (27)",€2.50m,1997,2500.0,72,59,40,31
+Türkiye,Süper Lig,Samsunspor,-,Berhan Deniz,Centre-Forward,"Nov 25, 2004 (20)",€75k,2004,75.0,52,43,29,22

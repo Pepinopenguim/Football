@@ -1,0 +1,32 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,SS Lazio,35,Christos Mandas,Goalkeeper,"Sep 17, 2001 (23)",€10.00m,2001,10000.0,79,34,36,72
+Italy,Serie A,SS Lazio,94,Ivan Provedel,Goalkeeper,"Mar 17, 1994 (31)",€3.00m,1994,3000.0,73,31,34,66
+Italy,Serie A,SS Lazio,59,Davide Renzetti,Goalkeeper,"Jun 9, 2006 (19)",€100k,2006,100.0,53,23,24,48
+Italy,Serie A,SS Lazio,55,Alessio Furlanetto,Goalkeeper,"Feb 7, 2002 (23)",€50k,2002,50.0,50,22,23,46
+Italy,Serie A,SS Lazio,34,Mario Gila,Centre-Back,"Aug 29, 2000 (24)",€30.00m,2000,30000.0,85,39,44,70
+Italy,Serie A,SS Lazio,13,Alessio Romagnoli,Centre-Back,"Jan 12, 1995 (30)",€7.00m,1995,7000.0,77,35,40,63
+Italy,Serie A,SS Lazio,25,Oliver Provstgaard,Centre-Back,"Jun 4, 2003 (22)",€3.50m,2003,3500.0,73,34,38,60
+Italy,Serie A,SS Lazio,2,Samuel Gigot,Centre-Back,"Oct 12, 1993 (31)",€3.00m,1993,3000.0,73,34,38,60
+Italy,Serie A,SS Lazio,4,Patric,Centre-Back,"Apr 17, 1993 (32)",€2.50m,1993,2500.0,72,33,37,59
+Italy,Serie A,SS Lazio,44,Fabio Andrea Ruggeri,Centre-Back,"Dec 13, 2004 (20)",€1.00m,2004,1000.0,66,30,34,54
+Italy,Serie A,SS Lazio,17,Nuno Tavares,Left-Back,"Jan 26, 2000 (25)",€25.00m,2000,25000.0,84,41,46,64
+Italy,Serie A,SS Lazio,3,Luca Pellegrini,Left-Back,"Mar 7, 1999 (26)",€3.00m,1999,3000.0,72,35,40,55
+Italy,Serie A,SS Lazio,-,Dimitrije Kamenovic,Left-Back,"Jul 16, 2000 (25)",€500k,2000,500.0,63,31,35,48
+Italy,Serie A,SS Lazio,77,Adam Marusic,Right-Back,"Oct 17, 1992 (32)",€3.50m,1992,3500.0,74,36,41,56
+Italy,Serie A,SS Lazio,23,Elseid Hysaj,Right-Back,"Feb 2, 1994 (31)",€1.50m,1994,1500.0,69,34,38,52
+Italy,Serie A,SS Lazio,6,Nicolò Rovella,Defensive Midfield,"Dec 4, 2001 (23)",€30.00m,2001,30000.0,85,44,44,54
+Italy,Serie A,SS Lazio,21,Reda Belahyane,Defensive Midfield,"Jun 1, 2004 (21)",€10.00m,2004,10000.0,78,41,41,50
+Italy,Serie A,SS Lazio,32,Danilo Cataldi,Defensive Midfield,"Aug 6, 1994 (30)",€3.50m,1994,3500.0,74,38,38,47
+Italy,Serie A,SS Lazio,8,Mattéo Guendouzi,Central Midfield,"Apr 14, 1999 (26)",€32.00m,1999,32000.0,85,49,54,49
+Italy,Serie A,SS Lazio,5,Matías Vecino,Central Midfield,"Aug 24, 1991 (33)",€2.00m,1991,2000.0,71,41,45,41
+Italy,Serie A,SS Lazio,26,Toma Bašić,Central Midfield,"Nov 25, 1996 (28)",€800k,1996,800.0,66,38,42,38
+Italy,Serie A,SS Lazio,29,Manuel Lazzari,Right Midfield,"Nov 29, 1993 (31)",€3.50m,1993,3500.0,74,43,47,43
+Italy,Serie A,SS Lazio,7,Fisayo Dele-Bashiru,Attacking Midfield,"Feb 6, 2001 (24)",€7.50m,2001,7500.0,77,52,47,40
+Italy,Serie A,SS Lazio,10,Mattia Zaccagni,Left Winger,"Jun 16, 1995 (30)",€20.00m,1995,20000.0,83,63,48,38
+Italy,Serie A,SS Lazio,31,Saná Fernandes,Left Winger,"Mar 10, 2006 (19)",€700k,2006,700.0,63,48,37,29
+Italy,Serie A,SS Lazio,18,Gustav Isaksen,Right Winger,"Apr 19, 2001 (24)",€20.00m,2001,20000.0,82,62,48,38
+Italy,Serie A,SS Lazio,14,Tijjani Noslin,Right Winger,"Jul 7, 1999 (26)",€7.50m,1999,7500.0,77,59,45,35
+Italy,Serie A,SS Lazio,22,Matteo Cancellieri,Right Winger,"Feb 12, 2002 (23)",€4.50m,2002,4500.0,74,56,43,34
+Italy,Serie A,SS Lazio,9,Pedro,Right Winger,"Jul 28, 1987 (37)",€1.00m,1987,1000.0,68,52,39,31
+Italy,Serie A,SS Lazio,11,Taty Castellanos,Centre-Forward,"Oct 3, 1998 (26)",€25.00m,1998,25000.0,84,69,46,36
+Italy,Serie A,SS Lazio,19,Boulaye Dia,Centre-Forward,"Nov 16, 1996 (28)",€15.00m,1996,15000.0,81,66,45,35

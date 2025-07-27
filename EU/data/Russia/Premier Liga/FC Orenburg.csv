@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,FC Orenburg,99,Nikolay Sysuev,Goalkeeper,"May 19, 1999 (26)",€800k,1999,800.0,65,28,30,59
+Russia,Premier Liga,FC Orenburg,1,Bogdan Ovsyannikov,Goalkeeper,"Jan 5, 1999 (26)",€300k,1999,300.0,60,26,28,55
+Russia,Premier Liga,FC Orenburg,95,Andrey Khodanovich,Goalkeeper,"Sep 8, 2004 (20)",€50k,2004,50.0,50,22,23,46
+Russia,Premier Liga,FC Orenburg,5,Aleksey Tataev,Centre-Back,"Oct 8, 1998 (26)",€800k,1998,800.0,65,30,34,53
+Russia,Premier Liga,FC Orenburg,38,Artem Kasimov,Centre-Back,"Apr 17, 2003 (22)",€600k,2003,600.0,63,29,33,52
+Russia,Premier Liga,FC Orenburg,44,Anri Chichinadze,Centre-Back,"Oct 5, 1997 (27)",€450k,1997,450.0,63,29,33,52
+Russia,Premier Liga,FC Orenburg,4,Danila Khotulev,Centre-Back,"Oct 1, 2002 (22)",€400k,2002,400.0,61,28,32,50
+Russia,Premier Liga,FC Orenburg,59,Maksim Syshchenko,Centre-Back,"Jun 24, 2004 (21)",€200k,2004,200.0,57,26,30,47
+Russia,Premier Liga,FC Orenburg,3,Danila Vedernikov,Left-Back,"Jun 6, 2001 (24)",€300k,2001,300.0,60,29,33,46
+Russia,Premier Liga,FC Orenburg,2,Stanislav Poroykov,Right-Back,"Apr 24, 2004 (21)",€125k,2004,125.0,55,27,30,42
+Russia,Premier Liga,FC Orenburg,61,Semen Stolbov,Right-Back,"Feb 25, 2003 (22)",€100k,2003,100.0,54,26,30,41
+Russia,Premier Liga,FC Orenburg,31,Georgiy Zotov,Right-Back,"Jan 12, 1990 (35)",€50k,1990,50.0,51,25,28,39
+Russia,Premier Liga,FC Orenburg,29,Vladan Bubanja,Defensive Midfield,"Feb 21, 1999 (26)",€800k,1999,800.0,65,34,34,42
+Russia,Premier Liga,FC Orenburg,57,Evgeniy Bolotov,Defensive Midfield,"Jun 4, 2001 (24)",€450k,2001,450.0,62,32,32,40
+Russia,Premier Liga,FC Orenburg,33,Irakliy Kvekveskiri,Defensive Midfield,"Mar 12, 1990 (35)",€300k,1990,300.0,61,32,32,39
+Russia,Premier Liga,FC Orenburg,8,Vladislav Kamilov,Central Midfield,"Aug 29, 1995 (29)",€800k,1995,800.0,66,38,42,38
+Russia,Premier Liga,FC Orenburg,17,Aleksandr Lomakin,Central Midfield,"Feb 14, 1995 (30)",€800k,1995,800.0,66,38,42,38
+Russia,Premier Liga,FC Orenburg,20,Dmitriy Rybchinskiy,Right Midfield,"Aug 19, 1998 (26)",€800k,1998,800.0,65,38,42,38
+Russia,Premier Liga,FC Orenburg,56,Danila Shilov,Attacking Midfield,"Apr 4, 2002 (23)",€250k,2002,250.0,59,40,36,31
+Russia,Premier Liga,FC Orenburg,96,Aleksey Baranovskiy,Attacking Midfield,"Jan 25, 2005 (20)",€250k,2005,250.0,58,39,35,30
+Russia,Premier Liga,FC Orenburg,7,Emircan Gürlük,Left Winger,"Oct 15, 2003 (21)",€600k,2003,600.0,63,48,37,29
+Russia,Premier Liga,FC Orenburg,16,Jordhy Thompson,Right Winger,"Aug 10, 2004 (20)",€350k,2004,350.0,60,46,35,28
+Russia,Premier Liga,FC Orenburg,11,Stepan Oganesyan,Right Winger,"Sep 28, 2001 (23)",€300k,2001,300.0,60,46,35,28
+Russia,Premier Liga,FC Orenburg,77,Atsamaz Revazov,Right Winger,"Apr 15, 2005 (20)",€150k,2005,150.0,55,42,32,25
+Russia,Premier Liga,FC Orenburg,10,Saeed Saharkhizan,Centre-Forward,"Jun 26, 2003 (22)",€1.00m,2003,1000.0,66,54,36,28
+Russia,Premier Liga,FC Orenburg,9,Maksim Saveljev,Centre-Forward,"Jan 22, 2002 (23)",€500k,2002,500.0,63,52,35,27
+Russia,Premier Liga,FC Orenburg,30,Gedeon Guzina,Centre-Forward,"Dec 26, 1993 (31)",€400k,1993,400.0,62,51,34,27
+Russia,Premier Liga,FC Orenburg,78,Ivan Gulko,Centre-Forward,"Oct 23, 2003 (21)",€150k,2003,150.0,56,46,31,24

@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Zenit St. Petersburg,1,Evgeniy Latyshonok,Goalkeeper,"Jun 21, 1998 (27)",€4.00m,1998,4000.0,74,32,34,67
+Russia,Premier Liga,Zenit St. Petersburg,16,Denis Adamov,Goalkeeper,"Feb 20, 1998 (27)",€1.00m,1998,1000.0,67,29,31,61
+Russia,Premier Liga,Zenit St. Petersburg,61,Bogdan Moskvichev,Goalkeeper,"Apr 30, 2004 (21)",€800k,2004,800.0,64,28,29,58
+Russia,Premier Liga,Zenit St. Petersburg,13,Nikita Goylo,Goalkeeper,"Aug 10, 1998 (26)",€250k,1998,250.0,59,25,27,54
+Russia,Premier Liga,Zenit St. Petersburg,41,Mikhail Kerzhakov,Goalkeeper,"Jan 28, 1987 (38)",€200k,1987,200.0,59,25,27,54
+Russia,Premier Liga,Zenit St. Petersburg,33,Nino,Centre-Back,"Apr 10, 1997 (28)",€11.00m,1997,11000.0,80,37,42,66
+Russia,Premier Liga,Zenit St. Petersburg,25,Strahinja Erakovic,Centre-Back,"Jan 22, 2001 (24)",€9.00m,2001,9000.0,78,36,41,64
+Russia,Premier Liga,Zenit St. Petersburg,-,Robert Renan,Centre-Back,"Oct 11, 2003 (21)",€7.50m,2003,7500.0,77,35,40,63
+Russia,Premier Liga,Zenit St. Petersburg,6,Vanja Drkusic,Centre-Back,"Oct 30, 1999 (25)",€4.00m,1999,4000.0,74,34,38,61
+Russia,Premier Liga,Zenit St. Petersburg,28,Nuraly Alip,Centre-Back,"Dec 22, 1999 (25)",€3.00m,1999,3000.0,72,33,37,59
+Russia,Premier Liga,Zenit St. Petersburg,3,Douglas Santos,Left-Back,"Mar 22, 1994 (31)",€9.00m,1994,9000.0,79,39,43,60
+Russia,Premier Liga,Zenit St. Petersburg,66,Román Vega,Left-Back,"Jan 1, 2004 (21)",€5.00m,2004,5000.0,74,36,41,56
+Russia,Premier Liga,Zenit St. Petersburg,4,Yuriy Gorshkov,Left-Back,"Mar 13, 1999 (26)",€2.00m,1999,2000.0,70,34,38,53
+Russia,Premier Liga,Zenit St. Petersburg,15,Vyacheslav Karavaev,Right-Back,"May 20, 1995 (30)",€3.50m,1995,3500.0,74,36,41,56
+Russia,Premier Liga,Zenit St. Petersburg,23,Arsen Adamov,Right-Back,"Oct 20, 1999 (25)",€2.00m,1999,2000.0,70,34,38,53
+Russia,Premier Liga,Zenit St. Petersburg,5,Wilmar Barrios,Defensive Midfield,"Oct 16, 1993 (31)",€8.00m,1993,8000.0,78,41,41,50
+Russia,Premier Liga,Zenit St. Petersburg,14,Sasa Zdjelar,Defensive Midfield,"Mar 20, 1995 (30)",€3.50m,1995,3500.0,74,38,38,47
+Russia,Premier Liga,Zenit St. Petersburg,9,Gerson,Central Midfield,"May 20, 1997 (28)",€25.00m,1997,25000.0,84,49,54,49
+Russia,Premier Liga,Zenit St. Petersburg,8,Wendel,Central Midfield,"Aug 28, 1997 (27)",€18.00m,1997,18000.0,82,48,52,48
+Russia,Premier Liga,Zenit St. Petersburg,18,Yaroslav Mikhailov,Central Midfield,"Apr 28, 2003 (22)",€800k,2003,800.0,65,38,42,38
+Russia,Premier Liga,Zenit St. Petersburg,77,Ilzat Akhmetov,Attacking Midfield,"Dec 31, 1997 (27)",€1.50m,1997,1500.0,69,46,42,36
+Russia,Premier Liga,Zenit St. Petersburg,21,Aleksandr Erokhin,Attacking Midfield,"Oct 13, 1989 (35)",€250k,1989,250.0,60,40,37,31
+Russia,Premier Liga,Zenit St. Petersburg,20,Pedro,Left Winger,"Feb 5, 2006 (19)",€10.00m,2006,10000.0,77,59,45,35
+Russia,Premier Liga,Zenit St. Petersburg,17,Andrey Mostovoy,Left Winger,"Nov 5, 1997 (27)",€4.00m,1997,4000.0,74,56,43,34
+Russia,Premier Liga,Zenit St. Petersburg,11,Luiz Henrique,Right Winger,"Jan 2, 2001 (24)",€25.00m,2001,25000.0,84,64,49,39
+Russia,Premier Liga,Zenit St. Petersburg,31,Gustavo Mantuan,Right Winger,"Jun 20, 2001 (24)",€3.50m,2001,3500.0,73,55,42,34
+Russia,Premier Liga,Zenit St. Petersburg,10,Maksim Glushenkov,Second Striker,"Jul 28, 1999 (26)",€14.00m,1999,14000.0,81,64,47,35
+Russia,Premier Liga,Zenit St. Petersburg,32,Luciano Gondou,Centre-Forward,"Jun 22, 2001 (24)",€12.00m,2001,12000.0,80,66,44,34
+Russia,Premier Liga,Zenit St. Petersburg,30,Mateo Cassierra,Centre-Forward,"Apr 13, 1997 (28)",€10.00m,1997,10000.0,79,65,43,34
+Russia,Premier Liga,Zenit St. Petersburg,7,Aleksandr Sobolev,Centre-Forward,"Mar 7, 1997 (28)",€6.00m,1997,6000.0,76,62,42,33

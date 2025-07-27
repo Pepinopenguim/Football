@@ -1,0 +1,33 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Millwall FC,-,Steven Benda,Goalkeeper,"Oct 1, 1998 (26)",€1.00m,1998,1000.0,67,29,31,61
+England,Championship,Millwall FC,1,Lukas Jensen,Goalkeeper,"Mar 18, 1999 (26)",€900k,1999,900.0,66,28,30,60
+England,Championship,Millwall FC,41,George Evans,Goalkeeper,"May 16, 2005 (20)",€350k,2005,350.0,60,26,28,55
+England,Championship,Millwall FC,15,Max Crocombe,Goalkeeper,"Aug 12, 1993 (31)",€225k,1993,225.0,59,25,27,54
+England,Championship,Millwall FC,6,Japhet Tanganga,Centre-Back,"Mar 31, 1999 (26)",€2.50m,1999,2500.0,71,33,37,58
+England,Championship,Millwall FC,5,Jake Cooper,Centre-Back,"Feb 3, 1995 (30)",€2.00m,1995,2000.0,71,33,37,58
+England,Championship,Millwall FC,45,Wes Harding,Centre-Back,"Oct 20, 1996 (28)",€1.00m,1996,1000.0,67,31,35,55
+England,Championship,Millwall FC,4,Tristan Crama,Centre-Back,"Nov 8, 2001 (23)",€500k,2001,500.0,63,29,33,52
+England,Championship,Millwall FC,27,Kamarl Grant,Centre-Back,"Jan 26, 2003 (22)",€150k,2003,150.0,56,26,29,46
+England,Championship,Millwall FC,23,Joe Bryan,Left-Back,"Sep 17, 1993 (31)",€800k,1993,800.0,66,32,36,50
+England,Championship,Millwall FC,12,Adam Mayor,Left-Back,"Apr 10, 2005 (20)",€350k,2005,350.0,60,29,33,46
+England,Championship,Millwall FC,3,Zak Sturge,Left-Back,"Jun 15, 2004 (21)",€200k,2004,200.0,57,28,31,43
+England,Championship,Millwall FC,2,Danny McNamara,Right-Back,"Dec 27, 1998 (26)",€1.80m,1998,1800.0,70,34,38,53
+England,Championship,Millwall FC,18,Ryan Leonard,Right-Back,"May 24, 1992 (33)",€250k,1992,250.0,60,29,33,46
+England,Championship,Millwall FC,8,Billy Mitchell,Defensive Midfield,"Apr 7, 2001 (24)",€3.00m,2001,3000.0,72,37,37,46
+England,Championship,Millwall FC,24,Casper De Norre,Defensive Midfield,"Feb 7, 1997 (28)",€2.50m,1997,2500.0,72,37,37,46
+England,Championship,Millwall FC,16,Daniel Kelly,Central Midfield,"Oct 3, 2005 (19)",€700k,2005,700.0,63,37,40,37
+England,Championship,Millwall FC,-,Massimo Luongo,Central Midfield,"Sep 25, 1992 (32)",€400k,1992,400.0,62,36,40,36
+England,Championship,Millwall FC,44,Alfie Massey,Central Midfield,"Jan 18, 2006 (19)",€50k,2006,50.0,49,28,31,28
+England,Championship,Millwall FC,25,Luke Cundle,Attacking Midfield,"Apr 26, 2002 (23)",€3.20m,2002,3200.0,73,49,45,38
+England,Championship,Millwall FC,22,Aidomo Emakhu,Left Winger,"Oct 26, 2003 (21)",€900k,2003,900.0,65,49,38,30
+England,Championship,Millwall FC,29,Zak Lovelace,Left Winger,"Jan 23, 2006 (19)",€500k,2006,500.0,61,46,35,28
+England,Championship,Millwall FC,10,Camiel Neghli,Right Winger,"Nov 6, 2001 (23)",€2.00m,2001,2000.0,70,53,41,32
+England,Championship,Millwall FC,11,Femi Azeez,Right Winger,"Jun 5, 2001 (24)",€1.20m,2001,1200.0,67,51,39,31
+England,Championship,Millwall FC,31,Ra'ees Bangura-Williams,Right Winger,"Jul 2, 2004 (21)",€400k,2004,400.0,61,46,35,28
+England,Championship,Millwall FC,26,Benicio Baker,Right Winger,"Jan 9, 2004 (21)",€300k,2004,300.0,59,45,34,27
+England,Championship,Millwall FC,32,Sheldon Kendall,Right Winger,"Dec 31, 2007 (17)",-,2007,71.0,50,38,29,23
+England,Championship,Millwall FC,9,Mihailo Ivanovic,Centre-Forward,"Nov 29, 2004 (20)",€4.00m,2004,4000.0,73,60,40,31
+England,Championship,Millwall FC,7,Kevin Nisbet,Centre-Forward,"Mar 8, 1997 (28)",€2.50m,1997,2500.0,72,59,40,31
+England,Championship,Millwall FC,19,Josh Coburn,Centre-Forward,"Dec 6, 2002 (22)",€1.50m,2002,1500.0,68,56,37,29
+England,Championship,Millwall FC,17,Macaulay Langstaff,Centre-Forward,"Feb 3, 1997 (28)",€700k,1997,700.0,65,53,36,28
+England,Championship,Millwall FC,28,Ajay Matthews,Centre-Forward,"Jun 11, 2006 (19)",-,2006,35.0,47,39,26,20

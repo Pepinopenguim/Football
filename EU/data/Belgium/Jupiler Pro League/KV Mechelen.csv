@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Belgium,Jupiler Pro League,KV Mechelen,1,Ortwin De Wolf,Goalkeeper,"Apr 23, 1997 (28)",€1.50m,1997,1500.0,69,30,32,63
+Belgium,Jupiler Pro League,KV Mechelen,22,Nacho Miras,Goalkeeper,"Jul 19, 1997 (28)",€400k,1997,400.0,62,27,29,56
+Belgium,Jupiler Pro League,KV Mechelen,15,Tijn Van Ingelgom,Goalkeeper,"Mar 5, 2007 (18)",€100k,2007,100.0,52,22,24,47
+Belgium,Jupiler Pro League,KV Mechelen,32,Axel Willockx,Goalkeeper,"Feb 7, 2007 (18)",-,2007,55.0,49,21,23,45
+Belgium,Jupiler Pro League,KV Mechelen,4,Gora Diouf,Centre-Back,"Sep 20, 2003 (21)",€4.00m,2003,4000.0,73,34,38,60
+Belgium,Jupiler Pro League,KV Mechelen,3,José Marsà,Centre-Back,"Mar 4, 2002 (23)",€3.00m,2002,3000.0,72,33,37,59
+Belgium,Jupiler Pro League,KV Mechelen,33,Tommy St. Jago,Centre-Back,"Jan 3, 2000 (25)",€1.00m,2000,1000.0,67,31,35,55
+Belgium,Jupiler Pro League,KV Mechelen,22,Lovro Golic,Centre-Back,"Mar 5, 2006 (19)",€500k,2006,500.0,61,28,32,50
+Belgium,Jupiler Pro League,KV Mechelen,2,Redouane Halhal,Centre-Back,"Mar 5, 2003 (22)",€350k,2003,350.0,60,28,31,49
+Belgium,Jupiler Pro League,KV Mechelen,30,Lukas Baert,Centre-Back,"Feb 1, 2005 (20)",€50k,2005,50.0,49,23,25,40
+Belgium,Jupiler Pro League,KV Mechelen,23,Moncef Zekri,Left-Back,"Sep 20, 2008 (16)",€500k,2008,500.0,61,30,34,46
+Belgium,Jupiler Pro League,KV Mechelen,17,Rafik Belghali,Right-Back,"Jun 7, 2002 (23)",€2.50m,2002,2500.0,71,35,39,54
+Belgium,Jupiler Pro League,KV Mechelen,7,Thérence Koudou,Right-Back,"Dec 13, 2004 (20)",€2.00m,2004,2000.0,69,34,38,52
+Belgium,Jupiler Pro League,KV Mechelen,33,Fredrik Hammar,Defensive Midfield,"Feb 26, 2001 (24)",€1.50m,2001,1500.0,69,36,36,44
+Belgium,Jupiler Pro League,KV Mechelen,5,Ryan Teague,Defensive Midfield,"Jan 24, 2002 (23)",€650k,2002,650.0,64,33,33,41
+Belgium,Jupiler Pro League,KV Mechelen,8,Mory Konaté,Defensive Midfield,"Nov 15, 1993 (31)",€500k,1993,500.0,63,33,33,40
+Belgium,Jupiler Pro League,KV Mechelen,36,Elton Yeboah,Defensive Midfield,"Mar 25, 2005 (20)",€200k,2005,200.0,57,30,30,36
+Belgium,Jupiler Pro League,KV Mechelen,16,Rob Schoofs,Central Midfield,"Mar 23, 1994 (31)",€2.20m,1994,2200.0,71,41,45,41
+Belgium,Jupiler Pro League,KV Mechelen,77,Patrick Pflücke,Right Midfield,"Nov 30, 1996 (28)",€1.60m,1996,1600.0,69,40,44,40
+Belgium,Jupiler Pro League,KV Mechelen,19,Kerim Mrabti,Attacking Midfield,"May 20, 1994 (31)",€2.00m,1994,2000.0,71,48,43,37
+Belgium,Jupiler Pro League,KV Mechelen,35,Bilal Bafdili,Attacking Midfield,"Aug 3, 2004 (20)",€900k,2004,900.0,65,44,40,34
+Belgium,Jupiler Pro League,KV Mechelen,11,Nikola Storm,Left Winger,"Sep 30, 1994 (30)",€2.00m,1994,2000.0,71,54,41,33
+Belgium,Jupiler Pro League,KV Mechelen,38,Bill Antonio,Right Winger,"Sep 3, 2002 (22)",€1.20m,2002,1200.0,67,51,39,31
+Belgium,Jupiler Pro League,KV Mechelen,21,Halil Özdemir,Second Striker,"Aug 18, 2005 (19)",-,2005,70.0,51,40,30,22
+Belgium,Jupiler Pro League,KV Mechelen,14,Benito Raman,Centre-Forward,"Nov 7, 1994 (30)",€2.00m,1994,2000.0,71,58,39,31
+Belgium,Jupiler Pro League,KV Mechelen,20,Lion Lauberbach,Centre-Forward,"Feb 15, 1998 (27)",€1.00m,1998,1000.0,67,55,37,29
+Belgium,Jupiler Pro League,KV Mechelen,27,Keano Vanrafelghem,Centre-Forward,"Aug 2, 2003 (21)",€900k,2003,900.0,65,53,36,28

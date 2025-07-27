@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Middlesbrough FC,1,Seny Dieng,Goalkeeper,"Nov 23, 1994 (30)",€1.40m,1994,1400.0,69,30,32,63
+England,Championship,Middlesbrough FC,23,Tom Glover,Goalkeeper,"Dec 24, 1997 (27)",€800k,1997,800.0,66,28,30,60
+England,Championship,Middlesbrough FC,31,Sol Brynn,Goalkeeper,"Oct 30, 2000 (24)",€300k,2000,300.0,60,26,28,55
+England,Championship,Middlesbrough FC,3,Rav van den Berg,Centre-Back,"Jul 7, 2004 (21)",€4.50m,2004,4500.0,74,34,38,61
+England,Championship,Middlesbrough FC,-,Alfie Jones,Centre-Back,"Oct 7, 1997 (27)",€4.00m,1997,4000.0,74,34,38,61
+England,Championship,Middlesbrough FC,6,Dael Fry,Centre-Back,"Aug 30, 1997 (27)",€4.00m,1997,4000.0,74,34,38,61
+England,Championship,Middlesbrough FC,26,Darragh Lenihan,Centre-Back,"Mar 16, 1994 (31)",€1.20m,1994,1200.0,68,31,35,56
+England,Championship,Middlesbrough FC,25,George Edmundson,Centre-Back,"Aug 15, 1997 (27)",€800k,1997,800.0,66,30,34,54
+England,Championship,Middlesbrough FC,30,Neto Borges,Left-Back,"Sep 13, 1996 (28)",€3.00m,1996,3000.0,73,36,40,55
+England,Championship,Middlesbrough FC,24,Alex Bangura,Left-Back,"Jul 13, 1999 (26)",€700k,1999,700.0,65,32,36,49
+England,Championship,Middlesbrough FC,12,Luke Ayling,Right-Back,"Aug 25, 1991 (33)",€450k,1991,450.0,63,31,35,48
+England,Championship,Middlesbrough FC,7,Hayden Hackney,Defensive Midfield,"Jun 26, 2002 (23)",€12.00m,2002,12000.0,80,42,42,51
+England,Championship,Middlesbrough FC,4,Dan Barlaser,Defensive Midfield,"Jan 18, 1997 (28)",€2.00m,1997,2000.0,70,36,36,45
+England,Championship,Middlesbrough FC,18,Aidan Morris,Central Midfield,"Nov 16, 2001 (23)",€4.00m,2001,4000.0,74,43,47,43
+England,Championship,Middlesbrough FC,8,Riley McGree,Central Midfield,"Nov 2, 1998 (26)",€3.00m,1998,3000.0,73,42,47,42
+England,Championship,Middlesbrough FC,20,Finn Azaz,Attacking Midfield,"Sep 7, 2000 (24)",€16.00m,2000,16000.0,81,54,49,42
+England,Championship,Middlesbrough FC,-,Alex Gilbert,Attacking Midfield,"Dec 28, 2001 (23)",€500k,2001,500.0,63,42,38,33
+England,Championship,Middlesbrough FC,-,Micah Hamilton,Left Winger,"Nov 13, 2003 (21)",€3.20m,2003,3200.0,72,55,42,33
+England,Championship,Middlesbrough FC,10,Delano Burgzorg,Left Winger,"Nov 7, 1998 (26)",€3.00m,1998,3000.0,73,55,42,34
+England,Championship,Middlesbrough FC,-,Sam Silvera,Left Winger,"Oct 25, 2000 (24)",€800k,2000,800.0,65,49,38,30
+England,Championship,Middlesbrough FC,11,Morgan Whittaker,Right Winger,"Jan 7, 2001 (24)",€10.00m,2001,10000.0,79,60,46,36
+England,Championship,Middlesbrough FC,22,Tommy Conway,Centre-Forward,"Aug 6, 2002 (22)",€7.50m,2002,7500.0,77,63,42,33
+England,Championship,Middlesbrough FC,21,Marcus Forss,Centre-Forward,"Jun 18, 1999 (26)",€2.20m,1999,2200.0,71,58,39,31
+England,Championship,Middlesbrough FC,39,Sonny Finch,Centre-Forward,"Aug 5, 2005 (19)",€75k,2005,75.0,51,42,28,22

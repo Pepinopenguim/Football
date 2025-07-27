@@ -1,0 +1,32 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,ACF Fiorentina,43,David de Gea,Goalkeeper,"Nov 7, 1990 (34)",€5.00m,1990,5000.0,76,33,35,69
+Italy,Serie A,ACF Fiorentina,30,Tommaso Martinelli,Goalkeeper,"Jan 6, 2006 (19)",€1.80m,2006,1800.0,68,29,31,62
+Italy,Serie A,ACF Fiorentina,-,Oliver Christensen,Goalkeeper,"Mar 22, 1999 (26)",€1.50m,1999,1500.0,69,30,32,63
+Italy,Serie A,ACF Fiorentina,15,Pietro Comuzzo,Centre-Back,"Feb 20, 2005 (20)",€25.00m,2005,25000.0,82,38,43,67
+Italy,Serie A,ACF Fiorentina,6,Luca Ranieri,Centre-Back,"Apr 23, 1999 (26)",€12.00m,1999,12000.0,80,37,42,66
+Italy,Serie A,ACF Fiorentina,5,Marin Pongracic,Centre-Back,"Sep 11, 1997 (27)",€10.00m,1997,10000.0,79,36,41,65
+Italy,Serie A,ACF Fiorentina,-,Mattia Viti,Centre-Back,"Jan 24, 2002 (23)",€5.50m,2002,5500.0,75,34,39,62
+Italy,Serie A,ACF Fiorentina,18,Pablo Marí,Centre-Back,"Aug 31, 1993 (31)",€3.50m,1993,3500.0,74,34,38,61
+Italy,Serie A,ACF Fiorentina,-,Niccolò Fortini,Left-Back,"Feb 13, 2006 (19)",€8.50m,2006,8500.0,76,37,42,58
+Italy,Serie A,ACF Fiorentina,21,Robin Gosens,Left-Back,"Jul 5, 1994 (31)",€8.00m,1994,8000.0,78,38,43,59
+Italy,Serie A,ACF Fiorentina,65,Fabiano Parisi,Left-Back,"Nov 9, 2000 (24)",€6.00m,2000,6000.0,76,37,42,58
+Italy,Serie A,ACF Fiorentina,2,Dodô,Right-Back,"Nov 17, 1998 (26)",€24.00m,1998,24000.0,84,41,46,64
+Italy,Serie A,ACF Fiorentina,8,Rolando Mandragora,Defensive Midfield,"Jun 29, 1997 (28)",€12.00m,1997,12000.0,80,42,42,51
+Italy,Serie A,ACF Fiorentina,44,Nicolò Fagioli,Central Midfield,"Feb 12, 2001 (24)",€18.00m,2001,18000.0,82,48,52,48
+Italy,Serie A,ACF Fiorentina,-,Jacopo Fazzini,Central Midfield,"Mar 16, 2003 (22)",€10.00m,2003,10000.0,78,45,50,45
+Italy,Serie A,ACF Fiorentina,24,Amir Richardson,Central Midfield,"Jan 24, 2002 (23)",€8.50m,2002,8500.0,78,45,50,45
+Italy,Serie A,ACF Fiorentina,-,Alessandro Bianco,Central Midfield,"Oct 1, 2002 (22)",€5.00m,2002,5000.0,75,44,48,44
+Italy,Serie A,ACF Fiorentina,27,Cher Ndour,Central Midfield,"Jul 27, 2004 (21)",€5.00m,2004,5000.0,74,43,47,43
+Italy,Serie A,ACF Fiorentina,-,Gino Infantino,Central Midfield,"May 19, 2003 (22)",€2.00m,2003,2000.0,70,41,45,41
+Italy,Serie A,ACF Fiorentina,-,Costantino Favasuli,Left Midfield,"Apr 26, 2004 (21)",€1.40m,2004,1400.0,67,39,43,39
+Italy,Serie A,ACF Fiorentina,9,Lucas Beltrán,Attacking Midfield,"Mar 29, 2001 (24)",€18.00m,2001,18000.0,82,55,50,43
+Italy,Serie A,ACF Fiorentina,-,Antonín Barák,Attacking Midfield,"Dec 3, 1994 (30)",€2.50m,1994,2500.0,72,48,44,37
+Italy,Serie A,ACF Fiorentina,-,Abdelhamid Sabiri,Attacking Midfield,"Nov 28, 1996 (28)",€1.70m,1996,1700.0,70,47,43,36
+Italy,Serie A,ACF Fiorentina,-,Riccardo Sottil,Left Winger,"Jun 3, 1999 (26)",€5.00m,1999,5000.0,75,57,44,34
+Italy,Serie A,ACF Fiorentina,-,Josip Brekalo,Left Winger,"Jun 23, 1998 (27)",€3.30m,1998,3300.0,73,55,42,34
+Italy,Serie A,ACF Fiorentina,-,Jonathan Ikoné,Right Winger,"May 2, 1998 (27)",€7.00m,1998,7000.0,77,59,45,35
+Italy,Serie A,ACF Fiorentina,10,Albert Gudmundsson,Second Striker,"Jun 15, 1997 (28)",€18.00m,1997,18000.0,82,65,48,35
+Italy,Serie A,ACF Fiorentina,20,Moise Kean,Centre-Forward,"Feb 28, 2000 (25)",€50.00m,2000,50000.0,87,71,48,37
+Italy,Serie A,ACF Fiorentina,-,M'Bala Nzola,Centre-Forward,"Aug 18, 1996 (28)",€6.00m,1996,6000.0,76,62,42,33
+Italy,Serie A,ACF Fiorentina,-,Christian Kouamé,Centre-Forward,"Dec 6, 1997 (27)",€4.00m,1997,4000.0,74,61,41,32
+Italy,Serie A,ACF Fiorentina,-,Edin Džeko,Centre-Forward,"Mar 17, 1986 (39)",€1.60m,1986,1600.0,70,57,38,30

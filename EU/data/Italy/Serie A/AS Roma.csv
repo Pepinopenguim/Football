@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,AS Roma,99,Mile Svilar,Goalkeeper,"Aug 27, 1999 (25)",€25.00m,1999,25000.0,84,36,39,76
+Italy,Serie A,AS Roma,95,Pierluigi Gollini,Goalkeeper,"Mar 18, 1995 (30)",€1.00m,1995,1000.0,67,29,31,61
+Italy,Serie A,AS Roma,63,Pietro Boer,Goalkeeper,"May 12, 2002 (23)",€300k,2002,300.0,60,26,28,55
+Italy,Serie A,AS Roma,91,Radoslaw Zelezny,Goalkeeper,"Sep 6, 2006 (18)",€175k,2006,175.0,56,24,26,51
+Italy,Serie A,AS Roma,5,Evan Ndicka,Centre-Back,"Aug 20, 1999 (25)",€30.00m,1999,30000.0,85,39,44,70
+Italy,Serie A,AS Roma,23,Gianluca Mancini,Centre-Back,"Apr 17, 1996 (29)",€15.00m,1996,15000.0,81,37,42,66
+Italy,Serie A,AS Roma,24,Marash Kumbulla,Centre-Back,"Feb 8, 2000 (25)",€7.50m,2000,7500.0,77,35,40,63
+Italy,Serie A,AS Roma,22,Mario Hermoso,Centre-Back,"Jun 18, 1995 (30)",€7.00m,1995,7000.0,77,35,40,63
+Italy,Serie A,AS Roma,3,Angeliño,Left-Back,"Jan 4, 1997 (28)",€20.00m,1997,20000.0,83,41,46,63
+Italy,Serie A,AS Roma,34,Anass Salah-Eddine,Left-Back,"Jan 18, 2002 (23)",€8.00m,2002,8000.0,77,38,42,59
+Italy,Serie A,AS Roma,2,Devyne Rensch,Right-Back,"Jan 18, 2003 (22)",€10.00m,2003,10000.0,78,38,43,59
+Italy,Serie A,AS Roma,19,Zeki Çelik,Right-Back,"Feb 17, 1997 (28)",€6.00m,1997,6000.0,76,37,42,58
+Italy,Serie A,AS Roma,12,Saud Abdulhamid,Right-Back,"Jul 18, 1999 (26)",€3.00m,1999,3000.0,72,35,40,55
+Italy,Serie A,AS Roma,-,Mattia Mannini,Right-Back,"Jul 8, 2006 (19)",€1.00m,2006,1000.0,65,32,36,49
+Italy,Serie A,AS Roma,66,Buba Sangaré,Right-Back,"Aug 6, 2007 (17)",€1.00m,2007,1000.0,64,31,35,49
+Italy,Serie A,AS Roma,4,Bryan Cristante,Defensive Midfield,"Mar 3, 1995 (30)",€7.00m,1995,7000.0,77,40,40,49
+Italy,Serie A,AS Roma,55,Ebrima Darboe,Defensive Midfield,"Jun 6, 2001 (24)",€1.00m,2001,1000.0,66,34,34,42
+Italy,Serie A,AS Roma,17,Manu Koné,Central Midfield,"May 17, 2001 (24)",€40.00m,2001,40000.0,86,50,55,50
+Italy,Serie A,AS Roma,8,Neil El Aynaoui,Central Midfield,"Jul 2, 2001 (24)",€15.00m,2001,15000.0,81,47,52,47
+Italy,Serie A,AS Roma,61,Niccolò Pisilli,Central Midfield,"Sep 23, 2004 (20)",€13.00m,2004,13000.0,79,46,51,46
+Italy,Serie A,AS Roma,-,Edoardo Bove,Central Midfield,"May 16, 2002 (23)",€5.00m,2002,5000.0,75,44,48,44
+Italy,Serie A,AS Roma,35,Tommaso Baldanzi,Attacking Midfield,"Mar 23, 2003 (22)",€12.00m,2003,12000.0,79,53,48,41
+Italy,Serie A,AS Roma,7,Lorenzo Pellegrini,Attacking Midfield,"Jun 19, 1996 (29)",€9.00m,1996,9000.0,79,53,48,41
+Italy,Serie A,AS Roma,92,Stephan El Shaarawy,Left Winger,"Oct 27, 1992 (32)",€3.50m,1992,3500.0,74,56,43,34
+Italy,Serie A,AS Roma,64,Luigi Cherubini,Left Winger,"Jan 15, 2004 (21)",€2.00m,2004,2000.0,69,52,40,32
+Italy,Serie A,AS Roma,18,Matías Soulé,Right Winger,"Apr 15, 2003 (22)",€30.00m,2003,30000.0,84,64,49,39
+Italy,Serie A,AS Roma,-,Ola Solbakken,Right Winger,"Sep 7, 1998 (26)",€2.30m,1998,2300.0,71,54,41,33
+Italy,Serie A,AS Roma,21,Paulo Dybala,Second Striker,"Nov 15, 1993 (31)",€8.00m,1993,8000.0,78,62,45,34
+Italy,Serie A,AS Roma,9,Artem Dovbyk,Centre-Forward,"Jun 21, 1997 (28)",€30.00m,1997,30000.0,85,70,47,37
+Italy,Serie A,AS Roma,11,Evan Ferguson,Centre-Forward,"Oct 19, 2004 (20)",€25.00m,2004,25000.0,83,68,46,36

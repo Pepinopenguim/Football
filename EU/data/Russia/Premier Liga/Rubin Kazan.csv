@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Rubin Kazan,38,Evgeniy Staver,Goalkeeper,"Feb 16, 1998 (27)",€1.50m,1998,1500.0,69,30,32,63
+Russia,Premier Liga,Rubin Kazan,25,Artur Nigmatullin,Goalkeeper,"May 17, 1991 (34)",€400k,1991,400.0,62,27,29,56
+Russia,Premier Liga,Rubin Kazan,5,Igor Vujacic,Centre-Back,"Aug 8, 1994 (30)",€3.00m,1994,3000.0,73,34,38,60
+Russia,Premier Liga,Rubin Kazan,2,Egor Teslenko,Centre-Back,"Jan 31, 2001 (24)",€2.00m,2001,2000.0,70,32,36,57
+Russia,Premier Liga,Rubin Kazan,3,Denil Maldonado,Centre-Back,"May 26, 1998 (27)",€1.80m,1998,1800.0,70,32,36,57
+Russia,Premier Liga,Rubin Kazan,27,Aleksey Gritsaenko,Centre-Back,"May 25, 1995 (30)",€1.80m,1995,1800.0,70,32,36,57
+Russia,Premier Liga,Rubin Kazan,26,Uros Drezgic,Centre-Back,"Oct 4, 2002 (22)",€400k,2002,400.0,61,28,32,50
+Russia,Premier Liga,Rubin Kazan,4,Konstantin Nizhegorodov,Centre-Back,"Jun 21, 2002 (23)",€300k,2002,300.0,60,28,31,49
+Russia,Premier Liga,Rubin Kazan,51,Ilya Rozhkov,Left-Back,"Mar 29, 2005 (20)",€2.50m,2005,2500.0,70,34,38,53
+Russia,Premier Liga,Rubin Kazan,70,Dmitriy Kabutov,Right-Back,"Mar 26, 1992 (33)",€800k,1992,800.0,66,32,36,50
+Russia,Premier Liga,Rubin Kazan,22,Veldin Hodza,Defensive Midfield,"Oct 15, 2002 (22)",€3.00m,2002,3000.0,72,37,37,46
+Russia,Premier Liga,Rubin Kazan,6,Ugochukwu Iwu,Defensive Midfield,"Nov 28, 1999 (25)",€2.50m,1999,2500.0,71,37,37,45
+Russia,Premier Liga,Rubin Kazan,96,Nikita Vasiljev,Defensive Midfield,"Dec 14, 2006 (18)",€100k,2006,100.0,53,28,28,34
+Russia,Premier Liga,Rubin Kazan,8,Bogdan Jocic,Central Midfield,"Jan 11, 2001 (24)",€800k,2001,800.0,65,38,42,38
+Russia,Premier Liga,Rubin Kazan,77,Aleksandar Jukic,Central Midfield,"Jul 26, 2000 (25)",€600k,2000,600.0,64,37,41,37
+Russia,Premier Liga,Rubin Kazan,18,Marat Apshatsev,Central Midfield,"May 27, 2001 (24)",€300k,2001,300.0,60,35,38,35
+Russia,Premier Liga,Rubin Kazan,21,Aleksandr Zotov,Central Midfield,"Aug 27, 1990 (34)",€150k,1990,150.0,57,33,36,33
+Russia,Premier Liga,Rubin Kazan,23,Ruslan Bezrukov,Left Midfield,"Mar 21, 2002 (23)",€1.00m,2002,1000.0,66,38,42,38
+Russia,Premier Liga,Rubin Kazan,19,Oleg Ivanov,Attacking Midfield,"Aug 4, 1986 (38)",€100k,1986,100.0,55,37,34,29
+Russia,Premier Liga,Rubin Kazan,77,Daniil Kuznetsov,Left Winger,"Apr 23, 2003 (22)",€350k,2003,350.0,60,46,35,28
+Russia,Premier Liga,Rubin Kazan,24,Nikola Cumic,Right Winger,"Nov 20, 1998 (26)",€1.50m,1998,1500.0,69,52,40,32
+Russia,Premier Liga,Rubin Kazan,9,Aleksandr Lomovitskiy,Right Winger,"Jan 27, 1998 (27)",€500k,1998,500.0,63,48,37,29
+Russia,Premier Liga,Rubin Kazan,10,Mirlind Daku,Centre-Forward,"Jan 1, 1998 (27)",€8.00m,1998,8000.0,78,64,43,34
+Russia,Premier Liga,Rubin Kazan,99,Dardan Shabanhaxhaj,Centre-Forward,"Apr 23, 2001 (24)",€1.20m,2001,1200.0,67,55,37,29
+Russia,Premier Liga,Rubin Kazan,90,Marvin Cuni,Centre-Forward,"Jul 10, 2001 (24)",€1.00m,2001,1000.0,66,54,36,28

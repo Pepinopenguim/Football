@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Bristol City,1,Max O'Leary,Goalkeeper,"Oct 10, 1996 (28)",€2.80m,1996,2800.0,72,31,33,66
+England,Championship,Bristol City,13,Joe Lumley,Goalkeeper,"Feb 15, 1995 (30)",€500k,1995,500.0,63,27,29,57
+England,Championship,Bristol City,32,Lewis Thomas,Goalkeeper,"Sep 20, 1997 (27)",€150k,1997,150.0,57,25,26,52
+England,Championship,Bristol City,15,Luke McNally,Centre-Back,"Sep 20, 1999 (25)",€3.50m,1999,3500.0,73,34,38,60
+England,Championship,Bristol City,14,Zak Vyner,Centre-Back,"May 14, 1997 (28)",€2.80m,1997,2800.0,72,33,37,59
+England,Championship,Bristol City,16,Rob Dickie,Centre-Back,"Mar 3, 1996 (29)",€2.80m,1996,2800.0,72,33,37,59
+England,Championship,Bristol City,5,Rob Atkinson,Centre-Back,"Jul 13, 1998 (27)",€1.20m,1998,1200.0,68,31,35,56
+England,Championship,Bristol City,3,Cameron Pring,Left-Back,"Jan 22, 1998 (27)",€2.50m,1998,2500.0,72,35,40,55
+England,Championship,Bristol City,24,Haydon Roberts,Left-Back,"May 10, 2002 (23)",€1.20m,2002,1200.0,67,33,37,51
+England,Championship,Bristol City,19,George Tanner,Right-Back,"Nov 16, 1999 (25)",€2.50m,1999,2500.0,71,35,39,54
+England,Championship,Bristol City,2,Ross McCrorie,Right-Back,"Mar 18, 1998 (27)",€1.80m,1998,1800.0,70,34,38,53
+England,Championship,Bristol City,4,Adam Randell,Defensive Midfield,"Oct 1, 2000 (24)",€2.20m,2000,2200.0,71,37,37,45
+England,Championship,Bristol City,12,Jason Knight,Central Midfield,"Feb 13, 2001 (24)",€7.00m,2001,7000.0,77,45,49,45
+England,Championship,Bristol City,6,Max Bird,Central Midfield,"Sep 18, 2000 (24)",€3.50m,2000,3500.0,73,42,47,42
+England,Championship,Bristol City,8,Joe Williams,Central Midfield,"Dec 8, 1996 (28)",€1.20m,1996,1200.0,68,39,44,39
+England,Championship,Bristol City,17,Mark Sykes,Right Midfield,"Aug 4, 1997 (27)",€1.80m,1997,1800.0,70,41,45,41
+England,Championship,Bristol City,10,Scott Twine,Attacking Midfield,"Jul 14, 1999 (26)",€4.50m,1999,4500.0,75,50,46,39
+England,Championship,Bristol City,26,Josh Stokes,Attacking Midfield,"Apr 29, 2004 (21)",€250k,2004,250.0,58,39,35,30
+England,Championship,Bristol City,11,Anis Mehmeti,Left Winger,"Jan 9, 2001 (24)",€7.00m,2001,7000.0,77,59,45,35
+England,Championship,Bristol City,20,Sam Bell,Left Winger,"May 23, 2002 (23)",€1.20m,2002,1200.0,67,51,39,31
+England,Championship,Bristol City,7,Yu Hirakawa,Right Winger,"Jan 3, 2001 (24)",€1.00m,2001,1000.0,66,50,38,30
+England,Championship,Bristol City,18,Emil Riis,Centre-Forward,"Jun 24, 1998 (27)",€4.50m,1998,4500.0,75,62,41,32
+England,Championship,Bristol City,30,Sinclair Armstrong,Centre-Forward,"Jun 22, 2003 (22)",€2.20m,2003,2200.0,70,57,38,30
+England,Championship,Bristol City,9,Fally Mayulu,Centre-Forward,"Jul 15, 2002 (23)",€2.00m,2002,2000.0,70,57,38,30
+England,Championship,Bristol City,27,Harry Cornick,Centre-Forward,"Apr 9, 1995 (30)",€700k,1995,700.0,65,53,36,28

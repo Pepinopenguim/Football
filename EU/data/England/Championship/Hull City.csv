@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Hull City,1,Ivor Pandur,Goalkeeper,"Mar 25, 2000 (25)",€2.00m,2000,2000.0,70,30,32,64
+England,Championship,Hull City,-,Dillon Phillips,Goalkeeper,"Jun 11, 1995 (30)",€275k,1995,275.0,60,26,28,55
+England,Championship,Hull City,34,Harvey Cartwright,Goalkeeper,"May 9, 2002 (23)",€200k,2002,200.0,58,25,27,53
+England,Championship,Hull City,4,Charlie Hughes,Centre-Back,"Oct 16, 2003 (21)",€3.50m,2003,3500.0,73,34,38,60
+England,Championship,Hull City,15,John Egan,Centre-Back,"Oct 20, 1992 (32)",€1.30m,1992,1300.0,69,32,36,57
+England,Championship,Hull City,-,Semi Ajayi,Centre-Back,"Nov 9, 1993 (31)",€1.00m,1993,1000.0,67,31,35,55
+England,Championship,Hull City,3,Ryan Giles,Left-Back,"Jan 26, 2000 (25)",€4.50m,2000,4500.0,75,37,41,57
+England,Championship,Hull City,-,James Furlong,Left-Back,"Jun 7, 2002 (23)",€300k,2002,300.0,60,29,33,46
+England,Championship,Hull City,23,Cody Drameh,Right-Back,"Dec 8, 2001 (23)",€3.00m,2001,3000.0,72,35,40,55
+England,Championship,Hull City,2,Lewie Coyle,Right-Back,"Oct 15, 1995 (29)",€1.50m,1995,1500.0,69,34,38,52
+England,Championship,Hull City,19,Steven Alzate,Central Midfield,"Sep 8, 1998 (26)",€3.50m,1998,3500.0,73,42,47,42
+England,Championship,Hull City,20,Gustavo Puerta,Central Midfield,"Jul 23, 2003 (22)",€3.50m,2003,3500.0,73,42,47,42
+England,Championship,Hull City,27,Regan Slater,Central Midfield,"Sep 11, 1999 (25)",€3.50m,1999,3500.0,73,42,47,42
+England,Championship,Hull City,36,Eliot Matazo,Central Midfield,"Feb 15, 2002 (23)",€2.00m,2002,2000.0,70,41,45,41
+England,Championship,Hull City,-,Reda Laalaoui,Central Midfield,"May 11, 2005 (20)",€850k,2005,850.0,64,37,41,37
+England,Championship,Hull City,45,Kasey Palmer,Attacking Midfield,"Nov 9, 1996 (28)",€1.00m,1996,1000.0,67,45,41,35
+England,Championship,Hull City,24,Matt Crooks,Attacking Midfield,"Jan 20, 1994 (31)",€800k,1994,800.0,66,44,40,34
+England,Championship,Hull City,14,Harry Vaughan,Attacking Midfield,"Apr 6, 2004 (21)",€400k,2004,400.0,61,41,37,32
+England,Championship,Hull City,7,Liam Millar,Left Winger,"Sep 27, 1999 (25)",€3.00m,1999,3000.0,72,55,42,33
+England,Championship,Hull City,33,Mohamed Belloumi,Right Winger,"Jun 1, 2002 (23)",€4.50m,2002,4500.0,74,56,43,34
+England,Championship,Hull City,44,Abu Kamara,Right Winger,"Jul 21, 2003 (22)",€4.00m,2003,4000.0,73,55,42,34
+England,Championship,Hull City,48,Mason Burstow,Centre-Forward,"Aug 4, 2003 (21)",€1.60m,2003,1600.0,68,56,37,29
+England,Championship,Hull City,28,Kyle Joseph,Centre-Forward,"Sep 10, 2001 (23)",€600k,2001,600.0,64,52,35,28

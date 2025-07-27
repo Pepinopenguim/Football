@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+France,Ligue 1,Olympique Lyon,40,Rémy Descamps,Goalkeeper,"Jun 25, 1996 (29)",€1.20m,1996,1200.0,68,29,31,62
+France,Ligue 1,Olympique Lyon,-,Mathieu Patouillet,Goalkeeper,"Feb 20, 2004 (21)",€800k,2004,800.0,64,28,29,58
+France,Ligue 1,Olympique Lyon,50,Lassine Diarra,Goalkeeper,"Nov 11, 2002 (22)",€50k,2002,50.0,50,22,23,46
+France,Ligue 1,Olympique Lyon,19,Moussa Niakhaté,Centre-Back,"Mar 8, 1996 (29)",€15.00m,1996,15000.0,81,37,42,66
+France,Ligue 1,Olympique Lyon,55,Duje Caleta-Car,Centre-Back,"Sep 17, 1996 (28)",€7.00m,1996,7000.0,77,35,40,63
+France,Ligue 1,Olympique Lyon,22,Clinton Mata,Centre-Back,"Nov 7, 1992 (32)",€3.50m,1992,3500.0,74,34,38,61
+France,Ligue 1,Olympique Lyon,21,Ruben Kluivert,Centre-Back,"May 21, 2001 (24)",€700k,2001,700.0,65,30,34,53
+France,Ligue 1,Olympique Lyon,16,Abner,Left-Back,"May 27, 2000 (25)",€7.00m,2000,7000.0,77,38,42,59
+France,Ligue 1,Olympique Lyon,-,Achraf Laâziri,Left-Back,"Jul 8, 2003 (22)",€800k,2003,800.0,65,32,36,49
+France,Ligue 1,Olympique Lyon,98,Ainsley Maitland-Niles,Right-Back,"Aug 29, 1997 (27)",€12.00m,1997,12000.0,80,39,44,61
+France,Ligue 1,Olympique Lyon,20,Saël Kumbedi,Right-Back,"Mar 26, 2005 (20)",€7.00m,2005,7000.0,76,37,42,58
+France,Ligue 1,Olympique Lyon,5,Orel Mangala,Defensive Midfield,"Mar 18, 1998 (27)",€18.00m,1998,18000.0,82,43,43,52
+France,Ligue 1,Olympique Lyon,15,Tanner Tessmann,Defensive Midfield,"Sep 24, 2001 (23)",€6.00m,2001,6000.0,76,40,40,49
+France,Ligue 1,Olympique Lyon,31,Nemanja Matic,Defensive Midfield,"Aug 1, 1988 (36)",€2.00m,1988,2000.0,71,37,37,45
+France,Ligue 1,Olympique Lyon,4,Paul Akouokou,Defensive Midfield,"Dec 20, 1997 (27)",€800k,1997,800.0,66,34,34,42
+France,Ligue 1,Olympique Lyon,-,Islamdine Halifa,Defensive Midfield,"Dec 20, 2004 (20)",€750k,2004,750.0,64,33,33,41
+France,Ligue 1,Olympique Lyon,8,Corentin Tolisso,Central Midfield,"Aug 3, 1994 (30)",€12.00m,1994,12000.0,80,46,51,46
+France,Ligue 1,Olympique Lyon,-,Mahamadou Diawara,Central Midfield,"Feb 17, 2005 (20)",€2.00m,2005,2000.0,69,40,44,40
+France,Ligue 1,Olympique Lyon,11,Malick Fofana,Left Winger,"Mar 31, 2005 (20)",€30.00m,2005,30000.0,83,63,48,38
+France,Ligue 1,Olympique Lyon,17,Afonso Moreira,Left Winger,"Mar 19, 2005 (20)",€400k,2005,400.0,60,46,35,28
+France,Ligue 1,Olympique Lyon,37,Ernest Nuamah,Right Winger,"Nov 1, 2003 (21)",€15.00m,2003,15000.0,80,61,46,37
+France,Ligue 1,Olympique Lyon,69,Georges Mikautadze,Centre-Forward,"Oct 31, 2000 (24)",€22.00m,2000,22000.0,83,68,46,36
+France,Ligue 1,Olympique Lyon,29,Enzo Molebe,Centre-Forward,"Sep 18, 2007 (17)",€100k,2007,100.0,52,43,29,22

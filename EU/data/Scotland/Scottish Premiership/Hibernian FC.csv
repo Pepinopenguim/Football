@@ -1,0 +1,25 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Scotland,Scottish Premiership,Hibernian FC,1,Raphael Sallinger,Goalkeeper,"Dec 8, 1995 (29)",€600k,1995,600.0,64,28,29,58
+Scotland,Scottish Premiership,Hibernian FC,13,Jordan Smith,Goalkeeper,"Dec 8, 1994 (30)",€100k,1994,100.0,55,24,25,50
+Scotland,Scottish Premiership,Hibernian FC,31,Murray Johnson,Goalkeeper,"Nov 13, 2004 (20)",€50k,2004,50.0,50,22,23,46
+Scotland,Scottish Premiership,Hibernian FC,33,Rocky Bushiri,Centre-Back,"Nov 30, 1999 (25)",€900k,1999,900.0,66,30,34,54
+Scotland,Scottish Premiership,Hibernian FC,4,Marvin Ekpiteta,Centre-Back,"Aug 26, 1995 (29)",€600k,1995,600.0,64,29,33,52
+Scotland,Scottish Premiership,Hibernian FC,5,Warren O'Hora,Centre-Back,"Apr 19, 1999 (26)",€500k,1999,500.0,63,29,33,52
+Scotland,Scottish Premiership,Hibernian FC,15,Jack Iredale,Centre-Back,"May 2, 1996 (29)",€250k,1996,250.0,59,27,31,48
+Scotland,Scottish Premiership,Hibernian FC,21,Jordan Obita,Left-Back,"Dec 8, 1993 (31)",€250k,1993,250.0,60,29,33,46
+Scotland,Scottish Premiership,Hibernian FC,2,Lewis Miller,Right-Back,"Aug 24, 2000 (24)",€900k,2000,900.0,66,32,36,50
+Scotland,Scottish Premiership,Hibernian FC,12,Chris Cadden,Right-Back,"Sep 19, 1996 (28)",€600k,1996,600.0,64,31,35,49
+Scotland,Scottish Premiership,Hibernian FC,27,Kanayo Megwa,Right-Back,"Mar 5, 2004 (21)",€150k,2004,150.0,56,27,31,43
+Scotland,Scottish Premiership,Hibernian FC,11,Joe Newell,Central Midfield,"Mar 15, 1993 (32)",€700k,1993,700.0,65,38,42,38
+Scotland,Scottish Premiership,Hibernian FC,6,Dylan Levitt,Central Midfield,"Nov 17, 2000 (24)",€650k,2000,650.0,64,37,41,37
+Scotland,Scottish Premiership,Hibernian FC,8,Alasana Manneh,Central Midfield,"Apr 8, 1998 (27)",€650k,1998,650.0,64,37,41,37
+Scotland,Scottish Premiership,Hibernian FC,20,Josh Mulligan,Right Midfield,"Nov 12, 2002 (22)",€800k,2002,800.0,65,38,42,38
+Scotland,Scottish Premiership,Hibernian FC,19,Nicky Cadden,Left Midfield,"Sep 19, 1996 (28)",€800k,1996,800.0,66,38,42,38
+Scotland,Scottish Premiership,Hibernian FC,17,Jamie McGrath,Attacking Midfield,"Sep 30, 1996 (28)",€1.20m,1996,1200.0,68,46,41,35
+Scotland,Scottish Premiership,Hibernian FC,32,Josh Campbell,Attacking Midfield,"May 6, 2000 (25)",€1.20m,2000,1200.0,67,45,41,35
+Scotland,Scottish Premiership,Hibernian FC,35,Rudi Molotnikov,Attacking Midfield,"May 23, 2006 (19)",€400k,2006,400.0,60,40,37,31
+Scotland,Scottish Premiership,Hibernian FC,7,Élie Youan,Left Winger,"Apr 7, 1999 (26)",€1.50m,1999,1500.0,69,52,40,32
+Scotland,Scottish Premiership,Hibernian FC,23,Junior Hoilett,Left Winger,"Jun 5, 1990 (35)",€50k,1990,50.0,51,39,30,23
+Scotland,Scottish Premiership,Hibernian FC,10,Martin Boyle,Right Winger,"Apr 25, 1993 (32)",€700k,1993,700.0,65,49,38,30
+Scotland,Scottish Premiership,Hibernian FC,18,Thibault Klidjé,Centre-Forward,"Jul 10, 2001 (24)",€4.00m,2001,4000.0,74,61,41,32
+Scotland,Scottish Premiership,Hibernian FC,9,Kieron Bowie,Centre-Forward,"Sep 21, 2002 (22)",€1.00m,2002,1000.0,66,54,36,28

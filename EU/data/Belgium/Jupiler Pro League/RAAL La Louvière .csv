@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Belgium,Jupiler Pro League,RAAL La Louvière ,21,Marcos Peano,Goalkeeper,"Oct 15, 1998 (26)",€600k,1998,600.0,64,28,29,58
+Belgium,Jupiler Pro League,RAAL La Louvière ,1,Célestin De Schrevel,Goalkeeper,"Apr 2, 2002 (23)",€100k,2002,100.0,54,23,25,49
+Belgium,Jupiler Pro League,RAAL La Louvière ,71,Lucas Monteiro,Goalkeeper,"Aug 4, 2005 (19)",€100k,2005,100.0,53,23,24,48
+Belgium,Jupiler Pro League,RAAL La Louvière ,25,Djibril Lamego,Centre-Back,"Feb 25, 2003 (22)",€600k,2003,600.0,63,29,33,52
+Belgium,Jupiler Pro League,RAAL La Louvière ,13,Maxence Maisonneuve,Centre-Back,"Feb 11, 1999 (26)",€500k,1999,500.0,63,29,33,52
+Belgium,Jupiler Pro League,RAAL La Louvière ,26,Matthis Riou,Centre-Back,"Jan 19, 2001 (24)",€500k,2001,500.0,63,29,33,52
+Belgium,Jupiler Pro League,RAAL La Louvière ,4,Wagane Faye,Centre-Back,"Nov 20, 1993 (31)",€300k,1993,300.0,61,28,32,50
+Belgium,Jupiler Pro League,RAAL La Louvière ,44,Daan Klomp,Centre-Back,"Aug 10, 1998 (26)",€150k,1998,150.0,57,26,30,47
+Belgium,Jupiler Pro League,RAAL La Louvière ,3,Nolan Gillot,Left-Back,"Oct 31, 2002 (22)",€250k,2002,250.0,59,29,32,45
+Belgium,Jupiler Pro League,RAAL La Louvière ,19,Darío Benavides,Right-Back,"Jan 12, 2003 (22)",€300k,2003,300.0,60,29,33,46
+Belgium,Jupiler Pro League,RAAL La Louvière ,65,Emmanuel Da Costa,Right-Back,"Jun 19, 2004 (21)",€200k,2004,200.0,57,28,31,43
+Belgium,Jupiler Pro League,RAAL La Louvière ,6,Alexis Beka Beka,Defensive Midfield,"Mar 29, 2001 (24)",€800k,2001,800.0,65,34,34,42
+Belgium,Jupiler Pro League,RAAL La Louvière ,17,Lucas Bretelle,Defensive Midfield,"Apr 17, 2002 (23)",€600k,2002,600.0,64,33,33,41
+Belgium,Jupiler Pro League,RAAL La Louvière ,8,Samuel Gueulette,Central Midfield,"May 19, 2000 (25)",€500k,2000,500.0,63,37,40,37
+Belgium,Jupiler Pro League,RAAL La Louvière ,15,Sami Lahssaini,Central Midfield,"Sep 18, 1998 (26)",€450k,1998,450.0,62,36,40,36
+Belgium,Jupiler Pro League,RAAL La Louvière ,11,Jordi Liongola,Right Midfield,"May 17, 2000 (25)",€650k,2000,650.0,64,37,41,37
+Belgium,Jupiler Pro League,RAAL La Louvière ,10,Maxime Pau,Attacking Midfield,"Mar 31, 2000 (25)",€350k,2000,350.0,61,41,37,32
+Belgium,Jupiler Pro League,RAAL La Louvière ,23,Joël Ito,Attacking Midfield,"Mar 27, 1998 (27)",€350k,1998,350.0,61,41,37,32
+Belgium,Jupiler Pro League,RAAL La Louvière ,20,Noah Makembo-Ntemo,Attacking Midfield,"Mar 14, 2007 (18)",-,2007,89.0,52,35,32,27
+Belgium,Jupiler Pro League,RAAL La Louvière ,12,Théo Epailly,Left Winger,"Feb 10, 1999 (26)",€400k,1999,400.0,62,47,36,29
+Belgium,Jupiler Pro League,RAAL La Louvière ,70,Kenny Nagera,Left Winger,"Feb 21, 2002 (23)",€350k,2002,350.0,61,46,35,28
+Belgium,Jupiler Pro League,RAAL La Louvière ,-,Oucasse Mendy,Right Winger,"Jun 1, 2001 (24)",€400k,2001,400.0,62,47,36,29
+Belgium,Jupiler Pro League,RAAL La Louvière ,98,Owen Maës,Right Winger,"Sep 24, 1998 (26)",€400k,1998,400.0,62,47,36,29
+Belgium,Jupiler Pro League,RAAL La Louvière ,51,Sekou Sidibe,Right Winger,"May 5, 2001 (24)",€250k,2001,250.0,59,45,34,27
+Belgium,Jupiler Pro League,RAAL La Louvière ,14,Mouhamed Belkheir,Centre-Forward,"Jan 2, 1999 (26)",€900k,1999,900.0,66,54,36,28
+Belgium,Jupiler Pro League,RAAL La Louvière ,-,Pape Moussa Fall,Centre-Forward,"Jul 4, 2004 (21)",€500k,2004,500.0,62,51,34,27
+Belgium,Jupiler Pro League,RAAL La Louvière ,9,Mohamed Guindo,Centre-Forward,"Aug 1, 2003 (21)",€450k,2003,450.0,62,51,34,27
+Belgium,Jupiler Pro League,RAAL La Louvière ,-,Ryan Safari,Centre-Forward,"May 30, 2003 (22)",-,2003,2.0,33,27,18,14

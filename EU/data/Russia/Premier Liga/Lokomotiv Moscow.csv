@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Lokomotiv Moscow,22,Ilya Lantratov,Goalkeeper,"Nov 11, 1995 (29)",€2.50m,1995,2500.0,72,31,33,66
+Russia,Premier Liga,Lokomotiv Moscow,1,Anton Mitryushkin,Goalkeeper,"Feb 8, 1996 (29)",€1.80m,1996,1800.0,70,30,32,64
+Russia,Premier Liga,Lokomotiv Moscow,16,Daniil Veselov,Goalkeeper,"Jan 30, 2005 (20)",€100k,2005,100.0,53,23,24,48
+Russia,Premier Liga,Lokomotiv Moscow,5,Gerzino Nyamsi,Centre-Back,"Jan 22, 1997 (28)",€5.00m,1997,5000.0,75,34,39,62
+Russia,Premier Liga,Lokomotiv Moscow,23,César Montes,Centre-Back,"Feb 24, 1997 (28)",€4.50m,1997,4500.0,75,34,39,62
+Russia,Premier Liga,Lokomotiv Moscow,3,Lucas Fasson,Centre-Back,"May 30, 2001 (24)",€3.00m,2001,3000.0,72,33,37,59
+Russia,Premier Liga,Lokomotiv Moscow,85,Evgeniy Morozov,Centre-Back,"Feb 14, 2001 (24)",€3.00m,2001,3000.0,72,33,37,59
+Russia,Premier Liga,Lokomotiv Moscow,59,Egor Pogostnov,Centre-Back,"Mar 1, 2004 (21)",€1.80m,2004,1800.0,69,32,36,57
+Russia,Premier Liga,Lokomotiv Moscow,18,Mark Mampassi,Centre-Back,"Mar 12, 2003 (22)",€500k,2003,500.0,62,29,32,51
+Russia,Premier Liga,Lokomotiv Moscow,77,Ilya Samoshnikov,Left-Back,"Nov 14, 1997 (27)",€3.50m,1997,3500.0,73,36,40,55
+Russia,Premier Liga,Lokomotiv Moscow,2,Cristian Ramírez,Left-Back,"Aug 12, 1994 (30)",€2.50m,1994,2500.0,72,35,40,55
+Russia,Premier Liga,Lokomotiv Moscow,45,Aleksandr Silyanov,Right-Back,"Feb 17, 2001 (24)",€6.00m,2001,6000.0,76,37,42,58
+Russia,Premier Liga,Lokomotiv Moscow,24,Maksim Nenakhov,Right-Back,"Dec 13, 1998 (26)",€3.00m,1998,3000.0,73,36,40,55
+Russia,Premier Liga,Lokomotiv Moscow,6,Dmitriy Barinov,Defensive Midfield,"Sep 11, 1996 (28)",€8.00m,1996,8000.0,78,41,41,50
+Russia,Premier Liga,Lokomotiv Moscow,93,Artem Karpukas,Defensive Midfield,"Jun 13, 2002 (23)",€5.00m,2002,5000.0,75,39,39,48
+Russia,Premier Liga,Lokomotiv Moscow,94,Artem Timofeev,Defensive Midfield,"Jan 12, 1994 (31)",€1.50m,1994,1500.0,69,36,36,44
+Russia,Premier Liga,Lokomotiv Moscow,-,Konstantin Maradishvili,Defensive Midfield,"Feb 7, 2000 (25)",€500k,2000,500.0,63,33,33,40
+Russia,Premier Liga,Lokomotiv Moscow,90,Danila Godyaev,Central Midfield,"Apr 20, 2004 (21)",€1.50m,2004,1500.0,68,39,44,39
+Russia,Premier Liga,Lokomotiv Moscow,83,Aleksey Batrakov,Attacking Midfield,"Jun 9, 2005 (20)",€12.00m,2005,12000.0,79,53,48,41
+Russia,Premier Liga,Lokomotiv Moscow,9,Sergey Pinyaev,Left Winger,"Nov 2, 2004 (20)",€8.00m,2004,8000.0,77,59,45,35
+Russia,Premier Liga,Lokomotiv Moscow,14,Nikita Saltykov,Left Winger,"Aug 11, 2004 (20)",€2.00m,2004,2000.0,69,52,40,32
+Russia,Premier Liga,Lokomotiv Moscow,19,Aleksandr Rudenko,Left Winger,"Mar 15, 1999 (26)",€1.00m,1999,1000.0,67,51,39,31
+Russia,Premier Liga,Lokomotiv Moscow,99,Ruslan Myalkovskiy,Left Winger,"May 7, 2006 (19)",€250k,2006,250.0,57,43,33,26
+Russia,Premier Liga,Lokomotiv Moscow,7,Zelimkhan Bakaev,Right Winger,"Jul 1, 1996 (29)",€2.00m,1996,2000.0,71,54,41,33
+Russia,Premier Liga,Lokomotiv Moscow,27,Nikolay Komlichenko,Centre-Forward,"Jun 29, 1995 (30)",€3.50m,1995,3500.0,74,61,41,32
+Russia,Premier Liga,Lokomotiv Moscow,10,Dmitriy Vorobyov,Centre-Forward,"Nov 28, 1997 (27)",€3.00m,1997,3000.0,73,60,40,31
+Russia,Premier Liga,Lokomotiv Moscow,8,Vladislav Sarveli,Centre-Forward,"Oct 1, 1997 (27)",€900k,1997,900.0,66,54,36,28

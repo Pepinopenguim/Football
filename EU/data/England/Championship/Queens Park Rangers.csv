@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Queens Park Rangers,1,Paul Nardi,Goalkeeper,"May 18, 1994 (31)",€1.80m,1994,1800.0,70,30,32,64
+England,Championship,Queens Park Rangers,13,Joe Walsh,Goalkeeper,"Apr 1, 2002 (23)",€150k,2002,150.0,56,24,26,51
+England,Championship,Queens Park Rangers,6,Jake Clarke-Salter,Centre-Back,"Sep 22, 1997 (27)",€1.00m,1997,1000.0,67,31,35,55
+England,Championship,Queens Park Rangers,-,Amadou Salif Mbengue,Centre-Back,"Jan 5, 2002 (23)",€750k,2002,750.0,65,30,34,53
+England,Championship,Queens Park Rangers,16,Liam Morrison,Centre-Back,"Apr 7, 2003 (22)",€400k,2003,400.0,61,28,32,50
+England,Championship,Queens Park Rangers,5,Steve Cook,Centre-Back,"Apr 19, 1991 (34)",€350k,1991,350.0,62,29,32,51
+England,Championship,Queens Park Rangers,-,Esquerdinha,Left-Back,"Feb 28, 2006 (19)",€3.00m,2006,3000.0,71,35,39,54
+England,Championship,Queens Park Rangers,-,Ziyad Larkeche,Left-Back,"Sep 19, 2002 (22)",€800k,2002,800.0,65,32,36,49
+England,Championship,Queens Park Rangers,3,Jimmy Dunne,Right-Back,"Oct 19, 1997 (27)",€4.00m,1997,4000.0,74,36,41,56
+England,Championship,Queens Park Rangers,-,Kealey Adamson,Right-Back,"Feb 17, 2003 (22)",€450k,2003,450.0,62,30,34,47
+England,Championship,Queens Park Rangers,8,Sam Field,Defensive Midfield,"May 8, 1998 (27)",€3.20m,1998,3200.0,73,38,38,47
+England,Championship,Queens Park Rangers,24,Nicolas Madsen,Central Midfield,"Mar 17, 2000 (25)",€3.50m,2000,3500.0,73,42,47,42
+England,Championship,Queens Park Rangers,40,Jonathan Varane,Central Midfield,"Sep 9, 2001 (23)",€1.40m,2001,1400.0,68,39,44,39
+England,Championship,Queens Park Rangers,21,Kieran Morgan,Central Midfield,"Mar 17, 2006 (19)",€800k,2006,800.0,64,37,41,37
+England,Championship,Queens Park Rangers,-,Elijah Dixon-Bonner,Central Midfield,"Jan 1, 2001 (24)",€350k,2001,350.0,61,35,39,35
+England,Championship,Queens Park Rangers,-,Taylor Richards,Central Midfield,"Dec 4, 2000 (24)",€275k,2000,275.0,60,35,38,35
+England,Championship,Queens Park Rangers,10,Ilias Chair,Attacking Midfield,"Oct 30, 1997 (27)",€6.00m,1997,6000.0,76,51,46,40
+England,Championship,Queens Park Rangers,-,Harvey Vale,Attacking Midfield,"Sep 11, 2003 (21)",€1.50m,2003,1500.0,68,46,41,35
+England,Championship,Queens Park Rangers,-,Karamoko Dembélé,Attacking Midfield,"Feb 22, 2003 (22)",€1.20m,2003,1200.0,67,45,41,35
+England,Championship,Queens Park Rangers,27,Daniel Bennie,Left Winger,"Apr 13, 2006 (19)",€250k,2006,250.0,57,43,33,26
+England,Championship,Queens Park Rangers,-,Kwame Poku,Right Winger,"Aug 11, 2001 (23)",€1.00m,2001,1000.0,66,50,38,30
+England,Championship,Queens Park Rangers,11,Paul Smyth,Right Winger,"Sep 10, 1997 (27)",€600k,1997,600.0,64,49,37,29
+England,Championship,Queens Park Rangers,18,Zan Celar,Centre-Forward,"Mar 14, 1999 (26)",€4.00m,1999,4000.0,74,61,41,32
+England,Championship,Queens Park Rangers,26,Rayan Kolli,Centre-Forward,"Feb 10, 2005 (20)",€1.50m,2005,1500.0,67,55,37,29
+England,Championship,Queens Park Rangers,12,Michael Frey,Centre-Forward,"Jul 19, 1994 (31)",€800k,1994,800.0,66,54,36,28
+England,Championship,Queens Park Rangers,28,Alfie Lloyd,Centre-Forward,"Apr 30, 2003 (22)",€350k,2003,350.0,60,49,33,26
+England,Championship,Queens Park Rangers,-,Rumarn Burrell,Centre-Forward,"Dec 16, 2000 (24)",€250k,2000,250.0,59,48,32,25

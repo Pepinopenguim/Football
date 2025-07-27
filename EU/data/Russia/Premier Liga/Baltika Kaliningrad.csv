@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Baltika Kaliningrad,67,Maksim Borisko,Goalkeeper,"Feb 15, 2000 (25)",€1.00m,2000,1000.0,67,29,31,61
+Russia,Premier Liga,Baltika Kaliningrad,44,Egor Lyubakov,Goalkeeper,"Jun 28, 1999 (26)",€350k,1999,350.0,61,26,28,56
+Russia,Premier Liga,Baltika Kaliningrad,81,Ivan Kukushkin,Goalkeeper,"Jul 24, 2002 (23)",€100k,2002,100.0,54,23,25,49
+Russia,Premier Liga,Baltika Kaliningrad,16,Kevin Andrade,Centre-Back,"Jun 16, 1999 (26)",€1.20m,1999,1200.0,68,31,35,56
+Russia,Premier Liga,Baltika Kaliningrad,2,Sergey Varatynov,Centre-Back,"Jun 27, 2003 (22)",€1.00m,2003,1000.0,66,30,34,54
+Russia,Premier Liga,Baltika Kaliningrad,25,Aleksandr Filin,Centre-Back,"Jun 25, 1996 (29)",€1.00m,1996,1000.0,67,31,35,55
+Russia,Premier Liga,Baltika Kaliningrad,4,Nathan Gassama,Centre-Back,"Jan 5, 2001 (24)",€700k,2001,700.0,65,30,34,53
+Russia,Premier Liga,Baltika Kaliningrad,13,Diego Luna,Centre-Back,"Jan 2, 2000 (25)",€500k,2000,500.0,63,29,33,52
+Russia,Premier Liga,Baltika Kaliningrad,96,Amir Mokhammad,Left-Back,"Feb 23, 1996 (29)",€800k,1996,800.0,66,32,36,50
+Russia,Premier Liga,Baltika Kaliningrad,77,Eldar Civic,Left-Back,"May 28, 1996 (29)",€750k,1996,750.0,65,32,36,49
+Russia,Premier Liga,Baltika Kaliningrad,57,Dmitriy Begun,Left-Back,"Apr 23, 2003 (22)",€225k,2003,225.0,58,28,32,44
+Russia,Premier Liga,Baltika Kaliningrad,23,Mingiyan Beveev,Right-Back,"Nov 30, 1995 (29)",€700k,1995,700.0,65,32,36,49
+Russia,Premier Liga,Baltika Kaliningrad,8,Andrey Mendel,Defensive Midfield,"Apr 17, 1995 (30)",€800k,1995,800.0,66,34,34,42
+Russia,Premier Liga,Baltika Kaliningrad,5,Aymane Mourid,Defensive Midfield,"May 7, 2000 (25)",€600k,2000,600.0,64,33,33,41
+Russia,Premier Liga,Baltika Kaliningrad,47,Daniil Utkin,Central Midfield,"Oct 12, 1999 (25)",€2.80m,1999,2800.0,72,42,46,42
+Russia,Premier Liga,Baltika Kaliningrad,14,Stefan Kovac,Central Midfield,"Jan 14, 1999 (26)",€2.00m,1999,2000.0,70,41,45,41
+Russia,Premier Liga,Baltika Kaliningrad,10,Ilya Petrov,Central Midfield,"Jun 27, 1995 (30)",€800k,1995,800.0,66,38,42,38
+Russia,Premier Liga,Baltika Kaliningrad,73,Maksim Petrov,Central Midfield,"Jan 18, 2001 (24)",€600k,2001,600.0,64,37,41,37
+Russia,Premier Liga,Baltika Kaliningrad,22,Nikolay Titkov,Central Midfield,"Aug 18, 2000 (24)",€400k,2000,400.0,62,36,40,36
+Russia,Premier Liga,Baltika Kaliningrad,11,Yuriy Kovalev,Right Midfield,"Jan 27, 1993 (32)",€450k,1993,450.0,63,37,40,37
+Russia,Premier Liga,Baltika Kaliningrad,19,Sergey Pryakhin,Attacking Midfield,"Dec 16, 2002 (22)",€700k,2002,700.0,64,43,39,33
+Russia,Premier Liga,Baltika Kaliningrad,17,Vladislav Saus,Attacking Midfield,"Aug 6, 2003 (21)",€500k,2003,500.0,62,42,38,32
+Russia,Premier Liga,Baltika Kaliningrad,15,Tenton Yenne,Left Winger,"Jul 7, 2000 (25)",€700k,2000,700.0,65,49,38,30
+Russia,Premier Liga,Baltika Kaliningrad,90,Chinonso Offor,Centre-Forward,"May 27, 2000 (25)",€1.00m,2000,1000.0,67,55,37,29
+Russia,Premier Liga,Baltika Kaliningrad,91,Brayan Gil,Centre-Forward,"Jun 28, 2001 (24)",€1.00m,2001,1000.0,66,54,36,28
+Russia,Premier Liga,Baltika Kaliningrad,9,Ilya Stefanovich,Centre-Forward,"Jun 23, 1996 (29)",€300k,1996,300.0,60,49,33,26

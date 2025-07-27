@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Preston North End,1,Daniel Iversen,Goalkeeper,"Jul 19, 1997 (28)",€2.50m,1997,2500.0,72,31,33,66
+England,Championship,Preston North End,13,David Cornell,Goalkeeper,"Mar 28, 1991 (34)",€100k,1991,100.0,55,24,25,50
+England,Championship,Preston North End,21,James Pradic,Goalkeeper,"Feb 7, 2005 (20)",-,2005,41.0,48,21,22,44
+England,Championship,Preston North End,14,Jordan Storey,Centre-Back,"Sep 2, 1997 (27)",€3.80m,1997,3800.0,74,34,38,61
+England,Championship,Preston North End,19,Lewis Gibson,Centre-Back,"Jul 19, 2000 (25)",€2.00m,2000,2000.0,70,32,36,57
+England,Championship,Preston North End,6,Liam Lindsay,Centre-Back,"Oct 12, 1995 (29)",€1.80m,1995,1800.0,70,32,36,57
+England,Championship,Preston North End,26,Thierry Small,Left-Back,"Aug 1, 2004 (20)",€600k,2004,600.0,63,31,35,48
+England,Championship,Preston North End,-,Andrija Vukcevic,Left-Back,"Oct 11, 1996 (28)",€500k,1996,500.0,63,31,35,48
+England,Championship,Preston North End,16,Andrew Hughes,Left-Back,"Jun 5, 1992 (33)",€400k,1992,400.0,62,30,34,47
+England,Championship,Preston North End,32,Kacper Pasiek,Left-Back,"Oct 8, 2005 (19)",-,2005,24.0,45,22,25,34
+England,Championship,Preston North End,44,Brad Potts,Right-Back,"Jul 3, 1994 (31)",€1.00m,1994,1000.0,67,33,37,51
+England,Championship,Preston North End,5,Odeluga Offiah,Right-Back,"Oct 26, 2002 (22)",€600k,2002,600.0,64,31,35,49
+England,Championship,Preston North End,2,Pol Valentín,Right-Back,"Feb 21, 1997 (28)",€500k,1997,500.0,63,31,35,48
+England,Championship,Preston North End,36,Josh Seary,Right-Back,"Sep 10, 2004 (20)",€100k,2004,100.0,53,26,29,40
+England,Championship,Preston North End,-,Noah Mawene,Defensive Midfield,"Feb 1, 2005 (20)",€200k,2005,200.0,57,30,30,36
+England,Championship,Preston North End,4,Ben Whiteman,Central Midfield,"Jun 17, 1996 (29)",€2.50m,1996,2500.0,72,42,46,42
+England,Championship,Preston North End,8,Ali McCann,Central Midfield,"Dec 4, 1999 (25)",€2.20m,1999,2200.0,71,41,45,41
+England,Championship,Preston North End,22,Stefán Teitur Thórdarson,Central Midfield,"Oct 16, 1998 (26)",€1.80m,1998,1800.0,70,41,45,41
+England,Championship,Preston North End,15,Jordan Thompson,Central Midfield,"Jan 3, 1997 (28)",€900k,1997,900.0,66,38,42,38
+England,Championship,Preston North End,11,Robbie Brady,Left Midfield,"Jan 14, 1992 (33)",€250k,1992,250.0,60,35,38,35
+England,Championship,Preston North End,10,Mads Frøkjaer-Jensen,Attacking Midfield,"Jul 29, 1999 (25)",€3.50m,1999,3500.0,73,49,45,38
+England,Championship,Preston North End,23,Jeppe Okkels,Left Winger,"Jul 27, 1999 (26)",€2.30m,1999,2300.0,71,54,41,33
+England,Championship,Preston North End,9,Daniel Jebbison,Centre-Forward,"Jul 11, 2003 (22)",€4.00m,2003,4000.0,73,60,40,31
+England,Championship,Preston North End,28,Milutin Osmajic,Centre-Forward,"Jul 25, 1999 (26)",€2.50m,1999,2500.0,71,58,39,31
+England,Championship,Preston North End,7,Will Keane,Centre-Forward,"Jan 11, 1993 (32)",€600k,1993,600.0,64,52,35,28
+England,Championship,Preston North End,-,Michael Smith,Centre-Forward,"Oct 17, 1991 (33)",€250k,1991,250.0,60,49,33,26

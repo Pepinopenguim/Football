@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Belgium,Jupiler Pro League,Sint-Truidense VV,16,Leo Kokubo,Goalkeeper,"Jan 23, 2001 (24)",€3.00m,2001,3000.0,72,31,33,66
+Belgium,Jupiler Pro League,Sint-Truidense VV,12,Jo Coppens,Goalkeeper,"Dec 21, 1990 (34)",€150k,1990,150.0,57,25,26,52
+Belgium,Jupiler Pro League,Sint-Truidense VV,21,Matt Lendfers,Goalkeeper,"Mar 10, 2006 (19)",€150k,2006,150.0,55,24,25,50
+Belgium,Jupiler Pro League,Sint-Truidense VV,20,Rein Van Helden,Centre-Back,"Jul 24, 2002 (23)",€2.50m,2002,2500.0,71,33,37,58
+Belgium,Jupiler Pro League,Sint-Truidense VV,5,Shogo Taniguchi,Centre-Back,"Jul 15, 1991 (34)",€1.00m,1991,1000.0,67,31,35,55
+Belgium,Jupiler Pro League,Sint-Truidense VV,4,Zineddine Belaid,Centre-Back,"Mar 20, 1999 (26)",€800k,1999,800.0,65,30,34,53
+Belgium,Jupiler Pro League,Sint-Truidense VV,26,Visar Musliu,Centre-Back,"Nov 13, 1994 (30)",€650k,1994,650.0,65,30,34,53
+Belgium,Jupiler Pro League,Sint-Truidense VV,22,Wolke Janssens,Centre-Back,"Jan 11, 1995 (30)",€400k,1995,400.0,62,29,32,51
+Belgium,Jupiler Pro League,Sint-Truidense VV,34,Hugo Lambotte,Centre-Back,"Jun 20, 2006 (19)",€200k,2006,200.0,56,26,29,46
+Belgium,Jupiler Pro League,Sint-Truidense VV,-,Taiga Hata,Left-Back,"Jan 20, 2002 (23)",€650k,2002,650.0,64,31,35,49
+Belgium,Jupiler Pro League,Sint-Truidense VV,18,Simen Juklerød,Left-Back,"May 18, 1994 (31)",€300k,1994,300.0,61,30,34,46
+Belgium,Jupiler Pro League,Sint-Truidense VV,19,Louis Patris,Right-Back,"Jun 7, 2001 (24)",€2.00m,2001,2000.0,70,34,38,53
+Belgium,Jupiler Pro League,Sint-Truidense VV,60,Robert-Jan Vanwesemael,Right-Back,"Mar 26, 2002 (23)",€1.00m,2002,1000.0,66,32,36,50
+Belgium,Jupiler Pro League,Sint-Truidense VV,6,Rihito Yamamoto,Defensive Midfield,"Dec 12, 2001 (23)",€900k,2001,900.0,66,34,34,42
+Belgium,Jupiler Pro League,Sint-Truidense VV,-,Abdoulaye Sissako,Defensive Midfield,"May 26, 1998 (27)",€700k,1998,700.0,65,34,34,42
+Belgium,Jupiler Pro League,Sint-Truidense VV,13,Ryotaro Ito,Central Midfield,"Feb 6, 1998 (27)",€2.50m,1998,2500.0,72,42,46,42
+Belgium,Jupiler Pro League,Sint-Truidense VV,14,Ryan Merlen,Central Midfield,"May 11, 2002 (23)",€750k,2002,750.0,65,38,42,38
+Belgium,Jupiler Pro League,Sint-Truidense VV,94,Loïc Lapoussin,Left Midfield,"Mar 27, 1996 (29)",€2.50m,1996,2500.0,72,42,46,42
+Belgium,Jupiler Pro League,Sint-Truidense VV,11,Isaías Delpupo,Attacking Midfield,"Mar 31, 2003 (22)",€400k,2003,400.0,61,41,37,32
+Belgium,Jupiler Pro League,Sint-Truidense VV,-,Kaito Matsuzawa,Attacking Midfield,"Feb 5, 2001 (24)",€275k,2001,275.0,60,40,37,31
+Belgium,Jupiler Pro League,Sint-Truidense VV,-,Illyès Benachour,Attacking Midfield,"Jan 9, 2007 (18)",-,2007,27.0,45,30,27,23
+Belgium,Jupiler Pro League,Sint-Truidense VV,10,Ilias Sebaoui,Left Winger,"Oct 4, 2001 (23)",€1.50m,2001,1500.0,69,52,40,32
+Belgium,Jupiler Pro League,Sint-Truidense VV,53,Adam Nhaili,Left Winger,"Aug 9, 2005 (19)",€250k,2005,250.0,58,44,34,27
+Belgium,Jupiler Pro League,Sint-Truidense VV,91,Adriano Bertaccini,Centre-Forward,"Aug 13, 2000 (24)",€4.50m,2000,4500.0,75,62,41,32
+Belgium,Jupiler Pro League,Sint-Truidense VV,-,Andrés Ferrari,Centre-Forward,"Jan 3, 2003 (22)",€1.50m,2003,1500.0,68,56,37,29
+Belgium,Jupiler Pro League,Sint-Truidense VV,32,Jay-David Mbalanda,Striker,"May 3, 2007 (18)",€100k,2007,100.0,52,44,27,22

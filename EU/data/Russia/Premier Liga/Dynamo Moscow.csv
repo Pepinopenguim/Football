@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Dynamo Moscow,99,Andrey Lunev,Goalkeeper,"Nov 13, 1991 (33)",€1.20m,1991,1200.0,68,29,31,62
+Russia,Premier Liga,Dynamo Moscow,31,Igor Leshchuk,Goalkeeper,"Feb 20, 1996 (29)",€700k,1996,700.0,65,28,30,59
+Russia,Premier Liga,Dynamo Moscow,47,Andrey Kudravets,Goalkeeper,"Sep 2, 2003 (21)",€350k,2003,350.0,60,26,28,55
+Russia,Premier Liga,Dynamo Moscow,55,Maksim Osipenko,Centre-Back,"May 16, 1994 (31)",€5.00m,1994,5000.0,76,35,40,62
+Russia,Premier Liga,Dynamo Moscow,2,Nicolás Marichal,Centre-Back,"Mar 17, 2001 (24)",€3.50m,2001,3500.0,73,34,38,60
+Russia,Premier Liga,Dynamo Moscow,6,Roberto Fernández,Centre-Back,"Jun 7, 2000 (25)",€3.50m,2000,3500.0,73,34,38,60
+Russia,Premier Liga,Dynamo Moscow,5,Milan Majstorovic,Centre-Back,"Feb 21, 2005 (20)",€1.80m,2005,1800.0,68,31,35,56
+Russia,Premier Liga,Dynamo Moscow,7,Dmitriy Skopintsev,Left-Back,"Mar 2, 1997 (28)",€2.50m,1997,2500.0,72,35,40,55
+Russia,Premier Liga,Dynamo Moscow,93,Diego Laxalt,Left-Back,"Feb 7, 1993 (32)",€2.00m,1993,2000.0,71,35,39,54
+Russia,Premier Liga,Dynamo Moscow,4,Juan José Cáceres,Right-Back,"Jun 1, 2000 (25)",€3.50m,2000,3500.0,73,36,40,55
+Russia,Premier Liga,Dynamo Moscow,15,Danil Glebov,Defensive Midfield,"Nov 3, 1999 (25)",€8.00m,1999,8000.0,78,41,41,50
+Russia,Premier Liga,Dynamo Moscow,24,Luis Chávez,Defensive Midfield,"Jan 15, 1996 (29)",€8.00m,1996,8000.0,78,41,41,50
+Russia,Premier Liga,Dynamo Moscow,74,Daniil Fomin,Defensive Midfield,"Mar 2, 1997 (28)",€8.00m,1997,8000.0,78,41,41,50
+Russia,Premier Liga,Dynamo Moscow,50,Aleksandr Kutitskiy,Defensive Midfield,"Jan 1, 2002 (23)",€1.80m,2002,1800.0,69,36,36,44
+Russia,Premier Liga,Dynamo Moscow,30,Dmitriy Aleksandrov,Defensive Midfield,"Jul 31, 2006 (18)",€350k,2006,350.0,59,31,31,38
+Russia,Premier Liga,Dynamo Moscow,34,Luka Gagnidze,Central Midfield,"Feb 28, 2003 (22)",€1.20m,2003,1200.0,67,39,43,39
+Russia,Premier Liga,Dynamo Moscow,10,Bitello,Attacking Midfield,"Jan 7, 2000 (25)",€12.00m,2000,12000.0,80,54,49,42
+Russia,Premier Liga,Dynamo Moscow,8,Jorge Carrascal,Attacking Midfield,"May 25, 1998 (27)",€7.00m,1998,7000.0,77,52,47,40
+Russia,Premier Liga,Dynamo Moscow,88,Viktor Okishor,Attacking Midfield,"Dec 30, 2006 (18)",€500k,2006,500.0,61,41,37,32
+Russia,Premier Liga,Dynamo Moscow,52,Egor Smelov,Attacking Midfield,"Mar 11, 2005 (20)",€300k,2005,300.0,59,40,36,31
+Russia,Premier Liga,Dynamo Moscow,13,Nicolas Moumi Ngamaleu,Left Winger,"Jul 9, 1994 (31)",€4.00m,1994,4000.0,74,56,43,34
+Russia,Premier Liga,Dynamo Moscow,11,Arthur Gomes,Left Winger,"Jul 3, 1998 (27)",€3.50m,1998,3500.0,73,55,42,34
+Russia,Premier Liga,Dynamo Moscow,17,Ulvi Babaev,Left Winger,"Mar 30, 2004 (21)",€250k,2004,250.0,58,44,34,27
+Russia,Premier Liga,Dynamo Moscow,91,Yaroslav Gladyshev,Right Winger,"May 5, 2003 (22)",€4.00m,2003,4000.0,73,55,42,34
+Russia,Premier Liga,Dynamo Moscow,77,Denis Makarov,Right Winger,"Feb 18, 1998 (27)",€1.20m,1998,1200.0,68,52,39,31
+Russia,Premier Liga,Dynamo Moscow,70,Konstantin Tyukavin,Centre-Forward,"Jun 22, 2002 (23)",€16.00m,2002,16000.0,81,66,45,35
+Russia,Premier Liga,Dynamo Moscow,33,Ivan Sergeev,Centre-Forward,"May 11, 1995 (30)",€3.00m,1995,3000.0,73,60,40,31
+Russia,Premier Liga,Dynamo Moscow,14,El Mehdi Maouhoub,Centre-Forward,"Jun 5, 2003 (22)",€1.80m,2003,1800.0,69,57,38,30

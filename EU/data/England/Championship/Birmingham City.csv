@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Birmingham City,-,James Beadle,Goalkeeper,"Jul 16, 2004 (21)",€5.00m,2004,5000.0,74,32,34,67
+England,Championship,Birmingham City,21,Ryan Allsop,Goalkeeper,"Jun 17, 1992 (33)",€1.00m,1992,1000.0,67,29,31,61
+England,Championship,Birmingham City,48,Bradley Mayo,Goalkeeper,"Sep 15, 2004 (20)",€50k,2004,50.0,50,22,23,46
+England,Championship,Birmingham City,-,Eiran Cashin,Centre-Back,"Nov 9, 2001 (23)",€8.00m,2001,8000.0,77,35,40,63
+England,Championship,Birmingham City,4,Christoph Klarer,Centre-Back,"Jun 14, 2000 (25)",€4.00m,2000,4000.0,74,34,38,61
+England,Championship,Birmingham City,-,Phil Neumann,Centre-Back,"Jul 8, 1997 (28)",€3.00m,1997,3000.0,73,34,38,60
+England,Championship,Birmingham City,6,Krystian Bielik,Centre-Back,"Jan 4, 1998 (27)",€3.00m,1998,3000.0,73,34,38,60
+England,Championship,Birmingham City,5,Dion Sanderson,Centre-Back,"Dec 15, 1999 (25)",€2.50m,1999,2500.0,71,33,37,58
+England,Championship,Birmingham City,20,Alex Cochrane,Left-Back,"Apr 21, 2000 (25)",€2.00m,2000,2000.0,70,34,38,53
+England,Championship,Birmingham City,3,Lee Buchanan,Left-Back,"Mar 7, 2001 (24)",€1.80m,2001,1800.0,70,34,38,53
+England,Championship,Birmingham City,-,Bright Osayi-Samuel,Right-Back,"Dec 31, 1997 (27)",€6.50m,1997,6500.0,77,38,42,59
+England,Championship,Birmingham City,2,Ethan Laird,Right-Back,"Aug 5, 2001 (23)",€2.50m,2001,2500.0,71,35,39,54
+England,Championship,Birmingham City,19,Taylor Gardner-Hickman,Right-Back,"Dec 30, 2001 (23)",€2.50m,2001,2500.0,71,35,39,54
+England,Championship,Birmingham City,23,Alfons Sampsted,Right-Back,"Apr 6, 1998 (27)",€2.00m,1998,2000.0,70,34,38,53
+England,Championship,Birmingham City,24,Tomoki Iwata,Defensive Midfield,"Apr 7, 1997 (28)",€1.80m,1997,1800.0,70,36,36,45
+England,Championship,Birmingham City,15,Alfie Chang,Defensive Midfield,"Sep 4, 2002 (22)",€200k,2002,200.0,58,30,30,37
+England,Championship,Birmingham City,-,Tommy Doyle,Central Midfield,"Oct 17, 2001 (23)",€10.00m,2001,10000.0,79,46,51,46
+England,Championship,Birmingham City,13,Seung-ho Paik,Central Midfield,"Mar 17, 1997 (28)",€1.50m,1997,1500.0,69,40,44,40
+England,Championship,Birmingham City,35,George Hall,Central Midfield,"Jul 15, 2004 (21)",€1.00m,2004,1000.0,66,38,42,38
+England,Championship,Birmingham City,12,Marc Leonard,Central Midfield,"Dec 19, 2001 (23)",€650k,2001,650.0,64,37,41,37
+England,Championship,Birmingham City,-,Kanya Fujimoto,Attacking Midfield,"Jul 1, 1999 (26)",€4.00m,1999,4000.0,74,50,45,38
+England,Championship,Birmingham City,18,Willum Thór Willumsson,Attacking Midfield,"Oct 23, 1998 (26)",€3.80m,1998,3800.0,74,50,45,38
+England,Championship,Birmingham City,-,Demarai Gray,Left Winger,"Jun 28, 1996 (29)",€3.50m,1996,3500.0,74,56,43,34
+England,Championship,Birmingham City,7,Emil Hansson,Left Winger,"Jun 15, 1998 (27)",€1.20m,1998,1200.0,68,52,39,31
+England,Championship,Birmingham City,14,Keshi Anderson,Left Winger,"Apr 6, 1995 (30)",€500k,1995,500.0,63,48,37,29
+England,Championship,Birmingham City,11,Scott Wright,Right Winger,"Aug 8, 1997 (27)",€800k,1997,800.0,66,50,38,30
+England,Championship,Birmingham City,8,Tyler Roberts,Second Striker,"Jan 12, 1999 (26)",€2.00m,1999,2000.0,70,55,41,30
+England,Championship,Birmingham City,28,Jay Stansfield,Centre-Forward,"Nov 24, 2002 (22)",€11.00m,2002,11000.0,79,65,43,34
+England,Championship,Birmingham City,-,Kyogo Furuhashi,Centre-Forward,"Jan 20, 1995 (30)",€9.00m,1995,9000.0,79,65,43,34
+England,Championship,Birmingham City,17,Lyndon Dykes,Centre-Forward,"Oct 7, 1995 (29)",€1.20m,1995,1200.0,68,56,37,29

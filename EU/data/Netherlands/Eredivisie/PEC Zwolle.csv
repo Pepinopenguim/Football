@@ -1,0 +1,21 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,PEC Zwolle,1,Jasper Schendelaar,Goalkeeper,"Sep 2, 2000 (24)",€2.50m,2000,2500.0,71,31,33,65
+Netherlands,Eredivisie,PEC Zwolle,41,Duke Verduin,Goalkeeper,"Oct 30, 2003 (21)",€25k,2003,25.0,46,20,21,42
+Netherlands,Eredivisie,PEC Zwolle,4,Anselmo García MacNulty,Centre-Back,"Feb 19, 2003 (22)",€1.50m,2003,1500.0,68,31,35,56
+Netherlands,Eredivisie,PEC Zwolle,28,Simon Graves,Centre-Back,"May 22, 1999 (26)",€1.50m,1999,1500.0,69,32,36,57
+Netherlands,Eredivisie,PEC Zwolle,3,Olivier Aertssen,Centre-Back,"Aug 7, 2004 (20)",€750k,2004,750.0,64,29,33,52
+Netherlands,Eredivisie,PEC Zwolle,33,Damian van der Haar,Centre-Back,"Jan 16, 2004 (21)",€600k,2004,600.0,63,29,33,52
+Netherlands,Eredivisie,PEC Zwolle,5,Thierry Lutonda,Left-Back,"Oct 27, 2000 (24)",€300k,2000,300.0,60,29,33,46
+Netherlands,Eredivisie,PEC Zwolle,2,Sherel Floranus,Right-Back,"Aug 23, 1998 (26)",€850k,1998,850.0,66,32,36,50
+Netherlands,Eredivisie,PEC Zwolle,23,Eliano Reijnders,Right-Back,"Oct 23, 2000 (24)",€600k,2000,600.0,64,31,35,49
+Netherlands,Eredivisie,PEC Zwolle,34,Nick Fichtinger,Defensive Midfield,"Apr 6, 2004 (21)",€450k,2004,450.0,61,32,32,39
+Netherlands,Eredivisie,PEC Zwolle,35,Jamiro Monteiro,Central Midfield,"Nov 23, 1993 (31)",€1.00m,1993,1000.0,67,39,43,39
+Netherlands,Eredivisie,PEC Zwolle,30,Ryan Thomas,Central Midfield,"Dec 20, 1994 (30)",€700k,1994,700.0,65,38,42,38
+Netherlands,Eredivisie,PEC Zwolle,18,Odysseus Velanas,Attacking Midfield,"Jun 5, 1998 (27)",€550k,1998,550.0,63,42,38,33
+Netherlands,Eredivisie,PEC Zwolle,25,Thijs Oosting,Attacking Midfield,"May 2, 2000 (25)",€500k,2000,500.0,63,42,38,33
+Netherlands,Eredivisie,PEC Zwolle,21,Samir Lagsir,Attacking Midfield,"May 20, 2003 (22)",€150k,2003,150.0,56,38,34,29
+Netherlands,Eredivisie,PEC Zwolle,11,Dylan Mbayo,Right Winger,"Oct 11, 2001 (23)",€2.00m,2001,2000.0,70,53,41,32
+Netherlands,Eredivisie,PEC Zwolle,77,Braydon Manu,Right Winger,"Mar 28, 1997 (28)",€500k,1997,500.0,63,48,37,29
+Netherlands,Eredivisie,PEC Zwolle,22,Kaj de Rooij,Right Winger,"Nov 25, 2000 (24)",€350k,2000,350.0,61,46,35,28
+Netherlands,Eredivisie,PEC Zwolle,10,Koen Kostons,Centre-Forward,"Sep 18, 1999 (25)",€600k,1999,600.0,64,52,35,28
+Netherlands,Eredivisie,PEC Zwolle,29,Thomas Buitink,Centre-Forward,"Jun 14, 2000 (25)",€400k,2000,400.0,62,51,34,27

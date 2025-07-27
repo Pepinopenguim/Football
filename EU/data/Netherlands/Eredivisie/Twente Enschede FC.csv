@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,Twente Enschede FC,1,Lars Unnerstall,Goalkeeper,"Jul 20, 1990 (35)",€2.00m,1990,2000.0,71,31,33,65
+Netherlands,Eredivisie,Twente Enschede FC,16,Issam El Maach,Goalkeeper,"Feb 1, 2000 (25)",€200k,2000,200.0,58,25,27,53
+Netherlands,Eredivisie,Twente Enschede FC,21,Sam Karssies,Goalkeeper,"Feb 26, 2003 (22)",€75k,2003,75.0,52,22,24,47
+Netherlands,Eredivisie,Twente Enschede FC,22,Przemyslaw Tyton,Goalkeeper,"Jan 4, 1987 (38)",€75k,1987,75.0,54,23,25,49
+Netherlands,Eredivisie,Twente Enschede FC,2,Mees Hilgers,Centre-Back,"May 13, 2001 (24)",€6.50m,2001,6500.0,76,35,40,62
+Netherlands,Eredivisie,Twente Enschede FC,38,Max Bruns,Centre-Back,"Nov 6, 2002 (22)",€2.50m,2002,2500.0,71,33,37,58
+Netherlands,Eredivisie,Twente Enschede FC,3,Robin Pröpper,Centre-Back,"Sep 23, 1993 (31)",€2.00m,1993,2000.0,71,33,37,58
+Netherlands,Eredivisie,Twente Enschede FC,23,Stav Lemkin,Centre-Back,"Apr 2, 2003 (22)",€1.20m,2003,1200.0,67,31,35,55
+Netherlands,Eredivisie,Twente Enschede FC,17,Alec Van Hoorenbeeck,Centre-Back,"Dec 30, 1998 (26)",€800k,1998,800.0,65,30,34,53
+Netherlands,Eredivisie,Twente Enschede FC,5,Bas Kuipers,Left-Back,"Aug 17, 1994 (30)",€1.20m,1994,1200.0,68,33,37,52
+Netherlands,Eredivisie,Twente Enschede FC,39,Mats Rots,Left-Back,"Mar 11, 2006 (19)",€1.00m,2006,1000.0,65,32,36,49
+Netherlands,Eredivisie,Twente Enschede FC,28,Bart van Rooij,Right-Back,"May 26, 2001 (24)",€6.00m,2001,6000.0,76,37,42,58
+Netherlands,Eredivisie,Twente Enschede FC,12,Guilherme Peixoto,Right-Back,"May 25, 2006 (19)",-,2006,88.0,52,25,29,40
+Netherlands,Eredivisie,Twente Enschede FC,20,Thomas van den Belt,Defensive Midfield,"Jun 18, 2001 (24)",€1.80m,2001,1800.0,70,36,36,45
+Netherlands,Eredivisie,Twente Enschede FC,4,Mathias Kjølø,Defensive Midfield,"Jun 27, 2001 (24)",€1.50m,2001,1500.0,69,36,36,44
+Netherlands,Eredivisie,Twente Enschede FC,6,Carel Eiting,Central Midfield,"Feb 11, 1998 (27)",€1.60m,1998,1600.0,69,40,44,40
+Netherlands,Eredivisie,Twente Enschede FC,41,Gijs Besselink,Central Midfield,"Jun 16, 2004 (21)",€600k,2004,600.0,63,37,40,37
+Netherlands,Eredivisie,Twente Enschede FC,18,Michel Vlap,Attacking Midfield,"Jun 2, 1997 (28)",€5.00m,1997,5000.0,75,50,46,39
+Netherlands,Eredivisie,Twente Enschede FC,19,Kristian Hlynsson,Attacking Midfield,"Jan 23, 2004 (21)",€4.00m,2004,4000.0,73,49,45,38
+Netherlands,Eredivisie,Twente Enschede FC,32,Arno Verschueren,Attacking Midfield,"Apr 8, 1997 (28)",€1.50m,1997,1500.0,69,46,42,36
+Netherlands,Eredivisie,Twente Enschede FC,37,Naci Ünüvar,Left Winger,"Jun 13, 2003 (22)",€2.00m,2003,2000.0,70,53,41,32
+Netherlands,Eredivisie,Twente Enschede FC,30,Sayfallah Ltaief,Left Winger,"Apr 22, 2000 (25)",€1.80m,2000,1800.0,70,53,41,32
+Netherlands,Eredivisie,Twente Enschede FC,11,Daan Rots,Right Winger,"Jul 25, 2001 (24)",€4.00m,2001,4000.0,74,56,43,34
+Netherlands,Eredivisie,Twente Enschede FC,8,Taylor Booth,Right Winger,"May 31, 2001 (24)",€2.00m,2001,2000.0,70,53,41,32
+Netherlands,Eredivisie,Twente Enschede FC,7,Mitchell van Bergen,Right Winger,"Aug 27, 1999 (25)",€1.50m,1999,1500.0,69,52,40,32
+Netherlands,Eredivisie,Twente Enschede FC,10,Sam Lammers,Centre-Forward,"Apr 30, 1997 (28)",€4.00m,1997,4000.0,74,61,41,32
+Netherlands,Eredivisie,Twente Enschede FC,9,Ricky van Wolfswinkel,Centre-Forward,"Jan 27, 1989 (36)",€400k,1989,400.0,63,52,35,27
+Netherlands,Eredivisie,Twente Enschede FC,25,Lucas Vennegoor of Hesselink,Centre-Forward,"Mar 14, 2006 (19)",€300k,2006,300.0,58,48,32,25

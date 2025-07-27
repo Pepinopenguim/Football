@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,Excelsior Rotterdam,1,Calvin Raatsie,Goalkeeper,"Feb 9, 2002 (23)",€700k,2002,700.0,64,28,29,58
+Netherlands,Eredivisie,Excelsior Rotterdam,-,Stijn van Gassel,Goalkeeper,"Oct 18, 1996 (28)",€450k,1996,450.0,63,27,29,57
+Netherlands,Eredivisie,Excelsior Rotterdam,40,Tijmen Holla,Goalkeeper,"Jul 25, 2006 (19)",-,2006,88.0,52,22,24,47
+Netherlands,Eredivisie,Excelsior Rotterdam,5,Casper Widell,Centre-Back,"May 5, 2003 (22)",€800k,2003,800.0,65,30,34,53
+Netherlands,Eredivisie,Excelsior Rotterdam,3,Kik Pierie,Centre-Back,"Jul 20, 2000 (25)",€700k,2000,700.0,65,30,34,53
+Netherlands,Eredivisie,Excelsior Rotterdam,-,Stan Henderikx,Centre-Back,"Jul 8, 2003 (22)",€500k,2003,500.0,62,29,32,51
+Netherlands,Eredivisie,Excelsior Rotterdam,4,Django Warmerdam,Centre-Back,"Sep 2, 1995 (29)",€450k,1995,450.0,63,29,33,52
+Netherlands,Eredivisie,Excelsior Rotterdam,-,Lewis Schouten,Centre-Back,"Feb 4, 2004 (21)",€400k,2004,400.0,61,28,32,50
+Netherlands,Eredivisie,Excelsior Rotterdam,12,Arthur Zagré,Left-Back,"Oct 4, 2001 (23)",€900k,2001,900.0,66,32,36,50
+Netherlands,Eredivisie,Excelsior Rotterdam,2,Ilias Bronkhorst,Right-Back,"May 10, 1997 (28)",€500k,1997,500.0,63,31,35,48
+Netherlands,Eredivisie,Excelsior Rotterdam,17,Nolan Martens,Right-Back,"Jul 7, 2004 (21)",€300k,2004,300.0,59,29,32,45
+Netherlands,Eredivisie,Excelsior Rotterdam,-,Adam Carlén,Defensive Midfield,"Jun 27, 2000 (25)",€700k,2000,700.0,65,34,34,42
+Netherlands,Eredivisie,Excelsior Rotterdam,8,Mathijs Tielemans,Central Midfield,"Apr 26, 2002 (23)",€600k,2002,600.0,64,37,41,37
+Netherlands,Eredivisie,Excelsior Rotterdam,20,Lennard Hartjes,Central Midfield,"Apr 7, 2003 (22)",€500k,2003,500.0,62,36,40,36
+Netherlands,Eredivisie,Excelsior Rotterdam,15,Noah Naujoks,Attacking Midfield,"May 2, 2002 (23)",€600k,2002,600.0,64,43,39,33
+Netherlands,Eredivisie,Excelsior Rotterdam,11,Zach Booth,Left Winger,"Feb 17, 2004 (21)",€400k,2004,400.0,61,46,35,28
+Netherlands,Eredivisie,Excelsior Rotterdam,-,Gyan de Regt,Left Winger,"Aug 18, 2003 (21)",€350k,2003,350.0,60,46,35,28
+Netherlands,Eredivisie,Excelsior Rotterdam,14,Rayvien Rosario,Left Winger,"Apr 11, 2004 (21)",€100k,2004,100.0,53,40,31,24
+Netherlands,Eredivisie,Excelsior Rotterdam,-,Do-young Yoon,Right Winger,"Oct 28, 2006 (18)",€800k,2006,800.0,64,49,37,29
+Netherlands,Eredivisie,Excelsior Rotterdam,30,Derensili Sanches Fernandes,Right Winger,"May 28, 2001 (24)",€600k,2001,600.0,64,49,37,29
+Netherlands,Eredivisie,Excelsior Rotterdam,9,Richie Omorowa,Centre-Forward,"Mar 30, 2004 (21)",€500k,2004,500.0,62,51,34,27
+Netherlands,Eredivisie,Excelsior Rotterdam,33,Jerolldino Bergraaf,Centre-Forward,"Jul 5, 2006 (19)",€450k,2006,450.0,61,50,34,26
+Netherlands,Eredivisie,Excelsior Rotterdam,19,Nesto Groen,Centre-Forward,"Jul 22, 2004 (21)",€150k,2004,150.0,56,46,31,24

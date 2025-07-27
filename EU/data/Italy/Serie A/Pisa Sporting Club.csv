@@ -1,0 +1,36 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,Pisa Sporting Club,47,Adrian Semper,Goalkeeper,"Jan 12, 1998 (27)",€3.50m,1998,3500.0,73,31,34,66
+Italy,Serie A,Pisa Sporting Club,-,Simone Scuffet,Goalkeeper,"May 31, 1996 (29)",€2.00m,1996,2000.0,71,31,33,65
+Italy,Serie A,Pisa Sporting Club,-,Ante Vukovic,Goalkeeper,"Aug 10, 2004 (20)",€300k,2004,300.0,59,25,27,54
+Italy,Serie A,Pisa Sporting Club,22,Leonardo Loria,Goalkeeper,"Mar 28, 1999 (26)",€250k,1999,250.0,59,25,27,54
+Italy,Serie A,Pisa Sporting Club,-,Alessandro Livieri,Goalkeeper,"Jan 21, 1997 (28)",€200k,1997,200.0,58,25,27,53
+Italy,Serie A,Pisa Sporting Club,1,Nícolas,Goalkeeper,"Apr 12, 1988 (37)",€100k,1988,100.0,55,24,25,50
+Italy,Serie A,Pisa Sporting Club,5,Simone Canestrelli,Centre-Back,"Sep 11, 2000 (24)",€7.00m,2000,7000.0,77,35,40,63
+Italy,Serie A,Pisa Sporting Club,-,Francesco Coppola,Centre-Back,"Apr 11, 2005 (20)",€2.50m,2005,2500.0,70,32,36,57
+Italy,Serie A,Pisa Sporting Club,17,Adrian Rus,Centre-Back,"Mar 18, 1996 (29)",€1.20m,1996,1200.0,68,31,35,56
+Italy,Serie A,Pisa Sporting Club,-,Daniel Denoon,Centre-Back,"Jan 28, 2004 (21)",€500k,2004,500.0,62,29,32,51
+Italy,Serie A,Pisa Sporting Club,-,Mateus Lusuardi,Centre-Back,"Jan 8, 2004 (21)",€400k,2004,400.0,61,28,32,50
+Italy,Serie A,Pisa Sporting Club,4,Antonio Caracciolo,Centre-Back,"Jun 30, 1990 (35)",€350k,1990,350.0,62,29,32,51
+Italy,Serie A,Pisa Sporting Club,3,Samuele Angori,Left-Back,"Oct 7, 2003 (21)",€5.50m,2003,5500.0,75,37,41,57
+Italy,Serie A,Pisa Sporting Club,-,Pietro Beruatto,Left-Back,"Dec 21, 1998 (26)",€1.50m,1998,1500.0,69,34,38,52
+Italy,Serie A,Pisa Sporting Club,19,Tomás Esteves,Right-Back,"Apr 3, 2002 (23)",€2.30m,2002,2300.0,71,35,39,54
+Italy,Serie A,Pisa Sporting Club,33,Arturo Calabresi,Right-Back,"Mar 17, 1996 (29)",€700k,1996,700.0,65,32,36,49
+Italy,Serie A,Pisa Sporting Club,6,Marius Marin,Defensive Midfield,"Aug 30, 1998 (26)",€3.00m,1998,3000.0,73,38,38,47
+Italy,Serie A,Pisa Sporting Club,8,Malthe Højholt,Defensive Midfield,"Apr 16, 2001 (24)",€1.20m,2001,1200.0,67,35,35,43
+Italy,Serie A,Pisa Sporting Club,-,Žan Jevšenak,Defensive Midfield,"May 15, 2003 (22)",€850k,2003,850.0,65,34,34,42
+Italy,Serie A,Pisa Sporting Club,-,İsak Vural,Central Midfield,"May 28, 2006 (19)",€4.50m,2006,4500.0,73,42,47,42
+Italy,Serie A,Pisa Sporting Club,36,Gabriele Piccinini,Central Midfield,"Apr 6, 2001 (24)",€4.50m,2001,4500.0,74,43,47,43
+Italy,Serie A,Pisa Sporting Club,-,Ebenezer Akinsanmiro,Central Midfield,"Nov 25, 2004 (20)",€2.00m,2004,2000.0,69,40,44,40
+Italy,Serie A,Pisa Sporting Club,15,Idrissa Touré,Right Midfield,"Apr 29, 1998 (27)",€4.00m,1998,4000.0,74,43,47,43
+Italy,Serie A,Pisa Sporting Club,11,Matteo Tramoni,Attacking Midfield,"Jan 20, 2000 (25)",€7.00m,2000,7000.0,77,52,47,40
+Italy,Serie A,Pisa Sporting Club,32,Stefano Moreo,Attacking Midfield,"Jun 30, 1993 (32)",€1.50m,1993,1500.0,69,46,42,36
+Italy,Serie A,Pisa Sporting Club,-,Jan Mlakar,Left Winger,"Oct 23, 1998 (26)",€2.00m,1998,2000.0,70,53,41,32
+Italy,Serie A,Pisa Sporting Club,37,Mehdi Léris,Right Winger,"May 23, 1998 (27)",€2.20m,1998,2200.0,71,54,41,33
+Italy,Serie A,Pisa Sporting Club,30,Alessandro Arena,Right Winger,"Aug 3, 2000 (24)",€750k,2000,750.0,65,49,38,30
+Italy,Serie A,Pisa Sporting Club,10,Emanuel Vignato,Right Winger,"Aug 24, 2000 (24)",€500k,2000,500.0,63,48,37,29
+Italy,Serie A,Pisa Sporting Club,-,Mert Durmush,Right Winger,"Oct 25, 2005 (19)",€200k,2005,200.0,57,43,33,26
+Italy,Serie A,Pisa Sporting Club,45,Alexander Lind,Centre-Forward,"Jun 26, 2002 (23)",€5.50m,2002,5500.0,75,62,41,32
+Italy,Serie A,Pisa Sporting Club,14,Henrik Meister,Centre-Forward,"Nov 13, 2003 (21)",€2.80m,2003,2800.0,71,58,39,31
+Italy,Serie A,Pisa Sporting Club,-,Nicholas Bonfanti,Centre-Forward,"Mar 28, 2002 (23)",€2.00m,2002,2000.0,70,57,38,30
+Italy,Serie A,Pisa Sporting Club,-,Edgaras Dubickas,Centre-Forward,"Jul 9, 1998 (27)",€250k,1998,250.0,59,48,32,25
+Italy,Serie A,Pisa Sporting Club,-,Elia Giani,Centre-Forward,"Dec 20, 2000 (24)",€250k,2000,250.0,59,48,32,25

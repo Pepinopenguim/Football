@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Scotland,Scottish Premiership,Aberdeen FC,1,Dimitar Mitov,Goalkeeper,"Jan 22, 1997 (28)",€1.00m,1997,1000.0,67,29,31,61
+Scotland,Scottish Premiership,Aberdeen FC,13,Nick Suman,Goalkeeper,"Feb 28, 2000 (25)",-,2000,98.0,54,23,25,49
+Scotland,Scottish Premiership,Aberdeen FC,33,Slobodan Rubezic,Centre-Back,"Mar 21, 2000 (25)",€1.50m,2000,1500.0,69,32,36,57
+Scotland,Scottish Premiership,Aberdeen FC,21,Kristers Tobers,Centre-Back,"Dec 13, 2000 (24)",€1.00m,2000,1000.0,67,31,35,55
+Scotland,Scottish Premiership,Aberdeen FC,-,Alfie Dorrington,Centre-Back,"Apr 20, 2005 (20)",€700k,2005,700.0,63,29,33,52
+Scotland,Scottish Premiership,Aberdeen FC,5,Mats Knoester,Centre-Back,"Nov 19, 1998 (26)",€600k,1998,600.0,64,29,33,52
+Scotland,Scottish Premiership,Aberdeen FC,21,Gavin Molloy,Centre-Back,"Oct 19, 2001 (23)",€600k,2001,600.0,64,29,33,52
+Scotland,Scottish Premiership,Aberdeen FC,22,Jack Milne,Centre-Back,"Feb 10, 2003 (22)",€600k,2003,600.0,63,29,33,52
+Scotland,Scottish Premiership,Aberdeen FC,15,Richard Jensen,Centre-Back,"Mar 17, 1996 (29)",€550k,1996,550.0,64,29,33,52
+Scotland,Scottish Premiership,Aberdeen FC,3,Emmanuel Gyamfi,Left-Back,"Jul 23, 2004 (21)",€200k,2004,200.0,57,28,31,43
+Scotland,Scottish Premiership,Aberdeen FC,28,Alexander Jensen,Right-Back,"Aug 24, 2001 (23)",€1.50m,2001,1500.0,69,34,38,52
+Scotland,Scottish Premiership,Aberdeen FC,2,Nicky Devlin,Right-Back,"Oct 17, 1993 (31)",€500k,1993,500.0,63,31,35,48
+Scotland,Scottish Premiership,Aberdeen FC,10,Leighton Clarkson,Defensive Midfield,"Oct 19, 2001 (23)",€1.30m,2001,1300.0,68,35,35,44
+Scotland,Scottish Premiership,Aberdeen FC,18,Ante Palaversa,Defensive Midfield,"Apr 6, 2000 (25)",€600k,2000,600.0,64,33,33,41
+Scotland,Scottish Premiership,Aberdeen FC,8,Dante Polvara,Defensive Midfield,"Jun 21, 2000 (25)",€400k,2000,400.0,62,32,32,40
+Scotland,Scottish Premiership,Aberdeen FC,6,Sivert Heltne Nilsen,Defensive Midfield,"Oct 2, 1991 (33)",€300k,1991,300.0,61,32,32,39
+Scotland,Scottish Premiership,Aberdeen FC,4,Graeme Shinnie,Defensive Midfield,"Aug 4, 1991 (33)",€250k,1991,250.0,60,31,31,38
+Scotland,Scottish Premiership,Aberdeen FC,-,Kjartan Már Kjartansson,Defensive Midfield,"Jul 14, 2006 (19)",€150k,2006,150.0,55,29,29,35
+Scotland,Scottish Premiership,Aberdeen FC,7,Adil Aouchiche,Attacking Midfield,"Jul 15, 2002 (23)",€1.50m,2002,1500.0,68,46,41,35
+Scotland,Scottish Premiership,Aberdeen FC,81,Topi Keskinen,Left Winger,"Mar 7, 2003 (22)",€2.00m,2003,2000.0,70,53,41,32
+Scotland,Scottish Premiership,Aberdeen FC,23,Ryan Duncan,Left Winger,"Jan 18, 2004 (21)",€300k,2004,300.0,59,45,34,27
+Scotland,Scottish Premiership,Aberdeen FC,20,Shayden Morris,Right Winger,"Mar 30, 2002 (23)",€1.00m,2002,1000.0,66,50,38,30
+Scotland,Scottish Premiership,Aberdeen FC,11,Nicolas Milanovic,Right Winger,"Nov 14, 2001 (23)",€850k,2001,850.0,66,50,38,30
+Scotland,Scottish Premiership,Aberdeen FC,14,Pape Habib Guèye,Centre-Forward,"Sep 20, 1999 (25)",€1.20m,1999,1200.0,68,56,37,29
+Scotland,Scottish Premiership,Aberdeen FC,19,Ester Sokler,Centre-Forward,"Jun 4, 1999 (26)",€1.00m,1999,1000.0,67,55,37,29
+Scotland,Scottish Premiership,Aberdeen FC,9,Kusini Yengi,Centre-Forward,"Jan 15, 1999 (26)",€500k,1999,500.0,63,52,35,27
+Scotland,Scottish Premiership,Aberdeen FC,32,Peter Ambrose,Centre-Forward,"Jun 10, 2002 (23)",€400k,2002,400.0,61,50,34,26
+Scotland,Scottish Premiership,Aberdeen FC,36,Alfie Bavidge,Centre-Forward,"Apr 11, 2006 (19)",€100k,2006,100.0,53,43,29,23

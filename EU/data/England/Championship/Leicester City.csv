@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Leicester City,30,Mads Hermansen,Goalkeeper,"Jul 11, 2000 (25)",€15.00m,2000,15000.0,81,35,37,74
+England,Championship,Leicester City,41,Jakub Stolarczyk,Goalkeeper,"Dec 19, 2000 (24)",€1.00m,2000,1000.0,67,29,31,61
+England,Championship,Leicester City,3,Wout Faes,Centre-Back,"Apr 3, 1998 (27)",€15.00m,1998,15000.0,81,37,42,66
+England,Championship,Leicester City,5,Caleb Okoli,Centre-Back,"Jul 13, 2001 (24)",€10.00m,2001,10000.0,79,36,41,65
+England,Championship,Leicester City,15,Harry Souttar,Centre-Back,"Oct 22, 1998 (26)",€6.00m,1998,6000.0,76,35,40,62
+England,Championship,Leicester City,4,Conor Coady,Centre-Back,"Feb 25, 1993 (32)",€2.20m,1993,2200.0,71,33,37,58
+England,Championship,Leicester City,23,Jannik Vestergaard,Centre-Back,"Aug 3, 1992 (32)",€2.00m,1992,2000.0,71,33,37,58
+England,Championship,Leicester City,-,Ben Nelson,Centre-Back,"Mar 18, 2004 (21)",€500k,2004,500.0,62,29,32,51
+England,Championship,Leicester City,16,Victor Kristiansen,Left-Back,"Dec 16, 2002 (22)",€15.00m,2002,15000.0,81,40,45,62
+England,Championship,Leicester City,33,Luke Thomas,Left-Back,"Jun 10, 2001 (24)",€6.00m,2001,6000.0,76,37,42,58
+England,Championship,Leicester City,2,James Justin,Right-Back,"Feb 23, 1998 (27)",€13.00m,1998,13000.0,80,39,44,61
+England,Championship,Leicester City,21,Ricardo Pereira,Right-Back,"Oct 6, 1993 (31)",€4.50m,1993,4500.0,75,37,41,57
+England,Championship,Leicester City,25,Woyo Coulibaly,Right-Back,"May 26, 1999 (26)",€2.00m,1999,2000.0,70,34,38,53
+England,Championship,Leicester City,6,Wilfred Ndidi,Defensive Midfield,"Dec 16, 1996 (28)",€15.00m,1996,15000.0,81,42,42,52
+England,Championship,Leicester City,24,Boubakary Soumaré,Defensive Midfield,"Feb 27, 1999 (26)",€12.00m,1999,12000.0,80,42,42,51
+England,Championship,Leicester City,22,Oliver Skipp,Defensive Midfield,"Sep 16, 2000 (24)",€10.00m,2000,10000.0,79,41,41,51
+England,Championship,Leicester City,8,Harry Winks,Defensive Midfield,"Feb 2, 1996 (29)",€9.00m,1996,9000.0,79,41,41,51
+England,Championship,Leicester City,17,Hamza Choudhury,Defensive Midfield,"Oct 1, 1997 (27)",€4.50m,1997,4500.0,75,39,39,48
+England,Championship,Leicester City,34,Michael Golding,Central Midfield,"May 23, 2006 (19)",€2.00m,2006,2000.0,69,40,44,40
+England,Championship,Leicester City,11,Bilal El Khannouss,Attacking Midfield,"May 10, 2004 (21)",€28.00m,2004,28000.0,83,56,51,43
+England,Championship,Leicester City,10,Stephy Mavididi,Left Winger,"May 31, 1998 (27)",€10.00m,1998,10000.0,79,60,46,36
+England,Championship,Leicester City,7,Issahaku Fatawu,Right Winger,"Mar 8, 2004 (21)",€11.00m,2004,11000.0,78,59,45,36
+England,Championship,Leicester City,14,Bobby De Cordova-Reid,Right Winger,"Feb 2, 1993 (32)",€2.50m,1993,2500.0,72,55,42,33
+England,Championship,Leicester City,18,Jordan Ayew,Right Winger,"Sep 11, 1991 (33)",€2.50m,1991,2500.0,72,55,42,33
+England,Championship,Leicester City,35,Kasey McAteer,Right Winger,"Nov 22, 2001 (23)",€2.00m,2001,2000.0,70,53,41,32
+England,Championship,Leicester City,-,Wanya Marçal,Right Winger,"Oct 19, 2002 (22)",€300k,2002,300.0,60,46,35,28
+England,Championship,Leicester City,20,Patson Daka,Centre-Forward,"Oct 9, 1998 (26)",€9.00m,1998,9000.0,78,64,43,34

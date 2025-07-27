@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Krylya Sovetov Samara,80,Nikita Kokarev,Goalkeeper,"Jan 8, 2003 (22)",€1.50m,2003,1500.0,68,29,31,62
+Russia,Premier Liga,Krylya Sovetov Samara,30,Sergey Pesjakov,Goalkeeper,"Dec 16, 1988 (36)",€300k,1988,300.0,61,26,28,56
+Russia,Premier Liga,Krylya Sovetov Samara,39,Evgeniy Frolov,Goalkeeper,"Feb 5, 1988 (37)",€50k,1988,50.0,52,22,24,47
+Russia,Premier Liga,Krylya Sovetov Samara,4,Aleksandr Soldatenkov,Centre-Back,"Dec 28, 1996 (28)",€4.00m,1996,4000.0,74,34,38,61
+Russia,Premier Liga,Krylya Sovetov Samara,24,Roman Evgenjev,Centre-Back,"Feb 23, 1999 (26)",€1.20m,1999,1200.0,68,31,35,56
+Russia,Premier Liga,Krylya Sovetov Samara,5,Dominik Oroz,Centre-Back,"Oct 29, 2000 (24)",€800k,2000,800.0,65,30,34,53
+Russia,Premier Liga,Krylya Sovetov Samara,47,Sergey Bozhin,Centre-Back,"Sep 12, 1994 (30)",€700k,1994,700.0,65,30,34,53
+Russia,Premier Liga,Krylya Sovetov Samara,18,Ivan Lepskiy,Centre-Back,"Jan 19, 2005 (20)",€500k,2005,500.0,62,29,32,51
+Russia,Premier Liga,Krylya Sovetov Samara,65,Ilya Gribakin,Centre-Back,"Feb 1, 2004 (21)",€200k,2004,200.0,57,26,30,47
+Russia,Premier Liga,Krylya Sovetov Samara,3,Thomas Galdames,Left-Back,"Nov 20, 1998 (26)",€2.00m,1998,2000.0,70,34,38,53
+Russia,Premier Liga,Krylya Sovetov Samara,2,Kirill Pechenin,Left-Back,"Mar 18, 1997 (28)",€750k,1997,750.0,65,32,36,49
+Russia,Premier Liga,Krylya Sovetov Samara,15,Nikolay Rasskazov,Right-Back,"Jan 4, 1998 (27)",€1.50m,1998,1500.0,69,34,38,52
+Russia,Premier Liga,Krylya Sovetov Samara,22,Fernando Costanza,Defensive Midfield,"Nov 29, 1998 (26)",€3.00m,1998,3000.0,73,38,38,47
+Russia,Premier Liga,Krylya Sovetov Samara,8,Maksim Vityugov,Defensive Midfield,"Feb 1, 1998 (27)",€900k,1998,900.0,66,34,34,42
+Russia,Premier Liga,Krylya Sovetov Samara,21,Dmytro Ivanisenya,Defensive Midfield,"Jan 11, 1994 (31)",€400k,1994,400.0,62,32,32,40
+Russia,Premier Liga,Krylya Sovetov Samara,-,Nikita Pershin,Defensive Midfield,"Jan 13, 2002 (23)",€350k,2002,350.0,61,32,32,39
+Russia,Premier Liga,Krylya Sovetov Samara,6,Sergey Babkin,Central Midfield,"Sep 25, 2002 (22)",€1.80m,2002,1800.0,69,40,44,40
+Russia,Premier Liga,Krylya Sovetov Samara,14,Mihajlo Banjac,Central Midfield,"Nov 10, 1999 (25)",€1.70m,1999,1700.0,69,40,44,40
+Russia,Premier Liga,Krylya Sovetov Samara,11,Amar Rahmanovic,Attacking Midfield,"May 13, 1994 (31)",€1.00m,1994,1000.0,67,45,41,35
+Russia,Premier Liga,Krylya Sovetov Samara,-,Artem Sokolov,Attacking Midfield,"Apr 1, 2003 (22)",€350k,2003,350.0,60,40,37,31
+Russia,Premier Liga,Krylya Sovetov Samara,10,Vladimir Khubulov,Left Winger,"Mar 2, 2001 (24)",€600k,2001,600.0,64,49,37,29
+Russia,Premier Liga,Krylya Sovetov Samara,26,Jimmy Marín,Left Winger,"Oct 8, 1997 (27)",€600k,1997,600.0,64,49,37,29
+Russia,Premier Liga,Krylya Sovetov Samara,19,Ivan Oleynikov,Right Winger,"Aug 24, 1998 (26)",€1.40m,1998,1400.0,68,52,39,31
+Russia,Premier Liga,Krylya Sovetov Samara,7,Vadim Rakov,Right Winger,"Jan 9, 2005 (20)",€1.20m,2005,1200.0,66,50,38,30
+Russia,Premier Liga,Krylya Sovetov Samara,9,Aleksey Sutormin,Right Winger,"Jan 10, 1994 (31)",€1.00m,1994,1000.0,67,51,39,31
+Russia,Premier Liga,Krylya Sovetov Samara,-,Leonid Gerchikov,Right Winger,"Aug 17, 2001 (23)",€175k,2001,175.0,57,43,33,26
+Russia,Premier Liga,Krylya Sovetov Samara,17,Ivan Bober,Right Winger,"Jan 7, 2006 (19)",€150k,2006,150.0,55,42,32,25
+Russia,Premier Liga,Krylya Sovetov Samara,73,Vladislav Shitov,Centre-Forward,"May 7, 2003 (22)",€800k,2003,800.0,65,53,36,28
+Russia,Premier Liga,Krylya Sovetov Samara,17,Egor Karpitskiy,Centre-Forward,"Nov 27, 2003 (21)",€300k,2003,300.0,60,49,33,26
+Russia,Premier Liga,Krylya Sovetov Samara,92,Pavel Popov,Centre-Forward,"Jan 26, 2003 (22)",€200k,2003,200.0,57,47,31,25

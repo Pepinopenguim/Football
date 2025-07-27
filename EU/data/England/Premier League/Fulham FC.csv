@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Premier League,Fulham FC,1,Bernd Leno,Goalkeeper,"Mar 4, 1992 (33)",€10.00m,1992,10000.0,79,34,36,72
+England,Premier League,Fulham FC,-,Benjamin Lecomte,Goalkeeper,"Apr 26, 1991 (34)",€1.50m,1991,1500.0,69,30,32,63
+England,Premier League,Fulham FC,5,Joachim Andersen,Centre-Back,"May 31, 1996 (29)",€27.00m,1996,27000.0,84,39,44,69
+England,Premier League,Fulham FC,3,Calvin Bassey,Centre-Back,"Dec 31, 1999 (25)",€25.00m,1999,25000.0,84,39,44,69
+England,Premier League,Fulham FC,31,Issa Diop,Centre-Back,"Jan 9, 1997 (28)",€14.00m,1997,14000.0,81,37,42,66
+England,Premier League,Fulham FC,15,Jorge Cuenca,Centre-Back,"Nov 17, 1999 (25)",€5.00m,1999,5000.0,75,34,39,62
+England,Premier League,Fulham FC,33,Antonee Robinson,Left-Back,"Aug 8, 1997 (27)",€35.00m,1997,35000.0,86,42,47,65
+England,Premier League,Fulham FC,30,Ryan Sessegnon,Left-Back,"May 18, 2000 (25)",€15.00m,2000,15000.0,81,40,45,62
+England,Premier League,Fulham FC,2,Kenny Tete,Right-Back,"Oct 9, 1995 (29)",€13.00m,1995,13000.0,81,40,45,62
+England,Premier League,Fulham FC,21,Timothy Castagne,Right-Back,"Dec 5, 1995 (29)",€13.00m,1995,13000.0,81,40,45,62
+England,Premier League,Fulham FC,16,Sander Berge,Defensive Midfield,"Feb 14, 1998 (27)",€25.00m,1998,25000.0,84,44,44,54
+England,Premier League,Fulham FC,20,Saša Lukić,Defensive Midfield,"Aug 13, 1996 (28)",€14.00m,1996,14000.0,81,42,42,52
+England,Premier League,Fulham FC,6,Harrison Reed,Central Midfield,"Jan 27, 1995 (30)",€6.00m,1995,6000.0,76,44,49,44
+England,Premier League,Fulham FC,10,Tom Cairney,Central Midfield,"Jan 20, 1991 (34)",€1.50m,1991,1500.0,69,40,44,40
+England,Premier League,Fulham FC,24,Josh King,Central Midfield,"Jan 3, 2007 (18)",€1.00m,2007,1000.0,64,37,41,37
+England,Premier League,Fulham FC,32,Emile Smith Rowe,Attacking Midfield,"Jul 28, 2000 (24)",€30.00m,2000,30000.0,85,57,52,44
+England,Premier League,Fulham FC,18,Andreas Pereira,Attacking Midfield,"Jan 1, 1996 (29)",€18.00m,1996,18000.0,82,55,50,43
+England,Premier League,Fulham FC,17,Alex Iwobi,Left Winger,"May 3, 1996 (29)",€28.00m,1996,28000.0,85,65,49,39
+England,Premier League,Fulham FC,47,Martial Godo,Left Winger,"Mar 14, 2003 (22)",€600k,2003,600.0,63,48,37,29
+England,Premier League,Fulham FC,8,Harry Wilson,Right Winger,"Mar 22, 1997 (28)",€15.00m,1997,15000.0,81,62,47,37
+England,Premier League,Fulham FC,11,Adama Traoré,Right Winger,"Jan 25, 1996 (29)",€9.00m,1996,9000.0,79,60,46,36
+England,Premier League,Fulham FC,9,Rodrigo Muniz,Centre-Forward,"May 4, 2001 (24)",€20.00m,2001,20000.0,82,67,45,35
+England,Premier League,Fulham FC,7,Raúl Jiménez,Centre-Forward,"May 5, 1991 (34)",€5.00m,1991,5000.0,76,62,42,33

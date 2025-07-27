@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,West Bromwich Albion,20,Josh Griffiths,Goalkeeper,"Sep 5, 2001 (23)",€1.00m,2001,1000.0,66,28,30,60
+England,Championship,West Bromwich Albion,23,Joe Wildsmith,Goalkeeper,"Dec 28, 1995 (29)",€400k,1995,400.0,62,27,29,56
+England,Championship,West Bromwich Albion,-,Nat Phillips,Centre-Back,"Mar 21, 1997 (28)",€3.00m,1997,3000.0,73,34,38,60
+England,Championship,West Bromwich Albion,-,George Campbell,Centre-Back,"Jun 22, 2001 (24)",€1.20m,2001,1200.0,67,31,35,55
+England,Championship,West Bromwich Albion,14,Torbjørn Heggem,Centre-Back,"Jan 12, 1999 (26)",€1.20m,1999,1200.0,68,31,35,56
+England,Championship,West Bromwich Albion,-,Caleb Taylor,Centre-Back,"Jan 14, 2003 (22)",€700k,2003,700.0,64,29,33,52
+England,Championship,West Bromwich Albion,5,Kyle Bartley,Centre-Back,"May 22, 1991 (34)",€250k,1991,250.0,60,28,31,49
+England,Championship,West Bromwich Albion,4,Callum Styles,Left-Back,"Mar 27, 2000 (25)",€2.50m,2000,2500.0,71,35,39,54
+England,Championship,West Bromwich Albion,24,Gianluca Frabotta,Left-Back,"Jun 24, 1999 (26)",€1.20m,1999,1200.0,68,33,37,52
+England,Championship,West Bromwich Albion,2,Darnell Furlong,Right-Back,"Oct 31, 1995 (29)",€2.80m,1995,2800.0,72,35,40,55
+England,Championship,West Bromwich Albion,17,Ousmane Diakité,Defensive Midfield,"Jul 25, 2000 (25)",€700k,2000,700.0,65,34,34,42
+England,Championship,West Bromwich Albion,8,Jayson Molumby,Central Midfield,"Aug 6, 1999 (25)",€3.00m,1999,3000.0,72,42,46,42
+England,Championship,West Bromwich Albion,21,Isaac Price,Central Midfield,"Sep 26, 2003 (21)",€3.00m,2003,3000.0,72,42,46,42
+England,Championship,West Bromwich Albion,27,Alex Mowatt,Central Midfield,"Feb 13, 1995 (30)",€2.80m,1995,2800.0,72,42,46,42
+England,Championship,West Bromwich Albion,31,Tom Fellows,Right Midfield,"Jul 25, 2003 (22)",€10.00m,2003,10000.0,78,45,50,45
+England,Championship,West Bromwich Albion,22,Mikey Johnston,Left Winger,"Apr 19, 1999 (26)",€3.00m,1999,3000.0,72,55,42,33
+England,Championship,West Bromwich Albion,7,Jed Wallace,Right Winger,"Mar 29, 1994 (31)",€1.80m,1994,1800.0,70,53,41,32
+England,Championship,West Bromwich Albion,9,Josh Maja,Centre-Forward,"Dec 27, 1998 (26)",€10.00m,1998,10000.0,79,65,43,34
+England,Championship,West Bromwich Albion,18,Karlan Grant,Centre-Forward,"Sep 18, 1997 (27)",€3.80m,1997,3800.0,74,61,41,32
+England,Championship,West Bromwich Albion,-,Aune Heggebø,Centre-Forward,"Jul 29, 2001 (23)",€3.50m,2001,3500.0,73,60,40,31
+England,Championship,West Bromwich Albion,12,Daryl Dike,Centre-Forward,"Jun 3, 2000 (25)",€2.80m,2000,2800.0,72,59,40,31
+England,Championship,West Bromwich Albion,44,Devante Cole,Centre-Forward,"May 10, 1995 (30)",€600k,1995,600.0,64,52,35,28
+England,Championship,West Bromwich Albion,26,Tammer Bany,Centre-Forward,"Oct 19, 2003 (21)",€250k,2003,250.0,59,48,32,25

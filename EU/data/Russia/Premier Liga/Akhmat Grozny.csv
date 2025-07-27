@@ -1,0 +1,23 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,Akhmat Grozny,1,Vadim Ulyanov,Goalkeeper,"Oct 7, 2001 (23)",€500k,2001,500.0,63,27,29,57
+Russia,Premier Liga,Akhmat Grozny,88,Giorgiy Shelia,Goalkeeper,"Dec 11, 1988 (36)",€300k,1988,300.0,61,26,28,56
+Russia,Premier Liga,Akhmat Grozny,4,Turpal-Ali Ibishev,Centre-Back,"Feb 18, 2002 (23)",€1.50m,2002,1500.0,68,31,35,56
+Russia,Premier Liga,Akhmat Grozny,18,Mohammadmehdi Zare,Centre-Back,"Jan 25, 2003 (22)",€900k,2003,900.0,65,30,34,53
+Russia,Premier Liga,Akhmat Grozny,75,Nader Ghandri,Centre-Back,"Feb 18, 1995 (30)",€900k,1995,900.0,66,30,34,54
+Russia,Premier Liga,Akhmat Grozny,90,Ousmane N'Dong,Centre-Back,"Sep 20, 1999 (25)",€750k,1999,750.0,65,30,34,53
+Russia,Premier Liga,Akhmat Grozny,5,Milos Satara,Centre-Back,"Oct 28, 1995 (29)",€500k,1995,500.0,63,29,33,52
+Russia,Premier Liga,Akhmat Grozny,8,Miroslav Bogosavac,Left-Back,"Oct 14, 1996 (28)",€1.00m,1996,1000.0,67,33,37,51
+Russia,Premier Liga,Akhmat Grozny,81,Maksim Sidorov,Left-Back,"Mar 18, 1998 (27)",€750k,1998,750.0,65,32,36,49
+Russia,Premier Liga,Akhmat Grozny,55,Darko Todorovic,Right-Back,"May 5, 1997 (28)",€1.00m,1997,1000.0,67,33,37,51
+Russia,Premier Liga,Akhmat Grozny,40,Rizvan Utsiev,Right-Back,"Feb 7, 1988 (37)",€50k,1988,50.0,52,25,29,40
+Russia,Premier Liga,Akhmat Grozny,42,Manuel Keliano,Defensive Midfield,"Jan 16, 2003 (22)",€400k,2003,400.0,61,32,32,39
+Russia,Premier Liga,Akhmat Grozny,14,Amine Talal,Central Midfield,"Jun 5, 1996 (29)",€800k,1996,800.0,66,38,42,38
+Russia,Premier Liga,Akhmat Grozny,11,Ismael Silva,Central Midfield,"Dec 1, 1994 (30)",€700k,1994,700.0,65,38,42,38
+Russia,Premier Liga,Akhmat Grozny,71,Magomed Yakuev,Left Midfield,"Jun 7, 2004 (21)",€50k,2004,50.0,50,29,32,29
+Russia,Premier Liga,Akhmat Grozny,17,Egas Cacintura,Attacking Midfield,"Oct 29, 1997 (27)",€1.00m,1997,1000.0,67,45,41,35
+Russia,Premier Liga,Akhmat Grozny,70,Abakar Gadzhiev,Attacking Midfield,"Dec 31, 2003 (21)",€600k,2003,600.0,63,42,38,33
+Russia,Premier Liga,Akhmat Grozny,7,Lechi Sadulaev,Left Winger,"Jan 8, 2000 (25)",€3.50m,2000,3500.0,73,55,42,34
+Russia,Premier Liga,Akhmat Grozny,20,Maksim Samorodov,Left Winger,"Jun 29, 2002 (23)",€2.50m,2002,2500.0,71,54,41,33
+Russia,Premier Liga,Akhmat Grozny,9,Brian Mansilla,Left Winger,"Apr 16, 1997 (28)",€1.80m,1997,1800.0,70,53,41,32
+Russia,Premier Liga,Akhmat Grozny,13,Mohamed Konaté,Centre-Forward,"Dec 12, 1997 (27)",€2.30m,1997,2300.0,71,58,39,31
+Russia,Premier Liga,Akhmat Grozny,77,Georgiy Melkadze,Centre-Forward,"Apr 4, 1997 (28)",€700k,1997,700.0,65,53,36,28

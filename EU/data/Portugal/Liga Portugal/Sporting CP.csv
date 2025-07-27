@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,Sporting CP,1,Rui Silva,Goalkeeper,"Feb 7, 1994 (31)",€7.00m,1994,7000.0,77,33,35,70
+Portugal,Liga Portugal,Sporting CP,12,João Virgínia,Goalkeeper,"Oct 10, 1999 (25)",€800k,1999,800.0,65,28,30,59
+Portugal,Liga Portugal,Sporting CP,25,Gonçalo Inácio,Centre-Back,"Aug 25, 2001 (23)",€45.00m,2001,45000.0,87,40,45,71
+Portugal,Liga Portugal,Sporting CP,26,Ousmane Diomande,Centre-Back,"Dec 4, 2003 (21)",€45.00m,2003,45000.0,86,40,45,71
+Portugal,Liga Portugal,Sporting CP,6,Zeno Debast,Centre-Back,"Oct 24, 2003 (21)",€30.00m,2003,30000.0,84,39,44,69
+Portugal,Liga Portugal,Sporting CP,72,Eduardo Quaresma,Centre-Back,"Mar 2, 2002 (23)",€18.00m,2002,18000.0,82,38,43,67
+Portugal,Liga Portugal,Sporting CP,3,Jeremiah St. Juste,Centre-Back,"Oct 19, 1996 (28)",€6.00m,1996,6000.0,76,35,40,62
+Portugal,Liga Portugal,Sporting CP,11,Nuno Santos,Left-Back,"Feb 13, 1995 (30)",€9.00m,1995,9000.0,79,39,43,60
+Portugal,Liga Portugal,Sporting CP,2,Matheus Reis,Left-Back,"Feb 18, 1995 (30)",€6.00m,1995,6000.0,76,37,42,58
+Portugal,Liga Portugal,Sporting CP,22,Iván Fresneda,Right-Back,"Sep 28, 2004 (20)",€8.00m,2004,8000.0,77,38,42,59
+Portugal,Liga Portugal,Sporting CP,19,Diogo Travassos,Right-Back,"Mar 31, 2004 (21)",€1.50m,2004,1500.0,68,33,37,52
+Portugal,Liga Portugal,Sporting CP,47,Ricardo Esgaio,Right-Back,"May 16, 1993 (32)",€1.50m,1993,1500.0,69,34,38,52
+Portugal,Liga Portugal,Sporting CP,42,Morten Hjulmand,Defensive Midfield,"Jun 25, 1999 (26)",€50.00m,1999,50000.0,87,45,45,56
+Portugal,Liga Portugal,Sporting CP,14,Giorgi Kochorashvili,Defensive Midfield,"Jun 29, 1999 (26)",€5.00m,1999,5000.0,75,39,39,48
+Portugal,Liga Portugal,Sporting CP,73,Eduardo Felicíssimo,Defensive Midfield,"Jan 8, 2007 (18)",€3.00m,2007,3000.0,70,36,36,45
+Portugal,Liga Portugal,Sporting CP,-,Mateo Tanlongo,Defensive Midfield,"Aug 12, 2003 (21)",€1.30m,2003,1300.0,67,35,35,43
+Portugal,Liga Portugal,Sporting CP,5,Hidemasa Morita,Central Midfield,"May 10, 1995 (30)",€13.00m,1995,13000.0,81,47,52,47
+Portugal,Liga Portugal,Sporting CP,23,Daniel Bragança,Central Midfield,"May 27, 1999 (26)",€12.00m,1999,12000.0,80,46,51,46
+Portugal,Liga Portugal,Sporting CP,52,João Simões,Central Midfield,"Jan 6, 2007 (18)",€6.00m,2007,6000.0,74,43,47,43
+Portugal,Liga Portugal,Sporting CP,20,Maxi Araújo,Left Midfield,"Feb 15, 2000 (25)",€17.00m,2000,17000.0,82,48,52,48
+Portugal,Liga Portugal,Sporting CP,8,Pedro Gonçalves,Left Winger,"Jun 28, 1998 (27)",€30.00m,1998,30000.0,85,65,49,39
+Portugal,Liga Portugal,Sporting CP,27,Alisson Santos,Left Winger,"Sep 27, 2002 (22)",€1.50m,2002,1500.0,68,52,39,31
+Portugal,Liga Portugal,Sporting CP,7,Geovany Quenda,Right Winger,"Apr 30, 2007 (18)",€45.00m,2007,45000.0,85,65,49,39
+Portugal,Liga Portugal,Sporting CP,17,Francisco Trincão,Right Winger,"Dec 29, 1999 (25)",€35.00m,1999,35000.0,86,65,50,40
+Portugal,Liga Portugal,Sporting CP,10,Geny Catamo,Right Winger,"Jan 26, 2001 (24)",€15.00m,2001,15000.0,81,62,47,37
+Portugal,Liga Portugal,Sporting CP,9,Conrad Harder,Centre-Forward,"Apr 7, 2005 (20)",€24.00m,2005,24000.0,82,67,45,35
+Portugal,Liga Portugal,Sporting CP,28,Rodrigo Ribeiro,Centre-Forward,"Apr 28, 2005 (20)",€2.50m,2005,2500.0,70,57,38,30

@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Germany,Bundesliga,VfB Stuttgart,33,Alexander Nübel,Goalkeeper,"Sep 30, 1996 (28)",€12.00m,1996,12000.0,80,34,37,73
+Germany,Bundesliga,VfB Stuttgart,1,Fabian Bredlow,Goalkeeper,"Mar 2, 1995 (30)",€800k,1995,800.0,66,28,30,60
+Germany,Bundesliga,VfB Stuttgart,21,Stefan Drljaca,Goalkeeper,"Apr 20, 1999 (26)",€325k,1999,325.0,61,26,28,56
+Germany,Bundesliga,VfB Stuttgart,29,Finn Jeltsch,Centre-Back,"Jul 17, 2006 (19)",€20.00m,2006,20000.0,81,37,42,66
+Germany,Bundesliga,VfB Stuttgart,24,Jeff Chabot,Centre-Back,"Feb 12, 1998 (27)",€12.00m,1998,12000.0,80,37,42,66
+Germany,Bundesliga,VfB Stuttgart,2,Ameen Al-Dakhil,Centre-Back,"Mar 6, 2002 (23)",€7.50m,2002,7500.0,77,35,40,63
+Germany,Bundesliga,VfB Stuttgart,14,Luca Jaquez,Centre-Back,"Jun 2, 2003 (22)",€6.00m,2003,6000.0,76,35,40,62
+Germany,Bundesliga,VfB Stuttgart,-,Anrie Chase,Centre-Back,"Mar 24, 2004 (21)",€3.00m,2004,3000.0,71,33,37,58
+Germany,Bundesliga,VfB Stuttgart,23,Dan-Axel Zagadou,Centre-Back,"Jun 3, 1999 (26)",€2.00m,1999,2000.0,70,32,36,57
+Germany,Bundesliga,VfB Stuttgart,7,Maximilian Mittelstädt,Left-Back,"Mar 18, 1997 (28)",€20.00m,1997,20000.0,83,41,46,63
+Germany,Bundesliga,VfB Stuttgart,3,Ramon Hendriks,Left-Back,"Jul 18, 2001 (24)",€5.00m,2001,5000.0,75,37,41,57
+Germany,Bundesliga,VfB Stuttgart,4,Josha Vagnoman,Right-Back,"Dec 11, 2000 (24)",€10.00m,2000,10000.0,79,39,43,60
+Germany,Bundesliga,VfB Stuttgart,22,Lorenz Assignon,Right-Back,"Jun 22, 2000 (25)",€9.00m,2000,9000.0,78,38,43,59
+Germany,Bundesliga,VfB Stuttgart,20,Leonidas Stergiou,Right-Back,"Mar 3, 2002 (23)",€5.00m,2002,5000.0,75,37,41,57
+Germany,Bundesliga,VfB Stuttgart,15,Pascal Stenzel,Right-Back,"Mar 20, 1996 (29)",€2.00m,1996,2000.0,71,35,39,54
+Germany,Bundesliga,VfB Stuttgart,6,Angelo Stiller,Defensive Midfield,"Apr 4, 2001 (24)",€45.00m,2001,45000.0,87,45,45,56
+Germany,Bundesliga,VfB Stuttgart,16,Atakan Karazor,Defensive Midfield,"Oct 13, 1996 (28)",€12.00m,1996,12000.0,80,42,42,51
+Germany,Bundesliga,VfB Stuttgart,5,Yannik Keitel,Defensive Midfield,"Feb 15, 2000 (25)",€3.50m,2000,3500.0,73,38,38,47
+Germany,Bundesliga,VfB Stuttgart,30,Chema Andrés,Central Midfield,"Apr 25, 2005 (20)",€800k,2005,800.0,64,37,41,37
+Germany,Bundesliga,VfB Stuttgart,28,Nikolas Nartey,Central Midfield,"Feb 22, 2000 (25)",€400k,2000,400.0,62,36,40,36
+Germany,Bundesliga,VfB Stuttgart,8,Enzo Millot,Attacking Midfield,"Jul 17, 2002 (23)",€35.00m,2002,35000.0,85,57,52,44
+Germany,Bundesliga,VfB Stuttgart,19,Noah Darvich,Attacking Midfield,"Sep 25, 2006 (18)",€2.00m,2006,2000.0,69,46,42,36
+Germany,Bundesliga,VfB Stuttgart,10,Chris Führich,Left Winger,"Jan 9, 1998 (27)",€15.00m,1998,15000.0,81,62,47,37
+Germany,Bundesliga,VfB Stuttgart,17,Justin Diehl,Left Winger,"Nov 27, 2004 (20)",€3.00m,2004,3000.0,71,54,41,33
+Germany,Bundesliga,VfB Stuttgart,18,Jamie Leweling,Right Winger,"Feb 26, 2001 (24)",€20.00m,2001,20000.0,82,62,48,38
+Germany,Bundesliga,VfB Stuttgart,50,Silas,Right Winger,"Oct 6, 1998 (26)",€7.00m,1998,7000.0,77,59,45,35
+Germany,Bundesliga,VfB Stuttgart,45,Lazar Jovanovic,Right Winger,"Nov 30, 2006 (18)",€2.00m,2006,2000.0,69,52,40,32
+Germany,Bundesliga,VfB Stuttgart,11,Nick Woltemade,Second Striker,"Feb 14, 2002 (23)",€30.00m,2002,30000.0,84,66,49,36
+Germany,Bundesliga,VfB Stuttgart,9,Ermedin Demirovic,Centre-Forward,"Mar 25, 1998 (27)",€22.00m,1998,22000.0,83,68,46,36
+Germany,Bundesliga,VfB Stuttgart,26,Deniz Undav,Centre-Forward,"Jul 19, 1996 (29)",€20.00m,1996,20000.0,83,68,46,36

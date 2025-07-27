@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+France,Ligue 1,AJ Auxerre,16,Donovan Léon,Goalkeeper,"Nov 3, 1992 (32)",€1.00m,1992,1000.0,67,29,31,61
+France,Ligue 1,AJ Auxerre,40,Théo De Percin,Goalkeeper,"Feb 2, 2001 (24)",€300k,2001,300.0,60,26,28,55
+France,Ligue 1,AJ Auxerre,30,Tom Negrel,Goalkeeper,"Apr 13, 2003 (22)",€50k,2003,50.0,50,22,23,46
+France,Ligue 1,AJ Auxerre,20,Sinaly Diomandé,Centre-Back,"Apr 9, 2001 (24)",€5.00m,2001,5000.0,75,34,39,62
+France,Ligue 1,AJ Auxerre,92,Clément Akpa,Centre-Back,"Nov 24, 2001 (23)",€5.00m,2001,5000.0,75,34,39,62
+France,Ligue 1,AJ Auxerre,3,Gabriel Osho,Centre-Back,"Aug 14, 1998 (26)",€3.00m,1998,3000.0,73,34,38,60
+France,Ligue 1,AJ Auxerre,4,Francisco Sierralta,Centre-Back,"May 6, 1997 (28)",€1.50m,1997,1500.0,69,32,36,57
+France,Ligue 1,AJ Auxerre,-,Saad Agouzoul,Centre-Back,"Aug 10, 1997 (27)",€500k,1997,500.0,63,29,33,52
+France,Ligue 1,AJ Auxerre,-,Victor Mayela,Centre-Back,"Apr 22, 2004 (21)",€100k,2004,100.0,53,24,28,43
+France,Ligue 1,AJ Auxerre,14,Gideon Mensah,Left-Back,"Jul 18, 1998 (27)",€4.00m,1998,4000.0,74,36,41,56
+France,Ligue 1,AJ Auxerre,12,Fredrik Oppegård,Left-Back,"Aug 7, 2002 (22)",€600k,2002,600.0,64,31,35,49
+France,Ligue 1,AJ Auxerre,26,Paul Joly,Right-Back,"Jun 7, 2000 (25)",€1.80m,2000,1800.0,70,34,38,53
+France,Ligue 1,AJ Auxerre,29,Marvin Senaya,Right-Back,"Jan 28, 2001 (24)",€1.80m,2001,1800.0,70,34,38,53
+France,Ligue 1,AJ Auxerre,27,Lamine Sy,Right-Back,"Aug 10, 2002 (22)",€500k,2002,500.0,63,31,35,48
+France,Ligue 1,AJ Auxerre,42,Elisha Owusu,Defensive Midfield,"Nov 7, 1997 (27)",€3.00m,1997,3000.0,73,38,38,47
+France,Ligue 1,AJ Auxerre,18,Assane Dioussé,Defensive Midfield,"Sep 20, 1997 (27)",€700k,1997,700.0,65,34,34,42
+France,Ligue 1,AJ Auxerre,8,Nathan Buayi-Kiala,Defensive Midfield,"Feb 29, 2004 (21)",€100k,2004,100.0,53,28,28,34
+France,Ligue 1,AJ Auxerre,5,Kévin Danois,Central Midfield,"Jun 28, 2004 (21)",€8.00m,2004,8000.0,77,45,49,45
+France,Ligue 1,AJ Auxerre,29,Ben Viadere,Attacking Midfield,"Sep 2, 2005 (19)",-,2005,20.0,44,29,27,23
+France,Ligue 1,AJ Auxerre,23,Ibrahim Osman,Left Winger,"Nov 29, 2004 (20)",€10.00m,2004,10000.0,78,59,45,36
+France,Ligue 1,AJ Auxerre,-,Nicolas Mercier,Left Winger,"Jan 30, 2003 (22)",€200k,2003,200.0,57,43,33,26
+France,Ligue 1,AJ Auxerre,7,Josué Casimir,Right Winger,"Sep 24, 2001 (23)",€4.00m,2001,4000.0,74,56,43,34
+France,Ligue 1,AJ Auxerre,21,Lasso Coulibaly,Right Winger,"Oct 19, 2002 (22)",€1.20m,2002,1200.0,67,51,39,31
+France,Ligue 1,AJ Auxerre,11,Eros Maddy,Right Winger,"Feb 5, 2001 (24)",€150k,2001,150.0,56,43,32,26
+France,Ligue 1,AJ Auxerre,17,Lassine Sinayoko,Centre-Forward,"Dec 8, 1999 (25)",€4.00m,1999,4000.0,74,61,41,32
+France,Ligue 1,AJ Auxerre,9,Theo Bair,Centre-Forward,"Aug 27, 1999 (25)",€1.80m,1999,1800.0,70,57,38,30
+France,Ligue 1,AJ Auxerre,45,Ado Onaiwu,Centre-Forward,"Nov 8, 1995 (29)",€1.50m,1995,1500.0,69,57,38,30
+France,Ligue 1,AJ Auxerre,19,Florian Ayé,Centre-Forward,"Jan 19, 1997 (28)",€1.20m,1997,1200.0,68,56,37,29

@@ -1,0 +1,31 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Southampton FC,30,Aaron Ramsdale,Goalkeeper,"May 14, 1998 (27)",€16.00m,1998,16000.0,81,35,37,74
+England,Championship,Southampton FC,31,Gavin Bazunu,Goalkeeper,"Feb 20, 2002 (23)",€9.00m,2002,9000.0,78,34,36,71
+England,Championship,Southampton FC,1,Alex McCarthy,Goalkeeper,"Dec 3, 1989 (35)",€350k,1989,350.0,62,27,29,56
+England,Championship,Southampton FC,6,Taylor Harwood-Bellis,Centre-Back,"Jan 30, 2002 (23)",€22.00m,2002,22000.0,83,38,43,68
+England,Championship,Southampton FC,35,Jan Bednarek,Centre-Back,"Apr 12, 1996 (29)",€9.00m,1996,9000.0,79,36,41,65
+England,Championship,Southampton FC,37,Armel Bella-Kotchap,Centre-Back,"Dec 11, 2001 (23)",€9.00m,2001,9000.0,78,36,41,64
+England,Championship,Southampton FC,-,Ronnie Edwards,Centre-Back,"Mar 28, 2003 (22)",€3.80m,2003,3800.0,73,34,38,60
+England,Championship,Southampton FC,15,Nathan Wood,Centre-Back,"May 31, 2002 (23)",€3.50m,2002,3500.0,73,34,38,60
+England,Championship,Southampton FC,26,Joshua Quarshie,Centre-Back,"Jul 26, 2004 (21)",€3.00m,2004,3000.0,71,33,37,58
+England,Championship,Southampton FC,5,Jack Stephens,Centre-Back,"Jan 27, 1994 (31)",€1.50m,1994,1500.0,69,32,36,57
+England,Championship,Southampton FC,39,Joachim Kayi Sanda,Centre-Back,"Nov 29, 2006 (18)",€1.50m,2006,1500.0,67,31,35,55
+England,Championship,Southampton FC,3,Ryan Manning,Left-Back,"Jun 14, 1996 (29)",€3.00m,1996,3000.0,73,36,40,55
+England,Championship,Southampton FC,34,Welington,Left-Back,"Feb 19, 2001 (24)",€3.00m,2001,3000.0,72,35,40,55
+England,Championship,Southampton FC,21,Charlie Taylor,Left-Back,"Sep 18, 1993 (31)",€2.20m,1993,2200.0,71,35,39,54
+England,Championship,Southampton FC,16,Yukinari Sugawara,Right-Back,"Jun 28, 2000 (25)",€11.00m,2000,11000.0,79,39,43,60
+England,Championship,Southampton FC,14,James Bree,Right-Back,"Dec 11, 1997 (27)",€2.50m,1997,2500.0,72,35,40,55
+England,Championship,Southampton FC,4,Flynn Downes,Defensive Midfield,"Jan 20, 1999 (26)",€13.00m,1999,13000.0,80,42,42,51
+England,Championship,Southampton FC,-,Shea Charles,Defensive Midfield,"Nov 5, 2003 (21)",€10.00m,2003,10000.0,78,41,41,50
+England,Championship,Southampton FC,18,Mateus Fernandes,Central Midfield,"Jul 10, 2004 (21)",€15.00m,2004,15000.0,80,46,51,46
+England,Championship,Southampton FC,7,Joe Aribo,Central Midfield,"Jul 21, 1996 (29)",€6.00m,1996,6000.0,76,44,49,44
+England,Championship,Southampton FC,8,Will Smallbone,Central Midfield,"Feb 21, 2000 (25)",€6.00m,2000,6000.0,76,44,49,44
+England,Championship,Southampton FC,-,Kuryu Matsuki,Attacking Midfield,"Apr 30, 2003 (22)",€2.40m,2003,2400.0,71,48,43,37
+England,Championship,Southampton FC,-,Samuel Edozie,Left Winger,"Jan 28, 2003 (22)",€6.00m,2003,6000.0,76,58,44,35
+England,Championship,Southampton FC,24,Ryan Fraser,Left Winger,"Feb 24, 1994 (31)",€2.00m,1994,2000.0,71,54,41,33
+England,Championship,Southampton FC,33,Tyler Dibling,Right Winger,"Feb 17, 2006 (19)",€25.00m,2006,25000.0,82,62,48,38
+England,Championship,Southampton FC,9,Adam Armstrong,Centre-Forward,"Feb 10, 1997 (28)",€12.00m,1997,12000.0,80,66,44,34
+England,Championship,Southampton FC,19,Cameron Archer,Centre-Forward,"Dec 9, 2001 (23)",€12.00m,2001,12000.0,80,66,44,34
+England,Championship,Southampton FC,17,Ben Brereton Díaz,Centre-Forward,"Apr 18, 1999 (26)",€7.50m,1999,7500.0,77,63,42,33
+England,Championship,Southampton FC,42,Damion Downs,Centre-Forward,"Jul 6, 2004 (21)",€6.00m,2004,6000.0,75,62,41,32
+England,Championship,Southampton FC,11,Ross Stewart,Centre-Forward,"Jul 11, 1996 (29)",€4.00m,1996,4000.0,74,61,41,32

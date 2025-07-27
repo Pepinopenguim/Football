@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Kasimpasa,1,Andreas Gianniotis,Goalkeeper,"Dec 18, 1992 (32)",€375k,1992,375.0,62,27,29,56
+Türkiye,Süper Lig,Kasimpasa,25,Ali Emre Yanar,Goalkeeper,"May 15, 1998 (27)",€125k,1998,125.0,56,24,26,51
+Türkiye,Süper Lig,Kasimpasa,-,Ramazan Özkanlı,Goalkeeper,"Jan 25, 2003 (22)",-,2003,90.0,53,23,24,48
+Türkiye,Süper Lig,Kasimpasa,61,Ege Albayrak,Goalkeeper,"Aug 20, 2007 (17)",-,2007,80.0,51,22,23,46
+Türkiye,Süper Lig,Kasimpasa,98,Şant Kazancı,Goalkeeper,"Dec 18, 2008 (16)",-,2008,19.0,43,18,20,39
+Türkiye,Süper Lig,Kasimpasa,-,Attila Szalai,Centre-Back,"Jan 20, 1998 (27)",€1.70m,1998,1700.0,70,32,36,57
+Türkiye,Süper Lig,Kasimpasa,20,Nicholas Opoku,Centre-Back,"Aug 11, 1997 (27)",€1.50m,1997,1500.0,69,32,36,57
+Türkiye,Süper Lig,Kasimpasa,29,Taylan Aydın,Centre-Back,"Feb 10, 2006 (19)",€350k,2006,350.0,59,27,31,48
+Türkiye,Süper Lig,Kasimpasa,55,Yunus Atakaya,Centre-Back,"Apr 27, 2004 (21)",-,2004,100.0,53,24,28,43
+Türkiye,Süper Lig,Kasimpasa,13,Adnan Aktaş,Left-Back,"Nov 10, 2006 (18)",€50k,2006,50.0,49,24,27,37
+Türkiye,Süper Lig,Kasimpasa,2,Cláudio Winck,Right-Back,"Apr 15, 1994 (31)",€800k,1994,800.0,66,32,36,50
+Türkiye,Süper Lig,Kasimpasa,14,Jhon Espinoza,Right-Back,"Feb 24, 1999 (26)",€550k,1999,550.0,63,31,35,48
+Türkiye,Süper Lig,Kasimpasa,47,Berkay Muratoğlu,Right-Back,"Jan 2, 2008 (17)",€75k,2008,75.0,51,25,28,39
+Türkiye,Süper Lig,Kasimpasa,-,Loret Sadiku,Defensive Midfield,"Jul 28, 1991 (34)",€150k,1991,150.0,57,30,30,36
+Türkiye,Süper Lig,Kasimpasa,-,Oğuzhan Yılmaz,Defensive Midfield,"Jun 17, 2003 (22)",€75k,2003,75.0,52,27,27,33
+Türkiye,Süper Lig,Kasimpasa,-,Cem Üstündag,Central Midfield,"Jan 20, 2001 (24)",€300k,2001,300.0,60,35,38,35
+Türkiye,Süper Lig,Kasimpasa,8,Cafú,Central Midfield,"Feb 26, 1993 (32)",€300k,1993,300.0,61,35,39,35
+Türkiye,Süper Lig,Kasimpasa,15,Yaman Suakar,Central Midfield,"Feb 25, 2009 (16)",€50k,2009,50.0,48,28,31,28
+Türkiye,Süper Lig,Kasimpasa,54,Atakan Müjde,Central Midfield,"Oct 25, 2003 (21)",€50k,2003,50.0,50,29,32,29
+Türkiye,Süper Lig,Kasimpasa,10,Haris Hajradinovic,Attacking Midfield,"Feb 18, 1994 (31)",€2.00m,1994,2000.0,71,48,43,37
+Türkiye,Süper Lig,Kasimpasa,12,Mortadha Ben Ouanes,Left Winger,"Jul 2, 1994 (31)",€1.50m,1994,1500.0,69,52,40,32
+Türkiye,Süper Lig,Kasimpasa,-,Ali Yavuz Kol,Left Winger,"Jan 29, 2001 (24)",€275k,2001,275.0,60,46,35,28
+Türkiye,Süper Lig,Kasimpasa,-,Erdem Çetinkaya,Left Winger,"Mar 29, 2001 (24)",€150k,2001,150.0,56,43,32,26
+Türkiye,Süper Lig,Kasimpasa,7,Mamadou Fall,Right Winger,"Dec 31, 1991 (33)",€800k,1991,800.0,66,50,38,30
+Türkiye,Süper Lig,Kasimpasa,-,Yasin Eratilla,Right Winger,"Apr 5, 2004 (21)",-,2004,79.0,52,40,30,24
+Türkiye,Süper Lig,Kasimpasa,-,Yusuf Barası,Centre-Forward,"Mar 31, 2003 (22)",€1.40m,2003,1400.0,68,56,37,29
+Türkiye,Süper Lig,Kasimpasa,-,Kubilay Kanatsızkuş,Centre-Forward,"Mar 28, 1997 (28)",€600k,1997,600.0,64,52,35,28
+Türkiye,Süper Lig,Kasimpasa,99,Berk Can Yıldızlı,Centre-Forward,"Jun 19, 2005 (20)",€50k,2005,50.0,49,40,27,21
+Türkiye,Süper Lig,Kasimpasa,-,Alp Efe Kılınç,Centre-Forward,"Apr 15, 2004 (21)",€25k,2004,25.0,46,38,25,20

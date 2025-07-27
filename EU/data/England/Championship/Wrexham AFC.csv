@@ -1,0 +1,35 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Wrexham AFC,1,Arthur Okonkwo,Goalkeeper,"Sep 9, 2001 (23)",€2.00m,2001,2000.0,70,30,32,64
+England,Championship,Wrexham AFC,21,Danny Ward,Goalkeeper,"Jun 22, 1993 (32)",€1.20m,1993,1200.0,68,29,31,62
+England,Championship,Wrexham AFC,13,Callum Burton,Goalkeeper,"Aug 15, 1996 (28)",€200k,1996,200.0,58,25,27,53
+England,Championship,Wrexham AFC,4,Max Cleworth,Centre-Back,"Aug 9, 2002 (22)",€1.20m,2002,1200.0,67,31,35,55
+England,Championship,Wrexham AFC,3,Lewis Brunt,Centre-Back,"Nov 6, 2000 (24)",€600k,2000,600.0,64,29,33,52
+England,Championship,Wrexham AFC,5,Eoghan O'Connell,Centre-Back,"Aug 13, 1995 (29)",€500k,1995,500.0,63,29,33,52
+England,Championship,Wrexham AFC,6,Thomas O'Connor,Centre-Back,"Apr 21, 1999 (26)",€450k,1999,450.0,62,29,32,51
+England,Championship,Wrexham AFC,24,Dan Scarr,Centre-Back,"Dec 24, 1994 (30)",€450k,1994,450.0,63,29,33,52
+England,Championship,Wrexham AFC,-,Liberato Cacace,Left-Back,"Sep 27, 2000 (24)",€3.00m,2000,3000.0,72,35,40,55
+England,Championship,Wrexham AFC,23,Sebastian Revan,Left-Back,"Jul 14, 2003 (22)",€500k,2003,500.0,62,30,34,47
+England,Championship,Wrexham AFC,19,Jacob Mendy,Left-Back,"Dec 27, 1996 (28)",€150k,1996,150.0,57,28,31,43
+England,Championship,Wrexham AFC,29,Ryan Barnett,Right-Back,"Sep 23, 1999 (25)",€550k,1999,550.0,63,31,35,48
+England,Championship,Wrexham AFC,34,Aaron James,Right-Back,"Jun 30, 2005 (20)",-,2005,50.0,49,24,27,37
+England,Championship,Wrexham AFC,15,George Dobson,Defensive Midfield,"Nov 15, 1997 (27)",€600k,1997,600.0,64,33,33,41
+England,Championship,Wrexham AFC,12,George Evans,Defensive Midfield,"Dec 13, 1994 (30)",€200k,1994,200.0,58,30,30,37
+England,Championship,Wrexham AFC,29,Lewis O'Brien,Central Midfield,"Oct 14, 1998 (26)",€4.00m,1998,4000.0,74,43,47,43
+England,Championship,Wrexham AFC,20,Ollie Rathbone,Central Midfield,"Oct 10, 1996 (28)",€900k,1996,900.0,66,38,42,38
+England,Championship,Wrexham AFC,-,George Thomason,Central Midfield,"Jan 12, 2001 (24)",€600k,2001,600.0,64,37,41,37
+England,Championship,Wrexham AFC,8,Andy Cannon,Central Midfield,"Mar 14, 1996 (29)",€300k,1996,300.0,60,35,38,35
+England,Championship,Wrexham AFC,37,Matty James,Central Midfield,"Jul 22, 1991 (34)",€200k,1991,200.0,59,34,38,34
+England,Championship,Wrexham AFC,7,James McClean,Left Midfield,"Apr 22, 1989 (36)",€100k,1989,100.0,55,32,35,32
+England,Championship,Wrexham AFC,38,Elliot Lee,Attacking Midfield,"Dec 16, 1994 (30)",€800k,1994,800.0,66,44,40,34
+England,Championship,Wrexham AFC,-,Josh Windass,Attacking Midfield,"Jan 9, 1994 (31)",€600k,1994,600.0,64,43,39,33
+England,Championship,Wrexham AFC,45,Harry Ashfield,Attacking Midfield,"Mar 23, 2006 (19)",-,2006,21.0,44,29,27,23
+England,Championship,Wrexham AFC,43,James Rainbird,Left Winger,"Sep 1, 2005 (19)",€25k,2005,25.0,46,35,27,21
+England,Championship,Wrexham AFC,47,Ryan Longman,Right Winger,"Nov 6, 2000 (24)",€2.00m,2000,2000.0,70,53,41,32
+England,Championship,Wrexham AFC,42,Callum Edwards,Right Winger,"Jun 22, 2006 (19)",€75k,2006,75.0,51,39,30,23
+England,Championship,Wrexham AFC,18,Ryan Hardie,Centre-Forward,"Mar 17, 1997 (28)",€1.80m,1997,1800.0,70,57,38,30
+England,Championship,Wrexham AFC,28,Sam Smith,Centre-Forward,"Mar 8, 1998 (27)",€1.00m,1998,1000.0,67,55,37,29
+England,Championship,Wrexham AFC,11,Jack Marriott,Centre-Forward,"Sep 9, 1994 (30)",€500k,1994,500.0,63,52,35,27
+England,Championship,Wrexham AFC,16,Jay Rodríguez,Centre-Forward,"Jul 29, 1989 (35)",€500k,1989,500.0,64,52,35,28
+England,Championship,Wrexham AFC,22,Mo Faal,Centre-Forward,"Feb 11, 2003 (22)",€400k,2003,400.0,61,50,34,26
+England,Championship,Wrexham AFC,9,Ollie Palmer,Centre-Forward,"Jan 21, 1992 (33)",€100k,1992,100.0,55,45,30,24
+England,Championship,Wrexham AFC,27,Jake Bickerstaff,Centre-Forward,"Sep 11, 2001 (23)",€100k,2001,100.0,54,44,30,23

@@ -97,13 +97,15 @@ def treat_value(strg):
     return randint(1, 100)
 
 def handle_csv(path_to_csv:str):
+    print("> Handling csv...")
+    path_to_csv = os.path.normpath(path_to_csv)
 
     # convert to dataframe
     df = pd.read_csv(path_to_csv)
     df.columns = [c.lower() for c in df.columns]
 
     # get league and clubname
-    pattern = r"data\\(.*) - (.*)\\(.*).csv"
+    pattern = r"data\\(.*)\\(.*)\\(.*).csv"
     m = re.search(pattern, path_to_csv)
     if m is None:
         return pd.DataFrame()
@@ -159,11 +161,11 @@ def walk_through_csvs(dir):
 
     df = pd.concat(dfs)
 
-    df.to_csv(os.path.join(dir, "data.csv"), index=False)
+    df.to_csv(os.path.join(dir, "base.csv"), index=False)
 
     as_html(df)
 
                 
 
-
-walk_through_csvs(r"EU\data")
+if __name__ == "__main__":
+    walk_through_csvs(r"EU\data")

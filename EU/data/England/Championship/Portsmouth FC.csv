@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Portsmouth FC,1,Nicolas Schmid,Goalkeeper,"Feb 22, 1997 (28)",€1.00m,1997,1000.0,67,29,31,61
+England,Championship,Portsmouth FC,30,Ben Killip,Goalkeeper,"Nov 24, 1995 (29)",€200k,1995,200.0,58,25,27,53
+England,Championship,Portsmouth FC,31,Jordan Archer,Goalkeeper,"Apr 12, 1993 (32)",€150k,1993,150.0,57,25,26,52
+England,Championship,Portsmouth FC,14,Hayden Matthews,Centre-Back,"Jun 19, 2004 (21)",€1.30m,2004,1300.0,67,31,35,55
+England,Championship,Portsmouth FC,5,Regan Poole,Centre-Back,"Jun 18, 1998 (27)",€800k,1998,800.0,65,30,34,53
+England,Championship,Portsmouth FC,6,Conor Shaughnessy,Centre-Back,"Jun 30, 1996 (29)",€800k,1996,800.0,66,30,34,54
+England,Championship,Portsmouth FC,-,Tom McIntyre,Centre-Back,"Nov 6, 1998 (26)",€600k,1998,600.0,64,29,33,52
+England,Championship,Portsmouth FC,17,Ibane Bowat,Centre-Back,"Sep 15, 2002 (22)",€600k,2002,600.0,64,29,33,52
+England,Championship,Portsmouth FC,19,Jacob Farrell,Left-Back,"Nov 19, 2002 (22)",€500k,2002,500.0,63,31,35,48
+England,Championship,Portsmouth FC,3,Connor Ogilvie,Left-Back,"Feb 14, 1996 (29)",€400k,1996,400.0,62,30,34,47
+England,Championship,Portsmouth FC,24,Terry Devlin,Right-Back,"Nov 6, 2003 (21)",€1.00m,2003,1000.0,66,32,36,50
+England,Championship,Portsmouth FC,22,Zak Swanson,Right-Back,"Sep 28, 2000 (24)",€800k,2000,800.0,65,32,36,49
+England,Championship,Portsmouth FC,2,Jordan Williams,Right-Back,"Oct 22, 1999 (25)",€600k,1999,600.0,64,31,35,49
+England,Championship,Portsmouth FC,-,Abdoulaye Kamara,Defensive Midfield,"Nov 6, 2004 (20)",€700k,2004,700.0,64,33,33,41
+England,Championship,Portsmouth FC,21,Andre Dozzell,Central Midfield,"May 2, 1999 (26)",€1.20m,1999,1200.0,68,39,44,39
+England,Championship,Portsmouth FC,-,Luke Le Roux,Central Midfield,"Mar 10, 2000 (25)",€800k,2000,800.0,65,38,42,38
+England,Championship,Portsmouth FC,-,Márk Kosznovszky,Central Midfield,"Apr 17, 2002 (23)",€700k,2002,700.0,64,37,41,37
+England,Championship,Portsmouth FC,7,Marlon Pack,Central Midfield,"Mar 25, 1991 (34)",€200k,1991,200.0,59,34,38,34
+England,Championship,Portsmouth FC,28,Reuben Swann,Central Midfield,"Jan 26, 2006 (19)",-,2006,46.0,48,28,31,28
+England,Championship,Portsmouth FC,-,Matt Ritchie,Right Midfield,"Sep 10, 1989 (35)",€300k,1989,300.0,61,35,39,35
+England,Championship,Portsmouth FC,8,John Swift,Attacking Midfield,"Jun 23, 1995 (30)",€2.80m,1995,2800.0,72,48,44,37
+England,Championship,Portsmouth FC,41,Harry Clout,Attacking Midfield,"Aug 30, 2006 (18)",-,2006,76.0,51,34,31,27
+England,Championship,Portsmouth FC,23,Josh Murphy,Left Winger,"Feb 24, 1995 (30)",€1.00m,1995,1000.0,67,51,39,31
+England,Championship,Portsmouth FC,32,Paddy Lane,Right Winger,"Feb 18, 2001 (24)",€700k,2001,700.0,65,49,38,30
+England,Championship,Portsmouth FC,10,Adrian Segecic,Right Winger,"Jun 1, 2004 (21)",€550k,2004,550.0,62,47,36,29
+England,Championship,Portsmouth FC,29,Harvey Blair,Right Winger,"Sep 14, 2003 (21)",€300k,2003,300.0,60,46,35,28
+England,Championship,Portsmouth FC,49,Callum Lang,Second Striker,"Sep 8, 1998 (26)",€2.80m,1998,2800.0,72,57,42,31
+England,Championship,Portsmouth FC,9,Colby Bishop,Centre-Forward,"Nov 4, 1996 (28)",€1.50m,1996,1500.0,69,57,38,30
+England,Championship,Portsmouth FC,20,Thomas Waddingham,Centre-Forward,"Apr 5, 2005 (20)",€400k,2005,400.0,60,49,33,26

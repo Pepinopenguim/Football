@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,30,Nikita Medvedev,Goalkeeper,"Dec 17, 1994 (30)",€800k,1994,800.0,66,28,30,60
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,1,Vadim Lukyanov,Goalkeeper,"Dec 16, 2002 (22)",€300k,2002,300.0,60,26,28,55
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,2,Viktor Aleksandrov,Centre-Back,"Feb 14, 2002 (23)",€1.20m,2002,1200.0,67,31,35,55
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,22,Nikita Kakkoev,Centre-Back,"Aug 22, 1999 (25)",€1.20m,1999,1200.0,68,31,35,56
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,24,Edgardo Fariña,Centre-Back,"Oct 19, 2001 (23)",€1.00m,2001,1000.0,66,30,34,54
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,25,Sven Karic,Centre-Back,"Mar 7, 1998 (27)",€1.00m,1998,1000.0,67,31,35,55
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,-,Artem Gyurdzhan,Centre-Back,"Jul 6, 2000 (25)",€300k,2000,300.0,60,28,31,49
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,23,Juan Camilo Castillo,Left-Back,"Oct 3, 2002 (22)",€500k,2002,500.0,63,31,35,48
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,70,Maksim Shnaptsev,Left-Back,"Apr 19, 2004 (21)",€300k,2004,300.0,59,29,32,45
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,16,Yaroslav Krashevskiy,Left-Back,"Mar 16, 2004 (21)",€200k,2004,200.0,57,28,31,43
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,15,Aleksandr Ektov,Right-Back,"Jan 30, 1996 (29)",€800k,1996,800.0,66,32,36,50
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,78,Nikolay Kalinskiy,Defensive Midfield,"Sep 22, 1993 (31)",€1.20m,1993,1200.0,68,35,35,44
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,8,Mamadou Maiga,Defensive Midfield,"Feb 10, 1995 (30)",€900k,1995,900.0,66,34,34,42
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,10,Aleksandr Troshechkin,Defensive Midfield,"Apr 23, 1996 (29)",€700k,1996,700.0,65,34,34,42
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,29,Luka Vesner Ticic,Central Midfield,"Oct 25, 2000 (24)",€700k,2000,700.0,65,38,42,38
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,19,Nikita Ermakov,Attacking Midfield,"Jan 19, 2003 (22)",€600k,2003,600.0,63,42,38,33
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,77,Andrey Ivlev,Attacking Midfield,"Nov 21, 2006 (18)",€400k,2006,400.0,60,40,37,31
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,80,Valeriy Tsarukyan,Attacking Midfield,"Nov 12, 2001 (23)",€350k,2001,350.0,61,41,37,32
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,40,Olakunle Olusegun,Left Winger,"Apr 23, 2002 (23)",€2.50m,2002,2500.0,71,54,41,33
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,88,Daniil Lesovoy,Left Winger,"Jan 12, 1998 (27)",€1.50m,1998,1500.0,69,52,40,32
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,21,Renaldo Cephas,Left Winger,"Dec 18, 1999 (25)",€1.30m,1999,1300.0,68,52,39,31
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,27,Vyacheslav Grulev,Left Winger,"Mar 23, 1999 (26)",€1.20m,1999,1200.0,68,52,39,31
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,7,Vladislav Karapuzov,Right Winger,"Jan 6, 2000 (25)",€400k,2000,400.0,62,47,36,29
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,20,Juan Manuel Boselli,Second Striker,"Nov 9, 1999 (25)",€1.20m,1999,1200.0,68,54,39,29
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,9,Thiago Vecino,Centre-Forward,"Feb 25, 1999 (26)",€700k,1999,700.0,65,53,36,28
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,90,Ognjen Ozegovic,Centre-Forward,"Jun 9, 1994 (31)",€500k,1994,500.0,63,52,35,27
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,-,Zé Turbo,Centre-Forward,"Oct 22, 1996 (28)",€450k,1996,450.0,63,52,35,27
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,-,Nikoloz Kutateladze,Centre-Forward,"Mar 19, 2001 (24)",€200k,2001,200.0,58,48,32,25
+Russia,Premier Liga,FC Pari Nizhniy Novgorod,17,Stanislav Lapinskiy,Centre-Forward,"Feb 15, 2005 (20)",€50k,2005,50.0,49,40,27,21

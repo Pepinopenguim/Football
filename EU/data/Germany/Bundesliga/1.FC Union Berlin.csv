@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Germany,Bundesliga,1.FC Union Berlin,1,Frederik Rönnow,Goalkeeper,"Aug 4, 1992 (32)",€3.00m,1992,3000.0,73,31,34,66
+Germany,Bundesliga,1.FC Union Berlin,31,Matheo Raab,Goalkeeper,"Dec 18, 1998 (26)",€600k,1998,600.0,64,28,29,58
+Germany,Bundesliga,1.FC Union Berlin,25,Carl Klaus,Goalkeeper,"Jan 16, 1994 (31)",€350k,1994,350.0,61,26,28,56
+Germany,Bundesliga,1.FC Union Berlin,12,Yannic Stein,Goalkeeper,"Sep 17, 2004 (20)",€200k,2004,200.0,57,25,26,52
+Germany,Bundesliga,1.FC Union Berlin,4,Diogo Leite,Centre-Back,"Jan 23, 1999 (26)",€17.00m,1999,17000.0,82,38,43,67
+Germany,Bundesliga,1.FC Union Berlin,5,Danilho Doekhi,Centre-Back,"Jun 30, 1998 (27)",€13.00m,1998,13000.0,80,37,42,66
+Germany,Bundesliga,1.FC Union Berlin,14,Leopold Querfeld,Centre-Back,"Dec 20, 2003 (21)",€13.00m,2003,13000.0,80,37,42,66
+Germany,Bundesliga,1.FC Union Berlin,34,Stanley Nsoki,Centre-Back,"Apr 9, 1999 (26)",€2.50m,1999,2500.0,71,33,37,58
+Germany,Bundesliga,1.FC Union Berlin,41,Oluwaseun Ogbemudia,Centre-Back,"Jul 18, 2006 (19)",-,2006,18.0,43,20,22,35
+Germany,Bundesliga,1.FC Union Berlin,3,Andrik Markgraf,Left-Back,"Mar 7, 2006 (19)",-,2006,69.0,51,25,28,39
+Germany,Bundesliga,1.FC Union Berlin,18,Josip Juranovic,Right-Back,"Aug 16, 1995 (29)",€4.00m,1995,4000.0,74,36,41,56
+Germany,Bundesliga,1.FC Union Berlin,28,Christopher Trimmel,Right-Back,"Feb 24, 1987 (38)",€600k,1987,600.0,65,32,36,49
+Germany,Bundesliga,1.FC Union Berlin,6,Aljoscha Kemlein,Defensive Midfield,"Aug 2, 2004 (20)",€7.00m,2004,7000.0,76,40,40,49
+Germany,Bundesliga,1.FC Union Berlin,8,Rani Khedira,Defensive Midfield,"Jan 27, 1994 (31)",€2.50m,1994,2500.0,72,37,37,46
+Germany,Bundesliga,1.FC Union Berlin,33,Alex Král,Central Midfield,"May 19, 1998 (27)",€6.00m,1998,6000.0,76,44,49,44
+Germany,Bundesliga,1.FC Union Berlin,13,András Schäfer,Central Midfield,"Apr 13, 1999 (26)",€5.00m,1999,5000.0,75,44,48,44
+Germany,Bundesliga,1.FC Union Berlin,20,László Bénes,Central Midfield,"Sep 9, 1997 (27)",€3.00m,1997,3000.0,73,42,47,42
+Germany,Bundesliga,1.FC Union Berlin,19,Janik Haberer,Central Midfield,"Apr 2, 1994 (31)",€2.50m,1994,2500.0,72,42,46,42
+Germany,Bundesliga,1.FC Union Berlin,29,Lucas Tousart,Central Midfield,"Apr 29, 1997 (28)",€2.50m,1997,2500.0,72,42,46,42
+Germany,Bundesliga,1.FC Union Berlin,15,Tom Rothe,Left Midfield,"Oct 29, 2004 (20)",€10.00m,2004,10000.0,78,45,50,45
+Germany,Bundesliga,1.FC Union Berlin,24,Robert Skov,Left Midfield,"May 20, 1996 (29)",€4.00m,1996,4000.0,74,43,47,43
+Germany,Bundesliga,1.FC Union Berlin,11,Woo-yeong Jeong,Attacking Midfield,"Sep 20, 1999 (25)",€4.00m,1999,4000.0,74,50,45,38
+Germany,Bundesliga,1.FC Union Berlin,9,Livan Burcu,Left Winger,"Sep 28, 2004 (20)",€4.00m,2004,4000.0,73,55,42,34
+Germany,Bundesliga,1.FC Union Berlin,17,David Preu,Left Winger,"Oct 26, 2004 (20)",€400k,2004,400.0,61,46,35,28
+Germany,Bundesliga,1.FC Union Berlin,10,Ilyas Ansah,Centre-Forward,"Nov 8, 2004 (20)",€4.00m,2004,4000.0,73,60,40,31
+Germany,Bundesliga,1.FC Union Berlin,23,Andrej Ilic,Centre-Forward,"Apr 3, 2000 (25)",€4.00m,2000,4000.0,74,61,41,32
+Germany,Bundesliga,1.FC Union Berlin,27,Marin Ljubicic,Centre-Forward,"Feb 28, 2002 (23)",€4.00m,2002,4000.0,74,61,41,32
+Germany,Bundesliga,1.FC Union Berlin,7,Oliver Burke,Centre-Forward,"Apr 7, 1997 (28)",€3.00m,1997,3000.0,73,60,40,31
+Germany,Bundesliga,1.FC Union Berlin,21,Tim Skarke,Centre-Forward,"Sep 7, 1996 (28)",€2.00m,1996,2000.0,71,58,39,31

@@ -1,0 +1,16 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Sheffield Wednesday,47,Pierce Charles,Goalkeeper,"Jul 21, 2005 (20)",€300k,2005,300.0,59,25,27,54
+England,Championship,Sheffield Wednesday,5,Di'Shon Bernard,Centre-Back,"Oct 14, 2000 (24)",€1.60m,2000,1600.0,69,32,36,57
+England,Championship,Sheffield Wednesday,6,Dominic Iorfa,Centre-Back,"Jun 24, 1995 (30)",€300k,1995,300.0,61,28,32,50
+England,Championship,Sheffield Wednesday,33,Gabriel Otegbayo,Centre-Back,"Feb 11, 2005 (20)",€300k,2005,300.0,59,27,31,48
+England,Championship,Sheffield Wednesday,3,Max Lowe,Left-Back,"May 11, 1997 (28)",€2.50m,1997,2500.0,72,35,40,55
+England,Championship,Sheffield Wednesday,27,Yan Valery,Right-Back,"Feb 22, 1999 (26)",€1.40m,1999,1400.0,68,33,37,52
+England,Championship,Sheffield Wednesday,2,Liam Palmer,Right-Back,"Sep 19, 1991 (33)",€150k,1991,150.0,57,28,31,43
+England,Championship,Sheffield Wednesday,4,Nathaniel Chalobah,Defensive Midfield,"Dec 12, 1994 (30)",€800k,1994,800.0,66,34,34,42
+England,Championship,Sheffield Wednesday,8,Svante Ingelsson,Central Midfield,"Jun 14, 1998 (27)",€1.00m,1998,1000.0,67,39,43,39
+England,Championship,Sheffield Wednesday,-,Sean Fusire,Central Midfield,"May 31, 2005 (20)",€100k,2005,100.0,53,31,34,31
+England,Championship,Sheffield Wednesday,19,Olaf Kobacki,Left Winger,"Jul 10, 2001 (24)",€550k,2001,550.0,63,48,37,29
+England,Championship,Sheffield Wednesday,12,Iké Ugbo,Centre-Forward,"Sep 21, 1998 (26)",€2.20m,1998,2200.0,71,58,39,31
+England,Championship,Sheffield Wednesday,9,Jamal Lowe,Centre-Forward,"Jul 21, 1994 (31)",€900k,1994,900.0,66,54,36,28
+England,Championship,Sheffield Wednesday,-,Bailey Cadamarteri,Centre-Forward,"May 9, 2005 (20)",€700k,2005,700.0,63,52,35,27
+England,Championship,Sheffield Wednesday,17,Charlie McNeill,Centre-Forward,"Sep 9, 2003 (21)",€200k,2003,200.0,57,47,31,25

@@ -1,0 +1,39 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,Feyenoord Rotterdam,22,Timon Wellenreuther,Goalkeeper,"Dec 3, 1995 (29)",€6.00m,1995,6000.0,76,33,35,69
+Netherlands,Eredivisie,Feyenoord Rotterdam,1,Justin Bijlow,Goalkeeper,"Jan 22, 1998 (27)",€5.00m,1998,5000.0,75,32,34,68
+Netherlands,Eredivisie,Feyenoord Rotterdam,21,Plamen Andreev,Goalkeeper,"Dec 15, 2004 (20)",€1.50m,2004,1500.0,68,29,31,62
+Netherlands,Eredivisie,Feyenoord Rotterdam,39,Liam Bossin,Goalkeeper,"Jul 15, 1996 (29)",€450k,1996,450.0,63,27,29,57
+Netherlands,Eredivisie,Feyenoord Rotterdam,17,Tsuyoshi Watanabe,Centre-Back,"Feb 5, 1997 (28)",€9.00m,1997,9000.0,78,36,41,64
+Netherlands,Eredivisie,Feyenoord Rotterdam,3,Thomas Beelen,Centre-Back,"Jun 11, 2001 (24)",€8.00m,2001,8000.0,77,35,40,63
+Netherlands,Eredivisie,Feyenoord Rotterdam,18,Gernot Trauner,Centre-Back,"Mar 25, 1992 (33)",€2.50m,1992,2500.0,72,33,37,59
+Netherlands,Eredivisie,Feyenoord Rotterdam,20,Jeyland Mitchell,Centre-Back,"Sep 29, 2004 (20)",€2.00m,2004,2000.0,69,32,36,57
+Netherlands,Eredivisie,Feyenoord Rotterdam,-,Antef Tsoungui,Centre-Back,"Dec 30, 2002 (22)",€650k,2002,650.0,64,29,33,52
+Netherlands,Eredivisie,Feyenoord Rotterdam,43,Jan Plug,Centre-Back,"Apr 2, 2005 (20)",-,2005,59.0,50,23,26,41
+Netherlands,Eredivisie,Feyenoord Rotterdam,5,Gijs Smal,Left-Back,"Aug 31, 1997 (27)",€7.00m,1997,7000.0,77,38,42,59
+Netherlands,Eredivisie,Feyenoord Rotterdam,15,Jordan Bos,Left-Back,"Oct 29, 2002 (22)",€2.70m,2002,2700.0,72,35,40,55
+Netherlands,Eredivisie,Feyenoord Rotterdam,26,Givairo Read,Right-Back,"Jun 2, 2006 (19)",€16.00m,2006,16000.0,80,39,44,61
+Netherlands,Eredivisie,Feyenoord Rotterdam,30,Jordan Lotomba,Right-Back,"Sep 29, 1998 (26)",€6.50m,1998,6500.0,77,38,42,59
+Netherlands,Eredivisie,Feyenoord Rotterdam,2,Bart Nieuwkoop,Right-Back,"Mar 7, 1996 (29)",€2.00m,1996,2000.0,71,35,39,54
+Netherlands,Eredivisie,Feyenoord Rotterdam,35,Neraysho Kasanwirjo,Right-Back,"Feb 18, 2002 (23)",€1.80m,2002,1800.0,69,34,38,52
+Netherlands,Eredivisie,Feyenoord Rotterdam,6,Ramiz Zerrouki,Defensive Midfield,"May 26, 1998 (27)",€5.00m,1998,5000.0,75,39,39,48
+Netherlands,Eredivisie,Feyenoord Rotterdam,28,Oussama Targhalline,Defensive Midfield,"May 20, 2002 (23)",€4.00m,2002,4000.0,74,38,38,47
+Netherlands,Eredivisie,Feyenoord Rotterdam,8,Quinten Timber,Central Midfield,"Jun 17, 2001 (24)",€30.00m,2001,30000.0,85,49,54,49
+Netherlands,Eredivisie,Feyenoord Rotterdam,7,Jakub Moder,Central Midfield,"Apr 7, 1999 (26)",€12.00m,1999,12000.0,80,46,51,46
+Netherlands,Eredivisie,Feyenoord Rotterdam,4,In-beom Hwang,Central Midfield,"Sep 20, 1996 (28)",€10.00m,1996,10000.0,79,46,51,46
+Netherlands,Eredivisie,Feyenoord Rotterdam,24,Sem Steijn,Attacking Midfield,"Nov 12, 2001 (23)",€16.00m,2001,16000.0,81,54,49,42
+Netherlands,Eredivisie,Feyenoord Rotterdam,10,Calvin Stengs,Attacking Midfield,"Dec 18, 1998 (26)",€7.00m,1998,7000.0,77,52,47,40
+Netherlands,Eredivisie,Feyenoord Rotterdam,40,Luciano Valente,Attacking Midfield,"Oct 4, 2003 (21)",€7.00m,2003,7000.0,76,51,46,40
+Netherlands,Eredivisie,Feyenoord Rotterdam,29,Ezequiel Bullaude,Attacking Midfield,"Oct 26, 2000 (24)",€2.50m,2000,2500.0,71,48,43,37
+Netherlands,Eredivisie,Feyenoord Rotterdam,34,Chris-Kévin Nadje,Attacking Midfield,"Aug 14, 2001 (23)",€1.20m,2001,1200.0,67,45,41,35
+Netherlands,Eredivisie,Feyenoord Rotterdam,25,Shiloh 't Zand,Attacking Midfield,"May 14, 2003 (22)",€900k,2003,900.0,65,44,40,34
+Netherlands,Eredivisie,Feyenoord Rotterdam,14,Igor Paixão,Left Winger,"Jun 28, 2000 (25)",€35.00m,2000,35000.0,85,65,49,39
+Netherlands,Eredivisie,Feyenoord Rotterdam,16,Leo Sauer,Left Winger,"Dec 16, 2005 (19)",€5.00m,2005,5000.0,74,56,43,34
+Netherlands,Eredivisie,Feyenoord Rotterdam,27,Gaoussou Diarra,Left Winger,"Nov 21, 2002 (22)",€2.40m,2002,2400.0,71,54,41,33
+Netherlands,Eredivisie,Feyenoord Rotterdam,57,Aymen Sliti,Left Winger,"Mar 24, 2006 (19)",€750k,2006,750.0,63,48,37,29
+Netherlands,Eredivisie,Feyenoord Rotterdam,23,Anis Hadj Moussa,Right Winger,"Feb 11, 2002 (23)",€14.00m,2002,14000.0,80,61,46,37
+Netherlands,Eredivisie,Feyenoord Rotterdam,11,Gonçalo Borges,Right Winger,"Mar 29, 2001 (24)",€5.00m,2001,5000.0,75,57,44,34
+Netherlands,Eredivisie,Feyenoord Rotterdam,36,Jaden Slory,Right Winger,"May 9, 2005 (20)",€1.00m,2005,1000.0,65,49,38,30
+Netherlands,Eredivisie,Feyenoord Rotterdam,9,Ayase Ueda,Centre-Forward,"Aug 28, 1998 (26)",€8.00m,1998,8000.0,78,64,43,34
+Netherlands,Eredivisie,Feyenoord Rotterdam,-,Casper Tengstedt,Centre-Forward,"Jun 1, 2000 (25)",€6.00m,2000,6000.0,76,62,42,33
+Netherlands,Eredivisie,Feyenoord Rotterdam,19,Julián Carranza,Centre-Forward,"May 22, 2000 (25)",€5.00m,2000,5000.0,75,62,41,32
+Netherlands,Eredivisie,Feyenoord Rotterdam,31,Stéphano Carrillo,Centre-Forward,"Mar 7, 2006 (19)",€2.50m,2006,2500.0,70,57,38,30

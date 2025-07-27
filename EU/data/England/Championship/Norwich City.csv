@@ -1,0 +1,33 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Norwich City,1,Vladan Kovačević,Goalkeeper,"Apr 11, 1998 (27)",€3.00m,1998,3000.0,73,31,34,66
+England,Championship,Norwich City,32,Daniel Grimshaw,Goalkeeper,"Jan 16, 1998 (27)",€750k,1998,750.0,65,28,30,59
+England,Championship,Norwich City,39,Vicente Reyes,Goalkeeper,"Nov 19, 2003 (21)",€350k,2003,350.0,60,26,28,55
+England,Championship,Norwich City,12,George Long,Goalkeeper,"Nov 5, 1993 (31)",€300k,1993,300.0,61,26,28,56
+England,Championship,Norwich City,38,Daniel Barden,Goalkeeper,"Jan 2, 2001 (24)",€100k,2001,100.0,54,23,25,49
+England,Championship,Norwich City,-,Louie Moulden,Goalkeeper,"Jan 6, 2002 (23)",-,2002,35.0,48,21,22,44
+England,Championship,Norwich City,33,José Córdoba,Centre-Back,"Jun 3, 2001 (24)",€4.80m,2001,4800.0,75,34,39,62
+England,Championship,Norwich City,6,Harry Darling,Centre-Back,"Aug 8, 1999 (25)",€3.50m,1999,3500.0,73,34,38,60
+England,Championship,Norwich City,5,Jakov Medic,Centre-Back,"Sep 7, 1998 (26)",€2.00m,1998,2000.0,70,32,36,57
+England,Championship,Norwich City,15,Ruairi McConville,Centre-Back,"May 1, 2005 (20)",€1.80m,2005,1800.0,68,31,35,56
+England,Championship,Norwich City,4,Shane Duffy,Centre-Back,"Jan 1, 1992 (33)",€600k,1992,600.0,64,29,33,52
+England,Championship,Norwich City,-,Brad Hills,Centre-Back,"Mar 10, 2004 (21)",€500k,2004,500.0,62,29,32,51
+England,Championship,Norwich City,14,Ben Chrisene,Left-Back,"Jan 12, 2004 (21)",€1.50m,2004,1500.0,68,33,37,52
+England,Championship,Norwich City,47,Lucien Mahovo,Left-Back,"Jun 7, 2005 (20)",€200k,2005,200.0,57,28,31,43
+England,Championship,Norwich City,3,Jack Stacey,Right-Back,"Apr 6, 1996 (29)",€2.80m,1996,2800.0,72,35,40,55
+England,Championship,Norwich City,35,Kellen Fisher,Right-Back,"May 5, 2004 (21)",€1.50m,2004,1500.0,68,33,37,52
+England,Championship,Norwich City,16,Jacob Wright,Defensive Midfield,"Sep 21, 2005 (19)",€800k,2005,800.0,64,33,33,41
+England,Championship,Norwich City,26,Marcelino Núñez,Central Midfield,"Mar 1, 2000 (25)",€6.00m,2000,6000.0,76,44,49,44
+England,Championship,Norwich City,18,Amankwah Forson,Central Midfield,"Dec 31, 2002 (22)",€4.50m,2002,4500.0,74,43,47,43
+England,Championship,Norwich City,20,Anis Slimane,Central Midfield,"Mar 16, 2001 (24)",€3.00m,2001,3000.0,72,42,46,42
+England,Championship,Norwich City,8,Liam Gibbs,Central Midfield,"Dec 16, 2002 (22)",€2.00m,2002,2000.0,70,41,45,41
+England,Championship,Norwich City,23,Kenny McLean,Central Midfield,"Jan 8, 1992 (33)",€600k,1992,600.0,64,37,41,37
+England,Championship,Norwich City,41,Gabe Forsyth,Central Midfield,"Aug 4, 2006 (18)",€200k,2006,200.0,56,32,36,32
+England,Championship,Norwich City,27,Jeffrey Schlupp,Left Midfield,"Dec 23, 1992 (32)",€3.00m,1992,3000.0,73,42,47,42
+England,Championship,Norwich City,29,Oscar Schwartau,Attacking Midfield,"May 17, 2006 (19)",€3.00m,2006,3000.0,71,48,43,37
+England,Championship,Norwich City,11,Emiliano Marcondes,Attacking Midfield,"Mar 9, 1995 (30)",€1.00m,1995,1000.0,67,45,41,35
+England,Championship,Norwich City,19,Papa Amadou Diallo,Left Winger,"Jun 25, 2004 (21)",€4.00m,2004,4000.0,73,55,42,34
+England,Championship,Norwich City,10,Matej Jurasek,Right Winger,"Aug 30, 2003 (21)",€7.00m,2003,7000.0,76,58,44,35
+England,Championship,Norwich City,42,Tony Springett,Right Winger,"Sep 22, 2002 (22)",€500k,2002,500.0,63,48,37,29
+England,Championship,Norwich City,9,Josh Sargent,Centre-Forward,"Feb 20, 2000 (25)",€16.00m,2000,16000.0,81,66,45,35
+England,Championship,Norwich City,30,Mathias Kvistgaarden,Centre-Forward,"Apr 15, 2002 (23)",€15.00m,2002,15000.0,81,66,45,35
+England,Championship,Norwich City,17,Ante Crnac,Centre-Forward,"Dec 17, 2003 (21)",€8.00m,2003,8000.0,77,63,42,33

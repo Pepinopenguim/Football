@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Charlton Athletic,-,Thomas Kaminski,Goalkeeper,"Oct 23, 1992 (32)",€1.80m,1992,1800.0,70,30,32,64
+England,Championship,Charlton Athletic,25,Will Mannion,Goalkeeper,"May 5, 1998 (27)",€400k,1998,400.0,62,27,29,56
+England,Championship,Charlton Athletic,21,Ashley Maynard-Brewer,Goalkeeper,"Jun 25, 1999 (26)",€300k,1999,300.0,60,26,28,55
+England,Championship,Charlton Athletic,-,Reece Burke,Centre-Back,"Sep 2, 1996 (28)",€1.50m,1996,1500.0,69,32,36,57
+England,Championship,Charlton Athletic,4,Alex Mitchell,Centre-Back,"Oct 7, 2001 (23)",€700k,2001,700.0,65,30,34,53
+England,Championship,Charlton Athletic,3,Macaulay Gillesphey,Centre-Back,"Nov 24, 1995 (29)",€400k,1995,400.0,62,29,32,51
+England,Championship,Charlton Athletic,5,Lloyd Jones,Centre-Back,"Oct 7, 1995 (29)",€200k,1995,200.0,58,27,30,48
+England,Championship,Charlton Athletic,20,Zach Mitchell,Centre-Back,"Jan 9, 2005 (20)",€200k,2005,200.0,57,26,30,47
+England,Championship,Charlton Athletic,-,Amari'i Bell,Left-Back,"May 5, 1994 (31)",€1.20m,1994,1200.0,68,33,37,52
+England,Championship,Charlton Athletic,16,Josh Edwards,Left-Back,"May 27, 2000 (25)",€550k,2000,550.0,63,31,35,48
+England,Championship,Charlton Athletic,-,Joe Rankin-Costello,Right-Back,"Jul 26, 1999 (26)",€1.60m,1999,1600.0,69,34,38,52
+England,Championship,Charlton Athletic,2,Kayne Ramsay,Right-Back,"Oct 10, 2000 (24)",€200k,2000,200.0,58,28,32,44
+England,Championship,Charlton Athletic,19,Nathan Asiimwe,Right-Back,"Dec 29, 2004 (20)",€125k,2004,125.0,55,27,30,42
+England,Championship,Charlton Athletic,6,Conor Coventry,Defensive Midfield,"Mar 25, 2000 (25)",€1.50m,2000,1500.0,69,36,36,44
+England,Championship,Charlton Athletic,12,Terry Taylor,Defensive Midfield,"Jun 29, 2001 (24)",€250k,2001,250.0,59,31,31,38
+England,Championship,Charlton Athletic,10,Greg Docherty,Central Midfield,"Sep 10, 1996 (28)",€1.00m,1996,1000.0,67,39,43,39
+England,Championship,Charlton Athletic,-,Sonny Carey,Central Midfield,"Jan 20, 2001 (24)",€750k,2001,750.0,65,38,42,38
+England,Championship,Charlton Athletic,18,Karoy Anderson,Central Midfield,"Oct 1, 2004 (20)",€350k,2004,350.0,60,35,38,35
+England,Championship,Charlton Athletic,8,Luke Berry,Central Midfield,"Jul 12, 1992 (33)",€300k,1992,300.0,61,35,39,35
+England,Championship,Charlton Athletic,7,Tyreece Campbell,Left Winger,"Sep 14, 2003 (21)",€600k,2003,600.0,63,48,37,29
+England,Championship,Charlton Athletic,-,Rob Apter,Right Winger,"Apr 23, 2003 (22)",€700k,2003,700.0,64,49,37,29
+England,Championship,Charlton Athletic,13,Kaheim Dixon,Right Winger,"Oct 4, 2004 (20)",€100k,2004,100.0,53,40,31,24
+England,Championship,Charlton Athletic,9,Gassan Ahadme,Centre-Forward,"Nov 17, 2000 (24)",€700k,2000,700.0,65,53,36,28
+England,Championship,Charlton Athletic,-,Charlie Kelman,Centre-Forward,"Nov 2, 2001 (23)",€650k,2001,650.0,64,52,35,28
+England,Championship,Charlton Athletic,-,Tanto Olaofe,Centre-Forward,"Nov 21, 1999 (25)",€500k,1999,500.0,63,52,35,27
+England,Championship,Charlton Athletic,11,Miles Leaburn,Centre-Forward,"Nov 28, 2003 (21)",€500k,2003,500.0,62,51,34,27
+England,Championship,Charlton Athletic,24,Matty Godden,Centre-Forward,"Jul 29, 1991 (33)",€250k,1991,250.0,60,49,33,26
+England,Championship,Charlton Athletic,29,Daniel Kanu,Centre-Forward,"Nov 14, 2004 (20)",€250k,2004,250.0,58,48,32,25
+England,Championship,Charlton Athletic,42,Micah Mbick,Centre-Forward,"Nov 8, 2006 (18)",-,2006,6.0,38,31,21,16

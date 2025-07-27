@@ -1,0 +1,27 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Scotland,Scottish Premiership,Celtic FC,12,Viljami Sinisalo,Goalkeeper,"Oct 11, 2001 (23)",€1.00m,2001,1000.0,66,28,30,60
+Scotland,Scottish Premiership,Celtic FC,1,Kasper Schmeichel,Goalkeeper,"Nov 5, 1986 (38)",€500k,1986,500.0,64,28,29,58
+Scotland,Scottish Premiership,Celtic FC,31,Ross Doohan,Goalkeeper,"Mar 29, 1998 (27)",€250k,1998,250.0,59,25,27,54
+Scotland,Scottish Premiership,Celtic FC,20,Cameron Carter-Vickers,Centre-Back,"Dec 31, 1997 (27)",€14.00m,1997,14000.0,81,37,42,66
+Scotland,Scottish Premiership,Celtic FC,6,Auston Trusty,Centre-Back,"Aug 12, 1998 (26)",€6.00m,1998,6000.0,76,35,40,62
+Scotland,Scottish Premiership,Celtic FC,5,Liam Scales,Centre-Back,"Aug 8, 1998 (26)",€4.00m,1998,4000.0,74,34,38,61
+Scotland,Scottish Premiership,Celtic FC,57,Stephen Welsh,Centre-Back,"Jan 19, 2000 (25)",€1.00m,2000,1000.0,67,31,35,55
+Scotland,Scottish Premiership,Celtic FC,25,Hayato Inamura,Centre-Back,"May 6, 2002 (23)",€300k,2002,300.0,60,28,31,49
+Scotland,Scottish Premiership,Celtic FC,63,Kieran Tierney,Left-Back,"Jun 5, 1997 (28)",€9.00m,1997,9000.0,78,38,43,59
+Scotland,Scottish Premiership,Celtic FC,2,Alistair Johnston,Right-Back,"Oct 8, 1998 (26)",€10.00m,1998,10000.0,79,39,43,60
+Scotland,Scottish Premiership,Celtic FC,56,Anthony Ralston,Right-Back,"Nov 16, 1998 (26)",€1.50m,1998,1500.0,69,34,38,52
+Scotland,Scottish Premiership,Celtic FC,41,Reo Hatate,Central Midfield,"Nov 21, 1997 (27)",€13.00m,1997,13000.0,80,46,51,46
+Scotland,Scottish Premiership,Celtic FC,27,Arne Engels,Central Midfield,"Sep 8, 2003 (21)",€12.00m,2003,12000.0,79,46,51,46
+Scotland,Scottish Premiership,Celtic FC,28,Paulo Bernardo,Central Midfield,"Jan 24, 2002 (23)",€5.50m,2002,5500.0,75,44,48,44
+Scotland,Scottish Premiership,Celtic FC,42,Callum McGregor,Central Midfield,"Jun 14, 1993 (32)",€5.00m,1993,5000.0,76,44,49,44
+Scotland,Scottish Premiership,Celtic FC,14,Luke McCowan,Central Midfield,"Dec 9, 1997 (27)",€2.50m,1997,2500.0,72,42,46,42
+Scotland,Scottish Premiership,Celtic FC,38,Daizen Maeda,Left Winger,"Oct 20, 1997 (27)",€15.00m,1997,15000.0,81,62,47,37
+Scotland,Scottish Premiership,Celtic FC,7,Jota,Left Winger,"Mar 30, 1999 (26)",€8.00m,1999,8000.0,78,59,45,36
+Scotland,Scottish Premiership,Celtic FC,8,Benjamin Nygren,Right Winger,"Jul 8, 2001 (24)",€6.00m,2001,6000.0,76,58,44,35
+Scotland,Scottish Premiership,Celtic FC,13,Hyun-jun Yang,Right Winger,"May 25, 2002 (23)",€2.50m,2002,2500.0,71,54,41,33
+Scotland,Scottish Premiership,Celtic FC,23,Marco Tilio,Right Winger,"Aug 23, 2001 (23)",€900k,2001,900.0,66,50,38,30
+Scotland,Scottish Premiership,Celtic FC,49,James Forrest,Right Winger,"Jul 7, 1991 (34)",€500k,1991,500.0,64,49,37,29
+Scotland,Scottish Premiership,Celtic FC,9,Adam Idah,Centre-Forward,"Feb 11, 2001 (24)",€6.50m,2001,6500.0,76,62,42,33
+Scotland,Scottish Premiership,Celtic FC,-,Shin Yamada,Centre-Forward,"May 30, 2000 (25)",€800k,2000,800.0,65,53,36,28
+Scotland,Scottish Premiership,Celtic FC,24,Johnny Kenny,Centre-Forward,"Jun 6, 2003 (22)",€400k,2003,400.0,61,50,34,26
+Scotland,Scottish Premiership,Celtic FC,19,Callum Osmand,Centre-Forward,"Nov 8, 2005 (19)",-,2005,10.0,41,34,23,18

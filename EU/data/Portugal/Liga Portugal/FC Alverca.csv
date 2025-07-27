@@ -1,0 +1,30 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,FC Alverca,-,André Gomes,Goalkeeper,"Oct 20, 2004 (20)",€2.50m,2004,2500.0,71,31,33,65
+Portugal,Liga Portugal,FC Alverca,1,Mateus,Goalkeeper,"May 2, 2002 (23)",€100k,2002,100.0,54,23,25,49
+Portugal,Liga Portugal,FC Alverca,1,Cristian,Goalkeeper,"Feb 25, 2002 (23)",€75k,2002,75.0,53,23,24,48
+Portugal,Liga Portugal,FC Alverca,-,André Paulo,Goalkeeper,"Dec 18, 1996 (28)",-,1996,9.0,42,18,19,38
+Portugal,Liga Portugal,FC Alverca,-,Bastien Meupiyou,Centre-Back,"Mar 19, 2006 (19)",€2.50m,2006,2500.0,70,32,36,57
+Portugal,Liga Portugal,FC Alverca,-,Naves,Centre-Back,"May 8, 2002 (23)",€2.00m,2002,2000.0,70,32,36,57
+Portugal,Liga Portugal,FC Alverca,-,Steven Baseya,Centre-Back,"Jan 14, 2005 (20)",€400k,2005,400.0,60,28,31,49
+Portugal,Liga Portugal,FC Alverca,34,Talisca,Centre-Back,"Mar 20, 2003 (22)",€75k,2003,75.0,52,24,27,43
+Portugal,Liga Portugal,FC Alverca,-,Mouhamed Lamine N'Diaye,Centre-Back,"Jul 16, 2005 (20)",-,2005,56.0,50,23,26,41
+Portugal,Liga Portugal,FC Alverca,-,Isaac James,Left-Back,"Aug 28, 2004 (20)",€150k,2004,150.0,56,27,31,43
+Portugal,Liga Portugal,FC Alverca,-,João Douglas,Left-Back,"Mar 29, 2004 (21)",€50k,2004,50.0,50,24,28,38
+Portugal,Liga Portugal,FC Alverca,-,Ikker Julian,Left-Back,"Jul 7, 2005 (20)",-,2005,30.0,47,23,26,36
+Portugal,Liga Portugal,FC Alverca,-,Gonçalo Esteves,Right-Back,"Feb 27, 2004 (21)",€500k,2004,500.0,62,30,34,47
+Portugal,Liga Portugal,FC Alverca,-,Kauan,Right-Back,"Apr 26, 2005 (20)",-,2005,73.0,51,25,28,39
+Portugal,Liga Portugal,FC Alverca,-,Abderrahmane Soumare,Defensive Midfield,"Nov 11, 2006 (18)",-,2006,85.0,52,27,27,33
+Portugal,Liga Portugal,FC Alverca,-,Gian Cabezas,Central Midfield,"Jan 1, 2003 (22)",€350k,2003,350.0,60,35,38,35
+Portugal,Liga Portugal,FC Alverca,-,Tomás Mendes,Central Midfield,"Nov 21, 2004 (20)",€200k,2004,200.0,57,33,36,33
+Portugal,Liga Portugal,FC Alverca,-,Davy Gui,Central Midfield,"Jun 15, 2006 (19)",€150k,2006,150.0,55,32,35,32
+Portugal,Liga Portugal,FC Alverca,88,Diogo Martins,Attacking Midfield,"Aug 21, 1996 (28)",€400k,1996,400.0,62,42,38,32
+Portugal,Liga Portugal,FC Alverca,-,Amorim,Attacking Midfield,"May 18, 2005 (20)",€50k,2005,50.0,49,33,30,25
+Portugal,Liga Portugal,FC Alverca,-,Léo Chú,Left Winger,"Apr 6, 2000 (25)",€2.00m,2000,2000.0,70,53,41,32
+Portugal,Liga Portugal,FC Alverca,-,Chiquinho,Left Winger,"Feb 5, 2000 (25)",€2.00m,2000,2000.0,70,53,41,32
+Portugal,Liga Portugal,FC Alverca,-,Cédric Nuozzi,Left Winger,"Jan 30, 2006 (19)",€350k,2006,350.0,59,45,34,27
+Portugal,Liga Portugal,FC Alverca,-,Júnior Armando Mendes,Left Winger,"Nov 17, 2001 (23)",€200k,2001,200.0,58,44,34,27
+Portugal,Liga Portugal,FC Alverca,-,Stéphane Diarra,Right Winger,"Dec 9, 1998 (26)",€800k,1998,800.0,65,49,38,30
+Portugal,Liga Portugal,FC Alverca,8,Caio Rosa,Right Winger,"Mar 9, 2001 (24)",€50k,2001,50.0,50,38,29,23
+Portugal,Liga Portugal,FC Alverca,-,Marko Milovanovic,Centre-Forward,"Aug 4, 2003 (21)",€600k,2003,600.0,63,52,35,27
+Portugal,Liga Portugal,FC Alverca,-,Tiago Leite,Centre-Forward,"Jul 31, 2000 (24)",-,2000,93.0,54,44,30,23
+Portugal,Liga Portugal,FC Alverca,-,Felipe Lima,Centre-Forward,"Apr 17, 2006 (19)",-,2006,82.0,52,43,29,22

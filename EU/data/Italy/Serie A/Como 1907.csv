@@ -1,0 +1,44 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Italy,Serie A,Como 1907,30,Jean Butez,Goalkeeper,"Jun 8, 1995 (30)",€3.50m,1995,3500.0,74,32,34,67
+Italy,Serie A,Como 1907,22,Mauro Vigorito,Goalkeeper,"May 22, 1990 (35)",€150k,1990,150.0,57,25,26,52
+Italy,Serie A,Como 1907,13,Alberto Dossena,Centre-Back,"Oct 13, 1998 (26)",€8.00m,1998,8000.0,78,36,41,64
+Italy,Serie A,Como 1907,2,Marc Oliver Kempf,Centre-Back,"Jan 28, 1995 (30)",€3.00m,1995,3000.0,73,34,38,60
+Italy,Serie A,Como 1907,5,Edoardo Goldaniga,Centre-Back,"Nov 2, 1993 (31)",€3.00m,1993,3000.0,73,34,38,60
+Italy,Serie A,Como 1907,15,Fellipe Jack,Centre-Back,"Jan 12, 2006 (19)",€1.40m,2006,1400.0,67,31,35,55
+Italy,Serie A,Como 1907,41,Álex Valle,Left-Back,"Apr 25, 2004 (21)",€6.00m,2004,6000.0,75,37,41,57
+Italy,Serie A,Como 1907,18,Alberto Moreno,Left-Back,"Jul 5, 1992 (33)",€1.50m,1992,1500.0,69,34,38,52
+Italy,Serie A,Como 1907,-,Marco Sala,Left-Back,"Jun 4, 1999 (26)",€900k,1999,900.0,66,32,36,50
+Italy,Serie A,Como 1907,77,Ignace Van der Brempt,Right-Back,"Apr 1, 2002 (23)",€4.00m,2002,4000.0,74,36,41,56
+Italy,Serie A,Como 1907,31,Mërgim Vojvoda,Right-Back,"Feb 1, 1995 (30)",€3.00m,1995,3000.0,73,36,40,55
+Italy,Serie A,Como 1907,28,Ivan Smolcic,Right-Back,"Aug 17, 2000 (24)",€1.80m,2000,1800.0,70,34,38,53
+Italy,Serie A,Como 1907,-,Peter Kovacik,Right-Back,"Dec 1, 2001 (23)",€1.00m,2001,1000.0,66,32,36,50
+Italy,Serie A,Como 1907,-,Tommaso Cassandro,Right-Back,"Jan 9, 2000 (25)",€700k,2000,700.0,65,32,36,49
+Italy,Serie A,Como 1907,23,Máximo Perrone,Defensive Midfield,"Jan 7, 2003 (22)",€12.00m,2003,12000.0,79,41,41,51
+Italy,Serie A,Como 1907,26,Yannik Engelhardt,Defensive Midfield,"Feb 7, 2001 (24)",€6.00m,2001,6000.0,76,40,40,49
+Italy,Serie A,Como 1907,-,Oliver Abildgaard,Defensive Midfield,"Jun 10, 1996 (29)",€1.00m,1996,1000.0,67,35,35,43
+Italy,Serie A,Como 1907,80,Maxence Caqueret,Central Midfield,"Feb 15, 2000 (25)",€16.00m,2000,16000.0,81,47,52,47
+Italy,Serie A,Como 1907,33,Lucas Da Cunha,Central Midfield,"Jun 9, 2001 (24)",€10.00m,2001,10000.0,79,46,51,46
+Italy,Serie A,Como 1907,-,Luca Mazzitelli,Central Midfield,"Nov 15, 1995 (29)",€1.50m,1995,1500.0,69,40,44,40
+Italy,Serie A,Como 1907,20,Sergi Roberto,Central Midfield,"Feb 7, 1992 (33)",€1.50m,1992,1500.0,69,40,44,40
+Italy,Serie A,Como 1907,27,Matthias Braunöder,Central Midfield,"Mar 27, 2002 (23)",€1.40m,2002,1400.0,68,39,44,39
+Italy,Serie A,Como 1907,-,Ben Lhassine Kone,Central Midfield,"Mar 14, 2000 (25)",€500k,2000,500.0,63,37,40,37
+Italy,Serie A,Como 1907,58,Giuseppe Mazzaglia,Central Midfield,"Apr 20, 2006 (19)",€250k,2006,250.0,57,33,36,33
+Italy,Serie A,Como 1907,79,Nico Paz,Attacking Midfield,"Sep 8, 2004 (20)",€35.00m,2004,35000.0,85,57,52,44
+Italy,Serie A,Como 1907,8,Martin Baturina,Attacking Midfield,"Feb 16, 2003 (22)",€22.00m,2003,22000.0,82,55,50,43
+Italy,Serie A,Como 1907,8,Dele Alli,Attacking Midfield,"Apr 11, 1996 (29)",€2.00m,1996,2000.0,71,48,43,37
+Italy,Serie A,Como 1907,44,Naj Razi,Attacking Midfield,"Oct 28, 2006 (18)",€300k,2006,300.0,58,39,35,30
+Italy,Serie A,Como 1907,-,Jesús Rodríguez,Left Winger,"Nov 21, 2005 (19)",€30.00m,2005,30000.0,83,63,48,38
+Italy,Serie A,Como 1907,38,Assane Diao,Left Winger,"Sep 7, 2005 (19)",€30.00m,2005,30000.0,83,63,48,38
+Italy,Serie A,Como 1907,16,Alieu Fadera,Left Winger,"Nov 3, 2001 (23)",€4.50m,2001,4500.0,74,56,43,34
+Italy,Serie A,Como 1907,-,Ali Jasim,Left Winger,"Jan 20, 2004 (21)",€550k,2004,550.0,62,47,36,29
+Italy,Serie A,Como 1907,19,Nicolas Kühn,Right Winger,"Jan 1, 2000 (25)",€12.00m,2000,12000.0,80,61,46,37
+Italy,Serie A,Como 1907,7,Gabriel Strefezza,Right Winger,"Apr 18, 1997 (28)",€6.00m,1997,6000.0,76,58,44,35
+Italy,Serie A,Como 1907,42,Jayden Addai,Right Winger,"Aug 26, 2005 (19)",€1.50m,2005,1500.0,67,51,39,31
+Italy,Serie A,Como 1907,-,Samuel Ballet,Right Winger,"Mar 12, 2001 (24)",€1.20m,2001,1200.0,67,51,39,31
+Italy,Serie A,Como 1907,-,Liam Kerrigan,Right Winger,"May 9, 2000 (25)",€200k,2000,200.0,58,44,34,27
+Italy,Serie A,Como 1907,11,Anastasios Douvikas,Centre-Forward,"Aug 2, 1999 (25)",€10.00m,1999,10000.0,79,65,43,34
+Italy,Serie A,Como 1907,10,Patrick Cutrone,Centre-Forward,"Jan 3, 1998 (27)",€6.00m,1998,6000.0,76,62,42,33
+Italy,Serie A,Como 1907,90,Iván Azón,Centre-Forward,"Dec 24, 2002 (22)",€3.00m,2002,3000.0,72,59,40,31
+Italy,Serie A,Como 1907,-,Andrea Belotti,Centre-Forward,"Dec 20, 1993 (31)",€2.00m,1993,2000.0,71,58,39,31
+Italy,Serie A,Como 1907,-,Alberto Cerri,Centre-Forward,"Apr 16, 1996 (29)",€1.00m,1996,1000.0,67,55,37,29
+Italy,Serie A,Como 1907,9,Alessandro Gabrielloni,Centre-Forward,"Jul 10, 1994 (31)",€850k,1994,850.0,66,54,36,28

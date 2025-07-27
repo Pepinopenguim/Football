@@ -1,0 +1,29 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Russia,Premier Liga,FC Krasnodar,1,Stanislav Agkatsev,Goalkeeper,"Jan 9, 2002 (23)",€7.50m,2002,7500.0,77,33,35,70
+Russia,Premier Liga,FC Krasnodar,16,Aleksandr Koryakin,Goalkeeper,"Mar 10, 2002 (23)",€450k,2002,450.0,62,27,29,56
+Russia,Premier Liga,FC Krasnodar,34,Daniil Golikov,Goalkeeper,"Mar 24, 2004 (21)",€200k,2004,200.0,57,25,26,52
+Russia,Premier Liga,FC Krasnodar,35,Roman Safronov,Goalkeeper,"Feb 15, 2003 (22)",€100k,2003,100.0,54,23,25,49
+Russia,Premier Liga,FC Krasnodar,4,Diego Costa,Centre-Back,"Jul 21, 1999 (26)",€8.00m,1999,8000.0,78,36,41,64
+Russia,Premier Liga,FC Krasnodar,3,Vítor Tormena,Centre-Back,"Jan 4, 1996 (29)",€7.00m,1996,7000.0,77,35,40,63
+Russia,Premier Liga,FC Krasnodar,5,Jubal,Centre-Back,"Aug 29, 1993 (31)",€2.50m,1993,2500.0,72,33,37,59
+Russia,Premier Liga,FC Krasnodar,2,Vitaliy Stezhko,Centre-Back,"Jan 29, 1997 (28)",€600k,1997,600.0,64,29,33,52
+Russia,Premier Liga,FC Krasnodar,15,Lucas Olaza,Left-Back,"Jul 21, 1994 (31)",€4.00m,1994,4000.0,74,36,41,56
+Russia,Premier Liga,FC Krasnodar,32,Dmitriy Pivovarov,Left-Back,"Mar 21, 2000 (25)",€200k,2000,200.0,58,28,32,44
+Russia,Premier Liga,FC Krasnodar,20,Giovanni González,Right-Back,"Sep 20, 1994 (30)",€2.50m,1994,2500.0,72,35,40,55
+Russia,Premier Liga,FC Krasnodar,98,Sergey Petrov,Right-Back,"Jan 2, 1991 (34)",€400k,1991,400.0,62,30,34,47
+Russia,Premier Liga,FC Krasnodar,53,Aleksandr Chernikov,Defensive Midfield,"Feb 1, 2000 (25)",€8.00m,2000,8000.0,78,41,41,50
+Russia,Premier Liga,FC Krasnodar,6,Kevin Lenini,Defensive Midfield,"Jan 27, 1997 (28)",€5.00m,1997,5000.0,75,39,39,48
+Russia,Premier Liga,FC Krasnodar,77,Nikita Getjman,Defensive Midfield,"Jul 3, 2004 (21)",€75k,2004,75.0,52,27,27,33
+Russia,Premier Liga,FC Krasnodar,66,Douglas Augusto,Central Midfield,"Jan 13, 1997 (28)",€6.00m,1997,6000.0,76,44,49,44
+Russia,Premier Liga,FC Krasnodar,50,Grigoriy Lovtsov,Central Midfield,"Jan 6, 2005 (20)",€125k,2005,125.0,54,31,35,31
+Russia,Premier Liga,FC Krasnodar,10,Eduard Spertsyan,Attacking Midfield,"Jun 7, 2000 (25)",€25.00m,2000,25000.0,84,56,51,44
+Russia,Premier Liga,FC Krasnodar,88,Nikita Krivtsov,Attacking Midfield,"Aug 18, 2002 (22)",€4.00m,2002,4000.0,74,50,45,38
+Russia,Premier Liga,FC Krasnodar,8,Danila Kozlov,Attacking Midfield,"Jan 19, 2005 (20)",€2.00m,2005,2000.0,69,46,42,36
+Russia,Premier Liga,FC Krasnodar,11,João Batxi,Left Winger,"May 1, 1998 (27)",€5.00m,1998,5000.0,75,57,44,34
+Russia,Premier Liga,FC Krasnodar,7,Victor Sá,Left Winger,"Mar 27, 1994 (31)",€3.00m,1994,3000.0,73,55,42,34
+Russia,Premier Liga,FC Krasnodar,14,Gustavo Furtado,Left Winger,"Feb 14, 2001 (24)",€500k,2001,500.0,63,48,37,29
+Russia,Premier Liga,FC Krasnodar,23,Gaëtan Perrin,Right Winger,"Jun 7, 1996 (29)",€8.00m,1996,8000.0,78,59,45,36
+Russia,Premier Liga,FC Krasnodar,90,Moses David Cobnan,Right Winger,"Sep 10, 2002 (22)",€900k,2002,900.0,66,50,38,30
+Russia,Premier Liga,FC Krasnodar,9,Jhon Córdoba,Centre-Forward,"May 11, 1993 (32)",€12.00m,1993,12000.0,80,66,44,34
+Russia,Premier Liga,FC Krasnodar,96,Aleksandr Koksharov,Centre-Forward,"Dec 20, 2004 (20)",€800k,2004,800.0,64,52,35,28
+Russia,Premier Liga,FC Krasnodar,21,Danil Karpov,Centre-Forward,"Jun 28, 1999 (26)",€150k,1999,150.0,56,46,31,24

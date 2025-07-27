@@ -1,0 +1,37 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Türkiye,Süper Lig,Caykur Rizespor,-,Erdem Canpolat,Goalkeeper,"Apr 13, 2001 (24)",€550k,2001,550.0,63,27,29,57
+Türkiye,Süper Lig,Caykur Rizespor,-,Zafer Görgen,Goalkeeper,"Jun 21, 2000 (25)",€300k,2000,300.0,60,26,28,55
+Türkiye,Süper Lig,Caykur Rizespor,35,Efe Doğan,Goalkeeper,"Aug 20, 2004 (20)",€200k,2004,200.0,57,25,26,52
+Türkiye,Süper Lig,Caykur Rizespor,-,Canberk Yurdakul,Goalkeeper,"Apr 30, 2001 (24)",€50k,2001,50.0,50,22,23,46
+Türkiye,Süper Lig,Caykur Rizespor,2,Khusniddin Alikulov,Centre-Back,"Apr 4, 1999 (26)",€1.70m,1999,1700.0,69,32,36,57
+Türkiye,Süper Lig,Caykur Rizespor,4,Attila Mocsi,Centre-Back,"May 29, 2000 (25)",€1.70m,2000,1700.0,69,32,36,57
+Türkiye,Süper Lig,Caykur Rizespor,3,Samet Akaydin,Centre-Back,"Mar 13, 1994 (31)",€1.50m,1994,1500.0,69,32,36,57
+Türkiye,Süper Lig,Caykur Rizespor,-,Anıl Yaşar,Centre-Back,"Jul 1, 2002 (23)",€375k,2002,375.0,61,28,32,50
+Türkiye,Süper Lig,Caykur Rizespor,-,Mustafa Şengül,Centre-Back,"Jul 8, 1999 (26)",€175k,1999,175.0,57,26,30,47
+Türkiye,Süper Lig,Caykur Rizespor,95,Habil Özbakır,Centre-Back,"Feb 6, 2005 (20)",-,2005,34.0,47,22,24,39
+Türkiye,Süper Lig,Caykur Rizespor,5,Casper Højer,Left-Back,"Nov 20, 1994 (30)",€1.20m,1994,1200.0,68,33,37,52
+Türkiye,Süper Lig,Caykur Rizespor,-,Hüseyincan Kırıkcı,Left-Back,"Mar 9, 2004 (21)",€50k,2004,50.0,50,24,28,38
+Türkiye,Süper Lig,Caykur Rizespor,37,Taha Şahin,Right-Back,"Oct 22, 2000 (24)",€1.80m,2000,1800.0,70,34,38,53
+Türkiye,Süper Lig,Caykur Rizespor,-,Furkan Orak,Right-Back,"May 28, 2001 (24)",€350k,2001,350.0,61,30,34,46
+Türkiye,Süper Lig,Caykur Rizespor,-,Aziz Aksoy,Right-Back,"Jul 12, 2000 (25)",€50k,2000,50.0,51,25,28,39
+Türkiye,Süper Lig,Caykur Rizespor,6,Giannis Papanikolaou,Defensive Midfield,"Nov 18, 1998 (26)",€1.40m,1998,1400.0,68,35,35,44
+Türkiye,Süper Lig,Caykur Rizespor,-,Janne-Pekka Laine,Defensive Midfield,"Jan 25, 2001 (24)",€200k,2001,200.0,58,30,30,37
+Türkiye,Süper Lig,Caykur Rizespor,-,Efe Geçim,Defensive Midfield,"Oct 23, 2004 (20)",€50k,2004,50.0,50,26,26,32
+Türkiye,Süper Lig,Caykur Rizespor,-,Qazim Laci,Central Midfield,"Jan 19, 1996 (29)",€4.00m,1996,4000.0,74,43,47,43
+Türkiye,Süper Lig,Caykur Rizespor,10,Ibrahim Olawoyin,Central Midfield,"Dec 1, 1997 (27)",€2.20m,1997,2200.0,71,41,45,41
+Türkiye,Süper Lig,Caykur Rizespor,18,Muhamed Buljubasic,Central Midfield,"Jul 4, 2004 (21)",€1.40m,2004,1400.0,67,39,43,39
+Türkiye,Süper Lig,Caykur Rizespor,54,Mithat Pala,Central Midfield,"Aug 15, 2000 (24)",€1.40m,2000,1400.0,68,39,44,39
+Türkiye,Süper Lig,Caykur Rizespor,-,Eren Emre Aydın,Central Midfield,"Aug 20, 2004 (20)",€125k,2004,125.0,55,32,35,32
+Türkiye,Süper Lig,Caykur Rizespor,-,Emirhan Yılmaz,Central Midfield,"Apr 22, 2004 (21)",€25k,2004,25.0,46,27,29,27
+Türkiye,Süper Lig,Caykur Rizespor,8,Dal Varesanovic,Attacking Midfield,"May 23, 2001 (24)",€2.40m,2001,2400.0,71,48,43,37
+Türkiye,Süper Lig,Caykur Rizespor,-,Valentin Mihăilă,Left Winger,"Feb 2, 2000 (25)",€3.00m,2000,3000.0,72,55,42,33
+Türkiye,Süper Lig,Caykur Rizespor,77,Altin Zeqiri,Left Winger,"Jul 18, 2000 (25)",€1.40m,2000,1400.0,68,52,39,31
+Türkiye,Süper Lig,Caykur Rizespor,17,Emrecan Bulut,Left Winger,"Nov 26, 2002 (22)",€350k,2002,350.0,61,46,35,28
+Türkiye,Süper Lig,Caykur Rizespor,-,Efe Tecimer,Left Winger,"Jul 9, 2003 (22)",€50k,2003,50.0,50,38,29,23
+Türkiye,Süper Lig,Caykur Rizespor,-,Güvenç Usta,Left Winger,"Apr 1, 2004 (21)",€50k,2004,50.0,50,38,29,23
+Türkiye,Süper Lig,Caykur Rizespor,97,Doğanay Avcı,Left Winger,"Feb 7, 2006 (19)",-,2006,97.0,52,40,30,24
+Türkiye,Süper Lig,Caykur Rizespor,-,Mame Mor Faye,Right Winger,"Jul 12, 2005 (20)",€550k,2005,550.0,62,47,36,29
+Türkiye,Süper Lig,Caykur Rizespor,9,Ali Sowe,Centre-Forward,"Jun 14, 1994 (31)",€1.90m,1994,1900.0,70,57,38,30
+Türkiye,Süper Lig,Caykur Rizespor,15,Vaclav Jurecka,Centre-Forward,"Jun 26, 1994 (31)",€1.10m,1994,1100.0,68,56,37,29
+Türkiye,Süper Lig,Caykur Rizespor,-,Halil Dervişoğlu,Centre-Forward,"Dec 8, 1999 (25)",€900k,1999,900.0,66,54,36,28
+Türkiye,Süper Lig,Caykur Rizespor,-,Remzi Kolcuoğlu,Centre-Forward,"Mar 7, 2004 (21)",-,2004,81.0,52,43,29,22

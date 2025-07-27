@@ -1,0 +1,24 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Netherlands,Eredivisie,FC Volendam,1,Kayne van Oevelen,Goalkeeper,"Aug 7, 2003 (21)",€700k,2003,700.0,64,28,29,58
+Netherlands,Eredivisie,FC Volendam,16,Roy Steur,Goalkeeper,"Feb 1, 2005 (20)",€150k,2005,150.0,55,24,25,50
+Netherlands,Eredivisie,FC Volendam,22,Dion Vlak,Goalkeeper,"Jun 28, 2001 (24)",-,2001,56.0,51,22,23,46
+Netherlands,Eredivisie,FC Volendam,4,Xavier Mbuyamba,Centre-Back,"Dec 31, 2001 (23)",€1.00m,2001,1000.0,66,30,34,54
+Netherlands,Eredivisie,FC Volendam,5,Precious Ugwu,Centre-Back,"Feb 8, 2006 (19)",€325k,2006,325.0,59,27,31,48
+Netherlands,Eredivisie,FC Volendam,3,Mawouna Amevor,Centre-Back,"Dec 16, 1991 (33)",€225k,1991,225.0,59,27,31,48
+Netherlands,Eredivisie,FC Volendam,25,Luca Blondeau,Centre-Back,"Feb 11, 2006 (19)",€75k,2006,75.0,51,23,27,42
+Netherlands,Eredivisie,FC Volendam,32,Yannick Leliendal,Left-Back,"Apr 23, 2002 (23)",€750k,2002,750.0,65,32,36,49
+Netherlands,Eredivisie,FC Volendam,2,Deron Payne,Right-Back,"Sep 25, 2002 (22)",€650k,2002,650.0,64,31,35,49
+Netherlands,Eredivisie,FC Volendam,6,Alex Plat,Defensive Midfield,"Feb 4, 1998 (27)",€500k,1998,500.0,63,33,33,40
+Netherlands,Eredivisie,FC Volendam,28,Silvinho Esajas,Defensive Midfield,"Jul 8, 2002 (23)",€250k,2002,250.0,59,31,31,38
+Netherlands,Eredivisie,FC Volendam,15,Anass Bouziane,Midfielder,"Dec 22, 2006 (18)",€25k,2006,25.0,45,26,29,26
+Netherlands,Eredivisie,FC Volendam,36,Milan de Haan,Central Midfield,"Nov 20, 2003 (21)",€350k,2003,350.0,60,35,38,35
+Netherlands,Eredivisie,FC Volendam,8,Gibson Yah,Central Midfield,"Sep 27, 2003 (21)",€300k,2003,300.0,60,35,38,35
+Netherlands,Eredivisie,FC Volendam,18,Nordin Bukala,Central Midfield,"Sep 18, 2005 (19)",€275k,2005,275.0,58,34,37,34
+Netherlands,Eredivisie,FC Volendam,27,Myron Mau-Asam,Central Midfield,"Apr 1, 2004 (21)",€75k,2004,75.0,52,30,33,30
+Netherlands,Eredivisie,FC Volendam,7,Ozan Kökcü,Left Winger,"Aug 18, 1998 (26)",€350k,1998,350.0,61,46,35,28
+Netherlands,Eredivisie,FC Volendam,24,Key-Shawn Wong-A-Soij,Left Winger,"Oct 1, 2006 (18)",-,2006,60.0,50,38,29,23
+Netherlands,Eredivisie,FC Volendam,10,Brandley Kuwas,Right Winger,"Sep 19, 1992 (32)",€300k,1992,300.0,61,46,35,28
+Netherlands,Eredivisie,FC Volendam,11,Aurelio Oehlers,Right Winger,"Feb 5, 2004 (21)",€300k,2004,300.0,59,45,34,27
+Netherlands,Eredivisie,FC Volendam,9,Henk Veerman,Centre-Forward,"Feb 26, 1991 (34)",€350k,1991,350.0,62,51,34,27
+Netherlands,Eredivisie,FC Volendam,21,Robert Mühren,Centre-Forward,"May 18, 1989 (36)",€250k,1989,250.0,60,49,33,26
+Netherlands,Eredivisie,FC Volendam,19,Mauro Zijlstra,Centre-Forward,"Nov 9, 2004 (20)",€75k,2004,75.0,52,43,29,22

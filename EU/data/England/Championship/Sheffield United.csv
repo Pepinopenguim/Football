@@ -1,0 +1,28 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Sheffield United,1,Michael Cooper,Goalkeeper,"Oct 8, 1999 (25)",€9.00m,1999,9000.0,78,34,36,71
+England,Championship,Sheffield United,13,Ivo Grbic,Goalkeeper,"Jan 18, 1996 (29)",€1.80m,1996,1800.0,70,30,32,64
+England,Championship,Sheffield United,17,Adam Davies,Goalkeeper,"Jul 17, 1992 (33)",€350k,1992,350.0,62,27,29,56
+England,Championship,Sheffield United,15,Anel Ahmedhodzic,Centre-Back,"Mar 26, 1999 (26)",€18.00m,1999,18000.0,82,38,43,67
+England,Championship,Sheffield United,6,Tyler Bindon,Centre-Back,"Jan 27, 2005 (20)",€1.20m,2005,1200.0,66,30,34,54
+England,Championship,Sheffield United,19,Jack Robinson,Centre-Back,"Sep 1, 1993 (31)",€700k,1993,700.0,65,30,34,53
+England,Championship,Sheffield United,14,Harrison Burrows,Left-Back,"Jan 12, 2002 (23)",€12.00m,2002,12000.0,80,39,44,61
+England,Championship,Sheffield United,33,Rhys Norrington-Davies,Left-Back,"Apr 22, 1999 (26)",€2.20m,1999,2200.0,71,35,39,54
+England,Championship,Sheffield United,3,Sam McCallum,Left-Back,"Sep 2, 2000 (24)",€1.40m,2000,1400.0,68,33,37,52
+England,Championship,Sheffield United,38,Femi Seriki,Right-Back,"Apr 28, 2002 (23)",€3.50m,2002,3500.0,73,36,40,55
+England,Championship,Sheffield United,16,Jamie Shackleton,Right-Back,"Oct 8, 1999 (25)",€1.50m,1999,1500.0,69,34,38,52
+England,Championship,Sheffield United,-,Mihail Polendakov,Right-Back,"Jun 5, 2007 (18)",€600k,2007,600.0,62,30,34,47
+England,Championship,Sheffield United,42,Sydie Peck,Central Midfield,"Sep 13, 2004 (20)",€7.50m,2004,7500.0,76,44,49,44
+England,Championship,Sheffield United,22,Tom Davies,Central Midfield,"Jun 30, 1998 (27)",€4.00m,1998,4000.0,74,43,47,43
+England,Championship,Sheffield United,11,Andre Brooks,Central Midfield,"Aug 20, 2003 (21)",€3.00m,2003,3000.0,72,42,46,42
+England,Championship,Sheffield United,4,Oliver Arblaster,Central Midfield,"Jan 8, 2004 (21)",€1.40m,2004,1400.0,67,39,43,39
+England,Championship,Sheffield United,8,Gustavo Hamer,Left Midfield,"Jun 24, 1997 (28)",€16.00m,1997,16000.0,82,48,52,48
+England,Championship,Sheffield United,10,Callum O'Hare,Attacking Midfield,"May 1, 1998 (27)",€3.20m,1998,3200.0,73,49,45,38
+England,Championship,Sheffield United,-,Louie Barry,Left Winger,"Jun 21, 2003 (22)",€2.00m,2003,2000.0,70,53,41,32
+England,Championship,Sheffield United,29,Jefferson Cáceres,Left Winger,"Aug 22, 2002 (22)",€1.00m,2002,1000.0,66,50,38,30
+England,Championship,Sheffield United,-,Christian Nwachukwu,Left Winger,"Dec 27, 2005 (19)",€800k,2005,800.0,64,49,37,29
+England,Championship,Sheffield United,-,Ehije Ukaki,Right Winger,"Oct 2, 2004 (20)",€700k,2004,700.0,64,49,37,29
+England,Championship,Sheffield United,34,Louie Marsh,Second Striker,"Jul 2, 2004 (21)",€150k,2004,150.0,56,44,32,24
+England,Championship,Sheffield United,7,Tom Cannon,Centre-Forward,"Dec 28, 2002 (22)",€10.00m,2002,10000.0,79,65,43,34
+England,Championship,Sheffield United,23,Tyrese Campbell,Centre-Forward,"Dec 28, 1999 (25)",€8.00m,1999,8000.0,78,64,43,34
+England,Championship,Sheffield United,9,Kieffer Moore,Centre-Forward,"Aug 8, 1992 (32)",€1.00m,1992,1000.0,67,55,37,29
+England,Championship,Sheffield United,39,Ryan Oné,Centre-Forward,"Jun 26, 2006 (19)",€500k,2006,500.0,61,50,34,26

@@ -1,0 +1,26 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+England,Championship,Derby County,1,Jacob Widell Zetterström,Goalkeeper,"Jul 11, 1998 (27)",€2.50m,1998,2500.0,72,31,33,66
+England,Championship,Derby County,31,Josh Vickers,Goalkeeper,"Dec 1, 1995 (29)",€200k,1995,200.0,58,25,27,53
+England,Championship,Derby County,-,Richard O'Donnell,Goalkeeper,"Sep 12, 1988 (36)",€50k,1988,50.0,52,22,24,47
+England,Championship,Derby County,6,Sondre Langås,Centre-Back,"Feb 2, 2001 (24)",€3.50m,2001,3500.0,73,34,38,60
+England,Championship,Derby County,25,Matt Clarke,Centre-Back,"Sep 22, 1996 (28)",€2.30m,1996,2300.0,71,33,37,58
+England,Championship,Derby County,35,Curtis Nelson,Centre-Back,"May 21, 1993 (32)",€450k,1993,450.0,63,29,33,52
+England,Championship,Derby County,-,Danny Batth,Centre-Back,"Sep 21, 1990 (34)",€200k,1990,200.0,59,27,31,48
+England,Championship,Derby County,21,Jake Rooney,Centre-Back,"Aug 22, 2003 (21)",€150k,2003,150.0,56,26,29,46
+England,Championship,Derby County,-,Owen Beck,Left-Back,"Aug 9, 2002 (22)",€1.30m,2002,1300.0,68,33,37,52
+England,Championship,Derby County,20,Callum Elder,Left-Back,"Jan 27, 1995 (30)",€400k,1995,400.0,62,30,34,47
+England,Championship,Derby County,3,Craig Forsyth,Left-Back,"Feb 24, 1989 (36)",€75k,1989,75.0,54,26,30,41
+England,Championship,Derby County,24,Ryan Nyambe,Right-Back,"Dec 4, 1997 (27)",€900k,1997,900.0,66,32,36,50
+England,Championship,Derby County,2,Kane Wilson,Right-Back,"Mar 11, 2000 (25)",€600k,2000,600.0,64,31,35,49
+England,Championship,Derby County,17,Kenzo Goudmijn,Central Midfield,"Dec 18, 2001 (23)",€1.50m,2001,1500.0,69,40,44,40
+England,Championship,Derby County,32,Ebou Adams,Central Midfield,"Jan 15, 1996 (29)",€900k,1996,900.0,66,38,42,38
+England,Championship,Derby County,8,Ben Osborn,Central Midfield,"Aug 5, 1994 (30)",€750k,1994,750.0,65,38,42,38
+England,Championship,Derby County,16,Liam Thompson,Central Midfield,"Apr 29, 2002 (23)",€600k,2002,600.0,64,37,41,37
+England,Championship,Derby County,23,Joe Ward,Right Midfield,"Aug 22, 1995 (29)",€250k,1995,250.0,60,35,38,35
+England,Championship,Derby County,-,Andreas Weimann,Attacking Midfield,"Aug 5, 1991 (33)",€600k,1991,600.0,65,44,40,34
+England,Championship,Derby County,27,Corey Blackett-Taylor,Left Winger,"Sep 23, 1997 (27)",€500k,1997,500.0,63,48,37,29
+England,Championship,Derby County,-,Carlton Morris,Centre-Forward,"Dec 16, 1995 (29)",€5.50m,1995,5500.0,76,62,42,33
+England,Championship,Derby County,-,Patrick Agyemang,Centre-Forward,"Nov 7, 2000 (24)",€4.00m,2000,4000.0,74,61,41,32
+England,Championship,Derby County,15,Lars-Jørgen Salvesen,Centre-Forward,"Feb 19, 1996 (29)",€800k,1996,800.0,66,54,36,28
+England,Championship,Derby County,39,Dajaune Brown,Centre-Forward,"Oct 16, 2005 (19)",€400k,2005,400.0,60,49,33,26
+England,Championship,Derby County,19,Kayden Jackson,Centre-Forward,"Feb 22, 1994 (31)",€250k,1994,250.0,60,49,33,26

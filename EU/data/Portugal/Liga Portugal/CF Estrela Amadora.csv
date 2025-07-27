@@ -1,0 +1,36 @@
+country,league,clubname,num,name,pos,birthday,value,birthyear,value_1k,base_stat,atk,mid,dfs
+Portugal,Liga Portugal,CF Estrela Amadora,-,Diogo Pinto,Goalkeeper,"Jun 18, 2004 (21)",€500k,2004,500.0,62,27,29,56
+Portugal,Liga Portugal,CF Estrela Amadora,-,Renan Ribeiro,Goalkeeper,"Mar 23, 1990 (35)",€50k,1990,50.0,51,22,23,46
+Portugal,Liga Portugal,CF Estrela Amadora,-,David Grilo,Goalkeeper,"Aug 13, 1996 (28)",-,1996,78.0,53,23,24,48
+Portugal,Liga Portugal,CF Estrela Amadora,-,Luan Patrick,Centre-Back,"Jan 20, 2002 (23)",€1.00m,2002,1000.0,66,30,34,54
+Portugal,Liga Portugal,CF Estrela Amadora,-,Till Cissokho,Centre-Back,"Feb 8, 2000 (25)",€800k,2000,800.0,65,30,34,53
+Portugal,Liga Portugal,CF Estrela Amadora,-,Bernardo Schappo,Centre-Back,"Mar 22, 1999 (26)",€750k,1999,750.0,65,30,34,53
+Portugal,Liga Portugal,CF Estrela Amadora,4,Ferro,Centre-Back,"Mar 26, 1997 (28)",€700k,1997,700.0,65,30,34,53
+Portugal,Liga Portugal,CF Estrela Amadora,5,Issiar Dramé,Centre-Back,"Feb 16, 1999 (26)",€600k,1999,600.0,64,29,33,52
+Portugal,Liga Portugal,CF Estrela Amadora,-,Atanas Chernev,Centre-Back,"Mar 25, 2002 (23)",€500k,2002,500.0,63,29,33,52
+Portugal,Liga Portugal,CF Estrela Amadora,44,Semeu Commey,Centre-Back,"May 12, 2004 (21)",€300k,2004,300.0,59,27,31,48
+Portugal,Liga Portugal,CF Estrela Amadora,-,Hamed Dramé,Centre-Back,"Jun 13, 2001 (24)",€50k,2001,50.0,50,23,26,41
+Portugal,Liga Portugal,CF Estrela Amadora,-,Ni,Centre-Back,"Mar 1, 2003 (22)",-,2003,32.0,48,22,25,39
+Portugal,Liga Portugal,CF Estrela Amadora,25,Nilton,Left-Back,"May 25, 2001 (24)",€1.50m,2001,1500.0,69,34,38,52
+Portugal,Liga Portugal,CF Estrela Amadora,21,Guilherme Montóia,Left-Back,"Sep 14, 2003 (21)",€400k,2003,400.0,61,30,34,46
+Portugal,Liga Portugal,CF Estrela Amadora,28,Rúben Lima,Left-Back,"Oct 3, 1989 (35)",€100k,1989,100.0,55,27,30,42
+Portugal,Liga Portugal,CF Estrela Amadora,-,Sidny Cabral,Right-Back,"Sep 18, 2002 (22)",€350k,2002,350.0,61,30,34,46
+Portugal,Liga Portugal,CF Estrela Amadora,-,Jefferson Encada,Right-Back,"Apr 17, 1998 (27)",€150k,1998,150.0,57,28,31,43
+Portugal,Liga Portugal,CF Estrela Amadora,31,Euri Carvalho,Right-Back,"Feb 17, 2004 (21)",€100k,2004,100.0,53,26,29,40
+Portugal,Liga Portugal,CF Estrela Amadora,12,Amine Oudrhiri,Defensive Midfield,"Nov 4, 1992 (32)",€300k,1992,300.0,61,32,32,39
+Portugal,Liga Portugal,CF Estrela Amadora,-,Daniel Cabral,Defensive Midfield,"May 14, 2002 (23)",€100k,2002,100.0,54,28,28,35
+Portugal,Liga Portugal,CF Estrela Amadora,-,Lucas Loureiro,Midfielder,"May 5, 2005 (20)",-,2005,83.0,52,30,33,30
+Portugal,Liga Portugal,CF Estrela Amadora,19,Paulo Moreira,Central Midfield,"Feb 17, 2000 (25)",€400k,2000,400.0,62,36,40,36
+Portugal,Liga Portugal,CF Estrela Amadora,-,Assane Ndiaye,Central Midfield,"Oct 10, 1999 (25)",€300k,1999,300.0,60,35,38,35
+Portugal,Liga Portugal,CF Estrela Amadora,8,Robinho,Central Midfield,"Aug 7, 2002 (22)",€150k,2002,150.0,56,32,36,32
+Portugal,Liga Portugal,CF Estrela Amadora,97,Jovane Cabral,Left Winger,"Jun 14, 1998 (27)",€1.00m,1998,1000.0,67,51,39,31
+Portugal,Liga Portugal,CF Estrela Amadora,-,Jorge Meireles,Left Winger,"Apr 4, 2004 (21)",€650k,2004,650.0,63,48,37,29
+Portugal,Liga Portugal,CF Estrela Amadora,-,Gustavo Henrique,Left Winger,"May 24, 1999 (26)",€250k,1999,250.0,59,45,34,27
+Portugal,Liga Portugal,CF Estrela Amadora,7,Fábio Ronaldo,Right Winger,"Apr 28, 2001 (24)",€1.00m,2001,1000.0,66,50,38,30
+Portugal,Liga Portugal,CF Estrela Amadora,-,Abraham Marcus,Right Winger,"Jan 2, 2000 (25)",€600k,2000,600.0,64,49,37,29
+Portugal,Liga Portugal,CF Estrela Amadora,-,Caio Santana,Right Winger,"Mar 22, 2004 (21)",€100k,2004,100.0,53,40,31,24
+Portugal,Liga Portugal,CF Estrela Amadora,98,Kikas,Centre-Forward,"Sep 17, 1998 (26)",€1.00m,1998,1000.0,67,55,37,29
+Portugal,Liga Portugal,CF Estrela Amadora,-,João Resende,Centre-Forward,"Mar 26, 2003 (22)",€350k,2003,350.0,60,49,33,26
+Portugal,Liga Portugal,CF Estrela Amadora,-,Gonzalo Calçada,Centre-Forward,"Jul 25, 2001 (24)",€300k,2001,300.0,60,49,33,26
+Portugal,Liga Portugal,CF Estrela Amadora,10,Alan Godoy,Centre-Forward,"May 4, 2003 (22)",€300k,2003,300.0,60,49,33,26
+Portugal,Liga Portugal,CF Estrela Amadora,9,Rodrigo Pinho,Centre-Forward,"May 30, 1991 (34)",€250k,1991,250.0,60,49,33,26
